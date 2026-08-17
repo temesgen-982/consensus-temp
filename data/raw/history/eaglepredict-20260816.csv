@@ -1,0 +1,61 @@
+site,source_id,league,date,kickoff,home_team,away_team,market,pick,p1,p2,p3,note,scraped_at
+eaglepredict,8547834,Eredivisie,2026-08-16,13:15,ADO Den Haag,,1x2,ADO Den Haag Win,,,,1.83,2026-08-16T10:33:31Z
+eaglepredict,8547834,Eredivisie,2026-08-16,13:15,ADO Den Haag,,over_under,Over  2.5 Goals,,,,1.53,2026-08-16T10:33:31Z
+eaglepredict,8547637,Eredivisie,2026-08-16,15:30,Feyenoord,,1x2,Feyenoord Win,,,,1.18,2026-08-16T10:33:31Z
+eaglepredict,8547637,Eredivisie,2026-08-16,15:30,Feyenoord,,over_under,Over  2.5 Goals,,,,1.23,2026-08-16T10:33:31Z
+eaglepredict,8547626,Eredivisie,2026-08-16,15:30,Twente,,1x2,Twente Win,,,,1.15,2026-08-16T10:33:31Z
+eaglepredict,8547626,Eredivisie,2026-08-16,15:30,Twente,,over_under,Over  2.5 Goals,,,,1.24,2026-08-16T10:33:31Z
+eaglepredict,8547625,Eredivisie,2026-08-16,17:45,Ajax,,1x2,Ajax Win,,,,1.32,2026-08-16T10:33:31Z
+eaglepredict,8547625,Eredivisie,2026-08-16,17:45,Ajax,,over_under,Over  2.5 Goals,,,,1.29,2026-08-16T10:33:31Z
+eaglepredict,8570503,La Liga,2026-08-16,18:00,Racing Santander,,1x2,Villarreal Win,,,,1.98,2026-08-16T10:33:31Z
+eaglepredict,8570503,La Liga,2026-08-16,18:00,Racing Santander,,over_under,Over  2.5 Goals,,,,1.61,2026-08-16T10:33:31Z
+eaglepredict,8570491,La Liga,2026-08-16,20:00,Espanyol,,1x2,Espanyol Win,,,,1.62,2026-08-16T10:33:31Z
+eaglepredict,8570491,La Liga,2026-08-16,20:00,Espanyol,,over_under,Over  2.5 Goals,,,,1.99,2026-08-16T10:33:31Z
+eaglepredict,8574413,Primeira Liga,2026-08-16,20:00,FC Arouca,,1x2,FC Arouca Win,,,,1.97,2026-08-16T10:33:31Z
+eaglepredict,8574413,Primeira Liga,2026-08-16,20:00,FC Arouca,,over_under,Over  2.5 Goals,,,,1.94,2026-08-16T10:33:31Z
+eaglepredict,8574422,Primeira Liga,2026-08-16,22:30,Sporting Braga,,1x2,Sporting Braga Win,,,,1.53,2026-08-16T10:33:31Z
+eaglepredict,8574422,Primeira Liga,2026-08-16,22:30,Sporting Braga,,over_under,Over  2.5 Goals,,,,1.77,2026-08-16T10:33:31Z
+eaglepredict,8574427,Primeira Liga,2026-08-16,22:30,Famalicão,,1x2,Famalicão Win,,,,1.75,2026-08-16T10:33:31Z
+eaglepredict,8574427,Primeira Liga,2026-08-16,22:30,Famalicão,,over_under,Over  2.5 Goals,,,,1.77,2026-08-16T10:33:31Z
+eaglepredict,8574415,Primeira Liga,2026-08-17,22:15,Casa Pia,,1x2,Benfica Win,,,,1.15,2026-08-16T10:33:31Z
+eaglepredict,8574415,Primeira Liga,2026-08-17,22:15,Casa Pia,,over_under,Over  2.5 Goals,,,,1.49,2026-08-16T10:33:31Z
+eaglepredict,8547834,Eredivisie,2026-08-16,13:15,ADO Den Haag,Groningen,1x2,ADO Den Haag Win,,,,1.83,2026-08-16T10:35:42Z
+eaglepredict,8547834,Eredivisie,2026-08-16,13:15,ADO Den Haag,Groningen,over_under,Over  2.5 Goals,,,,1.53,2026-08-16T10:35:42Z
+eaglepredict,8547637,Eredivisie,2026-08-16,15:30,Feyenoord,Go Ahead Eagles,1x2,Feyenoord Win,,,,1.18,2026-08-16T10:35:42Z
+eaglepredict,8547637,Eredivisie,2026-08-16,15:30,Feyenoord,Go Ahead Eagles,over_under,Over  2.5 Goals,,,,1.23,2026-08-16T10:35:42Z
+eaglepredict,8547626,Eredivisie,2026-08-16,15:30,Twente,PEC Zwolle,1x2,Twente Win,,,,1.15,2026-08-16T10:35:42Z
+eaglepredict,8547626,Eredivisie,2026-08-16,15:30,Twente,PEC Zwolle,over_under,Over  2.5 Goals,,,,1.24,2026-08-16T10:35:42Z
+eaglepredict,8547625,Eredivisie,2026-08-16,17:45,Ajax,Heerenveen,1x2,Ajax Win,,,,1.32,2026-08-16T10:35:42Z
+eaglepredict,8547625,Eredivisie,2026-08-16,17:45,Ajax,Heerenveen,over_under,Over  2.5 Goals,,,,1.29,2026-08-16T10:35:42Z
+eaglepredict,8570503,La Liga,2026-08-16,18:00,Racing Santander,Villarreal,1x2,Villarreal Win,,,,1.98,2026-08-16T10:35:42Z
+eaglepredict,8570503,La Liga,2026-08-16,18:00,Racing Santander,Villarreal,over_under,Over  2.5 Goals,,,,1.61,2026-08-16T10:35:42Z
+eaglepredict,8570491,La Liga,2026-08-16,20:00,Espanyol,Levante UD,1x2,Espanyol Win,,,,1.62,2026-08-16T10:35:42Z
+eaglepredict,8570491,La Liga,2026-08-16,20:00,Espanyol,Levante UD,over_under,Over  2.5 Goals,,,,1.99,2026-08-16T10:35:42Z
+eaglepredict,8574413,Primeira Liga,2026-08-16,20:00,FC Arouca,Moreirense FC,1x2,FC Arouca Win,,,,1.97,2026-08-16T10:35:42Z
+eaglepredict,8574413,Primeira Liga,2026-08-16,20:00,FC Arouca,Moreirense FC,over_under,Over  2.5 Goals,,,,1.94,2026-08-16T10:35:42Z
+eaglepredict,8574422,Primeira Liga,2026-08-16,22:30,Sporting Braga,Gil Vicente,1x2,Sporting Braga Win,,,,1.53,2026-08-16T10:35:42Z
+eaglepredict,8574422,Primeira Liga,2026-08-16,22:30,Sporting Braga,Gil Vicente,over_under,Over  2.5 Goals,,,,1.77,2026-08-16T10:35:42Z
+eaglepredict,8574427,Primeira Liga,2026-08-16,22:30,Famalicão,CS Marítimo,1x2,Famalicão Win,,,,1.75,2026-08-16T10:35:42Z
+eaglepredict,8574427,Primeira Liga,2026-08-16,22:30,Famalicão,CS Marítimo,over_under,Over  2.5 Goals,,,,1.77,2026-08-16T10:35:42Z
+eaglepredict,8574415,Primeira Liga,2026-08-17,22:15,Casa Pia,Benfica,1x2,Benfica Win,,,,1.15,2026-08-16T10:35:42Z
+eaglepredict,8574415,Primeira Liga,2026-08-17,22:15,Casa Pia,Benfica,over_under,Over  2.5 Goals,,,,1.49,2026-08-16T10:35:42Z
+eaglepredict,8547834,Eredivisie,2026-08-16,13:15,ADO Den Haag,Groningen,1x2,ADO Den Haag Win,,,,1.83,2026-08-16T10:39:03Z
+eaglepredict,8547834,Eredivisie,2026-08-16,13:15,ADO Den Haag,Groningen,over_under,Over  2.5 Goals,,,,1.53,2026-08-16T10:39:03Z
+eaglepredict,8547637,Eredivisie,2026-08-16,15:30,Feyenoord,Go Ahead Eagles,1x2,Feyenoord Win,,,,1.18,2026-08-16T10:39:03Z
+eaglepredict,8547637,Eredivisie,2026-08-16,15:30,Feyenoord,Go Ahead Eagles,over_under,Over  2.5 Goals,,,,1.23,2026-08-16T10:39:03Z
+eaglepredict,8547626,Eredivisie,2026-08-16,15:30,Twente,PEC Zwolle,1x2,Twente Win,,,,1.15,2026-08-16T10:39:03Z
+eaglepredict,8547626,Eredivisie,2026-08-16,15:30,Twente,PEC Zwolle,over_under,Over  2.5 Goals,,,,1.24,2026-08-16T10:39:03Z
+eaglepredict,8547625,Eredivisie,2026-08-16,17:45,Ajax,Heerenveen,1x2,Ajax Win,,,,1.32,2026-08-16T10:39:03Z
+eaglepredict,8547625,Eredivisie,2026-08-16,17:45,Ajax,Heerenveen,over_under,Over  2.5 Goals,,,,1.29,2026-08-16T10:39:03Z
+eaglepredict,8570503,La Liga,2026-08-16,18:00,Racing Santander,Villarreal,1x2,Villarreal Win,,,,1.98,2026-08-16T10:39:03Z
+eaglepredict,8570503,La Liga,2026-08-16,18:00,Racing Santander,Villarreal,over_under,Over  2.5 Goals,,,,1.61,2026-08-16T10:39:03Z
+eaglepredict,8570491,La Liga,2026-08-16,20:00,Espanyol,Levante UD,1x2,Espanyol Win,,,,1.62,2026-08-16T10:39:03Z
+eaglepredict,8570491,La Liga,2026-08-16,20:00,Espanyol,Levante UD,over_under,Over  2.5 Goals,,,,1.99,2026-08-16T10:39:03Z
+eaglepredict,8574413,Primeira Liga,2026-08-16,20:00,FC Arouca,Moreirense FC,1x2,FC Arouca Win,,,,1.97,2026-08-16T10:39:03Z
+eaglepredict,8574413,Primeira Liga,2026-08-16,20:00,FC Arouca,Moreirense FC,over_under,Over  2.5 Goals,,,,1.94,2026-08-16T10:39:03Z
+eaglepredict,8574422,Primeira Liga,2026-08-16,22:30,Sporting Braga,Gil Vicente,1x2,Sporting Braga Win,,,,1.53,2026-08-16T10:39:03Z
+eaglepredict,8574422,Primeira Liga,2026-08-16,22:30,Sporting Braga,Gil Vicente,over_under,Over  2.5 Goals,,,,1.77,2026-08-16T10:39:03Z
+eaglepredict,8574427,Primeira Liga,2026-08-16,22:30,Famalicão,CS Marítimo,1x2,Famalicão Win,,,,1.75,2026-08-16T10:39:03Z
+eaglepredict,8574427,Primeira Liga,2026-08-16,22:30,Famalicão,CS Marítimo,over_under,Over  2.5 Goals,,,,1.77,2026-08-16T10:39:03Z
+eaglepredict,8574415,Primeira Liga,2026-08-17,22:15,Casa Pia,Benfica,1x2,Benfica Win,,,,1.15,2026-08-16T10:39:03Z
+eaglepredict,8574415,Primeira Liga,2026-08-17,22:15,Casa Pia,Benfica,over_under,Over  2.5 Goals,,,,1.49,2026-08-16T10:39:03Z

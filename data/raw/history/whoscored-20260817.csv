@@ -1,0 +1,5 @@
+site,source_id,league,date,kickoff,home_team,away_team,market,pick,p1,p2,p3,note,scraped_at
+whoscored,1997563,Liga Portugal,2026-08-17,20:15,Casa Pia AC,Benfica,1x2,2,,,,1.19,2026-08-17T05:42:56Z
+whoscored,1997563,Liga Portugal,2026-08-17,20:15,Casa Pia AC,Benfica,over_under,Over,,,,1.57,2026-08-17T05:42:56Z
+whoscored,1997563,Liga Portugal,2026-08-17,20:15,Casa Pia AC,Benfica,btts,Yes,,,,,2026-08-17T05:42:56Z
+whoscored,1997563,Liga Portugal,2026-08-17,20:15,Casa Pia AC,Benfica,correct_score,1 - 2,,,,9,2026-08-17T05:42:56Z

@@ -1,0 +1,1 @@
+"""Consensus - centralized football prediction comparison (CLI + CSV)."""

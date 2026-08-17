@@ -1,0 +1,41 @@
+site,source_id,league,date,kickoff,home_team,away_team,market,pick,p1,p2,p3,note,scraped_at
+whoscored,2026-08-16|feyenoord|go-ahead-eagles|1x2,Eredivisie,2026-08-16,14:30,Feyenoord,Go Ahead Eagles,1x2,1,,,,1.18,2026-08-16T14:00:00Z
+whoscored,2026-08-16|feyenoord|go-ahead-eagles|over_under,Eredivisie,2026-08-16,14:30,Feyenoord,Go Ahead Eagles,over_under,Over,,,,1.22,2026-08-16T14:00:00Z
+whoscored,2026-08-16|feyenoord|go-ahead-eagles|btts,Eredivisie,2026-08-16,14:30,Feyenoord,Go Ahead Eagles,btts,Yes,,,,,2026-08-16T14:00:00Z
+whoscored,2026-08-16|feyenoord|go-ahead-eagles|correct_score,Eredivisie,2026-08-16,14:30,Feyenoord,Go Ahead Eagles,correct_score,2 - 1,,,,6.6,2026-08-16T14:00:00Z
+whoscored,2026-08-16|twente|pec-zwolle|1x2,Eredivisie,2026-08-16,14:30,Twente,PEC Zwolle,1x2,1,,,,1.18,2026-08-16T14:00:00Z
+whoscored,2026-08-16|twente|pec-zwolle|over_under,Eredivisie,2026-08-16,14:30,Twente,PEC Zwolle,over_under,Under,,,,2.36,2026-08-16T14:00:00Z
+whoscored,2026-08-16|twente|pec-zwolle|btts,Eredivisie,2026-08-16,14:30,Twente,PEC Zwolle,btts,No,,,,,2026-08-16T14:00:00Z
+whoscored,2026-08-16|twente|pec-zwolle|correct_score,Eredivisie,2026-08-16,14:30,Twente,PEC Zwolle,correct_score,2 - 0,,,,5.4,2026-08-16T14:00:00Z
+whoscored,2026-08-16|ajax|heerenveen|1x2,Eredivisie,2026-08-16,16:45,Ajax,SC Heerenveen,1x2,1,,,,1.39,2026-08-16T14:00:00Z
+whoscored,2026-08-16|ajax|heerenveen|over_under,Eredivisie,2026-08-16,16:45,Ajax,SC Heerenveen,over_under,Under,,,,2.35,2026-08-16T14:00:00Z
+whoscored,2026-08-16|ajax|heerenveen|btts,Eredivisie,2026-08-16,16:45,Ajax,SC Heerenveen,btts,No,,,,,2026-08-16T14:00:00Z
+whoscored,2026-08-16|ajax|heerenveen|correct_score,Eredivisie,2026-08-16,16:45,Ajax,SC Heerenveen,correct_score,2 - 0,,,,6.5,2026-08-16T14:00:00Z
+whoscored,2026-08-16|racing-santander|villarreal|1x2,LaLiga,2026-08-16,17:00,Racing Santander,Villarreal,1x2,1,,,,3.4,2026-08-16T14:00:00Z
+whoscored,2026-08-16|racing-santander|villarreal|over_under,LaLiga,2026-08-16,17:00,Racing Santander,Villarreal,over_under,Under,,,,2.08,2026-08-16T14:00:00Z
+whoscored,2026-08-16|racing-santander|villarreal|btts,LaLiga,2026-08-16,17:00,Racing Santander,Villarreal,btts,No,,,,,2026-08-16T14:00:00Z
+whoscored,2026-08-16|racing-santander|villarreal|correct_score,LaLiga,2026-08-16,17:00,Racing Santander,Villarreal,correct_score,2 - 0,,,,15,2026-08-16T14:00:00Z
+whoscored,2026-08-16|espanyol|levante|1x2,LaLiga,2026-08-16,19:00,Espanyol,Levante,1x2,X,,,,3.12,2026-08-16T14:00:00Z
+whoscored,2026-08-16|espanyol|levante|over_under,LaLiga,2026-08-16,19:00,Espanyol,Levante,over_under,Under,,,,1.64,2026-08-16T14:00:00Z
+whoscored,2026-08-16|espanyol|levante|btts,LaLiga,2026-08-16,19:00,Espanyol,Levante,btts,Yes,,,,,2026-08-16T14:00:00Z
+whoscored,2026-08-16|espanyol|levante|correct_score,LaLiga,2026-08-16,19:00,Espanyol,Levante,correct_score,1 - 1,,,,4.75,2026-08-16T14:00:00Z
+whoscored,2026-08-17|deportivo-la-coru-a|elche|1x2,LaLiga,2026-08-17,21:00,Deportivo de A Coruna,Elche,1x2,2,,,,3.25,2026-08-16T14:00:00Z
+whoscored,2026-08-17|deportivo-la-coru-a|elche|over_under,LaLiga,2026-08-17,21:00,Deportivo de A Coruna,Elche,over_under,Under,,,,1.6,2026-08-16T14:00:00Z
+whoscored,2026-08-17|deportivo-la-coru-a|elche|btts,LaLiga,2026-08-17,21:00,Deportivo de A Coruna,Elche,btts,No,,,,,2026-08-16T14:00:00Z
+whoscored,2026-08-17|deportivo-la-coru-a|elche|correct_score,LaLiga,2026-08-17,21:00,Deportivo de A Coruna,Elche,correct_score,0 - 1,,,,8,2026-08-16T14:00:00Z
+whoscored,2026-08-16|nacional-madeira|gd-estoril|1x2,Liga Portugal,2026-08-16,16:30,Nacional,Estoril,1x2,X,,,,3.14,2026-08-16T14:00:00Z
+whoscored,2026-08-16|nacional-madeira|gd-estoril|over_under,Liga Portugal,2026-08-16,16:30,Nacional,Estoril,over_under,Over,,,,1.87,2026-08-16T14:00:00Z
+whoscored,2026-08-16|nacional-madeira|gd-estoril|btts,Liga Portugal,2026-08-16,16:30,Nacional,Estoril,btts,Yes,,,,,2026-08-16T14:00:00Z
+whoscored,2026-08-16|nacional-madeira|gd-estoril|correct_score,Liga Portugal,2026-08-16,16:30,Nacional,Estoril,correct_score,2 - 2,,,,12,2026-08-16T14:00:00Z
+whoscored,2026-08-16|fc-arouca|moreirense-fc|1x2,Liga Portugal,2026-08-16,19:00,Arouca,Moreirense,1x2,1,,,,1.9,2026-08-16T14:00:00Z
+whoscored,2026-08-16|fc-arouca|moreirense-fc|over_under,Liga Portugal,2026-08-16,19:00,Arouca,Moreirense,over_under,Over,,,,2.08,2026-08-16T14:00:00Z
+whoscored,2026-08-16|fc-arouca|moreirense-fc|btts,Liga Portugal,2026-08-16,19:00,Arouca,Moreirense,btts,Yes,,,,,2026-08-16T14:00:00Z
+whoscored,2026-08-16|fc-arouca|moreirense-fc|correct_score,Liga Portugal,2026-08-16,19:00,Arouca,Moreirense,correct_score,2 - 1,,,,8,2026-08-16T14:00:00Z
+whoscored,2026-08-16|fc-famalic-o|mar-timo|1x2,Liga Portugal,2026-08-16,21:30,Famalicao,Maritimo,1x2,1,,,,1.69,2026-08-16T14:00:00Z
+whoscored,2026-08-16|fc-famalic-o|mar-timo|over_under,Liga Portugal,2026-08-16,21:30,Famalicao,Maritimo,over_under,Under,,,,1.65,2026-08-16T14:00:00Z
+whoscored,2026-08-16|fc-famalic-o|mar-timo|btts,Liga Portugal,2026-08-16,21:30,Famalicao,Maritimo,btts,No,,,,,2026-08-16T14:00:00Z
+whoscored,2026-08-16|fc-famalic-o|mar-timo|correct_score,Liga Portugal,2026-08-16,21:30,Famalicao,Maritimo,correct_score,2 - 0,,,,7,2026-08-16T14:00:00Z
+whoscored,2026-08-17|casa-pia-ac|sl-benfica|1x2,Liga Portugal,2026-08-17,21:15,Casa Pia AC,Benfica,1x2,2,,,,1.2,2026-08-16T14:00:00Z
+whoscored,2026-08-17|casa-pia-ac|sl-benfica|over_under,Liga Portugal,2026-08-17,21:15,Casa Pia AC,Benfica,over_under,Over,,,,1.55,2026-08-16T14:00:00Z
+whoscored,2026-08-17|casa-pia-ac|sl-benfica|btts,Liga Portugal,2026-08-17,21:15,Casa Pia AC,Benfica,btts,Yes,,,,,2026-08-16T14:00:00Z
+whoscored,2026-08-17|casa-pia-ac|sl-benfica|correct_score,Liga Portugal,2026-08-17,21:15,Casa Pia AC,Benfica,correct_score,1 - 2,,,,9,2026-08-16T14:00:00Z
