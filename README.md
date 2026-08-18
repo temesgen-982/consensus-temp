@@ -29,6 +29,18 @@ consensus run --skip-scrape --with-results
 
 Use `--skip-scrape` when raw data is already fresh and you just want to re-normalize and rebuild the report.
 
+## GitHub Pages
+
+The live report is the static file `index.html` at the repo root (a copy of `data/consensus/consensus.html`). To regenerate and deploy:
+
+```bash
+./scripts/deploy.sh     # re-runs report-html + copies to index.html
+git add -A && git commit -m "Daily sync"
+git push                # GitHub Pages serves / (root) on main
+```
+
+Requires GitHub Pages set to **Deploy from a branch** → `main` → `/ (root)`.
+
 ## Commands
 
 | Command | What it does |

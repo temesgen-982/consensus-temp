@@ -28,6 +28,7 @@ Daily pipeline (order matters):
 - **Predictions for past days live in `data/raw/history/`.** Live CSVs roll forward to the current window; `normalize` merges history so past picks stay gradeable. Never delete history files. `--no-history` on scrape skips the snapshot (only for debugging).
 - **History files can accumulate duplicate snapshots** (same date appended twice, sometimes one copy with empty `away_team`). `normalize` dedups by `(source_id, market)` preferring the most complete row.
 - **All data is committed to git.** After a sync, commit: `git add -A && git commit`. This is the safety net if raw data is lost.
+- **GitHub Pages serves `index.html` at the repo root** (a copy of `data/consensus/consensus.html`). Regenerate with `./scripts/deploy.sh`, then commit + push. Updates are commit/push based — no CI workflow needed (Pages: Deploy from a branch → main → /root).
 - **`lost.html` was a one-off recovery file** (reconstructed lost WhoScored rows); do not recreate/keep it — the canonical path is the history snapshots.
 
 ## Team-name aliases
