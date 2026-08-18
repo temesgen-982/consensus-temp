@@ -143,10 +143,13 @@ def main(argv: list[str] | None = None) -> int:
 
     p_run = sub.add_parser("run", help="daily pipeline: scrape, normalize, report-html")
     p_run.add_argument("--site", choices=[*SITES, "all"], default="all")
+    p_run.add_argument("--print", action="store_true", help="print scraped rows")
+    p_run.add_argument("--limit", type=int, default=20)
     p_run.add_argument("--no-history", action="store_true", help="disable daily history snapshot")
     p_run.add_argument("--all-leagues", action="store_true", help="scrape all leagues (default: top only)")
     p_run.add_argument("--skip-scrape", action="store_true", help="reuse existing raw CSVs")
     p_run.add_argument("--with-results", action="store_true", help="also scrape results and print grade")
+    p_run.add_argument("--verbose", action="store_true", help="show per-fixture detail in grade")
     p_run.add_argument("--out", help="HTML output path (default data/consensus/consensus.html)")
     p_run.set_defaults(func=cmd_run)
 
