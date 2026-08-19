@@ -1,7 +1,4 @@
 fixture_id,date,home_id,away_id,sites
-2026-08-22|nottingham-forest|vs|leeds-united,2026-08-22,nottingham-forest,leeds-united,forebet
-2026-08-22|ipswich-town|vs|sunderland,2026-08-22,ipswich-town,sunderland,forebet
-2026-08-22|everton|vs|crystal-palace,2026-08-22,everton,crystal-palace,forebet
 2026-08-23|manchester-city|vs|bournemouth,2026-08-23,manchester-city,bournemouth,forebet
 2026-08-23|brighton|vs|aston-villa,2026-08-23,brighton,aston-villa,forebet
 2026-08-23|newcastle-united|vs|liverpool,2026-08-23,newcastle-united,liverpool,forebet
@@ -73,9 +70,9 @@ fixture_id,date,home_id,away_id,sites
 2026-08-22|toulouse|vs|lyon,2026-08-22,toulouse,lyon,eaglepredict
 2026-08-22|nice|vs|lorient,2026-08-22,nice,lorient,eaglepredict
 2026-08-22|troyes|vs|paris,2026-08-22,troyes,paris,eaglepredict
-2026-08-22|le-mans|vs|brest,2026-08-22,le-mans,brest,eaglepredict
 2026-08-22|internazionale|vs|monza,2026-08-22,internazionale,monza,eaglepredict
 2026-08-22|udinese|vs|como,2026-08-22,udinese,como,eaglepredict
+2026-08-22|le-mans|vs|brest,2026-08-22,le-mans,brest,eaglepredict
 2026-08-20|forge-fc|vs|supra-du-qu-bec,2026-08-20,forge-fc,supra-du-qu-bec,eaglepredict
 2026-08-21|fc-avan-academy|vs|sardarapat,2026-08-21,fc-avan-academy,sardarapat,eaglepredict
 2026-08-21|ried|vs|grazer-ak,2026-08-21,ried,grazer-ak,eaglepredict
@@ -95,8 +92,6 @@ fixture_id,date,home_id,away_id,sites
 2026-08-22|cska-moskva|vs|lokomotiv-moskva,2026-08-22,cska-moskva,lokomotiv-moskva,eaglepredict
 2026-08-22|fluminense|vs|remo,2026-08-22,fluminense,remo,eaglepredict
 2026-08-22|cavalry-fc|vs|atl-tico-ottawa,2026-08-22,cavalry-fc,atl-tico-ottawa,eaglepredict
-2026-08-22|hull|vs|manchester-united,2026-08-22,hull,manchester-united,whoscored
 2026-08-21|real-betis|vs|real-sociedad,2026-08-21,real-betis,real-sociedad,whoscored
-2026-08-22|hull|vs|manchester-utd,2026-08-22,hull,manchester-utd,flashscore
 2026-08-22|ipswich|vs|sunderland,2026-08-22,ipswich,sunderland,flashscore
 2026-08-19|atl-madrid|vs|malaga,2026-08-19,atl-madrid,malaga,flashscore

@@ -16,6 +16,7 @@ eaglepredict,BSK Banja Luka,bsk-banja-luka
 eaglepredict,Barry Town United,barry-town-united
 eaglepredict,Benfica,sl-benfica
 eaglepredict,Betis,betis
+eaglepredict,Brentford,brentford
 eaglepredict,Brest,brest
 eaglepredict,Briton Ferry,briton-ferry
 eaglepredict,CD Universidad Católica,cd-universidad-cat-lica
@@ -31,10 +32,12 @@ eaglepredict,Colwyn Bay,colwyn-bay
 eaglepredict,Como,como
 eaglepredict,Connah's Quay,connah-s-quay
 eaglepredict,Coventry City,coventry
+eaglepredict,Crystal Palace,crystal-palace
 eaglepredict,Deportivo Alavés,deportivo-alav-s
 eaglepredict,Deportivo La Coruña,deportivo-la-coru-a
 eaglepredict,Elche CF,elche
 eaglepredict,Espanyol,espanyol
+eaglepredict,Everton,everton
 eaglepredict,FC Arouca,fc-arouca
 eaglepredict,FC Avan Academy,fc-avan-academy
 eaglepredict,Famalicão,fc-famalic-o
@@ -52,9 +55,11 @@ eaglepredict,Hartberg,hartberg
 eaglepredict,Haverfordwest County,haverfordwest-county
 eaglepredict,Heerenveen,heerenveen
 eaglepredict,Holywell,holywell
-eaglepredict,Hull City,hull-city
+eaglepredict,Hull City,hull
 eaglepredict,Internazionale,internazionale
+eaglepredict,Ipswich Town,ipswich-town
 eaglepredict,Le Mans,le-mans
+eaglepredict,Leeds United,leeds-united
 eaglepredict,Lens,lens
 eaglepredict,Leones del Norte,leones-del-norte
 eaglepredict,Levante UD,levante
@@ -68,6 +73,7 @@ eaglepredict,Monza,monza
 eaglepredict,Moreirense FC,moreirense-fc
 eaglepredict,Málaga CF,m-laga-cf
 eaglepredict,Nice,nice
+eaglepredict,Nottingham Forest,nottingham-forest
 eaglepredict,Olympique Marseille,olympique-marseille
 eaglepredict,PEC Zwolle,pec-zwolle
 eaglepredict,Paris,paris
@@ -83,17 +89,21 @@ eaglepredict,Rio Ave FC,rio-ave-fc
 eaglepredict,Sarajevo,sarajevo
 eaglepredict,Sardarapat,sardarapat
 eaglepredict,Sevilla,sevilla
+eaglepredict,Sparta Rotterdam,sparta-rotterdam
 eaglepredict,Sporting Braga,sporting-braga
 eaglepredict,Sporting CP,sporting-cp
 eaglepredict,Strasbourg,strasbourg
 eaglepredict,Sturm Graz,sturm-graz
+eaglepredict,Sunderland,sunderland
 eaglepredict,Supra du Québec,supra-du-qu-bec
 eaglepredict,The New Saints,the-new-saints
+eaglepredict,Tottenham,tottenham
 eaglepredict,Toulouse,toulouse
 eaglepredict,Trefelin,trefelin
 eaglepredict,Troyes,troyes
 eaglepredict,Twente,twente
 eaglepredict,Udinese,udinese
+eaglepredict,Utrecht,utrecht
 eaglepredict,Villarreal,villarreal
 flashscore,Arsenal,arsenal
 flashscore,Atl. Madrid,atl-madrid
@@ -104,7 +114,7 @@ flashscore,Hull,hull
 flashscore,Inter,inter
 flashscore,Ipswich,ipswich
 flashscore,Malaga,malaga
-flashscore,Manchester Utd,manchester-utd
+flashscore,Manchester Utd,manchester-united
 flashscore,Marseille,marseille
 flashscore,Monza,monza
 flashscore,Real Sociedad,real-sociedad
@@ -164,7 +174,7 @@ forebet,Groningen,groningen
 forebet,Hamburger SV,hamburger-sv
 forebet,Heerenveen,heerenveen
 forebet,Hoffenheim,hoffenheim
-forebet,Hull City,hull-city
+forebet,Hull City,hull
 forebet,Inter,inter
 forebet,Ipswich Town,ipswich-town
 forebet,Juventus,juventus

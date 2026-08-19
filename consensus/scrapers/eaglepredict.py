@@ -85,17 +85,19 @@ def scrape(leagues_only: bool = True) -> list[dict]:
     over_under = parse_market(fetch(base + EAGLEPREDICT["over_under"]))
     btts = parse_market(fetch(base + EAGLEPREDICT["both_to_score"]))
 
+    st = {r["source_id"]: r for r in straight}
     ou = {r["source_id"]: r for r in over_under}
     bt = {r["source_id"]: r for r in btts}
 
     now = utcnow()
     rows: list[dict] = []
-    for r in straight:
+    for source_id in {**st, **ou, **bt}:
+        r = st.get(source_id) or ou.get(source_id) or bt.get(source_id)
         if leagues_only and not is_top_league("eaglepredict", r["league"]):
             continue
         common = {
             "site": "eaglepredict",
-            "source_id": r["source_id"],
+            "source_id": source_id,
             "league": r["league"],
             "date": r["date"],
             "kickoff": r["kickoff"],
@@ -103,14 +105,16 @@ def scrape(leagues_only: bool = True) -> list[dict]:
             "away_team": r["away_team"],
             "scraped_at": now,
         }
-        rows.append({
-            **common,
-            "market": "1x2",
-            "pick": r["pick"],
-            "p1": "", "p2": "", "p3": "",
-            "note": r["odds"],
-        })
-        ou_r = ou.get(r["source_id"])
+        sr = st.get(source_id)
+        if sr and sr["pick"]:
+            rows.append({
+                **common,
+                "market": "1x2",
+                "pick": sr["pick"],
+                "p1": "", "p2": "", "p3": "",
+                "note": sr["odds"],
+            })
+        ou_r = ou.get(source_id)
         if ou_r and ou_r["pick"]:
             rows.append({
                 **common,
@@ -119,7 +123,7 @@ def scrape(leagues_only: bool = True) -> list[dict]:
                 "p1": "", "p2": "", "p3": "",
                 "note": ou_r["odds"],
             })
-        bt_r = bt.get(r["source_id"])
+        bt_r = bt.get(source_id)
         if bt_r and bt_r["pick"] in ("BTTS - Yes", "BTTS - No"):
             rows.append({
                 **common,
