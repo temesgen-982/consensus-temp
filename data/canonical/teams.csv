@@ -1,16 +1,24 @@
 site,team_name,canonical_id
 eaglepredict,ADO Den Haag,ado-den-haag
+eaglepredict,AZ,az
+eaglepredict,Academico Viseu,academico-viseu
 eaglepredict,Ajax,ajax
+eaglepredict,Alverca,alverca
+eaglepredict,Athletic Bilbao,athletic-bilbao
 eaglepredict,Atlético Madrid,atl-tico-madrid
 eaglepredict,Benfica,sl-benfica
+eaglepredict,Betis,betis
 eaglepredict,CS Marítimo,mar-timo
 eaglepredict,Casa Pia,casa-pia-ac
+eaglepredict,Deportivo Alavés,deportivo-alav-s
 eaglepredict,Deportivo La Coruña,deportivo-la-coru-a
 eaglepredict,Elche CF,elche
 eaglepredict,Espanyol,espanyol
 eaglepredict,FC Arouca,fc-arouca
 eaglepredict,Famalicão,fc-famalic-o
 eaglepredict,Feyenoord,feyenoord
+eaglepredict,Fortuna Sittard,fortuna-sittard
+eaglepredict,GD Estoril Praia,gd-estoril-praia
 eaglepredict,Gil Vicente,gil-vicente
 eaglepredict,Go Ahead Eagles,go-ahead-eagles
 eaglepredict,Groningen,groningen
@@ -20,9 +28,31 @@ eaglepredict,Moreirense FC,moreirense-fc
 eaglepredict,Málaga CF,m-laga-cf
 eaglepredict,PEC Zwolle,pec-zwolle
 eaglepredict,Racing Santander,racing-santander
+eaglepredict,Rayo Vallecano,rayo-vallecano
+eaglepredict,Real Madrid,real-madrid
+eaglepredict,Real Sociedad,real-sociedad
+eaglepredict,Rio Ave FC,rio-ave-fc
+eaglepredict,Sevilla,sevilla
 eaglepredict,Sporting Braga,sporting-braga
+eaglepredict,Sporting CP,sporting-cp
 eaglepredict,Twente,twente
 eaglepredict,Villarreal,villarreal
+flashscore,Arsenal,arsenal
+flashscore,Atl. Madrid,atl-madrid
+flashscore,Betis,betis
+flashscore,Brentford,brentford
+flashscore,Coventry,coventry
+flashscore,Hull,hull
+flashscore,Inter,inter
+flashscore,Ipswich,ipswich
+flashscore,Malaga,malaga
+flashscore,Manchester Utd,manchester-utd
+flashscore,Marseille,marseille
+flashscore,Monza,monza
+flashscore,Real Sociedad,real-sociedad
+flashscore,Strasbourg,strasbourg
+flashscore,Sunderland,sunderland
+flashscore,Tottenham,tottenham
 forebet,ADO Den Haag,ado-den-haag
 forebet,AZ Alkmaar,az-alkmaar
 forebet,Académico Viseu,acad-mico-viseu
@@ -32,8 +62,13 @@ forebet,Aston Villa,aston-villa
 forebet,Atalanta,atalanta
 forebet,Athletic Bilbao,athletic-bilbao
 forebet,Atlético Madrid,atl-tico-madrid
+forebet,Augsburg,augsburg
 forebet,Barcelona,barcelona
+forebet,Bayer Leverkusen,bayer-leverkusen
+forebet,Bayern Munich,bayern-munich
 forebet,Bologna,bologna
+forebet,Borussia Dortmund,borussia-dortmund
+forebet,Borussia M'gladbach,borussia-m-gladbach
 forebet,Bournemouth,bournemouth
 forebet,Brentford,brentford
 forebet,Brighton,brighton
@@ -43,10 +78,11 @@ forebet,Cambuur,cambuur
 forebet,Casa Pia AC,casa-pia-ac
 forebet,Celta Vigo,celta-vigo
 forebet,Chelsea,chelsea
-forebet,Coventry City,coventry-city
+forebet,Coventry City,coventry
 forebet,Crystal Palace,crystal-palace
 forebet,Deportivo Alavés,deportivo-alav-s
 forebet,Deportivo La Coruña,deportivo-la-coru-a
+forebet,Eintracht Frankfurt,eintracht-frankfurt
 forebet,Elche,elche
 forebet,Espanyol,espanyol
 forebet,Estrela Amadora,estrela-amadora
@@ -58,6 +94,7 @@ forebet,FC Famalicão,fc-famalic-o
 forebet,Feyenoord,feyenoord
 forebet,Fiorentina,fiorentina
 forebet,Fortuna Sittard,fortuna-sittard
+forebet,Freiburg,freiburg
 forebet,Frosinone,frosinone
 forebet,Fulham,fulham
 forebet,GD Estoril,gd-estoril
@@ -66,16 +103,20 @@ forebet,Getafe,getafe
 forebet,Gil Vicente,gil-vicente
 forebet,Go Ahead Eagles,go-ahead-eagles
 forebet,Groningen,groningen
+forebet,Hamburger SV,hamburger-sv
 forebet,Heerenveen,heerenveen
+forebet,Hoffenheim,hoffenheim
 forebet,Hull City,hull-city
 forebet,Inter,inter
 forebet,Ipswich Town,ipswich-town
 forebet,Juventus,juventus
+forebet,Köln,k-ln
 forebet,Lazio,lazio
 forebet,Lecce,lecce
 forebet,Leeds United,leeds-united
 forebet,Levante,levante
 forebet,Liverpool,liverpool
+forebet,Mainz,mainz
 forebet,Manchester City,manchester-city
 forebet,Manchester United,manchester-united
 forebet,Marítimo,mar-timo
@@ -94,6 +135,7 @@ forebet,PSV Eindhoven,psv-eindhoven
 forebet,Paderborn,paderborn
 forebet,Parma,parma
 forebet,Porto,porto
+forebet,RB Leipzig,rb-leipzig
 forebet,Racing Santander,racing-santander
 forebet,Rayo Vallecano,rayo-vallecano
 forebet,Real Betis,real-betis
@@ -103,32 +145,41 @@ forebet,Rio Ave,rio-ave
 forebet,Roma,roma
 forebet,SC Telstar,sc-telstar
 forebet,SL Benfica,sl-benfica
+forebet,SV Elversberg,sv-elversberg
 forebet,Santa Clara,santa-clara
 forebet,Sassuolo,sassuolo
+forebet,Schalke 04,schalke-04
 forebet,Sevilla,sevilla
 forebet,Sparta Rotterdam,sparta-rotterdam
 forebet,Sporting Braga,sporting-braga
 forebet,Sporting CP,sporting-cp
+forebet,Stuttgart,stuttgart
 forebet,Sunderland,sunderland
 forebet,Torino,torino
 forebet,Tottenham,tottenham
 forebet,Twente,twente
 forebet,Udinese,udinese
+forebet,Union Berlin,union-berlin
 forebet,Utrecht,utrecht
 forebet,Valencia,valencia
 forebet,Venezia,venezia
 forebet,Villarreal,villarreal
 forebet,Vitória,vit-ria
+forebet,Werder Bremen,werder-bremen
 forebet,Willem II Tilburg,willem-ii-tilburg
 forebet,Wolfsburg,wolfsburg
+whoscored,AZ Alkmaar,az-alkmaar
 whoscored,Academico Viseu,acad-mico-viseu
 whoscored,Ajax,ajax
 whoscored,Alverca,fc-alverca
 whoscored,Arouca,fc-arouca
+whoscored,Arsenal,arsenal
 whoscored,Atletico Madrid,atl-tico-madrid
 whoscored,Benfica,sl-benfica
 whoscored,Braga,sporting-braga
+whoscored,Brentford,brentford
 whoscored,Casa Pia AC,casa-pia-ac
+whoscored,Coventry,coventry
 whoscored,Deportivo Alaves,deportivo-alav-s
 whoscored,Deportivo de A Coruna,deportivo-la-coru-a
 whoscored,Elche,elche
@@ -140,17 +191,29 @@ whoscored,FC Porto,porto
 whoscored,FC Utrecht,utrecht
 whoscored,Famalicao,fc-famalic-o
 whoscored,Feyenoord,feyenoord
+whoscored,Fortuna Sittard,fortuna-sittard
 whoscored,Go Ahead Eagles,go-ahead-eagles
+whoscored,Hull,hull
 whoscored,Levante,levante
 whoscored,Malaga,m-laga-cf
+whoscored,Manchester United,manchester-united
 whoscored,Maritimo,mar-timo
+whoscored,Marseille,marseille
 whoscored,Moreirense,moreirense-fc
 whoscored,NEC Nijmegen,nijmegen
 whoscored,Nacional,nacional-madeira
 whoscored,PEC Zwolle,pec-zwolle
 whoscored,Racing Santander,racing-santander
+whoscored,Rayo Vallecano,rayo-vallecano
+whoscored,Real Betis,real-betis
+whoscored,Real Sociedad,real-sociedad
+whoscored,Rio Ave,rio-ave
 whoscored,SC Heerenveen,heerenveen
+whoscored,Sparta Rotterdam,sparta-rotterdam
+whoscored,Sporting CP,sporting-cp
+whoscored,Strasbourg,strasbourg
 whoscored,Telstar,sc-telstar
+whoscored,Tottenham,tottenham
 whoscored,Twente,twente
 whoscored,Villarreal,villarreal
 whoscored,Vitoria de Guimaraes,vit-ria

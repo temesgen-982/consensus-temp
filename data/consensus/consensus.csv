@@ -1,276 +1,312 @@
 fixture_id,league,date,kickoff,home,away,site,market,pick,pick_norm,p1,p2,p3,note,scraped_at
-2026-08-21|arsenal|vs|coventry-city,Premier League,2026-08-21,21/08/2026 21:00,Arsenal,Coventry City,forebet,1x2,1,1,79,11,10,avg=3.24,2026-08-18T20:51:32Z
-2026-08-21|arsenal|vs|coventry-city,Premier League,2026-08-21,21/08/2026 21:00,Arsenal,Coventry City,forebet,correct_score,3 - 0,3 - 0,,,,avg=3.24,2026-08-18T20:51:32Z
-2026-08-21|arsenal|vs|coventry-city,Premier League,2026-08-21,21/08/2026 21:00,Arsenal,Coventry City,forebet,over_under,Over,Over,35,65,,,2026-08-18T20:51:32Z
-2026-08-21|arsenal|vs|coventry-city,Premier League,2026-08-21,21/08/2026 21:00,Arsenal,Coventry City,forebet,btts,No,No,51,49,,,2026-08-18T20:51:32Z
-2026-08-22|hull-city|vs|manchester-united,Premier League,2026-08-22,22/08/2026 13:30,Hull City,Manchester United,forebet,1x2,2,2,19,28,54,avg=2.89,2026-08-18T20:51:32Z
-2026-08-22|hull-city|vs|manchester-united,Premier League,2026-08-22,22/08/2026 13:30,Hull City,Manchester United,forebet,correct_score,0 - 3,0 - 3,,,,avg=2.89,2026-08-18T20:51:32Z
-2026-08-22|hull-city|vs|manchester-united,Premier League,2026-08-22,22/08/2026 13:30,Hull City,Manchester United,forebet,over_under,Over,Over,42,58,,,2026-08-18T20:51:32Z
-2026-08-22|hull-city|vs|manchester-united,Premier League,2026-08-22,22/08/2026 13:30,Hull City,Manchester United,forebet,btts,No,No,51,49,,,2026-08-18T20:51:32Z
-2026-08-22|nottingham-forest|vs|leeds-united,Premier League,2026-08-22,22/08/2026 16:00,Nottingham Forest,Leeds United,forebet,1x2,X,X,35,37,28,avg=2.40,2026-08-18T20:51:32Z
-2026-08-22|nottingham-forest|vs|leeds-united,Premier League,2026-08-22,22/08/2026 16:00,Nottingham Forest,Leeds United,forebet,correct_score,1 - 1,1 - 1,,,,avg=2.40,2026-08-18T20:51:32Z
-2026-08-22|nottingham-forest|vs|leeds-united,Premier League,2026-08-22,22/08/2026 16:00,Nottingham Forest,Leeds United,forebet,over_under,Under,Under,52,48,,,2026-08-18T20:51:32Z
-2026-08-22|nottingham-forest|vs|leeds-united,Premier League,2026-08-22,22/08/2026 16:00,Nottingham Forest,Leeds United,forebet,btts,Yes,Yes,43,57,,,2026-08-18T20:51:32Z
-2026-08-22|ipswich-town|vs|sunderland,Premier League,2026-08-22,22/08/2026 16:00,Ipswich Town,Sunderland,forebet,1x2,1,1,38,27,36,avg=2.56,2026-08-18T20:51:32Z
-2026-08-22|ipswich-town|vs|sunderland,Premier League,2026-08-22,22/08/2026 16:00,Ipswich Town,Sunderland,forebet,correct_score,2 - 1,2 - 1,,,,avg=2.56,2026-08-18T20:51:32Z
-2026-08-22|ipswich-town|vs|sunderland,Premier League,2026-08-22,22/08/2026 16:00,Ipswich Town,Sunderland,forebet,over_under,Over,Over,49,51,,,2026-08-18T20:51:32Z
-2026-08-22|ipswich-town|vs|sunderland,Premier League,2026-08-22,22/08/2026 16:00,Ipswich Town,Sunderland,forebet,btts,Yes,Yes,41,59,,,2026-08-18T20:51:32Z
-2026-08-22|everton|vs|crystal-palace,Premier League,2026-08-22,22/08/2026 16:00,Everton,Crystal Palace,forebet,1x2,1,1,42,28,29,avg=2.64,2026-08-18T20:51:32Z
-2026-08-22|everton|vs|crystal-palace,Premier League,2026-08-22,22/08/2026 16:00,Everton,Crystal Palace,forebet,correct_score,2 - 1,2 - 1,,,,avg=2.64,2026-08-18T20:51:32Z
-2026-08-22|everton|vs|crystal-palace,Premier League,2026-08-22,22/08/2026 16:00,Everton,Crystal Palace,forebet,over_under,Over,Over,47,53,,,2026-08-18T20:51:32Z
-2026-08-22|everton|vs|crystal-palace,Premier League,2026-08-22,22/08/2026 16:00,Everton,Crystal Palace,forebet,btts,Yes,Yes,44,56,,,2026-08-18T20:51:32Z
-2026-08-22|brentford|vs|tottenham,Premier League,2026-08-22,22/08/2026 18:30,Brentford,Tottenham,forebet,1x2,2,2,30,32,38,avg=2.75,2026-08-18T20:51:32Z
-2026-08-22|brentford|vs|tottenham,Premier League,2026-08-22,22/08/2026 18:30,Brentford,Tottenham,forebet,correct_score,1 - 2,1 - 2,,,,avg=2.75,2026-08-18T20:51:32Z
-2026-08-22|brentford|vs|tottenham,Premier League,2026-08-22,22/08/2026 18:30,Brentford,Tottenham,forebet,over_under,Over,Over,45,55,,,2026-08-18T20:51:32Z
-2026-08-22|brentford|vs|tottenham,Premier League,2026-08-22,22/08/2026 18:30,Brentford,Tottenham,forebet,btts,Yes,Yes,38,62,,,2026-08-18T20:51:32Z
-2026-08-23|manchester-city|vs|bournemouth,Premier League,2026-08-23,23/08/2026 15:00,Manchester City,Bournemouth,forebet,1x2,1,1,67,19,14,avg=3.37,2026-08-18T20:51:32Z
-2026-08-23|manchester-city|vs|bournemouth,Premier League,2026-08-23,23/08/2026 15:00,Manchester City,Bournemouth,forebet,correct_score,3 - 0,3 - 0,,,,avg=3.37,2026-08-18T20:51:32Z
-2026-08-23|manchester-city|vs|bournemouth,Premier League,2026-08-23,23/08/2026 15:00,Manchester City,Bournemouth,forebet,over_under,Over,Over,33,67,,,2026-08-18T20:51:32Z
-2026-08-23|manchester-city|vs|bournemouth,Premier League,2026-08-23,23/08/2026 15:00,Manchester City,Bournemouth,forebet,btts,No,No,51,49,,,2026-08-18T20:51:32Z
-2026-08-23|brighton|vs|aston-villa,Premier League,2026-08-23,23/08/2026 15:00,Brighton,Aston Villa,forebet,1x2,2,2,30,28,42,avg=2.77,2026-08-18T20:51:32Z
-2026-08-23|brighton|vs|aston-villa,Premier League,2026-08-23,23/08/2026 15:00,Brighton,Aston Villa,forebet,correct_score,1 - 2,1 - 2,,,,avg=2.77,2026-08-18T20:51:32Z
-2026-08-23|brighton|vs|aston-villa,Premier League,2026-08-23,23/08/2026 15:00,Brighton,Aston Villa,forebet,over_under,Over,Over,45,55,,,2026-08-18T20:51:32Z
-2026-08-23|brighton|vs|aston-villa,Premier League,2026-08-23,23/08/2026 15:00,Brighton,Aston Villa,forebet,btts,Yes,Yes,36,64,,,2026-08-18T20:51:32Z
-2026-08-23|newcastle-united|vs|liverpool,Premier League,2026-08-23,23/08/2026 17:30,Newcastle United,Liverpool,forebet,1x2,2,2,38,18,44,avg=3.20,2026-08-18T20:51:32Z
-2026-08-23|newcastle-united|vs|liverpool,Premier League,2026-08-23,23/08/2026 17:30,Newcastle United,Liverpool,forebet,correct_score,1 - 3,1 - 3,,,,avg=3.20,2026-08-18T20:51:32Z
-2026-08-23|newcastle-united|vs|liverpool,Premier League,2026-08-23,23/08/2026 17:30,Newcastle United,Liverpool,forebet,over_under,Over,Over,36,64,,,2026-08-18T20:51:32Z
-2026-08-23|newcastle-united|vs|liverpool,Premier League,2026-08-23,23/08/2026 17:30,Newcastle United,Liverpool,forebet,btts,Yes,Yes,25,75,,,2026-08-18T20:51:32Z
-2026-08-24|fulham|vs|chelsea,Premier League,2026-08-24,24/08/2026 21:00,Fulham,Chelsea,forebet,1x2,2,2,32,25,44,avg=2.57,2026-08-18T20:51:32Z
-2026-08-24|fulham|vs|chelsea,Premier League,2026-08-24,24/08/2026 21:00,Fulham,Chelsea,forebet,correct_score,1 - 2,1 - 2,,,,avg=2.57,2026-08-18T20:51:32Z
-2026-08-24|fulham|vs|chelsea,Premier League,2026-08-24,24/08/2026 21:00,Fulham,Chelsea,forebet,over_under,Over,Over,49,51,,,2026-08-18T20:51:32Z
-2026-08-24|fulham|vs|chelsea,Premier League,2026-08-24,24/08/2026 21:00,Fulham,Chelsea,forebet,btts,Yes,Yes,38,62,,,2026-08-18T20:51:32Z
-2026-08-15|deportivo-alav-s|vs|getafe,La Liga,2026-08-15,15/08/2026 19:30,Deportivo Alavés,Getafe,forebet,1x2,1,1,36,32,33,avg=2.23,2026-08-18T20:51:32Z
-2026-08-15|deportivo-alav-s|vs|getafe,La Liga,2026-08-15,15/08/2026 19:30,Deportivo Alavés,Getafe,forebet,correct_score,2 - 0,2 - 0,,,,avg=2.23,2026-08-18T20:51:32Z
-2026-08-15|deportivo-alav-s|vs|getafe,La Liga,2026-08-15,15/08/2026 19:30,Deportivo Alavés,Getafe,forebet,over_under,Under,Under,55,45,,,2026-08-18T20:51:32Z
-2026-08-15|deportivo-alav-s|vs|getafe,La Liga,2026-08-15,15/08/2026 19:30,Deportivo Alavés,Getafe,forebet,btts,No,No,55,45,,,2026-08-18T20:51:32Z
-2026-08-15|sevilla|vs|rayo-vallecano,La Liga,2026-08-15,15/08/2026 21:30,Sevilla,Rayo Vallecano,forebet,1x2,1,1,48,27,25,avg=2.67,2026-08-18T20:51:32Z
-2026-08-15|sevilla|vs|rayo-vallecano,La Liga,2026-08-15,15/08/2026 21:30,Sevilla,Rayo Vallecano,forebet,correct_score,2 - 1,2 - 1,,,,avg=2.67,2026-08-18T20:51:32Z
-2026-08-15|sevilla|vs|rayo-vallecano,La Liga,2026-08-15,15/08/2026 21:30,Sevilla,Rayo Vallecano,forebet,over_under,Over,Over,47,53,,,2026-08-18T20:51:32Z
-2026-08-15|sevilla|vs|rayo-vallecano,La Liga,2026-08-15,15/08/2026 21:30,Sevilla,Rayo Vallecano,forebet,btts,Yes,Yes,42,58,,,2026-08-18T20:51:32Z
-2026-08-16|racing-santander|vs|villarreal,La Liga,2026-08-16,16/08/2026 17:00,Racing Santander,Villarreal,forebet,1x2,2,2,33,24,44,avg=2.68,2026-08-18T20:51:32Z
-2026-08-16|racing-santander|vs|villarreal,La Liga,2026-08-16,16/08/2026 17:00,Racing Santander,Villarreal,forebet,correct_score,1 - 2,1 - 2,,,,avg=2.68,2026-08-18T20:51:32Z
-2026-08-16|racing-santander|vs|villarreal,La Liga,2026-08-16,16/08/2026 17:00,Racing Santander,Villarreal,forebet,over_under,Over,Over,46,54,,,2026-08-18T20:51:32Z
-2026-08-16|racing-santander|vs|villarreal,La Liga,2026-08-16,16/08/2026 17:00,Racing Santander,Villarreal,forebet,btts,Yes,Yes,29,71,,,2026-08-18T20:51:32Z
-2026-08-16|espanyol|vs|levante,La Liga,2026-08-16,16/08/2026 19:00,Espanyol,Levante,forebet,1x2,1,1,42,27,30,avg=2.62,2026-08-18T20:51:32Z
-2026-08-16|espanyol|vs|levante,La Liga,2026-08-16,16/08/2026 19:00,Espanyol,Levante,forebet,correct_score,2 - 1,2 - 1,,,,avg=2.62,2026-08-18T20:51:32Z
-2026-08-16|espanyol|vs|levante,La Liga,2026-08-16,16/08/2026 19:00,Espanyol,Levante,forebet,over_under,Over,Over,48,52,,,2026-08-18T20:51:32Z
-2026-08-16|espanyol|vs|levante,La Liga,2026-08-16,16/08/2026 19:00,Espanyol,Levante,forebet,btts,Yes,Yes,45,55,,,2026-08-18T20:51:32Z
-2026-08-17|deportivo-la-coru-a|vs|elche,La Liga,2026-08-17,17/08/2026 21:00,Deportivo La Coruña,Elche,forebet,1x2,1,1,52,23,25,avg=2.92,2026-08-18T20:51:32Z
-2026-08-17|deportivo-la-coru-a|vs|elche,La Liga,2026-08-17,17/08/2026 21:00,Deportivo La Coruña,Elche,forebet,correct_score,3 - 0,3 - 0,,,,avg=2.92,2026-08-18T20:51:32Z
-2026-08-17|deportivo-la-coru-a|vs|elche,La Liga,2026-08-17,17/08/2026 21:00,Deportivo La Coruña,Elche,forebet,over_under,Over,Over,42,58,,,2026-08-18T20:51:32Z
-2026-08-17|deportivo-la-coru-a|vs|elche,La Liga,2026-08-17,17/08/2026 21:00,Deportivo La Coruña,Elche,forebet,btts,No,No,51,49,,,2026-08-18T20:51:32Z
-2026-08-19|atl-tico-madrid|vs|m-laga-cf,La Liga,2026-08-19,19/08/2026 21:00,Atlético Madrid,Málaga CF,forebet,1x2,1,1,65,14,21,avg=2.71,2026-08-18T20:51:32Z
-2026-08-19|atl-tico-madrid|vs|m-laga-cf,La Liga,2026-08-19,19/08/2026 21:00,Atlético Madrid,Málaga CF,forebet,correct_score,3 - 0,3 - 0,,,,avg=2.71,2026-08-18T20:51:32Z
-2026-08-19|atl-tico-madrid|vs|m-laga-cf,La Liga,2026-08-19,19/08/2026 21:00,Atlético Madrid,Málaga CF,forebet,over_under,Over,Over,46,54,,,2026-08-18T20:51:32Z
-2026-08-19|atl-tico-madrid|vs|m-laga-cf,La Liga,2026-08-19,19/08/2026 21:00,Atlético Madrid,Málaga CF,forebet,btts,No,No,51,49,,,2026-08-18T20:51:32Z
-2026-08-25|valencia|vs|real-betis,La Liga,2026-08-25,25/08/2026 21:00,Valencia,Real Betis,forebet,1x2,1,1,41,28,30,avg=2.80,2026-08-18T20:51:32Z
-2026-08-25|valencia|vs|real-betis,La Liga,2026-08-25,25/08/2026 21:00,Valencia,Real Betis,forebet,correct_score,2 - 1,2 - 1,,,,avg=2.80,2026-08-18T20:51:32Z
-2026-08-25|valencia|vs|real-betis,La Liga,2026-08-25,25/08/2026 21:00,Valencia,Real Betis,forebet,over_under,Over,Over,44,56,,,2026-08-18T20:51:32Z
-2026-08-25|valencia|vs|real-betis,La Liga,2026-08-25,25/08/2026 21:00,Valencia,Real Betis,forebet,btts,Yes,Yes,37,63,,,2026-08-18T20:51:32Z
-2026-08-26|real-madrid|vs|real-sociedad,La Liga,2026-08-26,26/08/2026 21:00,Real Madrid,Real Sociedad,forebet,1x2,1,1,63,19,18,avg=3.19,2026-08-18T20:51:32Z
-2026-08-26|real-madrid|vs|real-sociedad,La Liga,2026-08-26,26/08/2026 21:00,Real Madrid,Real Sociedad,forebet,correct_score,4 - 0,4 - 0,,,,avg=3.19,2026-08-18T20:51:32Z
-2026-08-26|real-madrid|vs|real-sociedad,La Liga,2026-08-26,26/08/2026 21:00,Real Madrid,Real Sociedad,forebet,over_under,Over,Over,36,64,,,2026-08-18T20:51:32Z
-2026-08-26|real-madrid|vs|real-sociedad,La Liga,2026-08-26,26/08/2026 21:00,Real Madrid,Real Sociedad,forebet,btts,No,No,51,49,,,2026-08-18T20:51:32Z
-2026-08-27|celta-vigo|vs|osasuna,La Liga,2026-08-27,27/08/2026 20:30,Celta Vigo,Osasuna,forebet,1x2,1,1,47,24,29,avg=2.30,2026-08-18T20:51:32Z
-2026-08-27|celta-vigo|vs|osasuna,La Liga,2026-08-27,27/08/2026 20:30,Celta Vigo,Osasuna,forebet,correct_score,2 - 0,2 - 0,,,,avg=2.30,2026-08-18T20:51:32Z
-2026-08-27|celta-vigo|vs|osasuna,La Liga,2026-08-27,27/08/2026 20:30,Celta Vigo,Osasuna,forebet,over_under,Under,Under,54,46,,,2026-08-18T20:51:32Z
-2026-08-27|celta-vigo|vs|osasuna,La Liga,2026-08-27,27/08/2026 20:30,Celta Vigo,Osasuna,forebet,btts,No,No,51,49,,,2026-08-18T20:51:32Z
-2026-08-27|barcelona|vs|athletic-bilbao,La Liga,2026-08-27,27/08/2026 21:00,Barcelona,Athletic Bilbao,forebet,1x2,1,1,74,15,11,avg=3.09,2026-08-18T20:51:32Z
-2026-08-27|barcelona|vs|athletic-bilbao,La Liga,2026-08-27,27/08/2026 21:00,Barcelona,Athletic Bilbao,forebet,correct_score,3 - 0,3 - 0,,,,avg=3.09,2026-08-18T20:51:32Z
-2026-08-27|barcelona|vs|athletic-bilbao,La Liga,2026-08-27,27/08/2026 21:00,Barcelona,Athletic Bilbao,forebet,over_under,Over,Over,38,62,,,2026-08-18T20:51:32Z
-2026-08-27|barcelona|vs|athletic-bilbao,La Liga,2026-08-27,27/08/2026 21:00,Barcelona,Athletic Bilbao,forebet,btts,No,No,51,49,,,2026-08-18T20:51:32Z
-2026-05-25|paderborn|vs|wolfsburg,Bundesliga,2026-05-25,25/05/2026 20:30,Paderborn,Wolfsburg,forebet,1x2,X,X,27,39,34,avg=2.20,2026-08-18T20:51:32Z
-2026-05-25|paderborn|vs|wolfsburg,Bundesliga,2026-05-25,25/05/2026 20:30,Paderborn,Wolfsburg,forebet,correct_score,1 - 1,1 - 1,,,,avg=2.20,2026-08-18T20:51:32Z
-2026-05-25|paderborn|vs|wolfsburg,Bundesliga,2026-05-25,25/05/2026 20:30,Paderborn,Wolfsburg,forebet,over_under,Under,Under,56,44,,,2026-08-18T20:51:32Z
-2026-05-25|paderborn|vs|wolfsburg,Bundesliga,2026-05-25,25/05/2026 20:30,Paderborn,Wolfsburg,forebet,btts,Yes,Yes,39,61,,,2026-08-18T20:51:32Z
-2026-05-21|wolfsburg|vs|paderborn,Bundesliga,2026-05-21,21/05/2026 20:30,Wolfsburg,Paderborn,forebet,1x2,X,X,34,36,31,avg=2.00,2026-08-18T20:51:32Z
-2026-05-21|wolfsburg|vs|paderborn,Bundesliga,2026-05-21,21/05/2026 20:30,Wolfsburg,Paderborn,forebet,correct_score,1 - 1,1 - 1,,,,avg=2.00,2026-08-18T20:51:32Z
-2026-05-21|wolfsburg|vs|paderborn,Bundesliga,2026-05-21,21/05/2026 20:30,Wolfsburg,Paderborn,forebet,over_under,Under,Under,60,40,,,2026-08-18T20:51:32Z
-2026-05-21|wolfsburg|vs|paderborn,Bundesliga,2026-05-21,21/05/2026 20:30,Wolfsburg,Paderborn,forebet,btts,Yes,Yes,40,60,,,2026-08-18T20:51:32Z
-2026-08-22|udinese|vs|calcio-como,Serie A,2026-08-22,22/08/2026 18:30,Udinese,Calcio Como,forebet,1x2,2,2,34,22,44,avg=2.29,2026-08-18T20:51:32Z
-2026-08-22|udinese|vs|calcio-como,Serie A,2026-08-22,22/08/2026 18:30,Udinese,Calcio Como,forebet,correct_score,0 - 2,0 - 2,,,,avg=2.29,2026-08-18T20:51:32Z
-2026-08-22|udinese|vs|calcio-como,Serie A,2026-08-22,22/08/2026 18:30,Udinese,Calcio Como,forebet,over_under,Under,Under,54,46,,,2026-08-18T20:51:32Z
-2026-08-22|udinese|vs|calcio-como,Serie A,2026-08-22,22/08/2026 18:30,Udinese,Calcio Como,forebet,btts,No,No,50,50,,,2026-08-18T20:51:32Z
-2026-08-22|inter|vs|monza,Serie A,2026-08-22,22/08/2026 18:30,Inter,Monza,forebet,1x2,1,1,64,21,15,avg=3.40,2026-08-18T20:51:32Z
-2026-08-22|inter|vs|monza,Serie A,2026-08-22,22/08/2026 18:30,Inter,Monza,forebet,correct_score,4 - 0,4 - 0,,,,avg=3.40,2026-08-18T20:51:32Z
-2026-08-22|inter|vs|monza,Serie A,2026-08-22,22/08/2026 18:30,Inter,Monza,forebet,over_under,Over,Over,32,68,,,2026-08-18T20:51:32Z
-2026-08-22|inter|vs|monza,Serie A,2026-08-22,22/08/2026 18:30,Inter,Monza,forebet,btts,No,No,51,49,,,2026-08-18T20:51:32Z
-2026-08-22|parma|vs|cagliari,Serie A,2026-08-22,22/08/2026 20:45,Parma,Cagliari,forebet,1x2,2,2,34,31,36,avg=2.43,2026-08-18T20:51:32Z
-2026-08-22|parma|vs|cagliari,Serie A,2026-08-22,22/08/2026 20:45,Parma,Cagliari,forebet,correct_score,0 - 2,0 - 2,,,,avg=2.43,2026-08-18T20:51:32Z
-2026-08-22|parma|vs|cagliari,Serie A,2026-08-22,22/08/2026 20:45,Parma,Cagliari,forebet,over_under,Under,Under,51,49,,,2026-08-18T20:51:32Z
-2026-08-22|parma|vs|cagliari,Serie A,2026-08-22,22/08/2026 20:45,Parma,Cagliari,forebet,btts,No,No,61,39,,,2026-08-18T20:51:32Z
-2026-08-22|genoa|vs|napoli,Serie A,2026-08-22,22/08/2026 20:45,Genoa,Napoli,forebet,1x2,2,2,27,25,48,avg=2.56,2026-08-18T20:51:32Z
-2026-08-22|genoa|vs|napoli,Serie A,2026-08-22,22/08/2026 20:45,Genoa,Napoli,forebet,correct_score,1 - 2,1 - 2,,,,avg=2.56,2026-08-18T20:51:32Z
-2026-08-22|genoa|vs|napoli,Serie A,2026-08-22,22/08/2026 20:45,Genoa,Napoli,forebet,over_under,Over,Over,49,51,,,2026-08-18T20:51:32Z
-2026-08-22|genoa|vs|napoli,Serie A,2026-08-22,22/08/2026 20:45,Genoa,Napoli,forebet,btts,Yes,Yes,43,57,,,2026-08-18T20:51:32Z
-2026-08-23|venezia|vs|lecce,Serie A,2026-08-23,23/08/2026 18:30,Venezia,Lecce,forebet,1x2,2,2,34,31,35,avg=2.45,2026-08-18T20:51:32Z
-2026-08-23|venezia|vs|lecce,Serie A,2026-08-23,23/08/2026 18:30,Venezia,Lecce,forebet,correct_score,0 - 2,0 - 2,,,,avg=2.45,2026-08-18T20:51:32Z
-2026-08-23|venezia|vs|lecce,Serie A,2026-08-23,23/08/2026 18:30,Venezia,Lecce,forebet,over_under,Under,Under,51,49,,,2026-08-18T20:51:32Z
-2026-08-23|venezia|vs|lecce,Serie A,2026-08-23,23/08/2026 18:30,Venezia,Lecce,forebet,btts,No,No,50,50,,,2026-08-18T20:51:32Z
-2026-08-23|frosinone|vs|juventus,Serie A,2026-08-23,23/08/2026 18:30,Frosinone,Juventus,forebet,1x2,2,2,19,20,61,avg=2.49,2026-08-18T20:51:32Z
-2026-08-23|frosinone|vs|juventus,Serie A,2026-08-23,23/08/2026 18:30,Frosinone,Juventus,forebet,correct_score,0 - 2,0 - 2,,,,avg=2.49,2026-08-18T20:51:32Z
-2026-08-23|frosinone|vs|juventus,Serie A,2026-08-23,23/08/2026 18:30,Frosinone,Juventus,forebet,over_under,Under,Under,50,50,,,2026-08-18T20:51:32Z
-2026-08-23|frosinone|vs|juventus,Serie A,2026-08-23,23/08/2026 18:30,Frosinone,Juventus,forebet,btts,No,No,51,49,,,2026-08-18T20:51:32Z
-2026-08-23|torino|vs|milan,Serie A,2026-08-23,23/08/2026 20:45,Torino,Milan,forebet,1x2,2,2,24,28,48,avg=2.57,2026-08-18T20:51:32Z
-2026-08-23|torino|vs|milan,Serie A,2026-08-23,23/08/2026 20:45,Torino,Milan,forebet,correct_score,1 - 2,1 - 2,,,,avg=2.57,2026-08-18T20:51:32Z
-2026-08-23|torino|vs|milan,Serie A,2026-08-23,23/08/2026 20:45,Torino,Milan,forebet,over_under,Over,Over,49,51,,,2026-08-18T20:51:32Z
-2026-08-23|torino|vs|milan,Serie A,2026-08-23,23/08/2026 20:45,Torino,Milan,forebet,btts,Yes,Yes,43,57,,,2026-08-18T20:51:32Z
-2026-08-23|atalanta|vs|sassuolo,Serie A,2026-08-23,23/08/2026 20:45,Atalanta,Sassuolo,forebet,1x2,1,1,52,25,23,avg=2.61,2026-08-18T20:51:32Z
-2026-08-23|atalanta|vs|sassuolo,Serie A,2026-08-23,23/08/2026 20:45,Atalanta,Sassuolo,forebet,correct_score,2 - 1,2 - 1,,,,avg=2.61,2026-08-18T20:51:32Z
-2026-08-23|atalanta|vs|sassuolo,Serie A,2026-08-23,23/08/2026 20:45,Atalanta,Sassuolo,forebet,over_under,Over,Over,48,52,,,2026-08-18T20:51:32Z
-2026-08-23|atalanta|vs|sassuolo,Serie A,2026-08-23,23/08/2026 20:45,Atalanta,Sassuolo,forebet,btts,Yes,Yes,43,57,,,2026-08-18T20:51:32Z
-2026-08-24|bologna|vs|lazio,Serie A,2026-08-24,24/08/2026 18:30,Bologna,Lazio,forebet,1x2,2,2,31,28,41,avg=2.25,2026-08-18T20:51:32Z
-2026-08-24|bologna|vs|lazio,Serie A,2026-08-24,24/08/2026 18:30,Bologna,Lazio,forebet,correct_score,0 - 2,0 - 2,,,,avg=2.25,2026-08-18T20:51:32Z
-2026-08-24|bologna|vs|lazio,Serie A,2026-08-24,24/08/2026 18:30,Bologna,Lazio,forebet,over_under,Under,Under,55,45,,,2026-08-18T20:51:32Z
-2026-08-24|bologna|vs|lazio,Serie A,2026-08-24,24/08/2026 18:30,Bologna,Lazio,forebet,btts,No,No,56,44,,,2026-08-18T20:51:32Z
-2026-08-24|roma|vs|fiorentina,Serie A,2026-08-24,24/08/2026 20:45,Roma,Fiorentina,forebet,1x2,1,1,57,22,21,avg=2.67,2026-08-18T20:51:32Z
-2026-08-24|roma|vs|fiorentina,Serie A,2026-08-24,24/08/2026 20:45,Roma,Fiorentina,forebet,correct_score,2 - 1,2 - 1,,,,avg=2.67,2026-08-18T20:51:32Z
-2026-08-24|roma|vs|fiorentina,Serie A,2026-08-24,24/08/2026 20:45,Roma,Fiorentina,forebet,over_under,Over,Over,47,53,,,2026-08-18T20:51:32Z
-2026-08-24|roma|vs|fiorentina,Serie A,2026-08-24,24/08/2026 20:45,Roma,Fiorentina,forebet,btts,Yes,Yes,40,60,,,2026-08-18T20:51:32Z
-2026-08-22|fortuna-sittard|vs|az-alkmaar,Eredivisie,2026-08-22,22/08/2026 16:30,Fortuna Sittard,AZ Alkmaar,forebet,1x2,2,2,21,25,54,avg=3.05,2026-08-18T20:51:32Z
-2026-08-22|fortuna-sittard|vs|az-alkmaar,Eredivisie,2026-08-22,22/08/2026 16:30,Fortuna Sittard,AZ Alkmaar,forebet,correct_score,1 - 3,1 - 3,,,,avg=3.05,2026-08-18T20:51:32Z
-2026-08-22|fortuna-sittard|vs|az-alkmaar,Eredivisie,2026-08-22,22/08/2026 16:30,Fortuna Sittard,AZ Alkmaar,forebet,over_under,Over,Over,39,61,,,2026-08-18T20:51:32Z
-2026-08-22|fortuna-sittard|vs|az-alkmaar,Eredivisie,2026-08-22,22/08/2026 16:30,Fortuna Sittard,AZ Alkmaar,forebet,btts,Yes,Yes,26,74,,,2026-08-18T20:51:32Z
-2026-08-22|sparta-rotterdam|vs|utrecht,Eredivisie,2026-08-22,22/08/2026 18:45,Sparta Rotterdam,Utrecht,forebet,1x2,1,1,40,32,28,avg=2.93,2026-08-18T20:51:32Z
-2026-08-22|sparta-rotterdam|vs|utrecht,Eredivisie,2026-08-22,22/08/2026 18:45,Sparta Rotterdam,Utrecht,forebet,correct_score,2 - 1,2 - 1,,,,avg=2.93,2026-08-18T20:51:32Z
-2026-08-22|sparta-rotterdam|vs|utrecht,Eredivisie,2026-08-22,22/08/2026 18:45,Sparta Rotterdam,Utrecht,forebet,over_under,Over,Over,41,59,,,2026-08-18T20:51:32Z
-2026-08-22|sparta-rotterdam|vs|utrecht,Eredivisie,2026-08-22,22/08/2026 18:45,Sparta Rotterdam,Utrecht,forebet,btts,Yes,Yes,37,63,,,2026-08-18T20:51:32Z
-2026-08-22|nijmegen|vs|excelsior,Eredivisie,2026-08-22,22/08/2026,Nijmegen,Excelsior,forebet,1x2,1,1,36,31,33,avg=3.15,2026-08-18T20:51:32Z
-2026-08-22|nijmegen|vs|excelsior,Eredivisie,2026-08-22,22/08/2026,Nijmegen,Excelsior,forebet,correct_score,3 - 2,3 - 2,,,,avg=3.15,2026-08-18T20:51:32Z
-2026-08-22|nijmegen|vs|excelsior,Eredivisie,2026-08-22,22/08/2026,Nijmegen,Excelsior,forebet,over_under,Over,Over,37,63,,,2026-08-18T20:51:32Z
-2026-08-22|nijmegen|vs|excelsior,Eredivisie,2026-08-22,22/08/2026,Nijmegen,Excelsior,forebet,btts,Yes,Yes,22,78,,,2026-08-18T20:51:32Z
-2026-08-22|heerenveen|vs|pec-zwolle,Eredivisie,2026-08-22,22/08/2026 21:00,Heerenveen,PEC Zwolle,forebet,1x2,1,1,59,27,14,avg=3.25,2026-08-18T20:51:32Z
-2026-08-22|heerenveen|vs|pec-zwolle,Eredivisie,2026-08-22,22/08/2026 21:00,Heerenveen,PEC Zwolle,forebet,correct_score,3 - 1,3 - 1,,,,avg=3.25,2026-08-18T20:51:32Z
-2026-08-22|heerenveen|vs|pec-zwolle,Eredivisie,2026-08-22,22/08/2026 21:00,Heerenveen,PEC Zwolle,forebet,over_under,Over,Over,35,65,,,2026-08-18T20:51:32Z
-2026-08-22|heerenveen|vs|pec-zwolle,Eredivisie,2026-08-22,22/08/2026 21:00,Heerenveen,PEC Zwolle,forebet,btts,Yes,Yes,28,72,,,2026-08-18T20:51:32Z
-2026-08-23|go-ahead-eagles|vs|ado-den-haag,Eredivisie,2026-08-23,23/08/2026 12:15,Go Ahead Eagles,ADO Den Haag,forebet,1x2,1,1,61,21,19,avg=3.29,2026-08-18T20:51:32Z
-2026-08-23|go-ahead-eagles|vs|ado-den-haag,Eredivisie,2026-08-23,23/08/2026 12:15,Go Ahead Eagles,ADO Den Haag,forebet,correct_score,3 - 0,3 - 0,,,,avg=3.29,2026-08-18T20:51:32Z
-2026-08-23|go-ahead-eagles|vs|ado-den-haag,Eredivisie,2026-08-23,23/08/2026 12:15,Go Ahead Eagles,ADO Den Haag,forebet,over_under,Over,Over,34,66,,,2026-08-18T20:51:32Z
-2026-08-23|go-ahead-eagles|vs|ado-den-haag,Eredivisie,2026-08-23,23/08/2026 12:15,Go Ahead Eagles,ADO Den Haag,forebet,btts,No,No,51,49,,,2026-08-18T20:51:32Z
-2026-08-23|psv-eindhoven|vs|groningen,Eredivisie,2026-08-23,23/08/2026 14:30,PSV Eindhoven,Groningen,forebet,1x2,2,2,36,24,40,avg=3.45,2026-08-18T20:51:32Z
-2026-08-23|psv-eindhoven|vs|groningen,Eredivisie,2026-08-23,23/08/2026 14:30,PSV Eindhoven,Groningen,forebet,correct_score,2 - 3,2 - 3,,,,avg=3.45,2026-08-18T20:51:32Z
-2026-08-23|psv-eindhoven|vs|groningen,Eredivisie,2026-08-23,23/08/2026 14:30,PSV Eindhoven,Groningen,forebet,over_under,Over,Over,31,69,,,2026-08-18T20:51:32Z
-2026-08-23|psv-eindhoven|vs|groningen,Eredivisie,2026-08-23,23/08/2026 14:30,PSV Eindhoven,Groningen,forebet,btts,Yes,Yes,19,81,,,2026-08-18T20:51:32Z
-2026-08-23|cambuur|vs|feyenoord,Eredivisie,2026-08-23,23/08/2026 16:45,Cambuur,Feyenoord,forebet,1x2,2,2,8,27,65,avg=3.07,2026-08-18T20:51:32Z
-2026-08-23|cambuur|vs|feyenoord,Eredivisie,2026-08-23,23/08/2026 16:45,Cambuur,Feyenoord,forebet,correct_score,1 - 2,1 - 2,,,,avg=3.07,2026-08-18T20:51:32Z
-2026-08-23|cambuur|vs|feyenoord,Eredivisie,2026-08-23,23/08/2026 16:45,Cambuur,Feyenoord,forebet,over_under,Over,Over,39,61,,,2026-08-18T20:51:32Z
-2026-08-23|cambuur|vs|feyenoord,Eredivisie,2026-08-23,23/08/2026 16:45,Cambuur,Feyenoord,forebet,btts,Yes,Yes,25,75,,,2026-08-18T20:51:32Z
-2026-09-09|twente|vs|sc-telstar,Eredivisie,2026-09-09,09/09/2026 18:45,Twente,SC Telstar,forebet,1x2,1,1,45,34,21,avg=2.46,2026-08-18T20:51:32Z
-2026-09-09|twente|vs|sc-telstar,Eredivisie,2026-09-09,09/09/2026 18:45,Twente,SC Telstar,forebet,correct_score,2 - 0,2 - 0,,,,avg=2.46,2026-08-18T20:51:32Z
-2026-09-09|twente|vs|sc-telstar,Eredivisie,2026-09-09,09/09/2026 18:45,Twente,SC Telstar,forebet,over_under,Under,Under,51,49,,,2026-08-18T20:51:32Z
-2026-09-09|twente|vs|sc-telstar,Eredivisie,2026-09-09,09/09/2026 18:45,Twente,SC Telstar,forebet,btts,No,No,51,49,,,2026-08-18T20:51:32Z
-2026-09-15|ajax|vs|willem-ii-tilburg,Eredivisie,2026-09-15,15/09/2026 20:00,Ajax,Willem II Tilburg,forebet,1x2,1,1,73,18,9,avg=3.15,2026-08-18T20:51:32Z
-2026-09-15|ajax|vs|willem-ii-tilburg,Eredivisie,2026-09-15,15/09/2026 20:00,Ajax,Willem II Tilburg,forebet,correct_score,3 - 0,3 - 0,,,,avg=3.15,2026-08-18T20:51:32Z
-2026-09-15|ajax|vs|willem-ii-tilburg,Eredivisie,2026-09-15,15/09/2026 20:00,Ajax,Willem II Tilburg,forebet,over_under,Over,Over,37,63,,,2026-08-18T20:51:32Z
-2026-09-15|ajax|vs|willem-ii-tilburg,Eredivisie,2026-09-15,15/09/2026 20:00,Ajax,Willem II Tilburg,forebet,btts,No,No,51,49,,,2026-08-18T20:51:32Z
-2026-08-14|sc-telstar|vs|sparta-rotterdam,Eredivisie,2026-08-14,14/08/2026 20:00,SC Telstar,Sparta Rotterdam,forebet,1x2,1,1,50,23,27,avg=3.08,2026-08-18T20:51:32Z
-2026-08-14|sc-telstar|vs|sparta-rotterdam,Eredivisie,2026-08-14,14/08/2026 20:00,SC Telstar,Sparta Rotterdam,forebet,correct_score,2 - 1,2 - 1,,,,avg=3.08,2026-08-18T20:51:32Z
-2026-08-14|sc-telstar|vs|sparta-rotterdam,Eredivisie,2026-08-14,14/08/2026 20:00,SC Telstar,Sparta Rotterdam,forebet,over_under,Over,Over,38,62,,,2026-08-18T20:51:32Z
-2026-08-14|sc-telstar|vs|sparta-rotterdam,Eredivisie,2026-08-14,14/08/2026 20:00,SC Telstar,Sparta Rotterdam,forebet,btts,Yes,Yes,35,65,,,2026-08-18T20:51:32Z
-2026-08-15|willem-ii-tilburg|vs|nijmegen,Eredivisie,2026-08-15,15/08/2026 16:30,Willem II Tilburg,Nijmegen,forebet,1x2,X,X,29,36,35,avg=3.10,2026-08-18T20:51:32Z
-2026-08-15|willem-ii-tilburg|vs|nijmegen,Eredivisie,2026-08-15,15/08/2026 16:30,Willem II Tilburg,Nijmegen,forebet,correct_score,2 - 2,2 - 2,,,,avg=3.10,2026-08-18T20:51:32Z
-2026-08-15|willem-ii-tilburg|vs|nijmegen,Eredivisie,2026-08-15,15/08/2026 16:30,Willem II Tilburg,Nijmegen,forebet,over_under,Over,Over,38,62,,,2026-08-18T20:51:32Z
-2026-08-15|willem-ii-tilburg|vs|nijmegen,Eredivisie,2026-08-15,15/08/2026 16:30,Willem II Tilburg,Nijmegen,forebet,btts,Yes,Yes,21,79,,,2026-08-18T20:51:32Z
-2026-08-15|utrecht|vs|az-alkmaar,Eredivisie,2026-08-15,15/08/2026 18:45,Utrecht,AZ Alkmaar,forebet,1x2,2,2,29,23,49,avg=3.00,2026-08-18T20:51:32Z
-2026-08-15|utrecht|vs|az-alkmaar,Eredivisie,2026-08-15,15/08/2026 18:45,Utrecht,AZ Alkmaar,forebet,correct_score,1 - 2,1 - 2,,,,avg=3.00,2026-08-18T20:51:32Z
-2026-08-15|utrecht|vs|az-alkmaar,Eredivisie,2026-08-15,15/08/2026 18:45,Utrecht,AZ Alkmaar,forebet,over_under,Over,Over,40,60,,,2026-08-18T20:51:32Z
-2026-08-15|utrecht|vs|az-alkmaar,Eredivisie,2026-08-15,15/08/2026 18:45,Utrecht,AZ Alkmaar,forebet,btts,Yes,Yes,30,70,,,2026-08-18T20:51:32Z
-2026-08-15|excelsior|vs|psv-eindhoven,Eredivisie,2026-08-15,15/08/2026 20:00,Excelsior,PSV Eindhoven,forebet,1x2,2,2,19,38,43,avg=3.51,2026-08-18T20:51:32Z
-2026-08-15|excelsior|vs|psv-eindhoven,Eredivisie,2026-08-15,15/08/2026 20:00,Excelsior,PSV Eindhoven,forebet,correct_score,2 - 3,2 - 3,,,,avg=3.51,2026-08-18T20:51:32Z
-2026-08-15|excelsior|vs|psv-eindhoven,Eredivisie,2026-08-15,15/08/2026 20:00,Excelsior,PSV Eindhoven,forebet,over_under,Over,Over,30,70,,,2026-08-18T20:51:32Z
-2026-08-15|excelsior|vs|psv-eindhoven,Eredivisie,2026-08-15,15/08/2026 20:00,Excelsior,PSV Eindhoven,forebet,btts,Yes,Yes,19,81,,,2026-08-18T20:51:32Z
-2026-08-15|fortuna-sittard|vs|cambuur,Eredivisie,2026-08-15,15/08/2026 21:00,Fortuna Sittard,Cambuur,forebet,1x2,1,1,55,24,22,avg=3.16,2026-08-18T20:51:32Z
-2026-08-15|fortuna-sittard|vs|cambuur,Eredivisie,2026-08-15,15/08/2026 21:00,Fortuna Sittard,Cambuur,forebet,correct_score,2 - 1,2 - 1,,,,avg=3.16,2026-08-18T20:51:32Z
-2026-08-15|fortuna-sittard|vs|cambuur,Eredivisie,2026-08-15,15/08/2026 21:00,Fortuna Sittard,Cambuur,forebet,over_under,Over,Over,37,63,,,2026-08-18T20:51:32Z
-2026-08-15|fortuna-sittard|vs|cambuur,Eredivisie,2026-08-15,15/08/2026 21:00,Fortuna Sittard,Cambuur,forebet,btts,Yes,Yes,31,69,,,2026-08-18T20:51:32Z
-2026-08-16|ado-den-haag|vs|groningen,Eredivisie,2026-08-16,16/08/2026 12:15,ADO Den Haag,Groningen,forebet,1x2,2,2,19,16,65,avg=2.94,2026-08-18T20:51:32Z
-2026-08-16|ado-den-haag|vs|groningen,Eredivisie,2026-08-16,16/08/2026 12:15,ADO Den Haag,Groningen,forebet,correct_score,0 - 3,0 - 3,,,,avg=2.94,2026-08-18T20:51:32Z
-2026-08-16|ado-den-haag|vs|groningen,Eredivisie,2026-08-16,16/08/2026 12:15,ADO Den Haag,Groningen,forebet,over_under,Over,Over,41,59,,,2026-08-18T20:51:32Z
-2026-08-16|ado-den-haag|vs|groningen,Eredivisie,2026-08-16,16/08/2026 12:15,ADO Den Haag,Groningen,forebet,btts,No,No,51,49,,,2026-08-18T20:51:32Z
-2026-08-16|twente|vs|pec-zwolle,Eredivisie,2026-08-16,16/08/2026 14:30,Twente,PEC Zwolle,forebet,1x2,1,1,54,35,11,avg=3.00,2026-08-18T20:51:32Z
-2026-08-16|twente|vs|pec-zwolle,Eredivisie,2026-08-16,16/08/2026 14:30,Twente,PEC Zwolle,forebet,correct_score,2 - 1,2 - 1,,,,avg=3.00,2026-08-18T20:51:32Z
-2026-08-16|twente|vs|pec-zwolle,Eredivisie,2026-08-16,16/08/2026 14:30,Twente,PEC Zwolle,forebet,over_under,Over,Over,40,60,,,2026-08-18T20:51:32Z
-2026-08-16|twente|vs|pec-zwolle,Eredivisie,2026-08-16,16/08/2026 14:30,Twente,PEC Zwolle,forebet,btts,Yes,Yes,33,67,,,2026-08-18T20:51:32Z
-2026-08-16|feyenoord|vs|go-ahead-eagles,Eredivisie,2026-08-16,16/08/2026 14:30,Feyenoord,Go Ahead Eagles,forebet,1x2,2,2,37,24,38,avg=3.44,2026-08-18T20:51:32Z
-2026-08-16|feyenoord|vs|go-ahead-eagles,Eredivisie,2026-08-16,16/08/2026 14:30,Feyenoord,Go Ahead Eagles,forebet,correct_score,1 - 3,1 - 3,,,,avg=3.44,2026-08-18T20:51:32Z
-2026-08-16|feyenoord|vs|go-ahead-eagles,Eredivisie,2026-08-16,16/08/2026 14:30,Feyenoord,Go Ahead Eagles,forebet,over_under,Over,Over,31,69,,,2026-08-18T20:51:32Z
-2026-08-16|feyenoord|vs|go-ahead-eagles,Eredivisie,2026-08-16,16/08/2026 14:30,Feyenoord,Go Ahead Eagles,forebet,btts,Yes,Yes,25,75,,,2026-08-18T20:51:32Z
-2026-08-16|ajax|vs|heerenveen,Eredivisie,2026-08-16,16/08/2026 16:45,Ajax,Heerenveen,forebet,1x2,1,1,40,26,34,avg=3.44,2026-08-18T20:51:32Z
-2026-08-16|ajax|vs|heerenveen,Eredivisie,2026-08-16,16/08/2026 16:45,Ajax,Heerenveen,forebet,correct_score,3 - 1,3 - 1,,,,avg=3.44,2026-08-18T20:51:32Z
-2026-08-16|ajax|vs|heerenveen,Eredivisie,2026-08-16,16/08/2026 16:45,Ajax,Heerenveen,forebet,over_under,Over,Over,31,69,,,2026-08-18T20:51:32Z
-2026-08-16|ajax|vs|heerenveen,Eredivisie,2026-08-16,16/08/2026 16:45,Ajax,Heerenveen,forebet,btts,Yes,Yes,24,76,,,2026-08-18T20:51:32Z
-2026-08-22|mar-timo|vs|acad-mico-viseu,Liga Portugal,2026-08-22,22/08/2026 16:30,Marítimo,Académico Viseu,forebet,1x2,X,X,43,48,9,avg=1.50,2026-08-18T20:51:32Z
-2026-08-22|mar-timo|vs|acad-mico-viseu,Liga Portugal,2026-08-22,22/08/2026 16:30,Marítimo,Académico Viseu,forebet,correct_score,1 - 1,1 - 1,,,,avg=1.50,2026-08-18T20:51:32Z
-2026-08-22|mar-timo|vs|acad-mico-viseu,Liga Portugal,2026-08-22,22/08/2026 16:30,Marítimo,Académico Viseu,forebet,over_under,Under,Under,70,30,,,2026-08-18T20:51:32Z
-2026-08-22|mar-timo|vs|acad-mico-viseu,Liga Portugal,2026-08-22,22/08/2026 16:30,Marítimo,Académico Viseu,forebet,btts,Yes,Yes,44,56,,,2026-08-18T20:51:32Z
-2026-08-22|gd-estoril|vs|rio-ave,Liga Portugal,2026-08-22,22/08/2026 19:00,GD Estoril,Rio Ave,forebet,1x2,1,1,44,33,23,avg=2.78,2026-08-18T20:51:32Z
-2026-08-22|gd-estoril|vs|rio-ave,Liga Portugal,2026-08-22,22/08/2026 19:00,GD Estoril,Rio Ave,forebet,correct_score,2 - 1,2 - 1,,,,avg=2.78,2026-08-18T20:51:32Z
-2026-08-22|gd-estoril|vs|rio-ave,Liga Portugal,2026-08-22,22/08/2026 19:00,GD Estoril,Rio Ave,forebet,over_under,Over,Over,44,56,,,2026-08-18T20:51:32Z
-2026-08-22|gd-estoril|vs|rio-ave,Liga Portugal,2026-08-22,22/08/2026 19:00,GD Estoril,Rio Ave,forebet,btts,Yes,Yes,41,59,,,2026-08-18T20:51:32Z
-2026-08-22|sporting-cp|vs|fc-alverca,Liga Portugal,2026-08-22,22/08/2026 21:30,Sporting CP,FC Alverca,forebet,1x2,1,1,59,28,13,avg=3.16,2026-08-18T20:51:32Z
-2026-08-22|sporting-cp|vs|fc-alverca,Liga Portugal,2026-08-22,22/08/2026 21:30,Sporting CP,FC Alverca,forebet,correct_score,2 - 1,2 - 1,,,,avg=3.16,2026-08-18T20:51:32Z
-2026-08-22|sporting-cp|vs|fc-alverca,Liga Portugal,2026-08-22,22/08/2026 21:30,Sporting CP,FC Alverca,forebet,over_under,Over,Over,37,63,,,2026-08-18T20:51:32Z
-2026-08-22|sporting-cp|vs|fc-alverca,Liga Portugal,2026-08-22,22/08/2026 21:30,Sporting CP,FC Alverca,forebet,btts,Yes,Yes,33,67,,,2026-08-18T20:51:32Z
-2026-08-23|moreirense-fc|vs|sl-benfica,Liga Portugal,2026-08-23,23/08/2026 02:00,Moreirense FC,SL Benfica,forebet,1x2,2,2,14,34,52,avg=2.78,2026-08-18T20:51:32Z
-2026-08-23|moreirense-fc|vs|sl-benfica,Liga Portugal,2026-08-23,23/08/2026 02:00,Moreirense FC,SL Benfica,forebet,correct_score,1 - 2,1 - 2,,,,avg=2.78,2026-08-18T20:51:32Z
-2026-08-23|moreirense-fc|vs|sl-benfica,Liga Portugal,2026-08-23,23/08/2026 02:00,Moreirense FC,SL Benfica,forebet,over_under,Over,Over,44,56,,,2026-08-18T20:51:32Z
-2026-08-23|moreirense-fc|vs|sl-benfica,Liga Portugal,2026-08-23,23/08/2026 02:00,Moreirense FC,SL Benfica,forebet,btts,Yes,Yes,39,61,,,2026-08-18T20:51:32Z
-2026-08-23|estrela-amadora|vs|sporting-braga,Liga Portugal,2026-08-23,23/08/2026 02:00,Estrela Amadora,Sporting Braga,forebet,1x2,X,X,13,48,39,avg=2.54,2026-08-18T20:51:32Z
-2026-08-23|estrela-amadora|vs|sporting-braga,Liga Portugal,2026-08-23,23/08/2026 02:00,Estrela Amadora,Sporting Braga,forebet,correct_score,2 - 2,2 - 2,,,,avg=2.54,2026-08-18T20:51:32Z
-2026-08-23|estrela-amadora|vs|sporting-braga,Liga Portugal,2026-08-23,23/08/2026 02:00,Estrela Amadora,Sporting Braga,forebet,over_under,Over,Over,49,51,,,2026-08-18T20:51:32Z
-2026-08-23|estrela-amadora|vs|sporting-braga,Liga Portugal,2026-08-23,23/08/2026 02:00,Estrela Amadora,Sporting Braga,forebet,btts,Yes,Yes,34,66,,,2026-08-18T20:51:32Z
-2026-08-23|vit-ria|vs|nacional-madeira,Liga Portugal,2026-08-23,23/08/2026 16:30,Vitória,Nacional Madeira,forebet,1x2,2,2,22,31,47,avg=2.44,2026-08-18T20:51:32Z
-2026-08-23|vit-ria|vs|nacional-madeira,Liga Portugal,2026-08-23,23/08/2026 16:30,Vitória,Nacional Madeira,forebet,correct_score,0 - 2,0 - 2,,,,avg=2.44,2026-08-18T20:51:32Z
-2026-08-23|vit-ria|vs|nacional-madeira,Liga Portugal,2026-08-23,23/08/2026 16:30,Vitória,Nacional Madeira,forebet,over_under,Under,Under,51,49,,,2026-08-18T20:51:32Z
-2026-08-23|vit-ria|vs|nacional-madeira,Liga Portugal,2026-08-23,23/08/2026 16:30,Vitória,Nacional Madeira,forebet,btts,No,No,54,46,,,2026-08-18T20:51:32Z
-2026-08-23|santa-clara|vs|fc-famalic-o,Liga Portugal,2026-08-23,23/08/2026 19:00,Santa Clara,FC Famalicão,forebet,1x2,1,1,38,35,27,avg=2.08,2026-08-18T20:51:32Z
-2026-08-23|santa-clara|vs|fc-famalic-o,Liga Portugal,2026-08-23,23/08/2026 19:00,Santa Clara,FC Famalicão,forebet,correct_score,1 - 0,1 - 0,,,,avg=2.08,2026-08-18T20:51:32Z
-2026-08-23|santa-clara|vs|fc-famalic-o,Liga Portugal,2026-08-23,23/08/2026 19:00,Santa Clara,FC Famalicão,forebet,over_under,Under,Under,58,42,,,2026-08-18T20:51:32Z
-2026-08-23|santa-clara|vs|fc-famalic-o,Liga Portugal,2026-08-23,23/08/2026 19:00,Santa Clara,FC Famalicão,forebet,btts,No,No,60,40,,,2026-08-18T20:51:32Z
-2026-08-23|porto|vs|fc-arouca,Liga Portugal,2026-08-23,23/08/2026 21:30,Porto,FC Arouca,forebet,1x2,1,1,45,25,31,avg=3.09,2026-08-18T20:51:32Z
-2026-08-23|porto|vs|fc-arouca,Liga Portugal,2026-08-23,23/08/2026 21:30,Porto,FC Arouca,forebet,correct_score,3 - 1,3 - 1,,,,avg=3.09,2026-08-18T20:51:32Z
-2026-08-23|porto|vs|fc-arouca,Liga Portugal,2026-08-23,23/08/2026 21:30,Porto,FC Arouca,forebet,over_under,Over,Over,38,62,,,2026-08-18T20:51:32Z
-2026-08-23|porto|vs|fc-arouca,Liga Portugal,2026-08-23,23/08/2026 21:30,Porto,FC Arouca,forebet,btts,Yes,Yes,29,71,,,2026-08-18T20:51:32Z
-2026-08-24|gil-vicente|vs|casa-pia-ac,Liga Portugal,2026-08-24,24/08/2026 21:15,Gil Vicente,Casa Pia AC,forebet,1x2,1,1,60,27,12,avg=2.10,2026-08-18T20:51:32Z
-2026-08-24|gil-vicente|vs|casa-pia-ac,Liga Portugal,2026-08-24,24/08/2026 21:15,Gil Vicente,Casa Pia AC,forebet,correct_score,2 - 0,2 - 0,,,,avg=2.10,2026-08-18T20:51:32Z
-2026-08-24|gil-vicente|vs|casa-pia-ac,Liga Portugal,2026-08-24,24/08/2026 21:15,Gil Vicente,Casa Pia AC,forebet,over_under,Under,Under,58,42,,,2026-08-18T20:51:32Z
-2026-08-24|gil-vicente|vs|casa-pia-ac,Liga Portugal,2026-08-24,24/08/2026 21:15,Gil Vicente,Casa Pia AC,forebet,btts,No,No,57,43,,,2026-08-18T20:51:32Z
-2026-08-14|sporting-cp|vs|vit-ria,Liga Portugal,2026-08-14,14/08/2026 21:15,Sporting CP,Vitória,forebet,1x2,1,1,68,22,9,avg=3.01,2026-08-18T20:51:32Z
-2026-08-14|sporting-cp|vs|vit-ria,Liga Portugal,2026-08-14,14/08/2026 21:15,Sporting CP,Vitória,forebet,correct_score,3 - 0,3 - 0,,,,avg=3.01,2026-08-18T20:51:32Z
-2026-08-14|sporting-cp|vs|vit-ria,Liga Portugal,2026-08-14,14/08/2026 21:15,Sporting CP,Vitória,forebet,over_under,Over,Over,40,60,,,2026-08-18T20:51:32Z
-2026-08-14|sporting-cp|vs|vit-ria,Liga Portugal,2026-08-14,14/08/2026 21:15,Sporting CP,Vitória,forebet,btts,No,No,51,49,,,2026-08-18T20:51:32Z
-2026-08-15|fc-alverca|vs|estrela-amadora,Liga Portugal,2026-08-15,15/08/2026 16:30,FC Alverca,Estrela Amadora,forebet,1x2,X,X,27,49,25,avg=2.73,2026-08-18T20:51:32Z
-2026-08-15|fc-alverca|vs|estrela-amadora,Liga Portugal,2026-08-15,15/08/2026 16:30,FC Alverca,Estrela Amadora,forebet,correct_score,2 - 2,2 - 2,,,,avg=2.73,2026-08-18T20:51:32Z
-2026-08-15|fc-alverca|vs|estrela-amadora,Liga Portugal,2026-08-15,15/08/2026 16:30,FC Alverca,Estrela Amadora,forebet,over_under,Over,Over,45,55,,,2026-08-18T20:51:32Z
-2026-08-15|fc-alverca|vs|estrela-amadora,Liga Portugal,2026-08-15,15/08/2026 16:30,FC Alverca,Estrela Amadora,forebet,btts,Yes,Yes,42,58,,,2026-08-18T20:51:32Z
-2026-08-15|acad-mico-viseu|vs|santa-clara,Liga Portugal,2026-08-15,15/08/2026 19:00,Académico Viseu,Santa Clara,forebet,1x2,X,X,25,59,17,avg=2.06,2026-08-18T20:51:32Z
-2026-08-15|acad-mico-viseu|vs|santa-clara,Liga Portugal,2026-08-15,15/08/2026 19:00,Académico Viseu,Santa Clara,forebet,correct_score,1 - 1,1 - 1,,,,avg=2.06,2026-08-18T20:51:32Z
-2026-08-15|acad-mico-viseu|vs|santa-clara,Liga Portugal,2026-08-15,15/08/2026 19:00,Académico Viseu,Santa Clara,forebet,over_under,Under,Under,59,41,,,2026-08-18T20:51:32Z
-2026-08-15|acad-mico-viseu|vs|santa-clara,Liga Portugal,2026-08-15,15/08/2026 19:00,Académico Viseu,Santa Clara,forebet,btts,Yes,Yes,45,55,,,2026-08-18T20:51:32Z
-2026-08-15|rio-ave|vs|porto,Liga Portugal,2026-08-15,15/08/2026 21:30,Rio Ave,Porto,forebet,1x2,2,2,8,16,76,avg=2.70,2026-08-18T20:51:32Z
-2026-08-15|rio-ave|vs|porto,Liga Portugal,2026-08-15,15/08/2026 21:30,Rio Ave,Porto,forebet,correct_score,0 - 3,0 - 3,,,,avg=2.70,2026-08-18T20:51:32Z
-2026-08-15|rio-ave|vs|porto,Liga Portugal,2026-08-15,15/08/2026 21:30,Rio Ave,Porto,forebet,over_under,Over,Over,46,54,,,2026-08-18T20:51:32Z
-2026-08-15|rio-ave|vs|porto,Liga Portugal,2026-08-15,15/08/2026 21:30,Rio Ave,Porto,forebet,btts,No,No,51,49,,,2026-08-18T20:51:32Z
-2026-08-16|nacional-madeira|vs|gd-estoril,Liga Portugal,2026-08-16,16/08/2026 16:30,Nacional Madeira,GD Estoril,forebet,1x2,X,X,31,43,26,avg=2.40,2026-08-18T20:51:32Z
-2026-08-16|nacional-madeira|vs|gd-estoril,Liga Portugal,2026-08-16,16/08/2026 16:30,Nacional Madeira,GD Estoril,forebet,correct_score,1 - 1,1 - 1,,,,avg=2.40,2026-08-18T20:51:32Z
-2026-08-16|nacional-madeira|vs|gd-estoril,Liga Portugal,2026-08-16,16/08/2026 16:30,Nacional Madeira,GD Estoril,forebet,over_under,Under,Under,52,48,,,2026-08-18T20:51:32Z
-2026-08-16|nacional-madeira|vs|gd-estoril,Liga Portugal,2026-08-16,16/08/2026 16:30,Nacional Madeira,GD Estoril,forebet,btts,Yes,Yes,43,57,,,2026-08-18T20:51:32Z
-2026-08-16|fc-arouca|vs|moreirense-fc,Liga Portugal,2026-08-16,16/08/2026 19:00,FC Arouca,Moreirense FC,forebet,1x2,X,X,34,42,24,avg=2.00,2026-08-18T20:51:32Z
-2026-08-16|fc-arouca|vs|moreirense-fc,Liga Portugal,2026-08-16,16/08/2026 19:00,FC Arouca,Moreirense FC,forebet,correct_score,1 - 1,1 - 1,,,,avg=2.00,2026-08-18T20:51:32Z
-2026-08-16|fc-arouca|vs|moreirense-fc,Liga Portugal,2026-08-16,16/08/2026 19:00,FC Arouca,Moreirense FC,forebet,over_under,Under,Under,60,40,,,2026-08-18T20:51:32Z
-2026-08-16|fc-arouca|vs|moreirense-fc,Liga Portugal,2026-08-16,16/08/2026 19:00,FC Arouca,Moreirense FC,forebet,btts,Yes,Yes,48,52,,,2026-08-18T20:51:32Z
-2026-08-16|fc-famalic-o|vs|mar-timo,Liga Portugal,2026-08-16,16/08/2026 21:30,FC Famalicão,Marítimo,forebet,1x2,X,X,31,35,33,avg=2.31,2026-08-18T20:51:32Z
-2026-08-16|fc-famalic-o|vs|mar-timo,Liga Portugal,2026-08-16,16/08/2026 21:30,FC Famalicão,Marítimo,forebet,correct_score,0 - 0,0 - 0,,,,avg=2.31,2026-08-18T20:51:32Z
-2026-08-16|fc-famalic-o|vs|mar-timo,Liga Portugal,2026-08-16,16/08/2026 21:30,FC Famalicão,Marítimo,forebet,over_under,Under,Under,54,46,,,2026-08-18T20:51:32Z
-2026-08-16|fc-famalic-o|vs|mar-timo,Liga Portugal,2026-08-16,16/08/2026 21:30,FC Famalicão,Marítimo,forebet,btts,No,No,56,44,,,2026-08-18T20:51:32Z
-2026-08-16|sporting-braga|vs|gil-vicente,Liga Portugal,2026-08-16,16/08/2026,Sporting Braga,Gil Vicente,forebet,1x2,X,X,29,36,35,avg=2.20,2026-08-18T20:51:32Z
-2026-08-16|sporting-braga|vs|gil-vicente,Liga Portugal,2026-08-16,16/08/2026,Sporting Braga,Gil Vicente,forebet,correct_score,1 - 1,1 - 1,,,,avg=2.20,2026-08-18T20:51:32Z
-2026-08-16|sporting-braga|vs|gil-vicente,Liga Portugal,2026-08-16,16/08/2026,Sporting Braga,Gil Vicente,forebet,over_under,Under,Under,56,44,,,2026-08-18T20:51:32Z
-2026-08-16|sporting-braga|vs|gil-vicente,Liga Portugal,2026-08-16,16/08/2026,Sporting Braga,Gil Vicente,forebet,btts,Yes,Yes,37,63,,,2026-08-18T20:51:32Z
-2026-08-17|casa-pia-ac|vs|sl-benfica,Liga Portugal,2026-08-17,17/08/2026 21:15,Casa Pia AC,SL Benfica,forebet,1x2,2,2,15,38,47,avg=2.56,2026-08-18T20:51:32Z
-2026-08-17|casa-pia-ac|vs|sl-benfica,Liga Portugal,2026-08-17,17/08/2026 21:15,Casa Pia AC,SL Benfica,forebet,correct_score,1 - 2,1 - 2,,,,avg=2.56,2026-08-18T20:51:32Z
-2026-08-17|casa-pia-ac|vs|sl-benfica,Liga Portugal,2026-08-17,17/08/2026 21:15,Casa Pia AC,SL Benfica,forebet,over_under,Over,Over,49,51,,,2026-08-18T20:51:32Z
-2026-08-17|casa-pia-ac|vs|sl-benfica,Liga Portugal,2026-08-17,17/08/2026 21:15,Casa Pia AC,SL Benfica,forebet,btts,Yes,Yes,40,60,,,2026-08-18T20:51:32Z
+2026-08-21|arsenal|vs|coventry,Premier League,2026-08-21,21/08/2026 21:00,Arsenal,Coventry City,forebet,1x2,1,1,79,11,10,avg=3.24,2026-08-19T17:42:27Z
+2026-08-21|arsenal|vs|coventry,Premier League,2026-08-21,21/08/2026 21:00,Arsenal,Coventry City,forebet,correct_score,3 - 0,3 - 0,,,,avg=3.24,2026-08-19T17:42:27Z
+2026-08-21|arsenal|vs|coventry,Premier League,2026-08-21,21/08/2026 21:00,Arsenal,Coventry City,forebet,over_under,Over,Over,35,65,,,2026-08-19T17:42:27Z
+2026-08-21|arsenal|vs|coventry,Premier League,2026-08-21,21/08/2026 21:00,Arsenal,Coventry City,forebet,btts,No,No,51,49,,,2026-08-19T17:42:27Z
+2026-08-22|hull-city|vs|manchester-united,Premier League,2026-08-22,22/08/2026 13:30,Hull City,Manchester United,forebet,1x2,2,2,19,28,54,avg=2.89,2026-08-19T17:42:27Z
+2026-08-22|hull-city|vs|manchester-united,Premier League,2026-08-22,22/08/2026 13:30,Hull City,Manchester United,forebet,correct_score,0 - 3,0 - 3,,,,avg=2.89,2026-08-19T17:42:27Z
+2026-08-22|hull-city|vs|manchester-united,Premier League,2026-08-22,22/08/2026 13:30,Hull City,Manchester United,forebet,over_under,Over,Over,42,58,,,2026-08-19T17:42:27Z
+2026-08-22|hull-city|vs|manchester-united,Premier League,2026-08-22,22/08/2026 13:30,Hull City,Manchester United,forebet,btts,No,No,51,49,,,2026-08-19T17:42:27Z
+2026-08-22|nottingham-forest|vs|leeds-united,Premier League,2026-08-22,22/08/2026 16:00,Nottingham Forest,Leeds United,forebet,1x2,X,X,35,37,28,avg=2.40,2026-08-19T17:42:27Z
+2026-08-22|nottingham-forest|vs|leeds-united,Premier League,2026-08-22,22/08/2026 16:00,Nottingham Forest,Leeds United,forebet,correct_score,1 - 1,1 - 1,,,,avg=2.40,2026-08-19T17:42:27Z
+2026-08-22|nottingham-forest|vs|leeds-united,Premier League,2026-08-22,22/08/2026 16:00,Nottingham Forest,Leeds United,forebet,over_under,Under,Under,52,48,,,2026-08-19T17:42:27Z
+2026-08-22|nottingham-forest|vs|leeds-united,Premier League,2026-08-22,22/08/2026 16:00,Nottingham Forest,Leeds United,forebet,btts,Yes,Yes,43,57,,,2026-08-19T17:42:27Z
+2026-08-22|ipswich-town|vs|sunderland,Premier League,2026-08-22,22/08/2026 16:00,Ipswich Town,Sunderland,forebet,1x2,1,1,38,27,36,avg=2.56,2026-08-19T17:42:27Z
+2026-08-22|ipswich-town|vs|sunderland,Premier League,2026-08-22,22/08/2026 16:00,Ipswich Town,Sunderland,forebet,correct_score,2 - 1,2 - 1,,,,avg=2.56,2026-08-19T17:42:27Z
+2026-08-22|ipswich-town|vs|sunderland,Premier League,2026-08-22,22/08/2026 16:00,Ipswich Town,Sunderland,forebet,over_under,Over,Over,49,51,,,2026-08-19T17:42:27Z
+2026-08-22|ipswich-town|vs|sunderland,Premier League,2026-08-22,22/08/2026 16:00,Ipswich Town,Sunderland,forebet,btts,Yes,Yes,41,59,,,2026-08-19T17:42:27Z
+2026-08-22|everton|vs|crystal-palace,Premier League,2026-08-22,22/08/2026 16:00,Everton,Crystal Palace,forebet,1x2,1,1,42,28,29,avg=2.64,2026-08-19T17:42:27Z
+2026-08-22|everton|vs|crystal-palace,Premier League,2026-08-22,22/08/2026 16:00,Everton,Crystal Palace,forebet,correct_score,2 - 1,2 - 1,,,,avg=2.64,2026-08-19T17:42:27Z
+2026-08-22|everton|vs|crystal-palace,Premier League,2026-08-22,22/08/2026 16:00,Everton,Crystal Palace,forebet,over_under,Over,Over,47,53,,,2026-08-19T17:42:27Z
+2026-08-22|everton|vs|crystal-palace,Premier League,2026-08-22,22/08/2026 16:00,Everton,Crystal Palace,forebet,btts,Yes,Yes,44,56,,,2026-08-19T17:42:27Z
+2026-08-22|brentford|vs|tottenham,Premier League,2026-08-22,22/08/2026 18:30,Brentford,Tottenham,forebet,1x2,2,2,30,32,38,avg=2.75,2026-08-19T17:42:27Z
+2026-08-22|brentford|vs|tottenham,Premier League,2026-08-22,22/08/2026 18:30,Brentford,Tottenham,forebet,correct_score,1 - 2,1 - 2,,,,avg=2.75,2026-08-19T17:42:27Z
+2026-08-22|brentford|vs|tottenham,Premier League,2026-08-22,22/08/2026 18:30,Brentford,Tottenham,forebet,over_under,Over,Over,45,55,,,2026-08-19T17:42:27Z
+2026-08-22|brentford|vs|tottenham,Premier League,2026-08-22,22/08/2026 18:30,Brentford,Tottenham,forebet,btts,Yes,Yes,38,62,,,2026-08-19T17:42:27Z
+2026-08-23|manchester-city|vs|bournemouth,Premier League,2026-08-23,23/08/2026 15:00,Manchester City,Bournemouth,forebet,1x2,1,1,67,19,14,avg=3.37,2026-08-19T17:42:27Z
+2026-08-23|manchester-city|vs|bournemouth,Premier League,2026-08-23,23/08/2026 15:00,Manchester City,Bournemouth,forebet,correct_score,3 - 0,3 - 0,,,,avg=3.37,2026-08-19T17:42:27Z
+2026-08-23|manchester-city|vs|bournemouth,Premier League,2026-08-23,23/08/2026 15:00,Manchester City,Bournemouth,forebet,over_under,Over,Over,33,67,,,2026-08-19T17:42:27Z
+2026-08-23|manchester-city|vs|bournemouth,Premier League,2026-08-23,23/08/2026 15:00,Manchester City,Bournemouth,forebet,btts,No,No,51,49,,,2026-08-19T17:42:27Z
+2026-08-23|brighton|vs|aston-villa,Premier League,2026-08-23,23/08/2026 15:00,Brighton,Aston Villa,forebet,1x2,2,2,30,28,42,avg=2.77,2026-08-19T17:42:27Z
+2026-08-23|brighton|vs|aston-villa,Premier League,2026-08-23,23/08/2026 15:00,Brighton,Aston Villa,forebet,correct_score,1 - 2,1 - 2,,,,avg=2.77,2026-08-19T17:42:27Z
+2026-08-23|brighton|vs|aston-villa,Premier League,2026-08-23,23/08/2026 15:00,Brighton,Aston Villa,forebet,over_under,Over,Over,45,55,,,2026-08-19T17:42:27Z
+2026-08-23|brighton|vs|aston-villa,Premier League,2026-08-23,23/08/2026 15:00,Brighton,Aston Villa,forebet,btts,Yes,Yes,36,64,,,2026-08-19T17:42:27Z
+2026-08-23|newcastle-united|vs|liverpool,Premier League,2026-08-23,23/08/2026 17:30,Newcastle United,Liverpool,forebet,1x2,2,2,38,18,44,avg=3.20,2026-08-19T17:42:27Z
+2026-08-23|newcastle-united|vs|liverpool,Premier League,2026-08-23,23/08/2026 17:30,Newcastle United,Liverpool,forebet,correct_score,1 - 3,1 - 3,,,,avg=3.20,2026-08-19T17:42:27Z
+2026-08-23|newcastle-united|vs|liverpool,Premier League,2026-08-23,23/08/2026 17:30,Newcastle United,Liverpool,forebet,over_under,Over,Over,36,64,,,2026-08-19T17:42:27Z
+2026-08-23|newcastle-united|vs|liverpool,Premier League,2026-08-23,23/08/2026 17:30,Newcastle United,Liverpool,forebet,btts,Yes,Yes,25,75,,,2026-08-19T17:42:27Z
+2026-08-24|fulham|vs|chelsea,Premier League,2026-08-24,24/08/2026 21:00,Fulham,Chelsea,forebet,1x2,2,2,32,25,44,avg=2.57,2026-08-19T17:42:27Z
+2026-08-24|fulham|vs|chelsea,Premier League,2026-08-24,24/08/2026 21:00,Fulham,Chelsea,forebet,correct_score,1 - 2,1 - 2,,,,avg=2.57,2026-08-19T17:42:27Z
+2026-08-24|fulham|vs|chelsea,Premier League,2026-08-24,24/08/2026 21:00,Fulham,Chelsea,forebet,over_under,Over,Over,49,51,,,2026-08-19T17:42:27Z
+2026-08-24|fulham|vs|chelsea,Premier League,2026-08-24,24/08/2026 21:00,Fulham,Chelsea,forebet,btts,Yes,Yes,38,62,,,2026-08-19T17:42:27Z
+2026-08-15|deportivo-alav-s|vs|getafe,La Liga,2026-08-15,15/08/2026 19:30,Deportivo Alavés,Getafe,forebet,1x2,1,1,36,32,33,avg=2.23,2026-08-19T17:42:27Z
+2026-08-15|deportivo-alav-s|vs|getafe,La Liga,2026-08-15,15/08/2026 19:30,Deportivo Alavés,Getafe,forebet,correct_score,2 - 0,2 - 0,,,,avg=2.23,2026-08-19T17:42:27Z
+2026-08-15|deportivo-alav-s|vs|getafe,La Liga,2026-08-15,15/08/2026 19:30,Deportivo Alavés,Getafe,forebet,over_under,Under,Under,55,45,,,2026-08-19T17:42:27Z
+2026-08-15|deportivo-alav-s|vs|getafe,La Liga,2026-08-15,15/08/2026 19:30,Deportivo Alavés,Getafe,forebet,btts,No,No,55,45,,,2026-08-19T17:42:27Z
+2026-08-15|sevilla|vs|rayo-vallecano,La Liga,2026-08-15,15/08/2026 21:30,Sevilla,Rayo Vallecano,forebet,1x2,1,1,48,27,25,avg=2.67,2026-08-19T17:42:27Z
+2026-08-15|sevilla|vs|rayo-vallecano,La Liga,2026-08-15,15/08/2026 21:30,Sevilla,Rayo Vallecano,forebet,correct_score,2 - 1,2 - 1,,,,avg=2.67,2026-08-19T17:42:27Z
+2026-08-15|sevilla|vs|rayo-vallecano,La Liga,2026-08-15,15/08/2026 21:30,Sevilla,Rayo Vallecano,forebet,over_under,Over,Over,47,53,,,2026-08-19T17:42:27Z
+2026-08-15|sevilla|vs|rayo-vallecano,La Liga,2026-08-15,15/08/2026 21:30,Sevilla,Rayo Vallecano,forebet,btts,Yes,Yes,42,58,,,2026-08-19T17:42:27Z
+2026-08-16|racing-santander|vs|villarreal,La Liga,2026-08-16,16/08/2026 17:00,Racing Santander,Villarreal,forebet,1x2,2,2,33,24,44,avg=2.68,2026-08-19T17:42:27Z
+2026-08-16|racing-santander|vs|villarreal,La Liga,2026-08-16,16/08/2026 17:00,Racing Santander,Villarreal,forebet,correct_score,1 - 2,1 - 2,,,,avg=2.68,2026-08-19T17:42:27Z
+2026-08-16|racing-santander|vs|villarreal,La Liga,2026-08-16,16/08/2026 17:00,Racing Santander,Villarreal,forebet,over_under,Over,Over,46,54,,,2026-08-19T17:42:27Z
+2026-08-16|racing-santander|vs|villarreal,La Liga,2026-08-16,16/08/2026 17:00,Racing Santander,Villarreal,forebet,btts,Yes,Yes,29,71,,,2026-08-19T17:42:27Z
+2026-08-16|espanyol|vs|levante,La Liga,2026-08-16,16/08/2026 19:00,Espanyol,Levante,forebet,1x2,1,1,42,27,30,avg=2.62,2026-08-19T17:42:27Z
+2026-08-16|espanyol|vs|levante,La Liga,2026-08-16,16/08/2026 19:00,Espanyol,Levante,forebet,correct_score,2 - 1,2 - 1,,,,avg=2.62,2026-08-19T17:42:27Z
+2026-08-16|espanyol|vs|levante,La Liga,2026-08-16,16/08/2026 19:00,Espanyol,Levante,forebet,over_under,Over,Over,48,52,,,2026-08-19T17:42:27Z
+2026-08-16|espanyol|vs|levante,La Liga,2026-08-16,16/08/2026 19:00,Espanyol,Levante,forebet,btts,Yes,Yes,45,55,,,2026-08-19T17:42:27Z
+2026-08-17|deportivo-la-coru-a|vs|elche,La Liga,2026-08-17,17/08/2026 21:00,Deportivo La Coruña,Elche,forebet,1x2,1,1,52,23,25,avg=2.92,2026-08-19T17:42:27Z
+2026-08-17|deportivo-la-coru-a|vs|elche,La Liga,2026-08-17,17/08/2026 21:00,Deportivo La Coruña,Elche,forebet,correct_score,3 - 0,3 - 0,,,,avg=2.92,2026-08-19T17:42:27Z
+2026-08-17|deportivo-la-coru-a|vs|elche,La Liga,2026-08-17,17/08/2026 21:00,Deportivo La Coruña,Elche,forebet,over_under,Over,Over,42,58,,,2026-08-19T17:42:27Z
+2026-08-17|deportivo-la-coru-a|vs|elche,La Liga,2026-08-17,17/08/2026 21:00,Deportivo La Coruña,Elche,forebet,btts,No,No,51,49,,,2026-08-19T17:42:27Z
+2026-08-19|atl-tico-madrid|vs|m-laga-cf,La Liga,2026-08-19,19/08/2026 21:00,Atlético Madrid,Málaga CF,forebet,1x2,1,1,65,14,21,avg=2.71,2026-08-19T17:42:27Z
+2026-08-19|atl-tico-madrid|vs|m-laga-cf,La Liga,2026-08-19,19/08/2026 21:00,Atlético Madrid,Málaga CF,forebet,correct_score,3 - 0,3 - 0,,,,avg=2.71,2026-08-19T17:42:27Z
+2026-08-19|atl-tico-madrid|vs|m-laga-cf,La Liga,2026-08-19,19/08/2026 21:00,Atlético Madrid,Málaga CF,forebet,over_under,Over,Over,46,54,,,2026-08-19T17:42:27Z
+2026-08-19|atl-tico-madrid|vs|m-laga-cf,La Liga,2026-08-19,19/08/2026 21:00,Atlético Madrid,Málaga CF,forebet,btts,No,No,51,49,,,2026-08-19T17:42:27Z
+2026-08-25|valencia|vs|real-betis,La Liga,2026-08-25,25/08/2026 21:00,Valencia,Real Betis,forebet,1x2,1,1,41,28,30,avg=2.80,2026-08-19T17:42:27Z
+2026-08-25|valencia|vs|real-betis,La Liga,2026-08-25,25/08/2026 21:00,Valencia,Real Betis,forebet,correct_score,2 - 1,2 - 1,,,,avg=2.80,2026-08-19T17:42:27Z
+2026-08-25|valencia|vs|real-betis,La Liga,2026-08-25,25/08/2026 21:00,Valencia,Real Betis,forebet,over_under,Over,Over,44,56,,,2026-08-19T17:42:27Z
+2026-08-25|valencia|vs|real-betis,La Liga,2026-08-25,25/08/2026 21:00,Valencia,Real Betis,forebet,btts,Yes,Yes,37,63,,,2026-08-19T17:42:27Z
+2026-08-26|real-madrid|vs|real-sociedad,La Liga,2026-08-26,26/08/2026 21:00,Real Madrid,Real Sociedad,forebet,1x2,1,1,63,19,18,avg=3.19,2026-08-19T17:42:27Z
+2026-08-26|real-madrid|vs|real-sociedad,La Liga,2026-08-26,26/08/2026 21:00,Real Madrid,Real Sociedad,forebet,correct_score,4 - 0,4 - 0,,,,avg=3.19,2026-08-19T17:42:27Z
+2026-08-26|real-madrid|vs|real-sociedad,La Liga,2026-08-26,26/08/2026 21:00,Real Madrid,Real Sociedad,forebet,over_under,Over,Over,36,64,,,2026-08-19T17:42:27Z
+2026-08-26|real-madrid|vs|real-sociedad,La Liga,2026-08-26,26/08/2026 21:00,Real Madrid,Real Sociedad,forebet,btts,No,No,51,49,,,2026-08-19T17:42:27Z
+2026-08-27|celta-vigo|vs|osasuna,La Liga,2026-08-27,27/08/2026 20:30,Celta Vigo,Osasuna,forebet,1x2,1,1,47,24,29,avg=2.30,2026-08-19T17:42:27Z
+2026-08-27|celta-vigo|vs|osasuna,La Liga,2026-08-27,27/08/2026 20:30,Celta Vigo,Osasuna,forebet,correct_score,2 - 0,2 - 0,,,,avg=2.30,2026-08-19T17:42:27Z
+2026-08-27|celta-vigo|vs|osasuna,La Liga,2026-08-27,27/08/2026 20:30,Celta Vigo,Osasuna,forebet,over_under,Under,Under,54,46,,,2026-08-19T17:42:27Z
+2026-08-27|celta-vigo|vs|osasuna,La Liga,2026-08-27,27/08/2026 20:30,Celta Vigo,Osasuna,forebet,btts,No,No,51,49,,,2026-08-19T17:42:27Z
+2026-08-27|barcelona|vs|athletic-bilbao,La Liga,2026-08-27,27/08/2026 21:00,Barcelona,Athletic Bilbao,forebet,1x2,1,1,74,15,11,avg=3.09,2026-08-19T17:42:27Z
+2026-08-27|barcelona|vs|athletic-bilbao,La Liga,2026-08-27,27/08/2026 21:00,Barcelona,Athletic Bilbao,forebet,correct_score,3 - 0,3 - 0,,,,avg=3.09,2026-08-19T17:42:27Z
+2026-08-27|barcelona|vs|athletic-bilbao,La Liga,2026-08-27,27/08/2026 21:00,Barcelona,Athletic Bilbao,forebet,over_under,Over,Over,38,62,,,2026-08-19T17:42:27Z
+2026-08-27|barcelona|vs|athletic-bilbao,La Liga,2026-08-27,27/08/2026 21:00,Barcelona,Athletic Bilbao,forebet,btts,No,No,51,49,,,2026-08-19T17:42:27Z
+2026-08-28|bayern-munich|vs|stuttgart,Bundesliga,2026-08-28,28/08/2026 20:30,Bayern Munich,Stuttgart,forebet,1x2,1,1,66,15,19,avg=4.11,2026-08-19T17:42:27Z
+2026-08-28|bayern-munich|vs|stuttgart,Bundesliga,2026-08-28,28/08/2026 20:30,Bayern Munich,Stuttgart,forebet,correct_score,3 - 0,3 - 0,,,,avg=4.11,2026-08-19T17:42:27Z
+2026-08-28|bayern-munich|vs|stuttgart,Bundesliga,2026-08-28,28/08/2026 20:30,Bayern Munich,Stuttgart,forebet,over_under,Over,Over,18,82,,,2026-08-19T17:42:27Z
+2026-08-28|bayern-munich|vs|stuttgart,Bundesliga,2026-08-28,28/08/2026 20:30,Bayern Munich,Stuttgart,forebet,btts,No,No,51,49,,,2026-08-19T17:42:27Z
+2026-08-29|sv-elversberg|vs|bayer-leverkusen,Bundesliga,2026-08-29,29/08/2026 15:30,SV Elversberg,Bayer Leverkusen,forebet,1x2,2,2,35,17,48,avg=4.21,2026-08-19T17:42:27Z
+2026-08-29|sv-elversberg|vs|bayer-leverkusen,Bundesliga,2026-08-29,29/08/2026 15:30,SV Elversberg,Bayer Leverkusen,forebet,correct_score,2 - 4,2 - 4,,,,avg=4.21,2026-08-19T17:42:27Z
+2026-08-29|sv-elversberg|vs|bayer-leverkusen,Bundesliga,2026-08-29,29/08/2026 15:30,SV Elversberg,Bayer Leverkusen,forebet,over_under,Over,Over,16,84,,,2026-08-19T17:42:27Z
+2026-08-29|sv-elversberg|vs|bayer-leverkusen,Bundesliga,2026-08-29,29/08/2026 15:30,SV Elversberg,Bayer Leverkusen,forebet,btts,Yes,Yes,11,89,,,2026-08-19T17:42:27Z
+2026-08-29|k-ln|vs|hoffenheim,Bundesliga,2026-08-29,29/08/2026 15:30,Köln,Hoffenheim,forebet,1x2,2,2,29,26,46,avg=3.32,2026-08-19T17:42:27Z
+2026-08-29|k-ln|vs|hoffenheim,Bundesliga,2026-08-29,29/08/2026 15:30,Köln,Hoffenheim,forebet,correct_score,1 - 3,1 - 3,,,,avg=3.32,2026-08-19T17:42:27Z
+2026-08-29|k-ln|vs|hoffenheim,Bundesliga,2026-08-29,29/08/2026 15:30,Köln,Hoffenheim,forebet,over_under,Over,Over,34,66,,,2026-08-19T17:42:27Z
+2026-08-29|k-ln|vs|hoffenheim,Bundesliga,2026-08-29,29/08/2026 15:30,Köln,Hoffenheim,forebet,btts,Yes,Yes,26,74,,,2026-08-19T17:42:27Z
+2026-08-29|union-berlin|vs|eintracht-frankfurt,Bundesliga,2026-08-29,29/08/2026 15:30,Union Berlin,Eintracht Frankfurt,forebet,1x2,2,2,31,33,37,avg=3.41,2026-08-19T17:42:27Z
+2026-08-29|union-berlin|vs|eintracht-frankfurt,Bundesliga,2026-08-29,29/08/2026 15:30,Union Berlin,Eintracht Frankfurt,forebet,correct_score,2 - 3,2 - 3,,,,avg=3.41,2026-08-19T17:42:27Z
+2026-08-29|union-berlin|vs|eintracht-frankfurt,Bundesliga,2026-08-29,29/08/2026 15:30,Union Berlin,Eintracht Frankfurt,forebet,over_under,Over,Over,32,68,,,2026-08-19T17:42:27Z
+2026-08-29|union-berlin|vs|eintracht-frankfurt,Bundesliga,2026-08-29,29/08/2026 15:30,Union Berlin,Eintracht Frankfurt,forebet,btts,Yes,Yes,23,77,,,2026-08-19T17:42:27Z
+2026-08-29|mainz|vs|paderborn,Bundesliga,2026-08-29,29/08/2026 15:30,Mainz,Paderborn,forebet,1x2,1,1,44,32,25,avg=3.19,2026-08-19T17:42:27Z
+2026-08-29|mainz|vs|paderborn,Bundesliga,2026-08-29,29/08/2026 15:30,Mainz,Paderborn,forebet,correct_score,3 - 1,3 - 1,,,,avg=3.19,2026-08-19T17:42:27Z
+2026-08-29|mainz|vs|paderborn,Bundesliga,2026-08-29,29/08/2026 15:30,Mainz,Paderborn,forebet,over_under,Over,Over,36,64,,,2026-08-19T17:42:27Z
+2026-08-29|mainz|vs|paderborn,Bundesliga,2026-08-29,29/08/2026 15:30,Mainz,Paderborn,forebet,btts,Yes,Yes,31,69,,,2026-08-19T17:42:27Z
+2026-08-29|rb-leipzig|vs|borussia-m-gladbach,Bundesliga,2026-08-29,29/08/2026 15:30,RB Leipzig,Borussia M'gladbach,forebet,1x2,1,1,58,22,21,avg=2.83,2026-08-19T17:42:27Z
+2026-08-29|rb-leipzig|vs|borussia-m-gladbach,Bundesliga,2026-08-29,29/08/2026 15:30,RB Leipzig,Borussia M'gladbach,forebet,correct_score,3 - 0,3 - 0,,,,avg=2.83,2026-08-19T17:42:27Z
+2026-08-29|rb-leipzig|vs|borussia-m-gladbach,Bundesliga,2026-08-29,29/08/2026 15:30,RB Leipzig,Borussia M'gladbach,forebet,over_under,Over,Over,43,57,,,2026-08-19T17:42:27Z
+2026-08-29|rb-leipzig|vs|borussia-m-gladbach,Bundesliga,2026-08-29,29/08/2026 15:30,RB Leipzig,Borussia M'gladbach,forebet,btts,No,No,51,49,,,2026-08-19T17:42:27Z
+2026-08-29|borussia-dortmund|vs|hamburger-sv,Bundesliga,2026-08-29,29/08/2026 18:30,Borussia Dortmund,Hamburger SV,forebet,1x2,1,1,61,19,20,avg=3.17,2026-08-19T17:42:27Z
+2026-08-29|borussia-dortmund|vs|hamburger-sv,Bundesliga,2026-08-29,29/08/2026 18:30,Borussia Dortmund,Hamburger SV,forebet,correct_score,3 - 0,3 - 0,,,,avg=3.17,2026-08-19T17:42:27Z
+2026-08-29|borussia-dortmund|vs|hamburger-sv,Bundesliga,2026-08-29,29/08/2026 18:30,Borussia Dortmund,Hamburger SV,forebet,over_under,Over,Over,37,63,,,2026-08-19T17:42:27Z
+2026-08-29|borussia-dortmund|vs|hamburger-sv,Bundesliga,2026-08-29,29/08/2026 18:30,Borussia Dortmund,Hamburger SV,forebet,btts,No,No,51,49,,,2026-08-19T17:42:27Z
+2026-08-30|freiburg|vs|werder-bremen,Bundesliga,2026-08-30,30/08/2026 15:30,Freiburg,Werder Bremen,forebet,1x2,1,1,47,23,30,avg=3.13,2026-08-19T17:42:27Z
+2026-08-30|freiburg|vs|werder-bremen,Bundesliga,2026-08-30,30/08/2026 15:30,Freiburg,Werder Bremen,forebet,correct_score,2 - 1,2 - 1,,,,avg=3.13,2026-08-19T17:42:27Z
+2026-08-30|freiburg|vs|werder-bremen,Bundesliga,2026-08-30,30/08/2026 15:30,Freiburg,Werder Bremen,forebet,over_under,Over,Over,37,63,,,2026-08-19T17:42:27Z
+2026-08-30|freiburg|vs|werder-bremen,Bundesliga,2026-08-30,30/08/2026 15:30,Freiburg,Werder Bremen,forebet,btts,Yes,Yes,39,61,,,2026-08-19T17:42:27Z
+2026-08-30|augsburg|vs|schalke-04,Bundesliga,2026-08-30,30/08/2026 17:30,Augsburg,Schalke 04,forebet,1x2,1,1,35,31,33,avg=2.87,2026-08-19T17:42:27Z
+2026-08-30|augsburg|vs|schalke-04,Bundesliga,2026-08-30,30/08/2026 17:30,Augsburg,Schalke 04,forebet,correct_score,2 - 1,2 - 1,,,,avg=2.87,2026-08-19T17:42:27Z
+2026-08-30|augsburg|vs|schalke-04,Bundesliga,2026-08-30,30/08/2026 17:30,Augsburg,Schalke 04,forebet,over_under,Over,Over,43,57,,,2026-08-19T17:42:27Z
+2026-08-30|augsburg|vs|schalke-04,Bundesliga,2026-08-30,30/08/2026 17:30,Augsburg,Schalke 04,forebet,btts,Yes,Yes,40,60,,,2026-08-19T17:42:27Z
+2026-08-22|udinese|vs|calcio-como,Serie A,2026-08-22,22/08/2026 18:30,Udinese,Calcio Como,forebet,1x2,2,2,34,22,44,avg=2.29,2026-08-19T17:42:27Z
+2026-08-22|udinese|vs|calcio-como,Serie A,2026-08-22,22/08/2026 18:30,Udinese,Calcio Como,forebet,correct_score,0 - 2,0 - 2,,,,avg=2.29,2026-08-19T17:42:27Z
+2026-08-22|udinese|vs|calcio-como,Serie A,2026-08-22,22/08/2026 18:30,Udinese,Calcio Como,forebet,over_under,Under,Under,54,46,,,2026-08-19T17:42:27Z
+2026-08-22|udinese|vs|calcio-como,Serie A,2026-08-22,22/08/2026 18:30,Udinese,Calcio Como,forebet,btts,No,No,50,50,,,2026-08-19T17:42:27Z
+2026-08-22|inter|vs|monza,Serie A,2026-08-22,22/08/2026 18:30,Inter,Monza,forebet,1x2,1,1,64,21,15,avg=3.40,2026-08-19T17:42:27Z
+2026-08-22|inter|vs|monza,Serie A,2026-08-22,22/08/2026 18:30,Inter,Monza,forebet,correct_score,4 - 0,4 - 0,,,,avg=3.40,2026-08-19T17:42:27Z
+2026-08-22|inter|vs|monza,Serie A,2026-08-22,22/08/2026 18:30,Inter,Monza,forebet,over_under,Over,Over,32,68,,,2026-08-19T17:42:27Z
+2026-08-22|inter|vs|monza,Serie A,2026-08-22,22/08/2026 18:30,Inter,Monza,forebet,btts,No,No,51,49,,,2026-08-19T17:42:27Z
+2026-08-22|parma|vs|cagliari,Serie A,2026-08-22,22/08/2026 20:45,Parma,Cagliari,forebet,1x2,2,2,34,31,36,avg=2.43,2026-08-19T17:42:27Z
+2026-08-22|parma|vs|cagliari,Serie A,2026-08-22,22/08/2026 20:45,Parma,Cagliari,forebet,correct_score,0 - 2,0 - 2,,,,avg=2.43,2026-08-19T17:42:27Z
+2026-08-22|parma|vs|cagliari,Serie A,2026-08-22,22/08/2026 20:45,Parma,Cagliari,forebet,over_under,Under,Under,51,49,,,2026-08-19T17:42:27Z
+2026-08-22|parma|vs|cagliari,Serie A,2026-08-22,22/08/2026 20:45,Parma,Cagliari,forebet,btts,No,No,61,39,,,2026-08-19T17:42:27Z
+2026-08-22|genoa|vs|napoli,Serie A,2026-08-22,22/08/2026 20:45,Genoa,Napoli,forebet,1x2,2,2,27,25,48,avg=2.56,2026-08-19T17:42:27Z
+2026-08-22|genoa|vs|napoli,Serie A,2026-08-22,22/08/2026 20:45,Genoa,Napoli,forebet,correct_score,1 - 2,1 - 2,,,,avg=2.56,2026-08-19T17:42:27Z
+2026-08-22|genoa|vs|napoli,Serie A,2026-08-22,22/08/2026 20:45,Genoa,Napoli,forebet,over_under,Over,Over,49,51,,,2026-08-19T17:42:27Z
+2026-08-22|genoa|vs|napoli,Serie A,2026-08-22,22/08/2026 20:45,Genoa,Napoli,forebet,btts,Yes,Yes,43,57,,,2026-08-19T17:42:27Z
+2026-08-23|venezia|vs|lecce,Serie A,2026-08-23,23/08/2026 18:30,Venezia,Lecce,forebet,1x2,2,2,34,31,35,avg=2.45,2026-08-19T17:42:27Z
+2026-08-23|venezia|vs|lecce,Serie A,2026-08-23,23/08/2026 18:30,Venezia,Lecce,forebet,correct_score,0 - 2,0 - 2,,,,avg=2.45,2026-08-19T17:42:27Z
+2026-08-23|venezia|vs|lecce,Serie A,2026-08-23,23/08/2026 18:30,Venezia,Lecce,forebet,over_under,Under,Under,51,49,,,2026-08-19T17:42:27Z
+2026-08-23|venezia|vs|lecce,Serie A,2026-08-23,23/08/2026 18:30,Venezia,Lecce,forebet,btts,No,No,50,50,,,2026-08-19T17:42:27Z
+2026-08-23|frosinone|vs|juventus,Serie A,2026-08-23,23/08/2026 18:30,Frosinone,Juventus,forebet,1x2,2,2,19,20,61,avg=2.49,2026-08-19T17:42:27Z
+2026-08-23|frosinone|vs|juventus,Serie A,2026-08-23,23/08/2026 18:30,Frosinone,Juventus,forebet,correct_score,0 - 2,0 - 2,,,,avg=2.49,2026-08-19T17:42:27Z
+2026-08-23|frosinone|vs|juventus,Serie A,2026-08-23,23/08/2026 18:30,Frosinone,Juventus,forebet,over_under,Under,Under,50,50,,,2026-08-19T17:42:27Z
+2026-08-23|frosinone|vs|juventus,Serie A,2026-08-23,23/08/2026 18:30,Frosinone,Juventus,forebet,btts,No,No,51,49,,,2026-08-19T17:42:27Z
+2026-08-23|torino|vs|milan,Serie A,2026-08-23,23/08/2026 20:45,Torino,Milan,forebet,1x2,2,2,24,28,48,avg=2.57,2026-08-19T17:42:27Z
+2026-08-23|torino|vs|milan,Serie A,2026-08-23,23/08/2026 20:45,Torino,Milan,forebet,correct_score,1 - 2,1 - 2,,,,avg=2.57,2026-08-19T17:42:27Z
+2026-08-23|torino|vs|milan,Serie A,2026-08-23,23/08/2026 20:45,Torino,Milan,forebet,over_under,Over,Over,49,51,,,2026-08-19T17:42:27Z
+2026-08-23|torino|vs|milan,Serie A,2026-08-23,23/08/2026 20:45,Torino,Milan,forebet,btts,Yes,Yes,43,57,,,2026-08-19T17:42:27Z
+2026-08-23|atalanta|vs|sassuolo,Serie A,2026-08-23,23/08/2026 20:45,Atalanta,Sassuolo,forebet,1x2,1,1,52,25,23,avg=2.61,2026-08-19T17:42:27Z
+2026-08-23|atalanta|vs|sassuolo,Serie A,2026-08-23,23/08/2026 20:45,Atalanta,Sassuolo,forebet,correct_score,2 - 1,2 - 1,,,,avg=2.61,2026-08-19T17:42:27Z
+2026-08-23|atalanta|vs|sassuolo,Serie A,2026-08-23,23/08/2026 20:45,Atalanta,Sassuolo,forebet,over_under,Over,Over,48,52,,,2026-08-19T17:42:27Z
+2026-08-23|atalanta|vs|sassuolo,Serie A,2026-08-23,23/08/2026 20:45,Atalanta,Sassuolo,forebet,btts,Yes,Yes,43,57,,,2026-08-19T17:42:27Z
+2026-08-24|bologna|vs|lazio,Serie A,2026-08-24,24/08/2026 18:30,Bologna,Lazio,forebet,1x2,2,2,31,28,41,avg=2.25,2026-08-19T17:42:27Z
+2026-08-24|bologna|vs|lazio,Serie A,2026-08-24,24/08/2026 18:30,Bologna,Lazio,forebet,correct_score,0 - 2,0 - 2,,,,avg=2.25,2026-08-19T17:42:27Z
+2026-08-24|bologna|vs|lazio,Serie A,2026-08-24,24/08/2026 18:30,Bologna,Lazio,forebet,over_under,Under,Under,55,45,,,2026-08-19T17:42:27Z
+2026-08-24|bologna|vs|lazio,Serie A,2026-08-24,24/08/2026 18:30,Bologna,Lazio,forebet,btts,No,No,56,44,,,2026-08-19T17:42:27Z
+2026-08-24|roma|vs|fiorentina,Serie A,2026-08-24,24/08/2026 20:45,Roma,Fiorentina,forebet,1x2,1,1,57,22,21,avg=2.67,2026-08-19T17:42:27Z
+2026-08-24|roma|vs|fiorentina,Serie A,2026-08-24,24/08/2026 20:45,Roma,Fiorentina,forebet,correct_score,2 - 1,2 - 1,,,,avg=2.67,2026-08-19T17:42:27Z
+2026-08-24|roma|vs|fiorentina,Serie A,2026-08-24,24/08/2026 20:45,Roma,Fiorentina,forebet,over_under,Over,Over,47,53,,,2026-08-19T17:42:27Z
+2026-08-24|roma|vs|fiorentina,Serie A,2026-08-24,24/08/2026 20:45,Roma,Fiorentina,forebet,btts,Yes,Yes,40,60,,,2026-08-19T17:42:27Z
+2026-08-22|fortuna-sittard|vs|az-alkmaar,Eredivisie,2026-08-22,22/08/2026 16:30,Fortuna Sittard,AZ Alkmaar,forebet,1x2,2,2,21,25,54,avg=3.05,2026-08-19T17:42:27Z
+2026-08-22|fortuna-sittard|vs|az-alkmaar,Eredivisie,2026-08-22,22/08/2026 16:30,Fortuna Sittard,AZ Alkmaar,forebet,correct_score,1 - 3,1 - 3,,,,avg=3.05,2026-08-19T17:42:27Z
+2026-08-22|fortuna-sittard|vs|az-alkmaar,Eredivisie,2026-08-22,22/08/2026 16:30,Fortuna Sittard,AZ Alkmaar,forebet,over_under,Over,Over,39,61,,,2026-08-19T17:42:27Z
+2026-08-22|fortuna-sittard|vs|az-alkmaar,Eredivisie,2026-08-22,22/08/2026 16:30,Fortuna Sittard,AZ Alkmaar,forebet,btts,Yes,Yes,26,74,,,2026-08-19T17:42:27Z
+2026-08-22|sparta-rotterdam|vs|utrecht,Eredivisie,2026-08-22,22/08/2026 18:45,Sparta Rotterdam,Utrecht,forebet,1x2,1,1,40,32,28,avg=2.93,2026-08-19T17:42:27Z
+2026-08-22|sparta-rotterdam|vs|utrecht,Eredivisie,2026-08-22,22/08/2026 18:45,Sparta Rotterdam,Utrecht,forebet,correct_score,2 - 1,2 - 1,,,,avg=2.93,2026-08-19T17:42:27Z
+2026-08-22|sparta-rotterdam|vs|utrecht,Eredivisie,2026-08-22,22/08/2026 18:45,Sparta Rotterdam,Utrecht,forebet,over_under,Over,Over,41,59,,,2026-08-19T17:42:27Z
+2026-08-22|sparta-rotterdam|vs|utrecht,Eredivisie,2026-08-22,22/08/2026 18:45,Sparta Rotterdam,Utrecht,forebet,btts,Yes,Yes,37,63,,,2026-08-19T17:42:27Z
+2026-08-22|nijmegen|vs|excelsior,Eredivisie,2026-08-22,22/08/2026,Nijmegen,Excelsior,forebet,1x2,1,1,36,31,33,avg=3.15,2026-08-19T17:42:27Z
+2026-08-22|nijmegen|vs|excelsior,Eredivisie,2026-08-22,22/08/2026,Nijmegen,Excelsior,forebet,correct_score,3 - 2,3 - 2,,,,avg=3.15,2026-08-19T17:42:27Z
+2026-08-22|nijmegen|vs|excelsior,Eredivisie,2026-08-22,22/08/2026,Nijmegen,Excelsior,forebet,over_under,Over,Over,37,63,,,2026-08-19T17:42:27Z
+2026-08-22|nijmegen|vs|excelsior,Eredivisie,2026-08-22,22/08/2026,Nijmegen,Excelsior,forebet,btts,Yes,Yes,22,78,,,2026-08-19T17:42:27Z
+2026-08-22|heerenveen|vs|pec-zwolle,Eredivisie,2026-08-22,22/08/2026 21:00,Heerenveen,PEC Zwolle,forebet,1x2,1,1,59,27,14,avg=3.25,2026-08-19T17:42:27Z
+2026-08-22|heerenveen|vs|pec-zwolle,Eredivisie,2026-08-22,22/08/2026 21:00,Heerenveen,PEC Zwolle,forebet,correct_score,3 - 1,3 - 1,,,,avg=3.25,2026-08-19T17:42:27Z
+2026-08-22|heerenveen|vs|pec-zwolle,Eredivisie,2026-08-22,22/08/2026 21:00,Heerenveen,PEC Zwolle,forebet,over_under,Over,Over,35,65,,,2026-08-19T17:42:27Z
+2026-08-22|heerenveen|vs|pec-zwolle,Eredivisie,2026-08-22,22/08/2026 21:00,Heerenveen,PEC Zwolle,forebet,btts,Yes,Yes,28,72,,,2026-08-19T17:42:27Z
+2026-08-23|go-ahead-eagles|vs|ado-den-haag,Eredivisie,2026-08-23,23/08/2026 12:15,Go Ahead Eagles,ADO Den Haag,forebet,1x2,1,1,61,21,19,avg=3.29,2026-08-19T17:42:27Z
+2026-08-23|go-ahead-eagles|vs|ado-den-haag,Eredivisie,2026-08-23,23/08/2026 12:15,Go Ahead Eagles,ADO Den Haag,forebet,correct_score,3 - 0,3 - 0,,,,avg=3.29,2026-08-19T17:42:27Z
+2026-08-23|go-ahead-eagles|vs|ado-den-haag,Eredivisie,2026-08-23,23/08/2026 12:15,Go Ahead Eagles,ADO Den Haag,forebet,over_under,Over,Over,34,66,,,2026-08-19T17:42:27Z
+2026-08-23|go-ahead-eagles|vs|ado-den-haag,Eredivisie,2026-08-23,23/08/2026 12:15,Go Ahead Eagles,ADO Den Haag,forebet,btts,No,No,51,49,,,2026-08-19T17:42:27Z
+2026-08-23|psv-eindhoven|vs|groningen,Eredivisie,2026-08-23,23/08/2026 14:30,PSV Eindhoven,Groningen,forebet,1x2,2,2,36,24,40,avg=3.45,2026-08-19T17:42:27Z
+2026-08-23|psv-eindhoven|vs|groningen,Eredivisie,2026-08-23,23/08/2026 14:30,PSV Eindhoven,Groningen,forebet,correct_score,2 - 3,2 - 3,,,,avg=3.45,2026-08-19T17:42:27Z
+2026-08-23|psv-eindhoven|vs|groningen,Eredivisie,2026-08-23,23/08/2026 14:30,PSV Eindhoven,Groningen,forebet,over_under,Over,Over,31,69,,,2026-08-19T17:42:27Z
+2026-08-23|psv-eindhoven|vs|groningen,Eredivisie,2026-08-23,23/08/2026 14:30,PSV Eindhoven,Groningen,forebet,btts,Yes,Yes,19,81,,,2026-08-19T17:42:27Z
+2026-08-23|cambuur|vs|feyenoord,Eredivisie,2026-08-23,23/08/2026 16:45,Cambuur,Feyenoord,forebet,1x2,2,2,8,27,65,avg=3.07,2026-08-19T17:42:27Z
+2026-08-23|cambuur|vs|feyenoord,Eredivisie,2026-08-23,23/08/2026 16:45,Cambuur,Feyenoord,forebet,correct_score,1 - 2,1 - 2,,,,avg=3.07,2026-08-19T17:42:27Z
+2026-08-23|cambuur|vs|feyenoord,Eredivisie,2026-08-23,23/08/2026 16:45,Cambuur,Feyenoord,forebet,over_under,Over,Over,39,61,,,2026-08-19T17:42:27Z
+2026-08-23|cambuur|vs|feyenoord,Eredivisie,2026-08-23,23/08/2026 16:45,Cambuur,Feyenoord,forebet,btts,Yes,Yes,25,75,,,2026-08-19T17:42:27Z
+2026-09-09|twente|vs|sc-telstar,Eredivisie,2026-09-09,09/09/2026 18:45,Twente,SC Telstar,forebet,1x2,1,1,45,34,21,avg=2.46,2026-08-19T17:42:27Z
+2026-09-09|twente|vs|sc-telstar,Eredivisie,2026-09-09,09/09/2026 18:45,Twente,SC Telstar,forebet,correct_score,2 - 0,2 - 0,,,,avg=2.46,2026-08-19T17:42:27Z
+2026-09-09|twente|vs|sc-telstar,Eredivisie,2026-09-09,09/09/2026 18:45,Twente,SC Telstar,forebet,over_under,Under,Under,51,49,,,2026-08-19T17:42:27Z
+2026-09-09|twente|vs|sc-telstar,Eredivisie,2026-09-09,09/09/2026 18:45,Twente,SC Telstar,forebet,btts,No,No,51,49,,,2026-08-19T17:42:27Z
+2026-09-15|ajax|vs|willem-ii-tilburg,Eredivisie,2026-09-15,15/09/2026 20:00,Ajax,Willem II Tilburg,forebet,1x2,1,1,73,18,9,avg=3.15,2026-08-19T17:42:27Z
+2026-09-15|ajax|vs|willem-ii-tilburg,Eredivisie,2026-09-15,15/09/2026 20:00,Ajax,Willem II Tilburg,forebet,correct_score,3 - 0,3 - 0,,,,avg=3.15,2026-08-19T17:42:27Z
+2026-09-15|ajax|vs|willem-ii-tilburg,Eredivisie,2026-09-15,15/09/2026 20:00,Ajax,Willem II Tilburg,forebet,over_under,Over,Over,37,63,,,2026-08-19T17:42:27Z
+2026-09-15|ajax|vs|willem-ii-tilburg,Eredivisie,2026-09-15,15/09/2026 20:00,Ajax,Willem II Tilburg,forebet,btts,No,No,51,49,,,2026-08-19T17:42:27Z
+2026-08-14|sc-telstar|vs|sparta-rotterdam,Eredivisie,2026-08-14,14/08/2026 20:00,SC Telstar,Sparta Rotterdam,forebet,1x2,1,1,50,23,27,avg=3.08,2026-08-19T17:42:27Z
+2026-08-14|sc-telstar|vs|sparta-rotterdam,Eredivisie,2026-08-14,14/08/2026 20:00,SC Telstar,Sparta Rotterdam,forebet,correct_score,2 - 1,2 - 1,,,,avg=3.08,2026-08-19T17:42:27Z
+2026-08-14|sc-telstar|vs|sparta-rotterdam,Eredivisie,2026-08-14,14/08/2026 20:00,SC Telstar,Sparta Rotterdam,forebet,over_under,Over,Over,38,62,,,2026-08-19T17:42:27Z
+2026-08-14|sc-telstar|vs|sparta-rotterdam,Eredivisie,2026-08-14,14/08/2026 20:00,SC Telstar,Sparta Rotterdam,forebet,btts,Yes,Yes,35,65,,,2026-08-19T17:42:27Z
+2026-08-15|willem-ii-tilburg|vs|nijmegen,Eredivisie,2026-08-15,15/08/2026 16:30,Willem II Tilburg,Nijmegen,forebet,1x2,X,X,29,36,35,avg=3.10,2026-08-19T17:42:27Z
+2026-08-15|willem-ii-tilburg|vs|nijmegen,Eredivisie,2026-08-15,15/08/2026 16:30,Willem II Tilburg,Nijmegen,forebet,correct_score,2 - 2,2 - 2,,,,avg=3.10,2026-08-19T17:42:27Z
+2026-08-15|willem-ii-tilburg|vs|nijmegen,Eredivisie,2026-08-15,15/08/2026 16:30,Willem II Tilburg,Nijmegen,forebet,over_under,Over,Over,38,62,,,2026-08-19T17:42:27Z
+2026-08-15|willem-ii-tilburg|vs|nijmegen,Eredivisie,2026-08-15,15/08/2026 16:30,Willem II Tilburg,Nijmegen,forebet,btts,Yes,Yes,21,79,,,2026-08-19T17:42:27Z
+2026-08-15|utrecht|vs|az-alkmaar,Eredivisie,2026-08-15,15/08/2026 18:45,Utrecht,AZ Alkmaar,forebet,1x2,2,2,29,23,49,avg=3.00,2026-08-19T17:42:27Z
+2026-08-15|utrecht|vs|az-alkmaar,Eredivisie,2026-08-15,15/08/2026 18:45,Utrecht,AZ Alkmaar,forebet,correct_score,1 - 2,1 - 2,,,,avg=3.00,2026-08-19T17:42:27Z
+2026-08-15|utrecht|vs|az-alkmaar,Eredivisie,2026-08-15,15/08/2026 18:45,Utrecht,AZ Alkmaar,forebet,over_under,Over,Over,40,60,,,2026-08-19T17:42:27Z
+2026-08-15|utrecht|vs|az-alkmaar,Eredivisie,2026-08-15,15/08/2026 18:45,Utrecht,AZ Alkmaar,forebet,btts,Yes,Yes,30,70,,,2026-08-19T17:42:27Z
+2026-08-15|excelsior|vs|psv-eindhoven,Eredivisie,2026-08-15,15/08/2026 20:00,Excelsior,PSV Eindhoven,forebet,1x2,2,2,19,38,43,avg=3.51,2026-08-19T17:42:27Z
+2026-08-15|excelsior|vs|psv-eindhoven,Eredivisie,2026-08-15,15/08/2026 20:00,Excelsior,PSV Eindhoven,forebet,correct_score,2 - 3,2 - 3,,,,avg=3.51,2026-08-19T17:42:27Z
+2026-08-15|excelsior|vs|psv-eindhoven,Eredivisie,2026-08-15,15/08/2026 20:00,Excelsior,PSV Eindhoven,forebet,over_under,Over,Over,30,70,,,2026-08-19T17:42:27Z
+2026-08-15|excelsior|vs|psv-eindhoven,Eredivisie,2026-08-15,15/08/2026 20:00,Excelsior,PSV Eindhoven,forebet,btts,Yes,Yes,19,81,,,2026-08-19T17:42:27Z
+2026-08-15|fortuna-sittard|vs|cambuur,Eredivisie,2026-08-15,15/08/2026 21:00,Fortuna Sittard,Cambuur,forebet,1x2,1,1,55,24,22,avg=3.16,2026-08-19T17:42:27Z
+2026-08-15|fortuna-sittard|vs|cambuur,Eredivisie,2026-08-15,15/08/2026 21:00,Fortuna Sittard,Cambuur,forebet,correct_score,2 - 1,2 - 1,,,,avg=3.16,2026-08-19T17:42:27Z
+2026-08-15|fortuna-sittard|vs|cambuur,Eredivisie,2026-08-15,15/08/2026 21:00,Fortuna Sittard,Cambuur,forebet,over_under,Over,Over,37,63,,,2026-08-19T17:42:27Z
+2026-08-15|fortuna-sittard|vs|cambuur,Eredivisie,2026-08-15,15/08/2026 21:00,Fortuna Sittard,Cambuur,forebet,btts,Yes,Yes,31,69,,,2026-08-19T17:42:27Z
+2026-08-16|ado-den-haag|vs|groningen,Eredivisie,2026-08-16,16/08/2026 12:15,ADO Den Haag,Groningen,forebet,1x2,2,2,19,16,65,avg=2.94,2026-08-19T17:42:27Z
+2026-08-16|ado-den-haag|vs|groningen,Eredivisie,2026-08-16,16/08/2026 12:15,ADO Den Haag,Groningen,forebet,correct_score,0 - 3,0 - 3,,,,avg=2.94,2026-08-19T17:42:27Z
+2026-08-16|ado-den-haag|vs|groningen,Eredivisie,2026-08-16,16/08/2026 12:15,ADO Den Haag,Groningen,forebet,over_under,Over,Over,41,59,,,2026-08-19T17:42:27Z
+2026-08-16|ado-den-haag|vs|groningen,Eredivisie,2026-08-16,16/08/2026 12:15,ADO Den Haag,Groningen,forebet,btts,No,No,51,49,,,2026-08-19T17:42:27Z
+2026-08-16|twente|vs|pec-zwolle,Eredivisie,2026-08-16,16/08/2026 14:30,Twente,PEC Zwolle,forebet,1x2,1,1,54,35,11,avg=3.00,2026-08-19T17:42:27Z
+2026-08-16|twente|vs|pec-zwolle,Eredivisie,2026-08-16,16/08/2026 14:30,Twente,PEC Zwolle,forebet,correct_score,2 - 1,2 - 1,,,,avg=3.00,2026-08-19T17:42:27Z
+2026-08-16|twente|vs|pec-zwolle,Eredivisie,2026-08-16,16/08/2026 14:30,Twente,PEC Zwolle,forebet,over_under,Over,Over,40,60,,,2026-08-19T17:42:27Z
+2026-08-16|twente|vs|pec-zwolle,Eredivisie,2026-08-16,16/08/2026 14:30,Twente,PEC Zwolle,forebet,btts,Yes,Yes,33,67,,,2026-08-19T17:42:27Z
+2026-08-16|feyenoord|vs|go-ahead-eagles,Eredivisie,2026-08-16,16/08/2026 14:30,Feyenoord,Go Ahead Eagles,forebet,1x2,2,2,37,24,38,avg=3.44,2026-08-19T17:42:27Z
+2026-08-16|feyenoord|vs|go-ahead-eagles,Eredivisie,2026-08-16,16/08/2026 14:30,Feyenoord,Go Ahead Eagles,forebet,correct_score,1 - 3,1 - 3,,,,avg=3.44,2026-08-19T17:42:27Z
+2026-08-16|feyenoord|vs|go-ahead-eagles,Eredivisie,2026-08-16,16/08/2026 14:30,Feyenoord,Go Ahead Eagles,forebet,over_under,Over,Over,31,69,,,2026-08-19T17:42:27Z
+2026-08-16|feyenoord|vs|go-ahead-eagles,Eredivisie,2026-08-16,16/08/2026 14:30,Feyenoord,Go Ahead Eagles,forebet,btts,Yes,Yes,25,75,,,2026-08-19T17:42:27Z
+2026-08-16|ajax|vs|heerenveen,Eredivisie,2026-08-16,16/08/2026 16:45,Ajax,Heerenveen,forebet,1x2,1,1,40,26,34,avg=3.44,2026-08-19T17:42:27Z
+2026-08-16|ajax|vs|heerenveen,Eredivisie,2026-08-16,16/08/2026 16:45,Ajax,Heerenveen,forebet,correct_score,3 - 1,3 - 1,,,,avg=3.44,2026-08-19T17:42:27Z
+2026-08-16|ajax|vs|heerenveen,Eredivisie,2026-08-16,16/08/2026 16:45,Ajax,Heerenveen,forebet,over_under,Over,Over,31,69,,,2026-08-19T17:42:27Z
+2026-08-16|ajax|vs|heerenveen,Eredivisie,2026-08-16,16/08/2026 16:45,Ajax,Heerenveen,forebet,btts,Yes,Yes,24,76,,,2026-08-19T17:42:27Z
+2026-08-22|mar-timo|vs|acad-mico-viseu,Liga Portugal,2026-08-22,22/08/2026 16:30,Marítimo,Académico Viseu,forebet,1x2,X,X,43,48,9,avg=1.50,2026-08-19T17:42:27Z
+2026-08-22|mar-timo|vs|acad-mico-viseu,Liga Portugal,2026-08-22,22/08/2026 16:30,Marítimo,Académico Viseu,forebet,correct_score,1 - 1,1 - 1,,,,avg=1.50,2026-08-19T17:42:27Z
+2026-08-22|mar-timo|vs|acad-mico-viseu,Liga Portugal,2026-08-22,22/08/2026 16:30,Marítimo,Académico Viseu,forebet,over_under,Under,Under,70,30,,,2026-08-19T17:42:27Z
+2026-08-22|mar-timo|vs|acad-mico-viseu,Liga Portugal,2026-08-22,22/08/2026 16:30,Marítimo,Académico Viseu,forebet,btts,Yes,Yes,44,56,,,2026-08-19T17:42:27Z
+2026-08-22|gd-estoril|vs|rio-ave,Liga Portugal,2026-08-22,22/08/2026 19:00,GD Estoril,Rio Ave,forebet,1x2,1,1,44,33,23,avg=2.78,2026-08-19T17:42:27Z
+2026-08-22|gd-estoril|vs|rio-ave,Liga Portugal,2026-08-22,22/08/2026 19:00,GD Estoril,Rio Ave,forebet,correct_score,2 - 1,2 - 1,,,,avg=2.78,2026-08-19T17:42:27Z
+2026-08-22|gd-estoril|vs|rio-ave,Liga Portugal,2026-08-22,22/08/2026 19:00,GD Estoril,Rio Ave,forebet,over_under,Over,Over,44,56,,,2026-08-19T17:42:27Z
+2026-08-22|gd-estoril|vs|rio-ave,Liga Portugal,2026-08-22,22/08/2026 19:00,GD Estoril,Rio Ave,forebet,btts,Yes,Yes,41,59,,,2026-08-19T17:42:27Z
+2026-08-22|sporting-cp|vs|fc-alverca,Liga Portugal,2026-08-22,22/08/2026 21:30,Sporting CP,FC Alverca,forebet,1x2,1,1,59,28,13,avg=3.16,2026-08-19T17:42:27Z
+2026-08-22|sporting-cp|vs|fc-alverca,Liga Portugal,2026-08-22,22/08/2026 21:30,Sporting CP,FC Alverca,forebet,correct_score,2 - 1,2 - 1,,,,avg=3.16,2026-08-19T17:42:27Z
+2026-08-22|sporting-cp|vs|fc-alverca,Liga Portugal,2026-08-22,22/08/2026 21:30,Sporting CP,FC Alverca,forebet,over_under,Over,Over,37,63,,,2026-08-19T17:42:27Z
+2026-08-22|sporting-cp|vs|fc-alverca,Liga Portugal,2026-08-22,22/08/2026 21:30,Sporting CP,FC Alverca,forebet,btts,Yes,Yes,33,67,,,2026-08-19T17:42:27Z
+2026-08-23|moreirense-fc|vs|sl-benfica,Liga Portugal,2026-08-23,23/08/2026 02:00,Moreirense FC,SL Benfica,forebet,1x2,2,2,14,34,52,avg=2.78,2026-08-19T17:42:27Z
+2026-08-23|moreirense-fc|vs|sl-benfica,Liga Portugal,2026-08-23,23/08/2026 02:00,Moreirense FC,SL Benfica,forebet,correct_score,1 - 2,1 - 2,,,,avg=2.78,2026-08-19T17:42:27Z
+2026-08-23|moreirense-fc|vs|sl-benfica,Liga Portugal,2026-08-23,23/08/2026 02:00,Moreirense FC,SL Benfica,forebet,over_under,Over,Over,44,56,,,2026-08-19T17:42:27Z
+2026-08-23|moreirense-fc|vs|sl-benfica,Liga Portugal,2026-08-23,23/08/2026 02:00,Moreirense FC,SL Benfica,forebet,btts,Yes,Yes,39,61,,,2026-08-19T17:42:27Z
+2026-08-23|estrela-amadora|vs|sporting-braga,Liga Portugal,2026-08-23,23/08/2026 02:00,Estrela Amadora,Sporting Braga,forebet,1x2,X,X,13,48,39,avg=2.54,2026-08-19T17:42:27Z
+2026-08-23|estrela-amadora|vs|sporting-braga,Liga Portugal,2026-08-23,23/08/2026 02:00,Estrela Amadora,Sporting Braga,forebet,correct_score,2 - 2,2 - 2,,,,avg=2.54,2026-08-19T17:42:27Z
+2026-08-23|estrela-amadora|vs|sporting-braga,Liga Portugal,2026-08-23,23/08/2026 02:00,Estrela Amadora,Sporting Braga,forebet,over_under,Over,Over,49,51,,,2026-08-19T17:42:27Z
+2026-08-23|estrela-amadora|vs|sporting-braga,Liga Portugal,2026-08-23,23/08/2026 02:00,Estrela Amadora,Sporting Braga,forebet,btts,Yes,Yes,34,66,,,2026-08-19T17:42:27Z
+2026-08-23|vit-ria|vs|nacional-madeira,Liga Portugal,2026-08-23,23/08/2026 16:30,Vitória,Nacional Madeira,forebet,1x2,2,2,22,31,47,avg=2.44,2026-08-19T17:42:27Z
+2026-08-23|vit-ria|vs|nacional-madeira,Liga Portugal,2026-08-23,23/08/2026 16:30,Vitória,Nacional Madeira,forebet,correct_score,0 - 2,0 - 2,,,,avg=2.44,2026-08-19T17:42:27Z
+2026-08-23|vit-ria|vs|nacional-madeira,Liga Portugal,2026-08-23,23/08/2026 16:30,Vitória,Nacional Madeira,forebet,over_under,Under,Under,51,49,,,2026-08-19T17:42:27Z
+2026-08-23|vit-ria|vs|nacional-madeira,Liga Portugal,2026-08-23,23/08/2026 16:30,Vitória,Nacional Madeira,forebet,btts,No,No,54,46,,,2026-08-19T17:42:27Z
+2026-08-23|santa-clara|vs|fc-famalic-o,Liga Portugal,2026-08-23,23/08/2026 19:00,Santa Clara,FC Famalicão,forebet,1x2,1,1,38,35,27,avg=2.08,2026-08-19T17:42:27Z
+2026-08-23|santa-clara|vs|fc-famalic-o,Liga Portugal,2026-08-23,23/08/2026 19:00,Santa Clara,FC Famalicão,forebet,correct_score,1 - 0,1 - 0,,,,avg=2.08,2026-08-19T17:42:27Z
+2026-08-23|santa-clara|vs|fc-famalic-o,Liga Portugal,2026-08-23,23/08/2026 19:00,Santa Clara,FC Famalicão,forebet,over_under,Under,Under,58,42,,,2026-08-19T17:42:27Z
+2026-08-23|santa-clara|vs|fc-famalic-o,Liga Portugal,2026-08-23,23/08/2026 19:00,Santa Clara,FC Famalicão,forebet,btts,No,No,60,40,,,2026-08-19T17:42:27Z
+2026-08-23|porto|vs|fc-arouca,Liga Portugal,2026-08-23,23/08/2026 21:30,Porto,FC Arouca,forebet,1x2,1,1,45,25,31,avg=3.09,2026-08-19T17:42:27Z
+2026-08-23|porto|vs|fc-arouca,Liga Portugal,2026-08-23,23/08/2026 21:30,Porto,FC Arouca,forebet,correct_score,3 - 1,3 - 1,,,,avg=3.09,2026-08-19T17:42:27Z
+2026-08-23|porto|vs|fc-arouca,Liga Portugal,2026-08-23,23/08/2026 21:30,Porto,FC Arouca,forebet,over_under,Over,Over,38,62,,,2026-08-19T17:42:27Z
+2026-08-23|porto|vs|fc-arouca,Liga Portugal,2026-08-23,23/08/2026 21:30,Porto,FC Arouca,forebet,btts,Yes,Yes,29,71,,,2026-08-19T17:42:27Z
+2026-08-24|gil-vicente|vs|casa-pia-ac,Liga Portugal,2026-08-24,24/08/2026 21:15,Gil Vicente,Casa Pia AC,forebet,1x2,1,1,60,27,12,avg=2.10,2026-08-19T17:42:27Z
+2026-08-24|gil-vicente|vs|casa-pia-ac,Liga Portugal,2026-08-24,24/08/2026 21:15,Gil Vicente,Casa Pia AC,forebet,correct_score,2 - 0,2 - 0,,,,avg=2.10,2026-08-19T17:42:27Z
+2026-08-24|gil-vicente|vs|casa-pia-ac,Liga Portugal,2026-08-24,24/08/2026 21:15,Gil Vicente,Casa Pia AC,forebet,over_under,Under,Under,58,42,,,2026-08-19T17:42:27Z
+2026-08-24|gil-vicente|vs|casa-pia-ac,Liga Portugal,2026-08-24,24/08/2026 21:15,Gil Vicente,Casa Pia AC,forebet,btts,No,No,57,43,,,2026-08-19T17:42:27Z
+2026-08-14|sporting-cp|vs|vit-ria,Liga Portugal,2026-08-14,14/08/2026 21:15,Sporting CP,Vitória,forebet,1x2,1,1,68,22,9,avg=3.01,2026-08-19T17:42:27Z
+2026-08-14|sporting-cp|vs|vit-ria,Liga Portugal,2026-08-14,14/08/2026 21:15,Sporting CP,Vitória,forebet,correct_score,3 - 0,3 - 0,,,,avg=3.01,2026-08-19T17:42:27Z
+2026-08-14|sporting-cp|vs|vit-ria,Liga Portugal,2026-08-14,14/08/2026 21:15,Sporting CP,Vitória,forebet,over_under,Over,Over,40,60,,,2026-08-19T17:42:27Z
+2026-08-14|sporting-cp|vs|vit-ria,Liga Portugal,2026-08-14,14/08/2026 21:15,Sporting CP,Vitória,forebet,btts,No,No,51,49,,,2026-08-19T17:42:27Z
+2026-08-15|fc-alverca|vs|estrela-amadora,Liga Portugal,2026-08-15,15/08/2026 16:30,FC Alverca,Estrela Amadora,forebet,1x2,X,X,27,49,25,avg=2.73,2026-08-19T17:42:27Z
+2026-08-15|fc-alverca|vs|estrela-amadora,Liga Portugal,2026-08-15,15/08/2026 16:30,FC Alverca,Estrela Amadora,forebet,correct_score,2 - 2,2 - 2,,,,avg=2.73,2026-08-19T17:42:27Z
+2026-08-15|fc-alverca|vs|estrela-amadora,Liga Portugal,2026-08-15,15/08/2026 16:30,FC Alverca,Estrela Amadora,forebet,over_under,Over,Over,45,55,,,2026-08-19T17:42:27Z
+2026-08-15|fc-alverca|vs|estrela-amadora,Liga Portugal,2026-08-15,15/08/2026 16:30,FC Alverca,Estrela Amadora,forebet,btts,Yes,Yes,42,58,,,2026-08-19T17:42:27Z
+2026-08-15|acad-mico-viseu|vs|santa-clara,Liga Portugal,2026-08-15,15/08/2026 19:00,Académico Viseu,Santa Clara,forebet,1x2,X,X,25,59,17,avg=2.06,2026-08-19T17:42:27Z
+2026-08-15|acad-mico-viseu|vs|santa-clara,Liga Portugal,2026-08-15,15/08/2026 19:00,Académico Viseu,Santa Clara,forebet,correct_score,1 - 1,1 - 1,,,,avg=2.06,2026-08-19T17:42:27Z
+2026-08-15|acad-mico-viseu|vs|santa-clara,Liga Portugal,2026-08-15,15/08/2026 19:00,Académico Viseu,Santa Clara,forebet,over_under,Under,Under,59,41,,,2026-08-19T17:42:27Z
+2026-08-15|acad-mico-viseu|vs|santa-clara,Liga Portugal,2026-08-15,15/08/2026 19:00,Académico Viseu,Santa Clara,forebet,btts,Yes,Yes,45,55,,,2026-08-19T17:42:27Z
+2026-08-15|rio-ave|vs|porto,Liga Portugal,2026-08-15,15/08/2026 21:30,Rio Ave,Porto,forebet,1x2,2,2,8,16,76,avg=2.70,2026-08-19T17:42:27Z
+2026-08-15|rio-ave|vs|porto,Liga Portugal,2026-08-15,15/08/2026 21:30,Rio Ave,Porto,forebet,correct_score,0 - 3,0 - 3,,,,avg=2.70,2026-08-19T17:42:27Z
+2026-08-15|rio-ave|vs|porto,Liga Portugal,2026-08-15,15/08/2026 21:30,Rio Ave,Porto,forebet,over_under,Over,Over,46,54,,,2026-08-19T17:42:27Z
+2026-08-15|rio-ave|vs|porto,Liga Portugal,2026-08-15,15/08/2026 21:30,Rio Ave,Porto,forebet,btts,No,No,51,49,,,2026-08-19T17:42:27Z
+2026-08-16|nacional-madeira|vs|gd-estoril,Liga Portugal,2026-08-16,16/08/2026 16:30,Nacional Madeira,GD Estoril,forebet,1x2,X,X,31,43,26,avg=2.40,2026-08-19T17:42:27Z
+2026-08-16|nacional-madeira|vs|gd-estoril,Liga Portugal,2026-08-16,16/08/2026 16:30,Nacional Madeira,GD Estoril,forebet,correct_score,1 - 1,1 - 1,,,,avg=2.40,2026-08-19T17:42:27Z
+2026-08-16|nacional-madeira|vs|gd-estoril,Liga Portugal,2026-08-16,16/08/2026 16:30,Nacional Madeira,GD Estoril,forebet,over_under,Under,Under,52,48,,,2026-08-19T17:42:27Z
+2026-08-16|nacional-madeira|vs|gd-estoril,Liga Portugal,2026-08-16,16/08/2026 16:30,Nacional Madeira,GD Estoril,forebet,btts,Yes,Yes,43,57,,,2026-08-19T17:42:27Z
+2026-08-16|fc-arouca|vs|moreirense-fc,Liga Portugal,2026-08-16,16/08/2026 19:00,FC Arouca,Moreirense FC,forebet,1x2,X,X,34,42,24,avg=2.00,2026-08-19T17:42:27Z
+2026-08-16|fc-arouca|vs|moreirense-fc,Liga Portugal,2026-08-16,16/08/2026 19:00,FC Arouca,Moreirense FC,forebet,correct_score,1 - 1,1 - 1,,,,avg=2.00,2026-08-19T17:42:27Z
+2026-08-16|fc-arouca|vs|moreirense-fc,Liga Portugal,2026-08-16,16/08/2026 19:00,FC Arouca,Moreirense FC,forebet,over_under,Under,Under,60,40,,,2026-08-19T17:42:27Z
+2026-08-16|fc-arouca|vs|moreirense-fc,Liga Portugal,2026-08-16,16/08/2026 19:00,FC Arouca,Moreirense FC,forebet,btts,Yes,Yes,48,52,,,2026-08-19T17:42:27Z
+2026-08-16|fc-famalic-o|vs|mar-timo,Liga Portugal,2026-08-16,16/08/2026 21:30,FC Famalicão,Marítimo,forebet,1x2,X,X,31,35,33,avg=2.31,2026-08-19T17:42:27Z
+2026-08-16|fc-famalic-o|vs|mar-timo,Liga Portugal,2026-08-16,16/08/2026 21:30,FC Famalicão,Marítimo,forebet,correct_score,0 - 0,0 - 0,,,,avg=2.31,2026-08-19T17:42:27Z
+2026-08-16|fc-famalic-o|vs|mar-timo,Liga Portugal,2026-08-16,16/08/2026 21:30,FC Famalicão,Marítimo,forebet,over_under,Under,Under,54,46,,,2026-08-19T17:42:27Z
+2026-08-16|fc-famalic-o|vs|mar-timo,Liga Portugal,2026-08-16,16/08/2026 21:30,FC Famalicão,Marítimo,forebet,btts,No,No,56,44,,,2026-08-19T17:42:27Z
+2026-08-16|sporting-braga|vs|gil-vicente,Liga Portugal,2026-08-16,16/08/2026,Sporting Braga,Gil Vicente,forebet,1x2,X,X,29,36,35,avg=2.20,2026-08-19T17:42:27Z
+2026-08-16|sporting-braga|vs|gil-vicente,Liga Portugal,2026-08-16,16/08/2026,Sporting Braga,Gil Vicente,forebet,correct_score,1 - 1,1 - 1,,,,avg=2.20,2026-08-19T17:42:27Z
+2026-08-16|sporting-braga|vs|gil-vicente,Liga Portugal,2026-08-16,16/08/2026,Sporting Braga,Gil Vicente,forebet,over_under,Under,Under,56,44,,,2026-08-19T17:42:27Z
+2026-08-16|sporting-braga|vs|gil-vicente,Liga Portugal,2026-08-16,16/08/2026,Sporting Braga,Gil Vicente,forebet,btts,Yes,Yes,37,63,,,2026-08-19T17:42:27Z
+2026-08-17|casa-pia-ac|vs|sl-benfica,Liga Portugal,2026-08-17,17/08/2026 21:15,Casa Pia AC,SL Benfica,forebet,1x2,2,2,15,38,47,avg=2.56,2026-08-19T17:42:27Z
+2026-08-17|casa-pia-ac|vs|sl-benfica,Liga Portugal,2026-08-17,17/08/2026 21:15,Casa Pia AC,SL Benfica,forebet,correct_score,1 - 2,1 - 2,,,,avg=2.56,2026-08-19T17:42:27Z
+2026-08-17|casa-pia-ac|vs|sl-benfica,Liga Portugal,2026-08-17,17/08/2026 21:15,Casa Pia AC,SL Benfica,forebet,over_under,Over,Over,49,51,,,2026-08-19T17:42:27Z
+2026-08-17|casa-pia-ac|vs|sl-benfica,Liga Portugal,2026-08-17,17/08/2026 21:15,Casa Pia AC,SL Benfica,forebet,btts,Yes,Yes,40,60,,,2026-08-19T17:42:27Z
+2026-05-25|paderborn|vs|wolfsburg,Bundesliga,2026-05-25,25/05/2026 20:30,Paderborn,Wolfsburg,forebet,1x2,X,X,27,39,34,avg=2.20,2026-08-17T05:23:43Z
+2026-05-25|paderborn|vs|wolfsburg,Bundesliga,2026-05-25,25/05/2026 20:30,Paderborn,Wolfsburg,forebet,correct_score,1 - 1,1 - 1,,,,avg=2.20,2026-08-17T05:23:43Z
+2026-05-25|paderborn|vs|wolfsburg,Bundesliga,2026-05-25,25/05/2026 20:30,Paderborn,Wolfsburg,forebet,over_under,Under,Under,56,44,,,2026-08-17T05:23:43Z
+2026-05-25|paderborn|vs|wolfsburg,Bundesliga,2026-05-25,25/05/2026 20:30,Paderborn,Wolfsburg,forebet,btts,Yes,Yes,39,61,,,2026-08-17T05:23:43Z
+2026-05-21|wolfsburg|vs|paderborn,Bundesliga,2026-05-21,21/05/2026 20:30,Wolfsburg,Paderborn,forebet,1x2,X,X,34,36,31,avg=2.00,2026-08-17T05:23:43Z
+2026-05-21|wolfsburg|vs|paderborn,Bundesliga,2026-05-21,21/05/2026 20:30,Wolfsburg,Paderborn,forebet,correct_score,1 - 1,1 - 1,,,,avg=2.00,2026-08-17T05:23:43Z
+2026-05-21|wolfsburg|vs|paderborn,Bundesliga,2026-05-21,21/05/2026 20:30,Wolfsburg,Paderborn,forebet,over_under,Under,Under,60,40,,,2026-08-17T05:23:43Z
+2026-05-21|wolfsburg|vs|paderborn,Bundesliga,2026-05-21,21/05/2026 20:30,Wolfsburg,Paderborn,forebet,btts,Yes,Yes,40,60,,,2026-08-17T05:23:43Z
 2026-08-07|gd-estoril|vs|fc-famalic-o,Liga Portugal,2026-08-07,07/08/2026 21:15,GD Estoril,FC Famalicão,forebet,1x2,2,2,33,26,41,avg=2.43,2026-08-17T05:23:43Z
 2026-08-07|gd-estoril|vs|fc-famalic-o,Liga Portugal,2026-08-07,07/08/2026 21:15,GD Estoril,FC Famalicão,forebet,correct_score,0 - 2,0 - 2,,,,avg=2.43,2026-08-17T05:23:43Z
 2026-08-07|gd-estoril|vs|fc-famalic-o,Liga Portugal,2026-08-07,07/08/2026 21:15,GD Estoril,FC Famalicão,forebet,over_under,Under,Under,51,49,,,2026-08-17T05:23:43Z
@@ -307,11 +343,24 @@ fixture_id,league,date,kickoff,home,away,site,market,pick,pick_norm,p1,p2,p3,not
 2026-08-10|santa-clara|vs|nacional-madeira,Liga Portugal,2026-08-10,10/08/2026 21:15,Santa Clara,Nacional Madeira,forebet,correct_score,2 - 1,2 - 1,,,,avg=2.53,2026-08-17T05:23:43Z
 2026-08-10|santa-clara|vs|nacional-madeira,Liga Portugal,2026-08-10,10/08/2026 21:15,Santa Clara,Nacional Madeira,forebet,over_under,Over,Over,49,51,,,2026-08-17T05:23:43Z
 2026-08-10|santa-clara|vs|nacional-madeira,Liga Portugal,2026-08-10,10/08/2026 21:15,Santa Clara,Nacional Madeira,forebet,btts,Yes,Yes,48,52,,,2026-08-17T05:23:43Z
-2026-08-17|deportivo-la-coru-a|vs|elche,La Liga,2026-08-17,22:00,Deportivo La Coruña,Elche CF,eaglepredict,1x2,Elche CF Win,2,,,,1.73,2026-08-17T05:24:37Z
-2026-08-17|casa-pia-ac|vs|sl-benfica,Primeira Liga,2026-08-17,22:15,Casa Pia,Benfica,eaglepredict,1x2,Benfica Win,2,,,,1.15,2026-08-17T05:24:37Z
-2026-08-17|casa-pia-ac|vs|sl-benfica,Primeira Liga,2026-08-17,22:15,Casa Pia,Benfica,eaglepredict,over_under,Over  2.5 Goals,Over,,,,1.55,2026-08-17T05:24:37Z
-2026-08-19|atl-tico-madrid|vs|m-laga-cf,La Liga,2026-08-19,22:00,Atlético Madrid,Málaga CF,eaglepredict,1x2,Atlético Madrid Win,1,,,,1.19,2026-08-17T05:24:37Z
-2026-08-19|atl-tico-madrid|vs|m-laga-cf,La Liga,2026-08-19,22:00,Atlético Madrid,Málaga CF,eaglepredict,over_under,Over  2.5 Goals,Over,,,,1.61,2026-08-17T05:24:37Z
+2026-08-19|atl-tico-madrid|vs|m-laga-cf,La Liga,2026-08-19,22:00,Atlético Madrid,Málaga CF,eaglepredict,1x2,Atlético Madrid Win,1,,,,1.18,2026-08-19T17:43:16Z
+2026-08-19|atl-tico-madrid|vs|m-laga-cf,La Liga,2026-08-19,22:00,Atlético Madrid,Málaga CF,eaglepredict,over_under,Over  2.5 Goals,Over,,,,1.52,2026-08-19T17:43:16Z
+2026-08-20|rayo-vallecano|vs|deportivo-alav-s,La Liga,2026-08-20,22:00,Rayo Vallecano,Deportivo Alavés,eaglepredict,1x2,Rayo Vallecano Win,1,,,,1.67,2026-08-19T17:43:16Z
+2026-08-21|betis|vs|real-sociedad,La Liga,2026-08-21,22:00,Betis,Real Sociedad,eaglepredict,1x2,Betis Win,1,,,,1.94,2026-08-19T17:43:16Z
+2026-08-21|betis|vs|real-sociedad,La Liga,2026-08-21,22:00,Betis,Real Sociedad,eaglepredict,over_under,Over  2.5 Goals,Over,,,,1.82,2026-08-19T17:43:16Z
+2026-08-22|fortuna-sittard|vs|az,Eredivisie,2026-08-22,17:30,Fortuna Sittard,AZ,eaglepredict,1x2,AZ Win,2,,,,1.48,2026-08-19T17:43:16Z
+2026-08-22|fortuna-sittard|vs|az,Eredivisie,2026-08-22,17:30,Fortuna Sittard,AZ,eaglepredict,over_under,Over  2.5 Goals,Over,,,,1.35,2026-08-19T17:43:16Z
+2026-08-22|heerenveen|vs|pec-zwolle,Eredivisie,2026-08-22,22:00,Heerenveen,PEC Zwolle,eaglepredict,1x2,Heerenveen Win,1,,,,1.45,2026-08-19T17:43:16Z
+2026-08-22|heerenveen|vs|pec-zwolle,Eredivisie,2026-08-22,22:00,Heerenveen,PEC Zwolle,eaglepredict,over_under,Over  2.5 Goals,Over,,,,1.33,2026-08-19T17:43:16Z
+2026-08-22|mar-timo|vs|academico-viseu,Primeira Liga,2026-08-22,17:30,CS Marítimo,Academico Viseu,eaglepredict,1x2,CS Marítimo Win,1,,,,1.82,2026-08-19T17:43:16Z
+2026-08-22|mar-timo|vs|academico-viseu,Primeira Liga,2026-08-22,17:30,CS Marítimo,Academico Viseu,eaglepredict,over_under,Over  2.5 Goals,Over,,,,1.90,2026-08-19T17:43:16Z
+2026-08-22|gd-estoril-praia|vs|rio-ave-fc,Primeira Liga,2026-08-22,20:00,GD Estoril Praia,Rio Ave FC,eaglepredict,1x2,GD Estoril Praia Win,1,,,,1.53,2026-08-19T17:43:16Z
+2026-08-22|gd-estoril-praia|vs|rio-ave-fc,Primeira Liga,2026-08-22,20:00,GD Estoril Praia,Rio Ave FC,eaglepredict,over_under,Over  2.5 Goals,Over,,,,1.69,2026-08-19T17:43:16Z
+2026-08-22|sporting-cp|vs|alverca,Primeira Liga,2026-08-22,22:30,Sporting CP,Alverca,eaglepredict,1x2,Sporting CP Win,1,,,,1.15,2026-08-19T17:43:16Z
+2026-08-22|sporting-cp|vs|alverca,Primeira Liga,2026-08-22,22:30,Sporting CP,Alverca,eaglepredict,over_under,Over  2.5 Goals,Over,,,,1.32,2026-08-19T17:43:16Z
+2026-08-22|athletic-bilbao|vs|sevilla,La Liga,2026-08-22,18:00,Athletic Bilbao,Sevilla,eaglepredict,1x2,Athletic Bilbao Win,1,,,,1.40,2026-08-19T17:43:16Z
+2026-08-22|espanyol|vs|real-madrid,La Liga,2026-08-22,22:30,Espanyol,Real Madrid,eaglepredict,1x2,Real Madrid Win,2,,,,1.32,2026-08-19T17:43:16Z
+2026-08-22|espanyol|vs|real-madrid,La Liga,2026-08-22,22:30,Espanyol,Real Madrid,eaglepredict,over_under,Over  2.5 Goals,Over,,,,1.58,2026-08-19T17:43:16Z
 2026-08-16|ado-den-haag|vs|groningen,Eredivisie,2026-08-16,13:15,ADO Den Haag,Groningen,eaglepredict,1x2,ADO Den Haag Win,1,,,,1.83,2026-08-16T10:35:42Z
 2026-08-16|ado-den-haag|vs|groningen,Eredivisie,2026-08-16,13:15,ADO Den Haag,Groningen,eaglepredict,over_under,Over  2.5 Goals,Over,,,,1.53,2026-08-16T10:35:42Z
 2026-08-16|feyenoord|vs|go-ahead-eagles,Eredivisie,2026-08-16,15:30,Feyenoord,Go Ahead Eagles,eaglepredict,1x2,Feyenoord Win,1,,,,1.18,2026-08-16T10:35:42Z
@@ -330,10 +379,61 @@ fixture_id,league,date,kickoff,home,away,site,market,pick,pick_norm,p1,p2,p3,not
 2026-08-16|sporting-braga|vs|gil-vicente,Primeira Liga,2026-08-16,22:30,Sporting Braga,Gil Vicente,eaglepredict,over_under,Over  2.5 Goals,Over,,,,1.77,2026-08-16T10:35:42Z
 2026-08-16|fc-famalic-o|vs|mar-timo,Primeira Liga,2026-08-16,22:30,Famalicão,CS Marítimo,eaglepredict,1x2,Famalicão Win,1,,,,1.75,2026-08-16T10:35:42Z
 2026-08-16|fc-famalic-o|vs|mar-timo,Primeira Liga,2026-08-16,22:30,Famalicão,CS Marítimo,eaglepredict,over_under,Over  2.5 Goals,Over,,,,1.77,2026-08-16T10:35:42Z
-2026-08-17|casa-pia-ac|vs|sl-benfica,Liga Portugal,2026-08-17,20:15,Casa Pia AC,Benfica,whoscored,1x2,2,2,,,,1.19,2026-08-17T05:42:56Z
-2026-08-17|casa-pia-ac|vs|sl-benfica,Liga Portugal,2026-08-17,20:15,Casa Pia AC,Benfica,whoscored,over_under,Over,Over,,,,1.57,2026-08-17T05:42:56Z
-2026-08-17|casa-pia-ac|vs|sl-benfica,Liga Portugal,2026-08-17,20:15,Casa Pia AC,Benfica,whoscored,btts,Yes,Yes,,,,,2026-08-17T05:42:56Z
-2026-08-17|casa-pia-ac|vs|sl-benfica,Liga Portugal,2026-08-17,20:15,Casa Pia AC,Benfica,whoscored,correct_score,1 - 2,1 - 2,,,,9,2026-08-17T05:42:56Z
+2026-08-17|casa-pia-ac|vs|sl-benfica,Primeira Liga,2026-08-17,22:15,Casa Pia,Benfica,eaglepredict,1x2,Benfica Win,2,,,,1.15,2026-08-16T10:35:42Z
+2026-08-17|casa-pia-ac|vs|sl-benfica,Primeira Liga,2026-08-17,22:15,Casa Pia,Benfica,eaglepredict,over_under,Over  2.5 Goals,Over,,,,1.49,2026-08-16T10:35:42Z
+2026-08-17|deportivo-la-coru-a|vs|elche,La Liga,2026-08-17,22:00,Deportivo La Coruña,Elche CF,eaglepredict,1x2,Elche CF Win,2,,,,1.73,2026-08-17T05:24:37Z
+2026-08-21|arsenal|vs|coventry,Premier League,2026-08-21,20:00,Arsenal,Coventry,whoscored,1x2,1,1,,,,1.14,2026-08-19T17:43:16Z
+2026-08-21|arsenal|vs|coventry,Premier League,2026-08-21,20:00,Arsenal,Coventry,whoscored,over_under,Over,Over,,,,1.52,2026-08-19T17:43:16Z
+2026-08-21|arsenal|vs|coventry,Premier League,2026-08-21,20:00,Arsenal,Coventry,whoscored,btts,No,No,,,,,2026-08-19T17:43:16Z
+2026-08-21|arsenal|vs|coventry,Premier League,2026-08-21,20:00,Arsenal,Coventry,whoscored,correct_score,3 - 0,3 - 0,,,,5.3,2026-08-19T17:43:16Z
+2026-08-22|hull|vs|manchester-united,Premier League,2026-08-22,12:30,Hull,Manchester United,whoscored,1x2,2,2,,,,1.33,2026-08-19T17:43:16Z
+2026-08-22|hull|vs|manchester-united,Premier League,2026-08-22,12:30,Hull,Manchester United,whoscored,over_under,Under,Under,,,,2.08,2026-08-19T17:43:16Z
+2026-08-22|hull|vs|manchester-united,Premier League,2026-08-22,12:30,Hull,Manchester United,whoscored,btts,No,No,,,,,2026-08-19T17:43:16Z
+2026-08-22|hull|vs|manchester-united,Premier League,2026-08-22,12:30,Hull,Manchester United,whoscored,correct_score,0 - 2,0 - 2,,,,5.7,2026-08-19T17:43:16Z
+2026-08-22|brentford|vs|tottenham,Premier League,2026-08-22,17:30,Brentford,Tottenham,whoscored,1x2,X,X,,,,3.39,2026-08-19T17:43:16Z
+2026-08-22|brentford|vs|tottenham,Premier League,2026-08-22,17:30,Brentford,Tottenham,whoscored,over_under,Over,Over,,,,1.58,2026-08-19T17:43:16Z
+2026-08-22|brentford|vs|tottenham,Premier League,2026-08-22,17:30,Brentford,Tottenham,whoscored,btts,Yes,Yes,,,,,2026-08-19T17:43:16Z
+2026-08-22|brentford|vs|tottenham,Premier League,2026-08-22,17:30,Brentford,Tottenham,whoscored,correct_score,2 - 2,2 - 2,,,,9,2026-08-19T17:43:16Z
+2026-08-19|atl-tico-madrid|vs|m-laga-cf,LaLiga,2026-08-19,20:00,Atletico Madrid,Malaga,whoscored,1x2,1,1,,,,1.31,2026-08-19T17:43:16Z
+2026-08-19|atl-tico-madrid|vs|m-laga-cf,LaLiga,2026-08-19,20:00,Atletico Madrid,Malaga,whoscored,over_under,Under,Under,,,,2.24,2026-08-19T17:43:16Z
+2026-08-19|atl-tico-madrid|vs|m-laga-cf,LaLiga,2026-08-19,20:00,Atletico Madrid,Malaga,whoscored,btts,No,No,,,,,2026-08-19T17:43:16Z
+2026-08-19|atl-tico-madrid|vs|m-laga-cf,LaLiga,2026-08-19,20:00,Atletico Madrid,Malaga,whoscored,correct_score,2 - 0,2 - 0,,,,5.9,2026-08-19T17:43:16Z
+2026-08-20|rayo-vallecano|vs|deportivo-alav-s,LaLiga,2026-08-20,20:00,Rayo Vallecano,Deportivo Alaves,whoscored,1x2,X,X,,,,2.96,2026-08-19T17:43:16Z
+2026-08-20|rayo-vallecano|vs|deportivo-alav-s,LaLiga,2026-08-20,20:00,Rayo Vallecano,Deportivo Alaves,whoscored,over_under,Under,Under,,,,1.44,2026-08-19T17:43:16Z
+2026-08-20|rayo-vallecano|vs|deportivo-alav-s,LaLiga,2026-08-20,20:00,Rayo Vallecano,Deportivo Alaves,whoscored,btts,Yes,Yes,,,,,2026-08-19T17:43:16Z
+2026-08-20|rayo-vallecano|vs|deportivo-alav-s,LaLiga,2026-08-20,20:00,Rayo Vallecano,Deportivo Alaves,whoscored,correct_score,1 - 1,1 - 1,,,,4.8,2026-08-19T17:43:16Z
+2026-08-21|real-betis|vs|real-sociedad,LaLiga,2026-08-21,20:00,Real Betis,Real Sociedad,whoscored,1x2,1,1,,,,1.94,2026-08-19T17:43:16Z
+2026-08-21|real-betis|vs|real-sociedad,LaLiga,2026-08-21,20:00,Real Betis,Real Sociedad,whoscored,over_under,Over,Over,,,,1.89,2026-08-19T17:43:16Z
+2026-08-21|real-betis|vs|real-sociedad,LaLiga,2026-08-21,20:00,Real Betis,Real Sociedad,whoscored,btts,Yes,Yes,,,,,2026-08-19T17:43:16Z
+2026-08-21|real-betis|vs|real-sociedad,LaLiga,2026-08-21,20:00,Real Betis,Real Sociedad,whoscored,correct_score,2 - 1,2 - 1,,,,6.7,2026-08-19T17:43:16Z
+2026-08-21|marseille|vs|strasbourg,Ligue 1,2026-08-21,19:45,Marseille,Strasbourg,whoscored,1x2,X,X,,,,3.8,2026-08-19T17:43:16Z
+2026-08-21|marseille|vs|strasbourg,Ligue 1,2026-08-21,19:45,Marseille,Strasbourg,whoscored,over_under,Under,Under,,,,2.35,2026-08-19T17:43:16Z
+2026-08-21|marseille|vs|strasbourg,Ligue 1,2026-08-21,19:45,Marseille,Strasbourg,whoscored,btts,Yes,Yes,,,,,2026-08-19T17:43:16Z
+2026-08-21|marseille|vs|strasbourg,Ligue 1,2026-08-21,19:45,Marseille,Strasbourg,whoscored,correct_score,1 - 1,1 - 1,,,,6.3,2026-08-19T17:43:16Z
+2026-08-22|fortuna-sittard|vs|az-alkmaar,Eredivisie,2026-08-22,15:30,Fortuna Sittard,AZ Alkmaar,whoscored,1x2,2,2,,,,1.47,2026-08-19T17:43:16Z
+2026-08-22|fortuna-sittard|vs|az-alkmaar,Eredivisie,2026-08-22,15:30,Fortuna Sittard,AZ Alkmaar,whoscored,over_under,Under,Under,,,,2.2,2026-08-19T17:43:16Z
+2026-08-22|fortuna-sittard|vs|az-alkmaar,Eredivisie,2026-08-22,15:30,Fortuna Sittard,AZ Alkmaar,whoscored,btts,No,No,,,,,2026-08-19T17:43:16Z
+2026-08-22|fortuna-sittard|vs|az-alkmaar,Eredivisie,2026-08-22,15:30,Fortuna Sittard,AZ Alkmaar,whoscored,correct_score,0 - 1,0 - 1,,,,7,2026-08-19T17:43:16Z
+2026-08-22|sparta-rotterdam|vs|utrecht,Eredivisie,2026-08-22,17:45,Sparta Rotterdam,FC Utrecht,whoscored,1x2,1,1,,,,2.36,2026-08-19T17:43:16Z
+2026-08-22|sparta-rotterdam|vs|utrecht,Eredivisie,2026-08-22,17:45,Sparta Rotterdam,FC Utrecht,whoscored,over_under,Over,Over,,,,1.54,2026-08-19T17:43:16Z
+2026-08-22|sparta-rotterdam|vs|utrecht,Eredivisie,2026-08-22,17:45,Sparta Rotterdam,FC Utrecht,whoscored,btts,Yes,Yes,,,,,2026-08-19T17:43:16Z
+2026-08-22|sparta-rotterdam|vs|utrecht,Eredivisie,2026-08-22,17:45,Sparta Rotterdam,FC Utrecht,whoscored,correct_score,2 - 1,2 - 1,,,,6.6,2026-08-19T17:43:16Z
+2026-08-22|heerenveen|vs|pec-zwolle,Eredivisie,2026-08-22,20:00,SC Heerenveen,PEC Zwolle,whoscored,1x2,1,1,,,,1.47,2026-08-19T17:43:16Z
+2026-08-22|heerenveen|vs|pec-zwolle,Eredivisie,2026-08-22,20:00,SC Heerenveen,PEC Zwolle,whoscored,over_under,Over,Over,,,,1.34,2026-08-19T17:43:16Z
+2026-08-22|heerenveen|vs|pec-zwolle,Eredivisie,2026-08-22,20:00,SC Heerenveen,PEC Zwolle,whoscored,btts,Yes,Yes,,,,,2026-08-19T17:43:16Z
+2026-08-22|heerenveen|vs|pec-zwolle,Eredivisie,2026-08-22,20:00,SC Heerenveen,PEC Zwolle,whoscored,correct_score,2 - 1,2 - 1,,,,5.7,2026-08-19T17:43:16Z
+2026-08-22|mar-timo|vs|acad-mico-viseu,Liga Portugal,2026-08-22,15:30,Maritimo,Academico Viseu,whoscored,1x2,1,1,,,,1.93,2026-08-19T17:43:16Z
+2026-08-22|mar-timo|vs|acad-mico-viseu,Liga Portugal,2026-08-22,15:30,Maritimo,Academico Viseu,whoscored,over_under,Over,Over,,,,2,2026-08-19T17:43:16Z
+2026-08-22|mar-timo|vs|acad-mico-viseu,Liga Portugal,2026-08-22,15:30,Maritimo,Academico Viseu,whoscored,btts,Yes,Yes,,,,,2026-08-19T17:43:16Z
+2026-08-22|mar-timo|vs|acad-mico-viseu,Liga Portugal,2026-08-22,15:30,Maritimo,Academico Viseu,whoscored,correct_score,2 - 1,2 - 1,,,,8,2026-08-19T17:43:16Z
+2026-08-22|gd-estoril|vs|rio-ave,Liga Portugal,2026-08-22,18:00,Estoril,Rio Ave,whoscored,1x2,1,1,,,,1.86,2026-08-19T17:43:16Z
+2026-08-22|gd-estoril|vs|rio-ave,Liga Portugal,2026-08-22,18:00,Estoril,Rio Ave,whoscored,over_under,Under,Under,,,,1.92,2026-08-19T17:43:16Z
+2026-08-22|gd-estoril|vs|rio-ave,Liga Portugal,2026-08-22,18:00,Estoril,Rio Ave,whoscored,btts,No,No,,,,,2026-08-19T17:43:16Z
+2026-08-22|gd-estoril|vs|rio-ave,Liga Portugal,2026-08-22,18:00,Estoril,Rio Ave,whoscored,correct_score,1 - 0,1 - 0,,,,7.5,2026-08-19T17:43:16Z
+2026-08-22|sporting-cp|vs|fc-alverca,Liga Portugal,2026-08-22,20:30,Sporting CP,Alverca,whoscored,1x2,1,1,,,,1.17,2026-08-19T17:43:16Z
+2026-08-22|sporting-cp|vs|fc-alverca,Liga Portugal,2026-08-22,20:30,Sporting CP,Alverca,whoscored,over_under,Under,Under,,,,2.57,2026-08-19T17:43:16Z
+2026-08-22|sporting-cp|vs|fc-alverca,Liga Portugal,2026-08-22,20:30,Sporting CP,Alverca,whoscored,btts,No,No,,,,,2026-08-19T17:43:16Z
+2026-08-22|sporting-cp|vs|fc-alverca,Liga Portugal,2026-08-22,20:30,Sporting CP,Alverca,whoscored,correct_score,2 - 0,2 - 0,,,,6,2026-08-19T17:43:16Z
 2026-08-16|feyenoord|vs|go-ahead-eagles,Eredivisie,2026-08-16,14:30,Feyenoord,Go Ahead Eagles,whoscored,1x2,1,1,,,,1.18,2026-08-16T14:00:00Z
 2026-08-16|feyenoord|vs|go-ahead-eagles,Eredivisie,2026-08-16,14:30,Feyenoord,Go Ahead Eagles,whoscored,over_under,Over,Over,,,,1.22,2026-08-16T14:00:00Z
 2026-08-16|feyenoord|vs|go-ahead-eagles,Eredivisie,2026-08-16,14:30,Feyenoord,Go Ahead Eagles,whoscored,btts,Yes,Yes,,,,,2026-08-16T14:00:00Z
@@ -374,3 +474,15 @@ fixture_id,league,date,kickoff,home,away,site,market,pick,pick_norm,p1,p2,p3,not
 2026-08-17|casa-pia-ac|vs|sl-benfica,Liga Portugal,2026-08-17,21:15,Casa Pia AC,Benfica,whoscored,over_under,Over,Over,,,,1.55,2026-08-16T14:00:00Z
 2026-08-17|casa-pia-ac|vs|sl-benfica,Liga Portugal,2026-08-17,21:15,Casa Pia AC,Benfica,whoscored,btts,Yes,Yes,,,,,2026-08-16T14:00:00Z
 2026-08-17|casa-pia-ac|vs|sl-benfica,Liga Portugal,2026-08-17,21:15,Casa Pia AC,Benfica,whoscored,correct_score,1 - 2,1 - 2,,,,9,2026-08-16T14:00:00Z
+2026-08-17|casa-pia-ac|vs|sl-benfica,Liga Portugal,2026-08-17,20:15,Casa Pia AC,Benfica,whoscored,1x2,2,2,,,,1.19,2026-08-17T05:42:56Z
+2026-08-17|casa-pia-ac|vs|sl-benfica,Liga Portugal,2026-08-17,20:15,Casa Pia AC,Benfica,whoscored,over_under,Over,Over,,,,1.57,2026-08-17T05:42:56Z
+2026-08-17|casa-pia-ac|vs|sl-benfica,Liga Portugal,2026-08-17,20:15,Casa Pia AC,Benfica,whoscored,btts,Yes,Yes,,,,,2026-08-17T05:42:56Z
+2026-08-17|casa-pia-ac|vs|sl-benfica,Liga Portugal,2026-08-17,20:15,Casa Pia AC,Benfica,whoscored,correct_score,1 - 2,1 - 2,,,,9,2026-08-17T05:42:56Z
+2026-08-21|arsenal|vs|coventry,Premier League,2026-08-21,2026-08-21 19:00,Arsenal,Coventry,flashscore,1x2,1,1,,,,"Coventry could hardly have a tougher start to the campaign, so the best value could be found in backing Arsenal to win by 3+ goals.",2026-08-19T17:45:21Z
+2026-08-22|hull|vs|manchester-utd,Premier League,2026-08-22,2026-08-22 11:30,Hull,Manchester Utd,flashscore,1x2,1,1,,,,"With value hard to find, backing a United win with under 2.5 goals offers promise against a Hull side expected to struggle.",2026-08-19T17:45:21Z
+2026-08-22|ipswich|vs|sunderland,Premier League,2026-08-22,2026-08-22 14:00,Ipswich,Sunderland,flashscore,1x2,2,2,,,,"Continuing their habit from last season, Sunderland to win by one goal appears a smart pick.",2026-08-19T17:45:21Z
+2026-08-22|brentford|vs|tottenham,Premier League,2026-08-22,2026-08-22 16:30,Brentford,Tottenham,flashscore,1x2,2,2,,,,Spurs’ tendency to start seasons strongly and their positive summer makes Tottenham to win an enticing selection at good odds.,2026-08-19T17:45:21Z
+2026-08-19|atl-madrid|vs|malaga,LaLiga,2026-08-19,2026-08-19 19:00,Atl. Madrid,Malaga,flashscore,1x2,1,1,,,,"Simeone should have Atlético Madrid firing for this season opener, so a home win to nil could add extra value.",2026-08-19T17:45:21Z
+2026-08-21|betis|vs|real-sociedad,LaLiga,2026-08-21,2026-08-21 19:00,Betis,Real Sociedad,flashscore,1x2,1,1,,,,"The home side have scored eight goals across their last three encounters with Sociedad, so backing Betis to score 2+ goals seems an enticing prospect.",2026-08-19T17:45:21Z
+2026-08-22|inter|vs|monza,Serie A,2026-08-22,2026-08-22 16:30,Inter,Monza,flashscore,1x2,1,1,,,,"With Monza’s recent goalscoring form (including friendlies), backing Inter to win and both teams to score might be something worth considering to eke out some value.",2026-08-19T17:45:21Z
+2026-08-21|marseille|vs|strasbourg,Ligue 1,2026-08-21,2026-08-21 18:45,Marseille,Strasbourg,flashscore,1x2,1,1,,,,"The hosts will be hard to beat at Stade Vélodrome, but there could be value in backing Marseille to win with both teams scoring.",2026-08-19T17:45:21Z

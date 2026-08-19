@@ -17,7 +17,7 @@ class FetchError(RuntimeError):
 
 
 _MIN_BODY = 2000
-_CF_MARKERS = ("Just a moment", "__cf_chl", "cf-chl", "challenge-platform")
+_CF_MARKERS = ("Just a moment", "__cf_chl", "cf-chl")
 
 
 def _is_challenge(body: str) -> bool:
