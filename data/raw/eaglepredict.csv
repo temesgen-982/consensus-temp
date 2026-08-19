@@ -1,19 +1,39 @@
 site,source_id,league,date,kickoff,home_team,away_team,market,pick,p1,p2,p3,note,scraped_at
-eaglepredict,8570509,La Liga,2026-08-19,22:00,Atlético Madrid,Málaga CF,1x2,Atlético Madrid Win,,,,1.18,2026-08-19T17:43:16Z
-eaglepredict,8570509,La Liga,2026-08-19,22:00,Atlético Madrid,Málaga CF,over_under,Over  2.5 Goals,,,,1.52,2026-08-19T17:43:16Z
-eaglepredict,8570540,La Liga,2026-08-20,22:00,Rayo Vallecano,Deportivo Alavés,1x2,Rayo Vallecano Win,,,,1.67,2026-08-19T17:43:16Z
-eaglepredict,8570535,La Liga,2026-08-21,22:00,Betis,Real Sociedad,1x2,Betis Win,,,,1.94,2026-08-19T17:43:16Z
-eaglepredict,8570535,La Liga,2026-08-21,22:00,Betis,Real Sociedad,over_under,Over  2.5 Goals,,,,1.82,2026-08-19T17:43:16Z
-eaglepredict,8547630,Eredivisie,2026-08-22,17:30,Fortuna Sittard,AZ,1x2,AZ Win,,,,1.48,2026-08-19T17:43:16Z
-eaglepredict,8547630,Eredivisie,2026-08-22,17:30,Fortuna Sittard,AZ,over_under,Over  2.5 Goals,,,,1.35,2026-08-19T17:43:16Z
-eaglepredict,8547628,Eredivisie,2026-08-22,22:00,Heerenveen,PEC Zwolle,1x2,Heerenveen Win,,,,1.45,2026-08-19T17:43:16Z
-eaglepredict,8547628,Eredivisie,2026-08-22,22:00,Heerenveen,PEC Zwolle,over_under,Over  2.5 Goals,,,,1.33,2026-08-19T17:43:16Z
-eaglepredict,8574400,Primeira Liga,2026-08-22,17:30,CS Marítimo,Academico Viseu,1x2,CS Marítimo Win,,,,1.82,2026-08-19T17:43:16Z
-eaglepredict,8574400,Primeira Liga,2026-08-22,17:30,CS Marítimo,Academico Viseu,over_under,Over  2.5 Goals,,,,1.90,2026-08-19T17:43:16Z
-eaglepredict,8574371,Primeira Liga,2026-08-22,20:00,GD Estoril Praia,Rio Ave FC,1x2,GD Estoril Praia Win,,,,1.53,2026-08-19T17:43:16Z
-eaglepredict,8574371,Primeira Liga,2026-08-22,20:00,GD Estoril Praia,Rio Ave FC,over_under,Over  2.5 Goals,,,,1.69,2026-08-19T17:43:16Z
-eaglepredict,8574396,Primeira Liga,2026-08-22,22:30,Sporting CP,Alverca,1x2,Sporting CP Win,,,,1.15,2026-08-19T17:43:16Z
-eaglepredict,8574396,Primeira Liga,2026-08-22,22:30,Sporting CP,Alverca,over_under,Over  2.5 Goals,,,,1.32,2026-08-19T17:43:16Z
-eaglepredict,8570554,La Liga,2026-08-22,18:00,Athletic Bilbao,Sevilla,1x2,Athletic Bilbao Win,,,,1.40,2026-08-19T17:43:16Z
-eaglepredict,8570508,La Liga,2026-08-22,22:30,Espanyol,Real Madrid,1x2,Real Madrid Win,,,,1.32,2026-08-19T17:43:16Z
-eaglepredict,8570508,La Liga,2026-08-22,22:30,Espanyol,Real Madrid,over_under,Over  2.5 Goals,,,,1.58,2026-08-19T17:43:16Z
+eaglepredict,8570509,La Liga,2026-08-19,22:00,Atlético Madrid,Málaga CF,1x2,Atlético Madrid Win,,,,1.18,2026-08-19T18:17:39Z
+eaglepredict,8570509,La Liga,2026-08-19,22:00,Atlético Madrid,Málaga CF,over_under,Over  2.5 Goals,,,,1.52,2026-08-19T18:17:39Z
+eaglepredict,8570540,La Liga,2026-08-20,22:00,Rayo Vallecano,Deportivo Alavés,1x2,Rayo Vallecano Win,,,,1.67,2026-08-19T18:17:39Z
+eaglepredict,8548655,Ligue 1,2026-08-21,21:45,Olympique Marseille,Strasbourg,1x2,Olympique Marseille Win,,,,1.58,2026-08-19T18:17:39Z
+eaglepredict,8548655,Ligue 1,2026-08-21,21:45,Olympique Marseille,Strasbourg,over_under,Over  2.5 Goals,,,,1.40,2026-08-19T18:17:39Z
+eaglepredict,8570535,La Liga,2026-08-21,22:00,Betis,Real Sociedad,1x2,Betis Win,,,,1.94,2026-08-19T18:17:39Z
+eaglepredict,8570535,La Liga,2026-08-21,22:00,Betis,Real Sociedad,over_under,Over  2.5 Goals,,,,1.82,2026-08-19T18:17:39Z
+eaglepredict,8557839,Premier League,2026-08-21,22:00,Arsenal,Coventry City,1x2,Arsenal Win,,,,1.15,2026-08-19T18:17:39Z
+eaglepredict,8557839,Premier League,2026-08-21,22:00,Arsenal,Coventry City,over_under,Over  2.5 Goals,,,,1.47,2026-08-19T18:17:39Z
+eaglepredict,8557847,Premier League,2026-08-22,14:30,Hull City,Manchester United,1x2,Manchester United Win,,,,1.26,2026-08-19T18:17:39Z
+eaglepredict,8557847,Premier League,2026-08-22,14:30,Hull City,Manchester United,over_under,Over  2.5 Goals,,,,1.55,2026-08-19T18:17:39Z
+eaglepredict,8547630,Eredivisie,2026-08-22,17:30,Fortuna Sittard,AZ,1x2,AZ Win,,,,1.48,2026-08-19T18:17:39Z
+eaglepredict,8547630,Eredivisie,2026-08-22,17:30,Fortuna Sittard,AZ,over_under,Over  2.5 Goals,,,,1.35,2026-08-19T18:17:39Z
+eaglepredict,8547628,Eredivisie,2026-08-22,22:00,Heerenveen,PEC Zwolle,1x2,Heerenveen Win,,,,1.45,2026-08-19T18:17:39Z
+eaglepredict,8547628,Eredivisie,2026-08-22,22:00,Heerenveen,PEC Zwolle,over_under,Over  2.5 Goals,,,,1.33,2026-08-19T18:17:39Z
+eaglepredict,8574400,Primeira Liga,2026-08-22,17:30,CS Marítimo,Academico Viseu,1x2,CS Marítimo Win,,,,1.82,2026-08-19T18:17:39Z
+eaglepredict,8574400,Primeira Liga,2026-08-22,17:30,CS Marítimo,Academico Viseu,over_under,Over  2.5 Goals,,,,1.90,2026-08-19T18:17:39Z
+eaglepredict,8574371,Primeira Liga,2026-08-22,20:00,GD Estoril Praia,Rio Ave FC,1x2,GD Estoril Praia Win,,,,1.53,2026-08-19T18:17:39Z
+eaglepredict,8574371,Primeira Liga,2026-08-22,20:00,GD Estoril Praia,Rio Ave FC,over_under,Over  2.5 Goals,,,,1.69,2026-08-19T18:17:39Z
+eaglepredict,8574396,Primeira Liga,2026-08-22,22:30,Sporting CP,Alverca,1x2,Sporting CP Win,,,,1.15,2026-08-19T18:17:39Z
+eaglepredict,8574396,Primeira Liga,2026-08-22,22:30,Sporting CP,Alverca,over_under,Over  2.5 Goals,,,,1.32,2026-08-19T18:17:39Z
+eaglepredict,8570554,La Liga,2026-08-22,18:00,Athletic Bilbao,Sevilla,1x2,Athletic Bilbao Win,,,,1.40,2026-08-19T18:17:39Z
+eaglepredict,8570508,La Liga,2026-08-22,22:30,Espanyol,Real Madrid,1x2,Real Madrid Win,,,,1.32,2026-08-19T18:17:39Z
+eaglepredict,8570508,La Liga,2026-08-22,22:30,Espanyol,Real Madrid,over_under,Over  2.5 Goals,,,,1.58,2026-08-19T18:17:39Z
+eaglepredict,8548657,Ligue 1,2026-08-22,18:15,Lens,Auxerre,1x2,Lens Win,,,,1.48,2026-08-19T18:17:39Z
+eaglepredict,8548657,Ligue 1,2026-08-22,18:15,Lens,Auxerre,over_under,Over  2.5 Goals,,,,1.50,2026-08-19T18:17:39Z
+eaglepredict,8548654,Ligue 1,2026-08-22,21:45,Toulouse,Lyon,1x2,Lyon Win,,,,1.91,2026-08-19T18:17:39Z
+eaglepredict,8548654,Ligue 1,2026-08-22,21:45,Toulouse,Lyon,over_under,Over  2.5 Goals,,,,1.56,2026-08-19T18:17:39Z
+eaglepredict,8548656,Ligue 1,2026-08-22,21:45,Nice,Lorient,1x2,Nice Win,,,,1.97,2026-08-19T18:17:39Z
+eaglepredict,8548656,Ligue 1,2026-08-22,21:45,Nice,Lorient,over_under,Over  2.5 Goals,,,,1.65,2026-08-19T18:17:39Z
+eaglepredict,8548570,Ligue 1,2026-08-22,21:45,Troyes,Paris,1x2,Troyes Win,,,,1.95,2026-08-19T18:17:39Z
+eaglepredict,8548570,Ligue 1,2026-08-22,21:45,Troyes,Paris,over_under,Over  2.5 Goals,,,,1.59,2026-08-19T18:17:39Z
+eaglepredict,8548629,Ligue 1,2026-08-22,21:45,Le Mans,Brest,1x2,Le Mans Win,,,,1.75,2026-08-19T18:17:39Z
+eaglepredict,8548629,Ligue 1,2026-08-22,21:45,Le Mans,Brest,over_under,Over  2.5 Goals,,,,1.64,2026-08-19T18:17:39Z
+eaglepredict,8545091,Serie A,2026-08-22,19:30,Internazionale,Monza,1x2,Internazionale Win,,,,1.15,2026-08-19T18:17:39Z
+eaglepredict,8545091,Serie A,2026-08-22,19:30,Internazionale,Monza,over_under,Over  2.5 Goals,,,,1.49,2026-08-19T18:17:39Z
+eaglepredict,8545062,Serie A,2026-08-22,19:30,Udinese,Como,1x2,Como Win,,,,1.67,2026-08-19T18:17:39Z
+eaglepredict,8545062,Serie A,2026-08-22,19:30,Udinese,Como,over_under,Over  2.5 Goals,,,,1.97,2026-08-19T18:17:39Z

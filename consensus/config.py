@@ -25,10 +25,14 @@ TOP_LEAGUES = {
     ],
     "eaglepredict": [
         "England Premier League",
+        "Premier League",
         "La Liga",
         "Germany Bundesliga",
+        "Bundesliga",
         "Italy Serie A",
+        "Serie A",
         "France Ligue 1",
+        "Ligue 1",
         "Eredivisie",
         "Primeira Liga",
     ],
@@ -55,7 +59,7 @@ TOP_LEAGUES = {
 
 def is_top_league(site: str, league: str) -> bool:
     league = (league or "").lower()
-    return any(pattern.lower() in league for pattern in TOP_LEAGUES[site])
+    return any(league == pattern.lower() for pattern in TOP_LEAGUES[site])
 
 BASE_HEADERS = {
     "User-Agent": (

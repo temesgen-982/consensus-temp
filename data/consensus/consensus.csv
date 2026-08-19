@@ -343,24 +343,44 @@ fixture_id,league,date,kickoff,home,away,site,market,pick,pick_norm,p1,p2,p3,not
 2026-08-10|santa-clara|vs|nacional-madeira,Liga Portugal,2026-08-10,10/08/2026 21:15,Santa Clara,Nacional Madeira,forebet,correct_score,2 - 1,2 - 1,,,,avg=2.53,2026-08-17T05:23:43Z
 2026-08-10|santa-clara|vs|nacional-madeira,Liga Portugal,2026-08-10,10/08/2026 21:15,Santa Clara,Nacional Madeira,forebet,over_under,Over,Over,49,51,,,2026-08-17T05:23:43Z
 2026-08-10|santa-clara|vs|nacional-madeira,Liga Portugal,2026-08-10,10/08/2026 21:15,Santa Clara,Nacional Madeira,forebet,btts,Yes,Yes,48,52,,,2026-08-17T05:23:43Z
-2026-08-19|atl-tico-madrid|vs|m-laga-cf,La Liga,2026-08-19,22:00,Atlético Madrid,Málaga CF,eaglepredict,1x2,Atlético Madrid Win,1,,,,1.18,2026-08-19T17:43:16Z
-2026-08-19|atl-tico-madrid|vs|m-laga-cf,La Liga,2026-08-19,22:00,Atlético Madrid,Málaga CF,eaglepredict,over_under,Over  2.5 Goals,Over,,,,1.52,2026-08-19T17:43:16Z
-2026-08-20|rayo-vallecano|vs|deportivo-alav-s,La Liga,2026-08-20,22:00,Rayo Vallecano,Deportivo Alavés,eaglepredict,1x2,Rayo Vallecano Win,1,,,,1.67,2026-08-19T17:43:16Z
-2026-08-21|betis|vs|real-sociedad,La Liga,2026-08-21,22:00,Betis,Real Sociedad,eaglepredict,1x2,Betis Win,1,,,,1.94,2026-08-19T17:43:16Z
-2026-08-21|betis|vs|real-sociedad,La Liga,2026-08-21,22:00,Betis,Real Sociedad,eaglepredict,over_under,Over  2.5 Goals,Over,,,,1.82,2026-08-19T17:43:16Z
-2026-08-22|fortuna-sittard|vs|az,Eredivisie,2026-08-22,17:30,Fortuna Sittard,AZ,eaglepredict,1x2,AZ Win,2,,,,1.48,2026-08-19T17:43:16Z
-2026-08-22|fortuna-sittard|vs|az,Eredivisie,2026-08-22,17:30,Fortuna Sittard,AZ,eaglepredict,over_under,Over  2.5 Goals,Over,,,,1.35,2026-08-19T17:43:16Z
-2026-08-22|heerenveen|vs|pec-zwolle,Eredivisie,2026-08-22,22:00,Heerenveen,PEC Zwolle,eaglepredict,1x2,Heerenveen Win,1,,,,1.45,2026-08-19T17:43:16Z
-2026-08-22|heerenveen|vs|pec-zwolle,Eredivisie,2026-08-22,22:00,Heerenveen,PEC Zwolle,eaglepredict,over_under,Over  2.5 Goals,Over,,,,1.33,2026-08-19T17:43:16Z
-2026-08-22|mar-timo|vs|academico-viseu,Primeira Liga,2026-08-22,17:30,CS Marítimo,Academico Viseu,eaglepredict,1x2,CS Marítimo Win,1,,,,1.82,2026-08-19T17:43:16Z
-2026-08-22|mar-timo|vs|academico-viseu,Primeira Liga,2026-08-22,17:30,CS Marítimo,Academico Viseu,eaglepredict,over_under,Over  2.5 Goals,Over,,,,1.90,2026-08-19T17:43:16Z
-2026-08-22|gd-estoril-praia|vs|rio-ave-fc,Primeira Liga,2026-08-22,20:00,GD Estoril Praia,Rio Ave FC,eaglepredict,1x2,GD Estoril Praia Win,1,,,,1.53,2026-08-19T17:43:16Z
-2026-08-22|gd-estoril-praia|vs|rio-ave-fc,Primeira Liga,2026-08-22,20:00,GD Estoril Praia,Rio Ave FC,eaglepredict,over_under,Over  2.5 Goals,Over,,,,1.69,2026-08-19T17:43:16Z
-2026-08-22|sporting-cp|vs|alverca,Primeira Liga,2026-08-22,22:30,Sporting CP,Alverca,eaglepredict,1x2,Sporting CP Win,1,,,,1.15,2026-08-19T17:43:16Z
-2026-08-22|sporting-cp|vs|alverca,Primeira Liga,2026-08-22,22:30,Sporting CP,Alverca,eaglepredict,over_under,Over  2.5 Goals,Over,,,,1.32,2026-08-19T17:43:16Z
-2026-08-22|athletic-bilbao|vs|sevilla,La Liga,2026-08-22,18:00,Athletic Bilbao,Sevilla,eaglepredict,1x2,Athletic Bilbao Win,1,,,,1.40,2026-08-19T17:43:16Z
-2026-08-22|espanyol|vs|real-madrid,La Liga,2026-08-22,22:30,Espanyol,Real Madrid,eaglepredict,1x2,Real Madrid Win,2,,,,1.32,2026-08-19T17:43:16Z
-2026-08-22|espanyol|vs|real-madrid,La Liga,2026-08-22,22:30,Espanyol,Real Madrid,eaglepredict,over_under,Over  2.5 Goals,Over,,,,1.58,2026-08-19T17:43:16Z
+2026-08-19|atl-tico-madrid|vs|m-laga-cf,La Liga,2026-08-19,22:00,Atlético Madrid,Málaga CF,eaglepredict,1x2,Atlético Madrid Win,1,,,,1.18,2026-08-19T18:17:39Z
+2026-08-19|atl-tico-madrid|vs|m-laga-cf,La Liga,2026-08-19,22:00,Atlético Madrid,Málaga CF,eaglepredict,over_under,Over  2.5 Goals,Over,,,,1.52,2026-08-19T18:17:39Z
+2026-08-20|rayo-vallecano|vs|deportivo-alav-s,La Liga,2026-08-20,22:00,Rayo Vallecano,Deportivo Alavés,eaglepredict,1x2,Rayo Vallecano Win,1,,,,1.67,2026-08-19T18:17:39Z
+2026-08-21|olympique-marseille|vs|strasbourg,Ligue 1,2026-08-21,21:45,Olympique Marseille,Strasbourg,eaglepredict,1x2,Olympique Marseille Win,1,,,,1.58,2026-08-19T18:17:39Z
+2026-08-21|olympique-marseille|vs|strasbourg,Ligue 1,2026-08-21,21:45,Olympique Marseille,Strasbourg,eaglepredict,over_under,Over  2.5 Goals,Over,,,,1.40,2026-08-19T18:17:39Z
+2026-08-21|betis|vs|real-sociedad,La Liga,2026-08-21,22:00,Betis,Real Sociedad,eaglepredict,1x2,Betis Win,1,,,,1.94,2026-08-19T18:17:39Z
+2026-08-21|betis|vs|real-sociedad,La Liga,2026-08-21,22:00,Betis,Real Sociedad,eaglepredict,over_under,Over  2.5 Goals,Over,,,,1.82,2026-08-19T18:17:39Z
+2026-08-21|arsenal|vs|coventry,Premier League,2026-08-21,22:00,Arsenal,Coventry City,eaglepredict,1x2,Arsenal Win,1,,,,1.15,2026-08-19T18:17:39Z
+2026-08-21|arsenal|vs|coventry,Premier League,2026-08-21,22:00,Arsenal,Coventry City,eaglepredict,over_under,Over  2.5 Goals,Over,,,,1.47,2026-08-19T18:17:39Z
+2026-08-22|hull-city|vs|manchester-united,Premier League,2026-08-22,14:30,Hull City,Manchester United,eaglepredict,1x2,Manchester United Win,2,,,,1.26,2026-08-19T18:17:39Z
+2026-08-22|hull-city|vs|manchester-united,Premier League,2026-08-22,14:30,Hull City,Manchester United,eaglepredict,over_under,Over  2.5 Goals,Over,,,,1.55,2026-08-19T18:17:39Z
+2026-08-22|fortuna-sittard|vs|az,Eredivisie,2026-08-22,17:30,Fortuna Sittard,AZ,eaglepredict,1x2,AZ Win,2,,,,1.48,2026-08-19T18:17:39Z
+2026-08-22|fortuna-sittard|vs|az,Eredivisie,2026-08-22,17:30,Fortuna Sittard,AZ,eaglepredict,over_under,Over  2.5 Goals,Over,,,,1.35,2026-08-19T18:17:39Z
+2026-08-22|heerenveen|vs|pec-zwolle,Eredivisie,2026-08-22,22:00,Heerenveen,PEC Zwolle,eaglepredict,1x2,Heerenveen Win,1,,,,1.45,2026-08-19T18:17:39Z
+2026-08-22|heerenveen|vs|pec-zwolle,Eredivisie,2026-08-22,22:00,Heerenveen,PEC Zwolle,eaglepredict,over_under,Over  2.5 Goals,Over,,,,1.33,2026-08-19T18:17:39Z
+2026-08-22|mar-timo|vs|academico-viseu,Primeira Liga,2026-08-22,17:30,CS Marítimo,Academico Viseu,eaglepredict,1x2,CS Marítimo Win,1,,,,1.82,2026-08-19T18:17:39Z
+2026-08-22|mar-timo|vs|academico-viseu,Primeira Liga,2026-08-22,17:30,CS Marítimo,Academico Viseu,eaglepredict,over_under,Over  2.5 Goals,Over,,,,1.90,2026-08-19T18:17:39Z
+2026-08-22|gd-estoril-praia|vs|rio-ave-fc,Primeira Liga,2026-08-22,20:00,GD Estoril Praia,Rio Ave FC,eaglepredict,1x2,GD Estoril Praia Win,1,,,,1.53,2026-08-19T18:17:39Z
+2026-08-22|gd-estoril-praia|vs|rio-ave-fc,Primeira Liga,2026-08-22,20:00,GD Estoril Praia,Rio Ave FC,eaglepredict,over_under,Over  2.5 Goals,Over,,,,1.69,2026-08-19T18:17:39Z
+2026-08-22|sporting-cp|vs|alverca,Primeira Liga,2026-08-22,22:30,Sporting CP,Alverca,eaglepredict,1x2,Sporting CP Win,1,,,,1.15,2026-08-19T18:17:39Z
+2026-08-22|sporting-cp|vs|alverca,Primeira Liga,2026-08-22,22:30,Sporting CP,Alverca,eaglepredict,over_under,Over  2.5 Goals,Over,,,,1.32,2026-08-19T18:17:39Z
+2026-08-22|athletic-bilbao|vs|sevilla,La Liga,2026-08-22,18:00,Athletic Bilbao,Sevilla,eaglepredict,1x2,Athletic Bilbao Win,1,,,,1.40,2026-08-19T18:17:39Z
+2026-08-22|espanyol|vs|real-madrid,La Liga,2026-08-22,22:30,Espanyol,Real Madrid,eaglepredict,1x2,Real Madrid Win,2,,,,1.32,2026-08-19T18:17:39Z
+2026-08-22|espanyol|vs|real-madrid,La Liga,2026-08-22,22:30,Espanyol,Real Madrid,eaglepredict,over_under,Over  2.5 Goals,Over,,,,1.58,2026-08-19T18:17:39Z
+2026-08-22|lens|vs|auxerre,Ligue 1,2026-08-22,18:15,Lens,Auxerre,eaglepredict,1x2,Lens Win,1,,,,1.48,2026-08-19T18:17:39Z
+2026-08-22|lens|vs|auxerre,Ligue 1,2026-08-22,18:15,Lens,Auxerre,eaglepredict,over_under,Over  2.5 Goals,Over,,,,1.50,2026-08-19T18:17:39Z
+2026-08-22|toulouse|vs|lyon,Ligue 1,2026-08-22,21:45,Toulouse,Lyon,eaglepredict,1x2,Lyon Win,2,,,,1.91,2026-08-19T18:17:39Z
+2026-08-22|toulouse|vs|lyon,Ligue 1,2026-08-22,21:45,Toulouse,Lyon,eaglepredict,over_under,Over  2.5 Goals,Over,,,,1.56,2026-08-19T18:17:39Z
+2026-08-22|nice|vs|lorient,Ligue 1,2026-08-22,21:45,Nice,Lorient,eaglepredict,1x2,Nice Win,1,,,,1.97,2026-08-19T18:17:39Z
+2026-08-22|nice|vs|lorient,Ligue 1,2026-08-22,21:45,Nice,Lorient,eaglepredict,over_under,Over  2.5 Goals,Over,,,,1.65,2026-08-19T18:17:39Z
+2026-08-22|troyes|vs|paris,Ligue 1,2026-08-22,21:45,Troyes,Paris,eaglepredict,1x2,Troyes Win,1,,,,1.95,2026-08-19T18:17:39Z
+2026-08-22|troyes|vs|paris,Ligue 1,2026-08-22,21:45,Troyes,Paris,eaglepredict,over_under,Over  2.5 Goals,Over,,,,1.59,2026-08-19T18:17:39Z
+2026-08-22|le-mans|vs|brest,Ligue 1,2026-08-22,21:45,Le Mans,Brest,eaglepredict,1x2,Le Mans Win,1,,,,1.75,2026-08-19T18:17:39Z
+2026-08-22|le-mans|vs|brest,Ligue 1,2026-08-22,21:45,Le Mans,Brest,eaglepredict,over_under,Over  2.5 Goals,Over,,,,1.64,2026-08-19T18:17:39Z
+2026-08-22|internazionale|vs|monza,Serie A,2026-08-22,19:30,Internazionale,Monza,eaglepredict,1x2,Internazionale Win,1,,,,1.15,2026-08-19T18:17:39Z
+2026-08-22|internazionale|vs|monza,Serie A,2026-08-22,19:30,Internazionale,Monza,eaglepredict,over_under,Over  2.5 Goals,Over,,,,1.49,2026-08-19T18:17:39Z
+2026-08-22|udinese|vs|como,Serie A,2026-08-22,19:30,Udinese,Como,eaglepredict,1x2,Como Win,2,,,,1.67,2026-08-19T18:17:39Z
+2026-08-22|udinese|vs|como,Serie A,2026-08-22,19:30,Udinese,Como,eaglepredict,over_under,Over  2.5 Goals,Over,,,,1.97,2026-08-19T18:17:39Z
 2026-08-16|ado-den-haag|vs|groningen,Eredivisie,2026-08-16,13:15,ADO Den Haag,Groningen,eaglepredict,1x2,ADO Den Haag Win,1,,,,1.83,2026-08-16T10:35:42Z
 2026-08-16|ado-den-haag|vs|groningen,Eredivisie,2026-08-16,13:15,ADO Den Haag,Groningen,eaglepredict,over_under,Over  2.5 Goals,Over,,,,1.53,2026-08-16T10:35:42Z
 2026-08-16|feyenoord|vs|go-ahead-eagles,Eredivisie,2026-08-16,15:30,Feyenoord,Go Ahead Eagles,eaglepredict,1x2,Feyenoord Win,1,,,,1.18,2026-08-16T10:35:42Z
@@ -382,6 +402,44 @@ fixture_id,league,date,kickoff,home,away,site,market,pick,pick_norm,p1,p2,p3,not
 2026-08-17|casa-pia-ac|vs|sl-benfica,Primeira Liga,2026-08-17,22:15,Casa Pia,Benfica,eaglepredict,1x2,Benfica Win,2,,,,1.15,2026-08-16T10:35:42Z
 2026-08-17|casa-pia-ac|vs|sl-benfica,Primeira Liga,2026-08-17,22:15,Casa Pia,Benfica,eaglepredict,over_under,Over  2.5 Goals,Over,,,,1.49,2026-08-16T10:35:42Z
 2026-08-17|deportivo-la-coru-a|vs|elche,La Liga,2026-08-17,22:00,Deportivo La Coruña,Elche CF,eaglepredict,1x2,Elche CF Win,2,,,,1.73,2026-08-17T05:24:37Z
+2026-08-20|forge-fc|vs|supra-du-qu-bec,Canada Canadian Premier League,2026-08-20,02:00,Forge FC,Supra du Québec,eaglepredict,1x2,Forge FC Win,1,,,,1.38,2026-08-19T18:15:46Z
+2026-08-20|forge-fc|vs|supra-du-qu-bec,Canada Canadian Premier League,2026-08-20,02:00,Forge FC,Supra du Québec,eaglepredict,over_under,Over  2.5 Goals,Over,,,,1.59,2026-08-19T18:15:46Z
+2026-08-21|fc-avan-academy|vs|sardarapat,Armenia Armenian Premier League,2026-08-21,03:00,FC Avan Academy,Sardarapat,eaglepredict,1x2,FC Avan Academy Win,1,,,,1.30,2026-08-19T18:15:46Z
+2026-08-21|ried|vs|grazer-ak,Austria Bundesliga,2026-08-21,20:30,Ried,Grazer AK,eaglepredict,1x2,Ried Win,1,,,,1.82,2026-08-19T18:15:46Z
+2026-08-21|ried|vs|grazer-ak,Austria Bundesliga,2026-08-21,20:30,Ried,Grazer AK,eaglepredict,over_under,Over  2.5 Goals,Over,,,,1.78,2026-08-19T18:15:46Z
+2026-08-21|colwyn-bay|vs|airbus-uk,Wales Welsh Premier League,2026-08-21,21:45,Colwyn Bay,Airbus UK,eaglepredict,1x2,Colwyn Bay Win,1,,,,1.37,2026-08-19T18:15:46Z
+2026-08-21|colwyn-bay|vs|airbus-uk,Wales Welsh Premier League,2026-08-21,21:45,Colwyn Bay,Airbus UK,eaglepredict,over_under,Over  2.5 Goals,Over,,,,1.53,2026-08-19T18:15:46Z
+2026-08-21|cardiff-mu|vs|the-new-saints,Wales Welsh Premier League,2026-08-21,21:45,Cardiff MU,The New Saints,eaglepredict,1x2,The New Saints Win,2,,,,1.21,2026-08-19T18:15:46Z
+2026-08-21|cardiff-mu|vs|the-new-saints,Wales Welsh Premier League,2026-08-21,21:45,Cardiff MU,The New Saints,eaglepredict,over_under,Over  2.5 Goals,Over,,,,1.51,2026-08-19T18:15:46Z
+2026-08-21|flint-town-united|vs|briton-ferry,Wales Welsh Premier League,2026-08-21,21:45,Flint Town United,Briton Ferry,eaglepredict,1x2,Flint Town United Win,1,,,,1.97,2026-08-19T18:15:46Z
+2026-08-21|flint-town-united|vs|briton-ferry,Wales Welsh Premier League,2026-08-21,21:45,Flint Town United,Briton Ferry,eaglepredict,over_under,Over  2.5 Goals,Over,,,,1.55,2026-08-19T18:15:46Z
+2026-08-21|penybont|vs|llandudno,Wales Welsh Premier League,2026-08-21,21:45,Penybont,Llandudno,eaglepredict,1x2,Penybont Win,1,,,,1.65,2026-08-19T18:15:46Z
+2026-08-21|penybont|vs|llandudno,Wales Welsh Premier League,2026-08-21,21:45,Penybont,Llandudno,eaglepredict,over_under,Over  2.5 Goals,Over,,,,1.70,2026-08-19T18:15:46Z
+2026-08-21|trefelin|vs|caernarfon-town,Wales Welsh Premier League,2026-08-21,21:45,Trefelin,Caernarfon Town,eaglepredict,1x2,Caernarfon Town Win,2,,,,1.20,2026-08-19T18:15:46Z
+2026-08-21|trefelin|vs|caernarfon-town,Wales Welsh Premier League,2026-08-21,21:45,Trefelin,Caernarfon Town,eaglepredict,over_under,Over  2.5 Goals,Over,,,,1.29,2026-08-19T18:15:46Z
+2026-08-21|haverfordwest-county|vs|cambrian-clydach,Wales Welsh Premier League,2026-08-21,21:45,Haverfordwest County,Cambrian & Clydach,eaglepredict,1x2,Haverfordwest County Win,1,,,,1.63,2026-08-19T18:15:46Z
+2026-08-21|haverfordwest-county|vs|cambrian-clydach,Wales Welsh Premier League,2026-08-21,21:45,Haverfordwest County,Cambrian & Clydach,eaglepredict,over_under,Over  2.5 Goals,Over,,,,1.61,2026-08-19T18:15:46Z
+2026-08-21|holywell|vs|barry-town-united,Wales Welsh Premier League,2026-08-21,21:45,Holywell,Barry Town United,eaglepredict,1x2,Barry Town United Win,2,,,,1.41,2026-08-19T18:15:46Z
+2026-08-21|holywell|vs|barry-town-united,Wales Welsh Premier League,2026-08-21,21:45,Holywell,Barry Town United,eaglepredict,over_under,Over  2.5 Goals,Over,,,,1.37,2026-08-19T18:15:46Z
+2026-08-22|leones-del-norte|vs|csd-independiente-del-valle,Ecuador Primera Categoría Serie A,2026-08-22,03:00,Leones del Norte,CSD Independiente del Valle,eaglepredict,1x2,CSD Independiente del Valle Win,2,,,,1.53,2026-08-19T18:15:46Z
+2026-08-22|leones-del-norte|vs|csd-independiente-del-valle,Ecuador Primera Categoría Serie A,2026-08-22,03:00,Leones del Norte,CSD Independiente del Valle,eaglepredict,over_under,Over  2.5 Goals,Over,,,,1.86,2026-08-19T18:15:46Z
+2026-08-22|cd-universidad-cat-lica|vs|manta-fc,Ecuador Primera Categoría Serie A,2026-08-22,22:00,CD Universidad Católica,Manta FC,eaglepredict,1x2,CD Universidad Católica Win,1,,,,1.24,2026-08-19T18:15:46Z
+2026-08-22|cd-universidad-cat-lica|vs|manta-fc,Ecuador Primera Categoría Serie A,2026-08-22,22:00,CD Universidad Católica,Manta FC,eaglepredict,over_under,Over  2.5 Goals,Over,,,,1.69,2026-08-19T18:15:46Z
+2026-08-22|sarajevo|vs|bsk-banja-luka,Bosnia and Herzegovina Premier League of Bosnia,2026-08-22,03:00,Sarajevo,BSK Banja Luka,eaglepredict,1x2,Sarajevo Win,1,,,,1.47,2026-08-19T18:15:46Z
+2026-08-22|sarajevo|vs|bsk-banja-luka,Bosnia and Herzegovina Premier League of Bosnia,2026-08-22,03:00,Sarajevo,BSK Banja Luka,eaglepredict,over_under,Over  2.5 Goals,Over,,,,1.78,2026-08-19T18:15:46Z
+2026-08-22|sarajevo|vs|bsk-banja-luka,Bosnia and Herzegovina Premier League of Bosnia,2026-08-22,03:00,Sarajevo,BSK Banja Luka,eaglepredict,btts,BTTS - No,No,,,,1.58,2026-08-19T18:15:46Z
+2026-08-22|ammanford|vs|connah-s-quay,Wales Welsh Premier League,2026-08-22,14:30,Ammanford,Connah's Quay,eaglepredict,1x2,Connah's Quay Win,2,,,,1.22,2026-08-19T18:15:46Z
+2026-08-22|ammanford|vs|connah-s-quay,Wales Welsh Premier League,2026-08-22,14:30,Ammanford,Connah's Quay,eaglepredict,over_under,Over  2.5 Goals,Over,,,,1.46,2026-08-19T18:15:46Z
+2026-08-22|rheindorf-altach|vs|hartberg,Austria Bundesliga,2026-08-22,18:00,Rheindorf Altach,Hartberg,eaglepredict,1x2,Rheindorf Altach Win,1,,,,1.40,2026-08-19T18:15:46Z
+2026-08-22|rheindorf-altach|vs|hartberg,Austria Bundesliga,2026-08-22,18:00,Rheindorf Altach,Hartberg,eaglepredict,over_under,Over  2.5 Goals,Over,,,,1.79,2026-08-19T18:15:46Z
+2026-08-22|sturm-graz|vs|austria-lustenau,Austria Bundesliga,2026-08-22,20:30,Sturm Graz,Austria Lustenau,eaglepredict,1x2,Sturm Graz Win,1,,,,1.18,2026-08-19T18:15:46Z
+2026-08-22|sturm-graz|vs|austria-lustenau,Austria Bundesliga,2026-08-22,20:30,Sturm Graz,Austria Lustenau,eaglepredict,over_under,Over  2.5 Goals,Over,,,,1.37,2026-08-19T18:15:46Z
+2026-08-22|cska-moskva|vs|lokomotiv-moskva,Russia Russian Premier League,2026-08-22,20:15,CSKA Moskva,Lokomotiv Moskva,eaglepredict,1x2,CSKA Moskva Win,1,,,,1.78,2026-08-19T18:15:46Z
+2026-08-22|cska-moskva|vs|lokomotiv-moskva,Russia Russian Premier League,2026-08-22,20:15,CSKA Moskva,Lokomotiv Moskva,eaglepredict,over_under,Over  2.5 Goals,Over,,,,1.58,2026-08-19T18:15:46Z
+2026-08-22|fluminense|vs|remo,Brazil Serie A,2026-08-22,22:00,Fluminense,Remo,eaglepredict,1x2,Fluminense Win,1,,,,1.36,2026-08-19T18:15:46Z
+2026-08-22|fluminense|vs|remo,Brazil Serie A,2026-08-22,22:00,Fluminense,Remo,eaglepredict,over_under,Over  2.5 Goals,Over,,,,1.73,2026-08-19T18:15:46Z
+2026-08-22|cavalry-fc|vs|atl-tico-ottawa,Canada Canadian Premier League,2026-08-22,23:30,Cavalry FC,Atlético Ottawa,eaglepredict,1x2,Cavalry FC Win,1,,,,1.36,2026-08-19T18:15:46Z
+2026-08-22|cavalry-fc|vs|atl-tico-ottawa,Canada Canadian Premier League,2026-08-22,23:30,Cavalry FC,Atlético Ottawa,eaglepredict,over_under,Over  2.5 Goals,Over,,,,1.49,2026-08-19T18:15:46Z
 2026-08-21|arsenal|vs|coventry,Premier League,2026-08-21,20:00,Arsenal,Coventry,whoscored,1x2,1,1,,,,1.14,2026-08-19T17:43:16Z
 2026-08-21|arsenal|vs|coventry,Premier League,2026-08-21,20:00,Arsenal,Coventry,whoscored,over_under,Over,Over,,,,1.52,2026-08-19T17:43:16Z
 2026-08-21|arsenal|vs|coventry,Premier League,2026-08-21,20:00,Arsenal,Coventry,whoscored,btts,No,No,,,,,2026-08-19T17:43:16Z
