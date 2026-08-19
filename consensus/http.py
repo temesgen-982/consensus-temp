@@ -47,6 +47,7 @@ def _fetch_curl(url: str, headers: dict | None = None) -> str | None:
         "curl",
         "-s",
         "--compressed",
+        "-L",  # follow redirects (Flashscore match pages 307 to canonical slugs)
         "-f",  # fail (non-zero rc) on HTTP errors, e.g. 403 challenge
         "-A", ua,
         "-H", "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
