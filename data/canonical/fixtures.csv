@@ -9,16 +9,22 @@ fixture_id,league,date,kickoff,home_id,away_id
 2026-08-23|brighton|vs|aston-villa,Premier League,2026-08-23,23/08/2026 15:00,brighton,aston-villa
 2026-08-23|newcastle-united|vs|liverpool,Premier League,2026-08-23,23/08/2026 17:30,newcastle-united,liverpool
 2026-08-24|fulham|vs|chelsea,Premier League,2026-08-24,24/08/2026 21:00,fulham,chelsea
+2026-08-20|rayo-vallecano|vs|deportivo-alav-s,La Liga,2026-08-20,20/08/2026 21:00,rayo-vallecano,deportivo-alav-s
+2026-08-21|real-betis|vs|real-sociedad,La Liga,2026-08-21,21/08/2026 21:00,real-betis,real-sociedad
+2026-08-22|athletic-bilbao|vs|sevilla,La Liga,2026-08-22,22/08/2026 17:00,athletic-bilbao,sevilla
+2026-08-22|valencia|vs|celta-vigo,La Liga,2026-08-22,22/08/2026 19:30,valencia,celta-vigo
+2026-08-22|espanyol|vs|real-madrid,La Liga,2026-08-22,22/08/2026 21:30,espanyol,real-madrid
+2026-08-23|atl-tico-madrid|vs|villarreal,La Liga,2026-08-23,23/08/2026 17:00,atl-tico-madrid,villarreal
+2026-08-23|getafe|vs|racing-santander,La Liga,2026-08-23,23/08/2026 19:30,getafe,racing-santander
+2026-08-23|elche|vs|barcelona,La Liga,2026-08-23,23/08/2026 21:30,elche,barcelona
+2026-08-24|osasuna|vs|levante,La Liga,2026-08-24,24/08/2026 19:30,osasuna,levante
+2026-08-24|m-laga-cf|vs|deportivo-la-coru-a,La Liga,2026-08-24,24/08/2026 21:30,m-laga-cf,deportivo-la-coru-a
 2026-08-15|deportivo-alav-s|vs|getafe,La Liga,2026-08-15,15/08/2026 19:30,deportivo-alav-s,getafe
 2026-08-15|sevilla|vs|rayo-vallecano,La Liga,2026-08-15,15/08/2026 21:30,sevilla,rayo-vallecano
 2026-08-16|racing-santander|vs|villarreal,La Liga,2026-08-16,16/08/2026 17:00,racing-santander,villarreal
 2026-08-16|espanyol|vs|levante,La Liga,2026-08-16,16/08/2026 19:00,espanyol,levante
 2026-08-17|deportivo-la-coru-a|vs|elche,La Liga,2026-08-17,17/08/2026 21:00,deportivo-la-coru-a,elche
 2026-08-19|atl-tico-madrid|vs|m-laga-cf,La Liga,2026-08-19,19/08/2026 21:00,atl-tico-madrid,m-laga-cf
-2026-08-25|valencia|vs|real-betis,La Liga,2026-08-25,25/08/2026 21:00,valencia,real-betis
-2026-08-26|real-madrid|vs|real-sociedad,La Liga,2026-08-26,26/08/2026 21:00,real-madrid,real-sociedad
-2026-08-27|celta-vigo|vs|osasuna,La Liga,2026-08-27,27/08/2026 20:30,celta-vigo,osasuna
-2026-08-27|barcelona|vs|athletic-bilbao,La Liga,2026-08-27,27/08/2026 21:00,barcelona,athletic-bilbao
 2026-08-28|bayern-munich|vs|stuttgart,Bundesliga,2026-08-28,28/08/2026 20:30,bayern-munich,stuttgart
 2026-08-29|sv-elversberg|vs|bayer-leverkusen,Bundesliga,2026-08-29,29/08/2026 15:30,sv-elversberg,bayer-leverkusen
 2026-08-29|k-ln|vs|hoffenheim,Bundesliga,2026-08-29,29/08/2026 15:30,k-ln,hoffenheim
@@ -74,6 +80,10 @@ fixture_id,league,date,kickoff,home_id,away_id
 2026-08-16|fc-famalic-o|vs|mar-timo,Liga Portugal,2026-08-16,16/08/2026 21:30,fc-famalic-o,mar-timo
 2026-08-16|sporting-braga|vs|gil-vicente,Liga Portugal,2026-08-16,16/08/2026,sporting-braga,gil-vicente
 2026-08-17|casa-pia-ac|vs|sl-benfica,Liga Portugal,2026-08-17,17/08/2026 21:15,casa-pia-ac,sl-benfica
+2026-08-25|valencia|vs|real-betis,La Liga,2026-08-25,25/08/2026 21:00,valencia,real-betis
+2026-08-26|real-madrid|vs|real-sociedad,La Liga,2026-08-26,26/08/2026 21:00,real-madrid,real-sociedad
+2026-08-27|celta-vigo|vs|osasuna,La Liga,2026-08-27,27/08/2026 20:30,celta-vigo,osasuna
+2026-08-27|barcelona|vs|athletic-bilbao,La Liga,2026-08-27,27/08/2026 21:00,barcelona,athletic-bilbao
 2026-05-25|paderborn|vs|wolfsburg,Bundesliga,2026-05-25,25/05/2026 20:30,paderborn,wolfsburg
 2026-05-21|wolfsburg|vs|paderborn,Bundesliga,2026-05-21,21/05/2026 20:30,wolfsburg,paderborn
 2026-08-07|gd-estoril|vs|fc-famalic-o,Liga Portugal,2026-08-07,07/08/2026 21:15,gd-estoril,fc-famalic-o
@@ -91,18 +101,24 @@ fixture_id,league,date,kickoff,home_id,away_id
 2026-08-22|mar-timo|vs|academico-viseu,Primeira Liga,2026-08-22,17:30,mar-timo,academico-viseu
 2026-08-22|gd-estoril-praia|vs|rio-ave-fc,Primeira Liga,2026-08-22,20:00,gd-estoril-praia,rio-ave-fc
 2026-08-22|sporting-cp|vs|alverca,Primeira Liga,2026-08-22,22:30,sporting-cp,alverca
-2026-08-22|athletic-bilbao|vs|sevilla,La Liga,2026-08-22,18:00,athletic-bilbao,sevilla
-2026-08-22|espanyol|vs|real-madrid,La Liga,2026-08-22,22:30,espanyol,real-madrid
 2026-08-22|lens|vs|auxerre,Ligue 1,2026-08-22,18:15,lens,auxerre
+2026-08-22|internazionale|vs|monza,Serie A,2026-08-22,19:30,internazionale,monza
+2026-08-22|udinese|vs|como,Serie A,2026-08-22,19:30,udinese,como
+2026-08-23|psv|vs|groningen,Eredivisie,2026-08-23,15:30,psv,groningen
+2026-08-23|newcastle|vs|liverpool,Premier League,2026-08-23,18:30,newcastle,liverpool
+2026-08-23|angers|vs|lille,Ligue 1,2026-08-23,16:00,angers,lille
+2026-08-23|le-havre|vs|monaco,Ligue 1,2026-08-23,18:15,le-havre,monaco
+2026-08-23|psg|vs|rennes,Ligue 1,2026-08-23,21:45,psg,rennes
+2026-08-23|vit-ria-guimar-es|vs|cd-nacional,Primeira Liga,2026-08-23,17:30,vit-ria-guimar-es,cd-nacional
 2026-08-22|toulouse|vs|lyon,Ligue 1,2026-08-22,21:45,toulouse,lyon
 2026-08-22|nice|vs|lorient,Ligue 1,2026-08-22,21:45,nice,lorient
 2026-08-22|troyes|vs|paris,Ligue 1,2026-08-22,21:45,troyes,paris
-2026-08-22|internazionale|vs|monza,Serie A,2026-08-22,19:30,internazionale,monza
-2026-08-22|udinese|vs|como,Serie A,2026-08-22,19:30,udinese,como
 2026-08-22|le-mans|vs|brest,Ligue 1,2026-08-22,21:45,le-mans,brest
-2026-08-20|rayo-vallecano|vs|deportivo-alav-s,La Liga,2026-08-20,22:00,rayo-vallecano,deportivo-alav-s
-2026-08-21|real-betis|vs|real-sociedad,LaLiga,2026-08-21,20:00,real-betis,real-sociedad
+2026-08-22|ipswich|vs|sunderland,Premier League,2026-08-22,15:00,ipswich,sunderland
+2026-08-22|nottingham-forest|vs|leeds,Premier League,2026-08-22,15:00,nottingham-forest,leeds
+2026-08-22|athletic-club|vs|sevilla,LaLiga,2026-08-22,16:00,athletic-club,sevilla
+2026-08-22|parma-calcio-1913|vs|cagliari,Serie A,2026-08-22,19:45,parma-calcio-1913,cagliari
 2026-08-21|marseille|vs|strasbourg,Ligue 1,2026-08-21,19:45,marseille,strasbourg
-2026-08-22|ipswich|vs|sunderland,Premier League,2026-08-22,2026-08-22 14:00,ipswich,sunderland
+2026-08-23|atl-madrid|vs|villarreal,LaLiga,2026-08-23,2026-08-23 15:00,atl-madrid,villarreal
+2026-08-22|troyes|vs|paris-fc,Ligue 1,2026-08-22,2026-08-22 18:45,troyes,paris-fc
 2026-08-19|atl-madrid|vs|malaga,LaLiga,2026-08-19,2026-08-19 19:00,atl-madrid,malaga
-2026-08-22|valencia|vs|celta-vigo,LaLiga,2026-08-22,2026-08-22 17:30,valencia,celta-vigo

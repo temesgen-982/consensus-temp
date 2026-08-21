@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<title>Premier League Prediction Consensus</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    background: #0a0f1a;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+
+  .post {
+    position: relative;
+    width: 1200px;
+    height: 627px;
+    display: flex;
+    overflow: hidden;
+    background:
+      radial-gradient(1100px 480px at 15% -10%, rgba(255, 255, 255, 0.06), transparent 60%),
+      radial-gradient(900px 500px at 115% 120%, rgba(128, 90, 213, 0.22), transparent 55%),
+      linear-gradient(135deg, #141c2c 0%, #0c1220 55%, #0a0f1a 100%);
+    color: #fff;
+  }
+
+  /* ---------- LEFT: Premier League ---------- */
+  .left {
+    flex: 1.15;
+    padding: 52px 0 46px 64px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .eyebrow {
+    font-size: 15px;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    color: #f7b500;
+    font-weight: 700;
+    margin-bottom: 26px;
+  }
+
+  .pl-card {
+    background: #fff;
+    border-radius: 20px;
+    padding: 24px 34px;
+    width: fit-content;
+    margin-bottom: 24px;
+    box-shadow: 0 24px 60px rgba(0, 0, 0, 0.45);
+  }
+
+  .pl-lion {
+    width: 300px;
+    display: block;
+  }
+
+  .headline {
+    font-size: 52px;
+    font-weight: 800;
+    letter-spacing: 1px;
+    line-height: 1.05;
+  }
+  .headline .accent {
+    color: #f7b500;
+  }
+
+  .subhead {
+    margin-top: 16px;
+    font-size: 19px;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 0.72);
+    max-width: 430px;
+    line-height: 1.45;
+  }
+
+  /* ---------- RIGHT: source logos ---------- */
+  .right {
+    flex: 1;
+    padding: 52px 64px 46px 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .right-label {
+    font-size: 13px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: rgba(255, 255, 255, 0.45);
+    font-weight: 600;
+    margin-bottom: 18px;
+  }
+
+  .grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+  }
+
+  .card {
+    height: 132px;
+    background: rgba(255, 255, 255, 0.045);
+    border: 1px solid rgba(255, 255, 255, 0.09);
+    border-radius: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 26px;
+  }
+
+  .card img {
+    max-width: 100%;
+    max-height: 66px;
+  }
+
+  /* ---------- bottom strip ---------- */
+  .footer {
+    position: absolute;
+    left: 64px;
+    right: 64px;
+    bottom: 26px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 14px;
+    color: rgba(255, 255, 255, 0.5);
+  }
+  .footer .rule {
+    height: 1px;
+    flex: 1;
+    background: rgba(255, 255, 255, 0.12);
+    margin: 0 20px;
+  }
+  .footer .tag {
+    white-space: nowrap;
+    letter-spacing: 1px;
+  }
+  .footer .tag strong {
+    color: rgba(255, 255, 255, 0.75);
+  }
+</style>
+</head>
+<body>
+  <div class="post">
+    <div class="left">
+      <div class="eyebrow">Football Prediction Tool</div>
+      <div class="pl-card"><img class="pl-lion" src="logo-positive_1.svg" alt="Premier League" /></div>
+      <div class="headline">Premier League<br /><span class="accent">Prediction Consensus</span></div>
+      <div class="subhead">One aggregated pick per match, built from the web's most trusted football prediction platforms.</div>
+    </div>
+
+    <div class="right">
+      <div class="right-label">Aggregated from</div>
+      <div class="grid">
+        <div class="card"><img src="forebet-logo.png" alt="Forebet" /></div>
+        <div class="card"><img src="eaglepredict-logo.svg" alt="EaglePredict" /></div>
+        <div class="card"><img src="whoscored-logo.svg" alt="WhoScored" /></div>
+        <div class="card"><img src="flashscore-logo.svg" alt="Flashscore" /></div>
+      </div>
+    </div>
+
+    <div class="footer">
+      <span class="tag">Scraped &amp; graded automatically</span>
+      <div class="rule"></div>
+      <span class="tag"><strong>Every Premier League</strong> fixture · <strong>every day</strong></span>
+    </div>
+  </div>
+</body>
+</html>
