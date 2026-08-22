@@ -8,6 +8,7 @@ from bs4 import BeautifulSoup
 
 from ..config import SPORTSGAMBLER
 from ..http import fetch, utcnow
+from ..markets import derive_from_score
 
 _REQUEST_DELAY = 2.0
 
@@ -97,7 +98,8 @@ def scrape(leagues_only: bool = True, horizon_days: int = 5) -> list[dict]:
             if not pred["home_goals"] and not pred["away_goals"]:
                 continue
 
-            rows.append({
+            hg, ag = int(pred["home_goals"]), int(pred["away_goals"])
+            common = {
                 "site": "sportsgambler",
                 "source_id": fx["source_id"],
                 "league": league["name"],
@@ -105,12 +107,17 @@ def scrape(leagues_only: bool = True, horizon_days: int = 5) -> list[dict]:
                 "kickoff": fx["kickoff"],
                 "home_team": fx["home_team"],
                 "away_team": fx["away_team"],
-                "market": "correct_score",
-                "pick": f"{pred['home_goals']} - {pred['away_goals']}",
                 "p1": "",
                 "p2": "",
                 "p3": "",
                 "note": pred["main_tip"],
                 "scraped_at": now,
+            }
+            rows.append({
+                **common,
+                "market": "correct_score",
+                "pick": f"{pred['home_goals']} - {pred['away_goals']}",
             })
+            for market, pick in derive_from_score(hg, ag).items():
+                rows.append({**common, "market": market, "pick": pick})
     return rows

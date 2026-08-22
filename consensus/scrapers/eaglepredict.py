@@ -7,6 +7,7 @@ from bs4 import BeautifulSoup
 
 from ..config import EAGLEPREDICT
 from ..http import fetch, utcnow
+from ..markets import derive_from_score
 
 _DAY_RE = re.compile(
     r"\b(?:Mon|Tue|Wed|Thu|Fri|Sat|Sun)\s*-\s*(\d{1,2})\s+([A-Z][a-z]{2})\s+(\d{4})\b"
@@ -136,6 +137,18 @@ def scrape(leagues_only: bool = True) -> list[dict]:
                     "p1": "", "p2": "", "p3": "",
                     "note": ou_r["odds"],
                 })
+                parts = re.match(r"^(\d+)\s*-\s*(\d+)$", score)
+                if parts:
+                    for market, pick in derive_from_score(
+                        int(parts.group(1)), int(parts.group(2))
+                    ).items():
+                        rows.append({
+                            **common,
+                            "market": market,
+                            "pick": pick,
+                            "p1": "", "p2": "", "p3": "",
+                            "note": ou_r["odds"],
+                        })
         bt_r = bt.get(source_id)
         if bt_r and bt_r["pick"] in ("BTTS - Yes", "BTTS - No"):
             rows.append({

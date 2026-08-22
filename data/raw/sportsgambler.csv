@@ -1,38 +1,149 @@
 site,source_id,league,date,kickoff,home_team,away_team,market,pick,p1,p2,p3,note,scraped_at
-sportsgambler,hull-vs-manchester-united,Premier League,2026-08-22,14:30 - Sat 22 Aug,Hull,Manchester United,correct_score,1 - 2,,,,Hull Asian Hcp +1.5 @ 1.82,2026-08-22T03:23:55Z
-sportsgambler,ipswich-vs-sunderland,Premier League,2026-08-22,17:00 - Sat 22 Aug,Ipswich,Sunderland,correct_score,1 - 1,,,,Both Teams To Score - Yes @ 1.68,2026-08-22T03:23:55Z
-sportsgambler,nottingham-forest-vs-leeds,Premier League,2026-08-22,17:00 - Sat 22 Aug,Nottingham Forest,Leeds,correct_score,1 - 0,,,,Forest To Win @ 2.30,2026-08-22T03:23:55Z
-sportsgambler,everton-vs-crystal-palace,Premier League,2026-08-22,17:00 - Sat 22 Aug,Everton,Crystal Palace,correct_score,2 - 1,,,,Over 2.5 Goals @ 1.89,2026-08-22T03:23:55Z
-sportsgambler,brentford-vs-tottenham,Premier League,2026-08-22,19:30 - Sat 22 Aug,Brentford,Tottenham,correct_score,1 - 0,,,,Brentford Asian Hcp 0.0 @ 1.75,2026-08-22T03:23:55Z
-sportsgambler,brighton-vs-aston-villa,Premier League,2026-08-23,16:00 - Sun 23 Aug,Brighton,Aston Villa,correct_score,2 - 1,,,,Brighton To Win @ 2.23,2026-08-22T03:23:55Z
-sportsgambler,manchester-city-vs-bournemouth,Premier League,2026-08-23,16:00 - Sun 23 Aug,Manchester City,Bournemouth,correct_score,1 - 1,,,,Bournemouth Asian Hcp +1.25 @ 1.91,2026-08-22T03:23:55Z
-sportsgambler,newcastle-vs-liverpool,Premier League,2026-08-23,18:30 - Sun 23 Aug,Newcastle,Liverpool,correct_score,1 - 1,,,,Newcastle Asian Hcp +0.5 @ 1.96,2026-08-22T03:23:55Z
-sportsgambler,athletic-club-vs-sevilla,LaLiga,2026-08-22,18:00 - Sat 22 Aug,Athletic Club,Sevilla,correct_score,1 - 0,,,,Under 2.5 Goals @ 1.67,2026-08-22T03:23:55Z
-sportsgambler,valencia-vs-celta-vigo,LaLiga,2026-08-22,20:30 - Sat 22 Aug,Valencia,Celta Vigo,correct_score,0 - 1,,,,Celta Asian Hcp +0.25 @ 1.81,2026-08-22T03:23:55Z
-sportsgambler,espanyol-vs-real-madrid,LaLiga,2026-08-22,22:30 - Sat 22 Aug,Espanyol,Real Madrid,correct_score,1 - 1,,,,Espanyol Asian Hcp +1.25 @ 1.91,2026-08-22T03:23:55Z
-sportsgambler,atletico-madrid-vs-villarreal,LaLiga,2026-08-23,18:00 - Sun 23 Aug,Atlético Madrid,Villarreal,correct_score,1 - 0,,,,Atléti To Win @ 1.86,2026-08-22T03:23:55Z
-sportsgambler,getafe-vs-racing-club-santander,LaLiga,2026-08-23,20:30 - Sun 23 Aug,Getafe,Racing Club,correct_score,0 - 1,,,,Racing Asian Hcp +0.25 @ 1.95,2026-08-22T03:23:55Z
-sportsgambler,elche-vs-barcelona,LaLiga,2026-08-23,22:30 - Sun 23 Aug,Elche,Barcelona,correct_score,0 - 1,,,,Elche Asian Hcp +1.5 @ 1.97,2026-08-22T03:23:55Z
-sportsgambler,inter-milan-vs-monza,Serie A,2026-08-22,19:30 - Sat 22 Aug,Inter Milan,Monza,correct_score,1 - 0,,,,Monza Asian Hcp +1.75 @ 2.02,2026-08-22T03:23:55Z
-sportsgambler,udinese-vs-como,Serie A,2026-08-22,19:30 - Sat 22 Aug,Udinese,Como,correct_score,0 - 1,,,,Under 2.5 Goals @ 1.70,2026-08-22T03:23:55Z
-sportsgambler,genoa-vs-napoli,Serie A,2026-08-22,21:45 - Sat 22 Aug,Genoa,Napoli,correct_score,0 - 1,,,,Napoli To Win @ 1.83,2026-08-22T03:23:55Z
-sportsgambler,parma-vs-cagliari,Serie A,2026-08-22,21:45 - Sat 22 Aug,Parma,Cagliari,correct_score,0 - 1,,,,Cagliari Asian Hcp +0.25 @ 1.67,2026-08-22T03:23:55Z
-sportsgambler,frosinone-vs-juventus,Serie A,2026-08-23,19:30 - Sun 23 Aug,Frosinone,Juventus,correct_score,1 - 1,,,,Frosinone Asian Hcp +1.25 @ 1.82,2026-08-22T03:23:55Z
-sportsgambler,venezia-vs-lecce,Serie A,2026-08-23,19:30 - Sun 23 Aug,Venezia,Lecce,correct_score,2 - 1,,,,Venezia To Win @ 2.20,2026-08-22T03:23:55Z
-sportsgambler,torino-vs-ac-milan,Serie A,2026-08-23,21:45 - Sun 23 Aug,Torino,AC Milan,correct_score,0 - 2,,,,Milan To Win @ 1.72,2026-08-22T03:23:55Z
-sportsgambler,atalanta-vs-sassuolo,Serie A,2026-08-23,21:45 - Sun 23 Aug,Atalanta,Sassuolo,correct_score,1 - 1,,,,Sassuolo Asian Hcp +1 @ 2.00,2026-08-22T03:23:55Z
-sportsgambler,lens-vs-auxerre,Ligue 1,2026-08-22,18:15 - Sat 22 Aug,Lens,Auxerre,correct_score,1 - 1,,,,Auxerre Asian Hcp +1 @ 1.98,2026-08-22T03:23:55Z
-sportsgambler,nice-vs-lorient,Ligue 1,2026-08-22,21:45 - Sat 22 Aug,Nice,Lorient,correct_score,1 - 1,,,,Lorient Asian Hcp +0.5 @ 1.79,2026-08-22T03:23:55Z
-sportsgambler,toulouse-vs-lyon,Ligue 1,2026-08-22,21:45 - Sat 22 Aug,Toulouse,Lyon,correct_score,2 - 1,,,,Over 2.5 Goals @ 1.74,2026-08-22T03:23:55Z
-sportsgambler,angers-vs-lille,Ligue 1,2026-08-23,16:00 - Sun 23 Aug,Angers,Lille,correct_score,1 - 1,,,,Under 2.5 Goals @ 1.85,2026-08-22T03:23:55Z
-sportsgambler,le-havre-vs-monaco,Ligue 1,2026-08-23,18:15 - Sun 23 Aug,Le Havre,Monaco,correct_score,1 - 1,,,,Le Havre Asian Hcp +0.5 @ 2.00,2026-08-22T03:23:55Z
-sportsgambler,rennes-vs-psg,Ligue 1,2026-08-23,21:45 - Sun 23 Aug,Rennes,PSG,correct_score,2 - 2,,,,Rennes Asian Hcp +1.25 @ 1.83,2026-08-22T03:23:55Z
-sportsgambler,fortuna-sittard-vs-az-alkmaar,Eredivisie,2026-08-22,17:30 - Sat 22 Aug,Fortuna Sittard,AZ Alkmaar,correct_score,0 - 2,,,,AZ Alkmaar To Win @ 1.58,2026-08-22T03:23:55Z
-sportsgambler,sparta-rotterdam-vs-utrecht,Eredivisie,2026-08-22,19:45 - Sat 22 Aug,Sparta Rotterdam,FC Utrecht,correct_score,1 - 2,,,,Utrecht Asian Hcp +0.25 @ 1.67,2026-08-22T03:23:55Z
-sportsgambler,heerenveen-vs-pec-zwolle,Eredivisie,2026-08-22,22:00 - Sat 22 Aug,Heerenveen,PEC Zwolle,correct_score,2 - 0,,,,Heerenveen Asian Hcp -1 @ 1.89,2026-08-22T03:23:55Z
-sportsgambler,psv-vs-groningen,Eredivisie,2026-08-23,15:30 - Sun 23 Aug,PSV Eindhoven,FC Groningen,correct_score,1 - 1,,,,Groningen Asian Hcp +1.5 @ 1.95,2026-08-22T03:23:55Z
-sportsgambler,estoril-vs-rio-ave,Liga Portugal,2026-08-22,20:00 - Sat 22 Aug,Estoril,Rio Ave,correct_score,2 - 1,,,,Estoril To Win @ 1.84,2026-08-22T03:23:55Z
-sportsgambler,sporting-vs-alverca,Liga Portugal,2026-08-22,22:30 - Sat 22 Aug,Sporting,Alverca,correct_score,4 - 0,,,,Sporting Asian Hcp -2 @ 1.80,2026-08-22T03:23:55Z
-sportsgambler,vitoria-de-guimaraes-vs-nacional,Liga Portugal,2026-08-23,17:30 - Sun 23 Aug,Vitória,Nacional,correct_score,3 - 0,,,,Vitória To Win @ 1.63,2026-08-22T03:23:55Z
-sportsgambler,santa-clara-vs-famalicao,Liga Portugal,2026-08-23,20:00 - Sun 23 Aug,Santa Clara,Famalicão,correct_score,1 - 2,,,,Famalicão Asian Hcp +0.25 @ 1.65,2026-08-22T03:23:55Z
-sportsgambler,porto-vs-arouca,Liga Portugal,2026-08-23,22:30 - Sun 23 Aug,Porto,Arouca,correct_score,1 - 0,,,,Arouca Asian Hcp +1.75 @ 1.93,2026-08-22T03:23:55Z
+sportsgambler,hull-vs-manchester-united,Premier League,2026-08-22,14:30 - Sat 22 Aug,Hull,Manchester United,correct_score,1 - 2,,,,Hull Asian Hcp +1.5 @ 1.82,2026-08-22T03:58:15Z
+sportsgambler,hull-vs-manchester-united,Premier League,2026-08-22,14:30 - Sat 22 Aug,Hull,Manchester United,1x2,2,,,,Hull Asian Hcp +1.5 @ 1.82,2026-08-22T03:58:15Z
+sportsgambler,hull-vs-manchester-united,Premier League,2026-08-22,14:30 - Sat 22 Aug,Hull,Manchester United,btts,Yes,,,,Hull Asian Hcp +1.5 @ 1.82,2026-08-22T03:58:15Z
+sportsgambler,hull-vs-manchester-united,Premier League,2026-08-22,14:30 - Sat 22 Aug,Hull,Manchester United,over_under,Over,,,,Hull Asian Hcp +1.5 @ 1.82,2026-08-22T03:58:15Z
+sportsgambler,ipswich-vs-sunderland,Premier League,2026-08-22,17:00 - Sat 22 Aug,Ipswich,Sunderland,correct_score,1 - 1,,,,Both Teams To Score - Yes @ 1.68,2026-08-22T03:58:15Z
+sportsgambler,ipswich-vs-sunderland,Premier League,2026-08-22,17:00 - Sat 22 Aug,Ipswich,Sunderland,1x2,X,,,,Both Teams To Score - Yes @ 1.68,2026-08-22T03:58:15Z
+sportsgambler,ipswich-vs-sunderland,Premier League,2026-08-22,17:00 - Sat 22 Aug,Ipswich,Sunderland,btts,Yes,,,,Both Teams To Score - Yes @ 1.68,2026-08-22T03:58:15Z
+sportsgambler,ipswich-vs-sunderland,Premier League,2026-08-22,17:00 - Sat 22 Aug,Ipswich,Sunderland,over_under,Under,,,,Both Teams To Score - Yes @ 1.68,2026-08-22T03:58:15Z
+sportsgambler,nottingham-forest-vs-leeds,Premier League,2026-08-22,17:00 - Sat 22 Aug,Nottingham Forest,Leeds,correct_score,1 - 0,,,,Forest To Win @ 2.30,2026-08-22T03:58:15Z
+sportsgambler,nottingham-forest-vs-leeds,Premier League,2026-08-22,17:00 - Sat 22 Aug,Nottingham Forest,Leeds,1x2,1,,,,Forest To Win @ 2.30,2026-08-22T03:58:15Z
+sportsgambler,nottingham-forest-vs-leeds,Premier League,2026-08-22,17:00 - Sat 22 Aug,Nottingham Forest,Leeds,btts,No,,,,Forest To Win @ 2.30,2026-08-22T03:58:15Z
+sportsgambler,nottingham-forest-vs-leeds,Premier League,2026-08-22,17:00 - Sat 22 Aug,Nottingham Forest,Leeds,over_under,Under,,,,Forest To Win @ 2.30,2026-08-22T03:58:15Z
+sportsgambler,everton-vs-crystal-palace,Premier League,2026-08-22,17:00 - Sat 22 Aug,Everton,Crystal Palace,correct_score,2 - 1,,,,Over 2.5 Goals @ 1.89,2026-08-22T03:58:15Z
+sportsgambler,everton-vs-crystal-palace,Premier League,2026-08-22,17:00 - Sat 22 Aug,Everton,Crystal Palace,1x2,1,,,,Over 2.5 Goals @ 1.89,2026-08-22T03:58:15Z
+sportsgambler,everton-vs-crystal-palace,Premier League,2026-08-22,17:00 - Sat 22 Aug,Everton,Crystal Palace,btts,Yes,,,,Over 2.5 Goals @ 1.89,2026-08-22T03:58:15Z
+sportsgambler,everton-vs-crystal-palace,Premier League,2026-08-22,17:00 - Sat 22 Aug,Everton,Crystal Palace,over_under,Over,,,,Over 2.5 Goals @ 1.89,2026-08-22T03:58:15Z
+sportsgambler,brentford-vs-tottenham,Premier League,2026-08-22,19:30 - Sat 22 Aug,Brentford,Tottenham,correct_score,1 - 0,,,,Brentford Asian Hcp 0.0 @ 1.75,2026-08-22T03:58:15Z
+sportsgambler,brentford-vs-tottenham,Premier League,2026-08-22,19:30 - Sat 22 Aug,Brentford,Tottenham,1x2,1,,,,Brentford Asian Hcp 0.0 @ 1.75,2026-08-22T03:58:15Z
+sportsgambler,brentford-vs-tottenham,Premier League,2026-08-22,19:30 - Sat 22 Aug,Brentford,Tottenham,btts,No,,,,Brentford Asian Hcp 0.0 @ 1.75,2026-08-22T03:58:15Z
+sportsgambler,brentford-vs-tottenham,Premier League,2026-08-22,19:30 - Sat 22 Aug,Brentford,Tottenham,over_under,Under,,,,Brentford Asian Hcp 0.0 @ 1.75,2026-08-22T03:58:15Z
+sportsgambler,brighton-vs-aston-villa,Premier League,2026-08-23,16:00 - Sun 23 Aug,Brighton,Aston Villa,correct_score,2 - 1,,,,Brighton To Win @ 2.23,2026-08-22T03:58:15Z
+sportsgambler,brighton-vs-aston-villa,Premier League,2026-08-23,16:00 - Sun 23 Aug,Brighton,Aston Villa,1x2,1,,,,Brighton To Win @ 2.23,2026-08-22T03:58:15Z
+sportsgambler,brighton-vs-aston-villa,Premier League,2026-08-23,16:00 - Sun 23 Aug,Brighton,Aston Villa,btts,Yes,,,,Brighton To Win @ 2.23,2026-08-22T03:58:15Z
+sportsgambler,brighton-vs-aston-villa,Premier League,2026-08-23,16:00 - Sun 23 Aug,Brighton,Aston Villa,over_under,Over,,,,Brighton To Win @ 2.23,2026-08-22T03:58:15Z
+sportsgambler,manchester-city-vs-bournemouth,Premier League,2026-08-23,16:00 - Sun 23 Aug,Manchester City,Bournemouth,correct_score,1 - 1,,,,Bournemouth Asian Hcp +1.25 @ 1.91,2026-08-22T03:58:15Z
+sportsgambler,manchester-city-vs-bournemouth,Premier League,2026-08-23,16:00 - Sun 23 Aug,Manchester City,Bournemouth,1x2,X,,,,Bournemouth Asian Hcp +1.25 @ 1.91,2026-08-22T03:58:15Z
+sportsgambler,manchester-city-vs-bournemouth,Premier League,2026-08-23,16:00 - Sun 23 Aug,Manchester City,Bournemouth,btts,Yes,,,,Bournemouth Asian Hcp +1.25 @ 1.91,2026-08-22T03:58:15Z
+sportsgambler,manchester-city-vs-bournemouth,Premier League,2026-08-23,16:00 - Sun 23 Aug,Manchester City,Bournemouth,over_under,Under,,,,Bournemouth Asian Hcp +1.25 @ 1.91,2026-08-22T03:58:15Z
+sportsgambler,newcastle-vs-liverpool,Premier League,2026-08-23,18:30 - Sun 23 Aug,Newcastle,Liverpool,correct_score,1 - 1,,,,Newcastle Asian Hcp +0.5 @ 1.96,2026-08-22T03:58:15Z
+sportsgambler,newcastle-vs-liverpool,Premier League,2026-08-23,18:30 - Sun 23 Aug,Newcastle,Liverpool,1x2,X,,,,Newcastle Asian Hcp +0.5 @ 1.96,2026-08-22T03:58:15Z
+sportsgambler,newcastle-vs-liverpool,Premier League,2026-08-23,18:30 - Sun 23 Aug,Newcastle,Liverpool,btts,Yes,,,,Newcastle Asian Hcp +0.5 @ 1.96,2026-08-22T03:58:15Z
+sportsgambler,newcastle-vs-liverpool,Premier League,2026-08-23,18:30 - Sun 23 Aug,Newcastle,Liverpool,over_under,Under,,,,Newcastle Asian Hcp +0.5 @ 1.96,2026-08-22T03:58:15Z
+sportsgambler,athletic-club-vs-sevilla,LaLiga,2026-08-22,18:00 - Sat 22 Aug,Athletic Club,Sevilla,correct_score,1 - 0,,,,Under 2.5 Goals @ 1.67,2026-08-22T03:58:15Z
+sportsgambler,athletic-club-vs-sevilla,LaLiga,2026-08-22,18:00 - Sat 22 Aug,Athletic Club,Sevilla,1x2,1,,,,Under 2.5 Goals @ 1.67,2026-08-22T03:58:15Z
+sportsgambler,athletic-club-vs-sevilla,LaLiga,2026-08-22,18:00 - Sat 22 Aug,Athletic Club,Sevilla,btts,No,,,,Under 2.5 Goals @ 1.67,2026-08-22T03:58:15Z
+sportsgambler,athletic-club-vs-sevilla,LaLiga,2026-08-22,18:00 - Sat 22 Aug,Athletic Club,Sevilla,over_under,Under,,,,Under 2.5 Goals @ 1.67,2026-08-22T03:58:15Z
+sportsgambler,valencia-vs-celta-vigo,LaLiga,2026-08-22,20:30 - Sat 22 Aug,Valencia,Celta Vigo,correct_score,0 - 1,,,,Celta Asian Hcp +0.25 @ 1.81,2026-08-22T03:58:15Z
+sportsgambler,valencia-vs-celta-vigo,LaLiga,2026-08-22,20:30 - Sat 22 Aug,Valencia,Celta Vigo,1x2,2,,,,Celta Asian Hcp +0.25 @ 1.81,2026-08-22T03:58:15Z
+sportsgambler,valencia-vs-celta-vigo,LaLiga,2026-08-22,20:30 - Sat 22 Aug,Valencia,Celta Vigo,btts,No,,,,Celta Asian Hcp +0.25 @ 1.81,2026-08-22T03:58:15Z
+sportsgambler,valencia-vs-celta-vigo,LaLiga,2026-08-22,20:30 - Sat 22 Aug,Valencia,Celta Vigo,over_under,Under,,,,Celta Asian Hcp +0.25 @ 1.81,2026-08-22T03:58:15Z
+sportsgambler,espanyol-vs-real-madrid,LaLiga,2026-08-22,22:30 - Sat 22 Aug,Espanyol,Real Madrid,correct_score,1 - 1,,,,Espanyol Asian Hcp +1.25 @ 1.91,2026-08-22T03:58:15Z
+sportsgambler,espanyol-vs-real-madrid,LaLiga,2026-08-22,22:30 - Sat 22 Aug,Espanyol,Real Madrid,1x2,X,,,,Espanyol Asian Hcp +1.25 @ 1.91,2026-08-22T03:58:15Z
+sportsgambler,espanyol-vs-real-madrid,LaLiga,2026-08-22,22:30 - Sat 22 Aug,Espanyol,Real Madrid,btts,Yes,,,,Espanyol Asian Hcp +1.25 @ 1.91,2026-08-22T03:58:15Z
+sportsgambler,espanyol-vs-real-madrid,LaLiga,2026-08-22,22:30 - Sat 22 Aug,Espanyol,Real Madrid,over_under,Under,,,,Espanyol Asian Hcp +1.25 @ 1.91,2026-08-22T03:58:15Z
+sportsgambler,atletico-madrid-vs-villarreal,LaLiga,2026-08-23,18:00 - Sun 23 Aug,Atlético Madrid,Villarreal,correct_score,1 - 0,,,,Atléti To Win @ 1.86,2026-08-22T03:58:15Z
+sportsgambler,atletico-madrid-vs-villarreal,LaLiga,2026-08-23,18:00 - Sun 23 Aug,Atlético Madrid,Villarreal,1x2,1,,,,Atléti To Win @ 1.86,2026-08-22T03:58:15Z
+sportsgambler,atletico-madrid-vs-villarreal,LaLiga,2026-08-23,18:00 - Sun 23 Aug,Atlético Madrid,Villarreal,btts,No,,,,Atléti To Win @ 1.86,2026-08-22T03:58:15Z
+sportsgambler,atletico-madrid-vs-villarreal,LaLiga,2026-08-23,18:00 - Sun 23 Aug,Atlético Madrid,Villarreal,over_under,Under,,,,Atléti To Win @ 1.86,2026-08-22T03:58:15Z
+sportsgambler,getafe-vs-racing-club-santander,LaLiga,2026-08-23,20:30 - Sun 23 Aug,Getafe,Racing Club,correct_score,0 - 1,,,,Racing Asian Hcp +0.25 @ 1.95,2026-08-22T03:58:15Z
+sportsgambler,getafe-vs-racing-club-santander,LaLiga,2026-08-23,20:30 - Sun 23 Aug,Getafe,Racing Club,1x2,2,,,,Racing Asian Hcp +0.25 @ 1.95,2026-08-22T03:58:15Z
+sportsgambler,getafe-vs-racing-club-santander,LaLiga,2026-08-23,20:30 - Sun 23 Aug,Getafe,Racing Club,btts,No,,,,Racing Asian Hcp +0.25 @ 1.95,2026-08-22T03:58:15Z
+sportsgambler,getafe-vs-racing-club-santander,LaLiga,2026-08-23,20:30 - Sun 23 Aug,Getafe,Racing Club,over_under,Under,,,,Racing Asian Hcp +0.25 @ 1.95,2026-08-22T03:58:15Z
+sportsgambler,elche-vs-barcelona,LaLiga,2026-08-23,22:30 - Sun 23 Aug,Elche,Barcelona,correct_score,0 - 1,,,,Elche Asian Hcp +1.5 @ 1.97,2026-08-22T03:58:15Z
+sportsgambler,elche-vs-barcelona,LaLiga,2026-08-23,22:30 - Sun 23 Aug,Elche,Barcelona,1x2,2,,,,Elche Asian Hcp +1.5 @ 1.97,2026-08-22T03:58:15Z
+sportsgambler,elche-vs-barcelona,LaLiga,2026-08-23,22:30 - Sun 23 Aug,Elche,Barcelona,btts,No,,,,Elche Asian Hcp +1.5 @ 1.97,2026-08-22T03:58:15Z
+sportsgambler,elche-vs-barcelona,LaLiga,2026-08-23,22:30 - Sun 23 Aug,Elche,Barcelona,over_under,Under,,,,Elche Asian Hcp +1.5 @ 1.97,2026-08-22T03:58:15Z
+sportsgambler,inter-milan-vs-monza,Serie A,2026-08-22,19:30 - Sat 22 Aug,Inter Milan,Monza,correct_score,1 - 0,,,,Monza Asian Hcp +1.75 @ 2.02,2026-08-22T03:58:15Z
+sportsgambler,inter-milan-vs-monza,Serie A,2026-08-22,19:30 - Sat 22 Aug,Inter Milan,Monza,1x2,1,,,,Monza Asian Hcp +1.75 @ 2.02,2026-08-22T03:58:15Z
+sportsgambler,inter-milan-vs-monza,Serie A,2026-08-22,19:30 - Sat 22 Aug,Inter Milan,Monza,btts,No,,,,Monza Asian Hcp +1.75 @ 2.02,2026-08-22T03:58:15Z
+sportsgambler,inter-milan-vs-monza,Serie A,2026-08-22,19:30 - Sat 22 Aug,Inter Milan,Monza,over_under,Under,,,,Monza Asian Hcp +1.75 @ 2.02,2026-08-22T03:58:15Z
+sportsgambler,udinese-vs-como,Serie A,2026-08-22,19:30 - Sat 22 Aug,Udinese,Como,correct_score,0 - 1,,,,Under 2.5 Goals @ 1.70,2026-08-22T03:58:15Z
+sportsgambler,udinese-vs-como,Serie A,2026-08-22,19:30 - Sat 22 Aug,Udinese,Como,1x2,2,,,,Under 2.5 Goals @ 1.70,2026-08-22T03:58:15Z
+sportsgambler,udinese-vs-como,Serie A,2026-08-22,19:30 - Sat 22 Aug,Udinese,Como,btts,No,,,,Under 2.5 Goals @ 1.70,2026-08-22T03:58:15Z
+sportsgambler,udinese-vs-como,Serie A,2026-08-22,19:30 - Sat 22 Aug,Udinese,Como,over_under,Under,,,,Under 2.5 Goals @ 1.70,2026-08-22T03:58:15Z
+sportsgambler,genoa-vs-napoli,Serie A,2026-08-22,21:45 - Sat 22 Aug,Genoa,Napoli,correct_score,0 - 1,,,,Napoli To Win @ 1.83,2026-08-22T03:58:15Z
+sportsgambler,genoa-vs-napoli,Serie A,2026-08-22,21:45 - Sat 22 Aug,Genoa,Napoli,1x2,2,,,,Napoli To Win @ 1.83,2026-08-22T03:58:15Z
+sportsgambler,genoa-vs-napoli,Serie A,2026-08-22,21:45 - Sat 22 Aug,Genoa,Napoli,btts,No,,,,Napoli To Win @ 1.83,2026-08-22T03:58:15Z
+sportsgambler,genoa-vs-napoli,Serie A,2026-08-22,21:45 - Sat 22 Aug,Genoa,Napoli,over_under,Under,,,,Napoli To Win @ 1.83,2026-08-22T03:58:15Z
+sportsgambler,parma-vs-cagliari,Serie A,2026-08-22,21:45 - Sat 22 Aug,Parma,Cagliari,correct_score,0 - 1,,,,Cagliari Asian Hcp +0.25 @ 1.67,2026-08-22T03:58:15Z
+sportsgambler,parma-vs-cagliari,Serie A,2026-08-22,21:45 - Sat 22 Aug,Parma,Cagliari,1x2,2,,,,Cagliari Asian Hcp +0.25 @ 1.67,2026-08-22T03:58:15Z
+sportsgambler,parma-vs-cagliari,Serie A,2026-08-22,21:45 - Sat 22 Aug,Parma,Cagliari,btts,No,,,,Cagliari Asian Hcp +0.25 @ 1.67,2026-08-22T03:58:15Z
+sportsgambler,parma-vs-cagliari,Serie A,2026-08-22,21:45 - Sat 22 Aug,Parma,Cagliari,over_under,Under,,,,Cagliari Asian Hcp +0.25 @ 1.67,2026-08-22T03:58:15Z
+sportsgambler,frosinone-vs-juventus,Serie A,2026-08-23,19:30 - Sun 23 Aug,Frosinone,Juventus,correct_score,1 - 1,,,,Frosinone Asian Hcp +1.25 @ 1.82,2026-08-22T03:58:15Z
+sportsgambler,frosinone-vs-juventus,Serie A,2026-08-23,19:30 - Sun 23 Aug,Frosinone,Juventus,1x2,X,,,,Frosinone Asian Hcp +1.25 @ 1.82,2026-08-22T03:58:15Z
+sportsgambler,frosinone-vs-juventus,Serie A,2026-08-23,19:30 - Sun 23 Aug,Frosinone,Juventus,btts,Yes,,,,Frosinone Asian Hcp +1.25 @ 1.82,2026-08-22T03:58:15Z
+sportsgambler,frosinone-vs-juventus,Serie A,2026-08-23,19:30 - Sun 23 Aug,Frosinone,Juventus,over_under,Under,,,,Frosinone Asian Hcp +1.25 @ 1.82,2026-08-22T03:58:15Z
+sportsgambler,venezia-vs-lecce,Serie A,2026-08-23,19:30 - Sun 23 Aug,Venezia,Lecce,correct_score,2 - 1,,,,Venezia To Win @ 2.20,2026-08-22T03:58:15Z
+sportsgambler,venezia-vs-lecce,Serie A,2026-08-23,19:30 - Sun 23 Aug,Venezia,Lecce,1x2,1,,,,Venezia To Win @ 2.20,2026-08-22T03:58:15Z
+sportsgambler,venezia-vs-lecce,Serie A,2026-08-23,19:30 - Sun 23 Aug,Venezia,Lecce,btts,Yes,,,,Venezia To Win @ 2.20,2026-08-22T03:58:15Z
+sportsgambler,venezia-vs-lecce,Serie A,2026-08-23,19:30 - Sun 23 Aug,Venezia,Lecce,over_under,Over,,,,Venezia To Win @ 2.20,2026-08-22T03:58:15Z
+sportsgambler,torino-vs-ac-milan,Serie A,2026-08-23,21:45 - Sun 23 Aug,Torino,AC Milan,correct_score,0 - 2,,,,Milan To Win @ 1.72,2026-08-22T03:58:15Z
+sportsgambler,torino-vs-ac-milan,Serie A,2026-08-23,21:45 - Sun 23 Aug,Torino,AC Milan,1x2,2,,,,Milan To Win @ 1.72,2026-08-22T03:58:15Z
+sportsgambler,torino-vs-ac-milan,Serie A,2026-08-23,21:45 - Sun 23 Aug,Torino,AC Milan,btts,No,,,,Milan To Win @ 1.72,2026-08-22T03:58:15Z
+sportsgambler,torino-vs-ac-milan,Serie A,2026-08-23,21:45 - Sun 23 Aug,Torino,AC Milan,over_under,Under,,,,Milan To Win @ 1.72,2026-08-22T03:58:15Z
+sportsgambler,atalanta-vs-sassuolo,Serie A,2026-08-23,21:45 - Sun 23 Aug,Atalanta,Sassuolo,correct_score,1 - 1,,,,Sassuolo Asian Hcp +1 @ 2.00,2026-08-22T03:58:15Z
+sportsgambler,atalanta-vs-sassuolo,Serie A,2026-08-23,21:45 - Sun 23 Aug,Atalanta,Sassuolo,1x2,X,,,,Sassuolo Asian Hcp +1 @ 2.00,2026-08-22T03:58:15Z
+sportsgambler,atalanta-vs-sassuolo,Serie A,2026-08-23,21:45 - Sun 23 Aug,Atalanta,Sassuolo,btts,Yes,,,,Sassuolo Asian Hcp +1 @ 2.00,2026-08-22T03:58:15Z
+sportsgambler,atalanta-vs-sassuolo,Serie A,2026-08-23,21:45 - Sun 23 Aug,Atalanta,Sassuolo,over_under,Under,,,,Sassuolo Asian Hcp +1 @ 2.00,2026-08-22T03:58:15Z
+sportsgambler,lens-vs-auxerre,Ligue 1,2026-08-22,18:15 - Sat 22 Aug,Lens,Auxerre,correct_score,1 - 1,,,,Auxerre Asian Hcp +1 @ 1.98,2026-08-22T03:58:15Z
+sportsgambler,lens-vs-auxerre,Ligue 1,2026-08-22,18:15 - Sat 22 Aug,Lens,Auxerre,1x2,X,,,,Auxerre Asian Hcp +1 @ 1.98,2026-08-22T03:58:15Z
+sportsgambler,lens-vs-auxerre,Ligue 1,2026-08-22,18:15 - Sat 22 Aug,Lens,Auxerre,btts,Yes,,,,Auxerre Asian Hcp +1 @ 1.98,2026-08-22T03:58:15Z
+sportsgambler,lens-vs-auxerre,Ligue 1,2026-08-22,18:15 - Sat 22 Aug,Lens,Auxerre,over_under,Under,,,,Auxerre Asian Hcp +1 @ 1.98,2026-08-22T03:58:15Z
+sportsgambler,nice-vs-lorient,Ligue 1,2026-08-22,21:45 - Sat 22 Aug,Nice,Lorient,correct_score,1 - 1,,,,Lorient Asian Hcp +0.5 @ 1.79,2026-08-22T03:58:15Z
+sportsgambler,nice-vs-lorient,Ligue 1,2026-08-22,21:45 - Sat 22 Aug,Nice,Lorient,1x2,X,,,,Lorient Asian Hcp +0.5 @ 1.79,2026-08-22T03:58:15Z
+sportsgambler,nice-vs-lorient,Ligue 1,2026-08-22,21:45 - Sat 22 Aug,Nice,Lorient,btts,Yes,,,,Lorient Asian Hcp +0.5 @ 1.79,2026-08-22T03:58:15Z
+sportsgambler,nice-vs-lorient,Ligue 1,2026-08-22,21:45 - Sat 22 Aug,Nice,Lorient,over_under,Under,,,,Lorient Asian Hcp +0.5 @ 1.79,2026-08-22T03:58:15Z
+sportsgambler,toulouse-vs-lyon,Ligue 1,2026-08-22,21:45 - Sat 22 Aug,Toulouse,Lyon,correct_score,2 - 1,,,,Over 2.5 Goals @ 1.74,2026-08-22T03:58:15Z
+sportsgambler,toulouse-vs-lyon,Ligue 1,2026-08-22,21:45 - Sat 22 Aug,Toulouse,Lyon,1x2,1,,,,Over 2.5 Goals @ 1.74,2026-08-22T03:58:15Z
+sportsgambler,toulouse-vs-lyon,Ligue 1,2026-08-22,21:45 - Sat 22 Aug,Toulouse,Lyon,btts,Yes,,,,Over 2.5 Goals @ 1.74,2026-08-22T03:58:15Z
+sportsgambler,toulouse-vs-lyon,Ligue 1,2026-08-22,21:45 - Sat 22 Aug,Toulouse,Lyon,over_under,Over,,,,Over 2.5 Goals @ 1.74,2026-08-22T03:58:15Z
+sportsgambler,angers-vs-lille,Ligue 1,2026-08-23,16:00 - Sun 23 Aug,Angers,Lille,correct_score,1 - 1,,,,Under 2.5 Goals @ 1.85,2026-08-22T03:58:15Z
+sportsgambler,angers-vs-lille,Ligue 1,2026-08-23,16:00 - Sun 23 Aug,Angers,Lille,1x2,X,,,,Under 2.5 Goals @ 1.85,2026-08-22T03:58:15Z
+sportsgambler,angers-vs-lille,Ligue 1,2026-08-23,16:00 - Sun 23 Aug,Angers,Lille,btts,Yes,,,,Under 2.5 Goals @ 1.85,2026-08-22T03:58:15Z
+sportsgambler,angers-vs-lille,Ligue 1,2026-08-23,16:00 - Sun 23 Aug,Angers,Lille,over_under,Under,,,,Under 2.5 Goals @ 1.85,2026-08-22T03:58:15Z
+sportsgambler,le-havre-vs-monaco,Ligue 1,2026-08-23,18:15 - Sun 23 Aug,Le Havre,Monaco,correct_score,1 - 1,,,,Le Havre Asian Hcp +0.5 @ 2.00,2026-08-22T03:58:15Z
+sportsgambler,le-havre-vs-monaco,Ligue 1,2026-08-23,18:15 - Sun 23 Aug,Le Havre,Monaco,1x2,X,,,,Le Havre Asian Hcp +0.5 @ 2.00,2026-08-22T03:58:15Z
+sportsgambler,le-havre-vs-monaco,Ligue 1,2026-08-23,18:15 - Sun 23 Aug,Le Havre,Monaco,btts,Yes,,,,Le Havre Asian Hcp +0.5 @ 2.00,2026-08-22T03:58:15Z
+sportsgambler,le-havre-vs-monaco,Ligue 1,2026-08-23,18:15 - Sun 23 Aug,Le Havre,Monaco,over_under,Under,,,,Le Havre Asian Hcp +0.5 @ 2.00,2026-08-22T03:58:15Z
+sportsgambler,rennes-vs-psg,Ligue 1,2026-08-23,21:45 - Sun 23 Aug,Rennes,PSG,correct_score,2 - 2,,,,Rennes Asian Hcp +1.25 @ 1.83,2026-08-22T03:58:15Z
+sportsgambler,rennes-vs-psg,Ligue 1,2026-08-23,21:45 - Sun 23 Aug,Rennes,PSG,1x2,X,,,,Rennes Asian Hcp +1.25 @ 1.83,2026-08-22T03:58:15Z
+sportsgambler,rennes-vs-psg,Ligue 1,2026-08-23,21:45 - Sun 23 Aug,Rennes,PSG,btts,Yes,,,,Rennes Asian Hcp +1.25 @ 1.83,2026-08-22T03:58:15Z
+sportsgambler,rennes-vs-psg,Ligue 1,2026-08-23,21:45 - Sun 23 Aug,Rennes,PSG,over_under,Over,,,,Rennes Asian Hcp +1.25 @ 1.83,2026-08-22T03:58:15Z
+sportsgambler,fortuna-sittard-vs-az-alkmaar,Eredivisie,2026-08-22,17:30 - Sat 22 Aug,Fortuna Sittard,AZ Alkmaar,correct_score,0 - 2,,,,AZ Alkmaar To Win @ 1.58,2026-08-22T03:58:15Z
+sportsgambler,fortuna-sittard-vs-az-alkmaar,Eredivisie,2026-08-22,17:30 - Sat 22 Aug,Fortuna Sittard,AZ Alkmaar,1x2,2,,,,AZ Alkmaar To Win @ 1.58,2026-08-22T03:58:15Z
+sportsgambler,fortuna-sittard-vs-az-alkmaar,Eredivisie,2026-08-22,17:30 - Sat 22 Aug,Fortuna Sittard,AZ Alkmaar,btts,No,,,,AZ Alkmaar To Win @ 1.58,2026-08-22T03:58:15Z
+sportsgambler,fortuna-sittard-vs-az-alkmaar,Eredivisie,2026-08-22,17:30 - Sat 22 Aug,Fortuna Sittard,AZ Alkmaar,over_under,Under,,,,AZ Alkmaar To Win @ 1.58,2026-08-22T03:58:15Z
+sportsgambler,sparta-rotterdam-vs-utrecht,Eredivisie,2026-08-22,19:45 - Sat 22 Aug,Sparta Rotterdam,FC Utrecht,correct_score,1 - 2,,,,Utrecht Asian Hcp +0.25 @ 1.67,2026-08-22T03:58:15Z
+sportsgambler,sparta-rotterdam-vs-utrecht,Eredivisie,2026-08-22,19:45 - Sat 22 Aug,Sparta Rotterdam,FC Utrecht,1x2,2,,,,Utrecht Asian Hcp +0.25 @ 1.67,2026-08-22T03:58:15Z
+sportsgambler,sparta-rotterdam-vs-utrecht,Eredivisie,2026-08-22,19:45 - Sat 22 Aug,Sparta Rotterdam,FC Utrecht,btts,Yes,,,,Utrecht Asian Hcp +0.25 @ 1.67,2026-08-22T03:58:15Z
+sportsgambler,sparta-rotterdam-vs-utrecht,Eredivisie,2026-08-22,19:45 - Sat 22 Aug,Sparta Rotterdam,FC Utrecht,over_under,Over,,,,Utrecht Asian Hcp +0.25 @ 1.67,2026-08-22T03:58:15Z
+sportsgambler,heerenveen-vs-pec-zwolle,Eredivisie,2026-08-22,22:00 - Sat 22 Aug,Heerenveen,PEC Zwolle,correct_score,2 - 0,,,,Heerenveen Asian Hcp -1 @ 1.89,2026-08-22T03:58:15Z
+sportsgambler,heerenveen-vs-pec-zwolle,Eredivisie,2026-08-22,22:00 - Sat 22 Aug,Heerenveen,PEC Zwolle,1x2,1,,,,Heerenveen Asian Hcp -1 @ 1.89,2026-08-22T03:58:15Z
+sportsgambler,heerenveen-vs-pec-zwolle,Eredivisie,2026-08-22,22:00 - Sat 22 Aug,Heerenveen,PEC Zwolle,btts,No,,,,Heerenveen Asian Hcp -1 @ 1.89,2026-08-22T03:58:15Z
+sportsgambler,heerenveen-vs-pec-zwolle,Eredivisie,2026-08-22,22:00 - Sat 22 Aug,Heerenveen,PEC Zwolle,over_under,Under,,,,Heerenveen Asian Hcp -1 @ 1.89,2026-08-22T03:58:15Z
+sportsgambler,psv-vs-groningen,Eredivisie,2026-08-23,15:30 - Sun 23 Aug,PSV Eindhoven,FC Groningen,correct_score,1 - 1,,,,Groningen Asian Hcp +1.5 @ 1.95,2026-08-22T03:58:15Z
+sportsgambler,psv-vs-groningen,Eredivisie,2026-08-23,15:30 - Sun 23 Aug,PSV Eindhoven,FC Groningen,1x2,X,,,,Groningen Asian Hcp +1.5 @ 1.95,2026-08-22T03:58:15Z
+sportsgambler,psv-vs-groningen,Eredivisie,2026-08-23,15:30 - Sun 23 Aug,PSV Eindhoven,FC Groningen,btts,Yes,,,,Groningen Asian Hcp +1.5 @ 1.95,2026-08-22T03:58:15Z
+sportsgambler,psv-vs-groningen,Eredivisie,2026-08-23,15:30 - Sun 23 Aug,PSV Eindhoven,FC Groningen,over_under,Under,,,,Groningen Asian Hcp +1.5 @ 1.95,2026-08-22T03:58:15Z
+sportsgambler,estoril-vs-rio-ave,Liga Portugal,2026-08-22,20:00 - Sat 22 Aug,Estoril,Rio Ave,correct_score,2 - 1,,,,Estoril To Win @ 1.84,2026-08-22T03:58:15Z
+sportsgambler,estoril-vs-rio-ave,Liga Portugal,2026-08-22,20:00 - Sat 22 Aug,Estoril,Rio Ave,1x2,1,,,,Estoril To Win @ 1.84,2026-08-22T03:58:15Z
+sportsgambler,estoril-vs-rio-ave,Liga Portugal,2026-08-22,20:00 - Sat 22 Aug,Estoril,Rio Ave,btts,Yes,,,,Estoril To Win @ 1.84,2026-08-22T03:58:15Z
+sportsgambler,estoril-vs-rio-ave,Liga Portugal,2026-08-22,20:00 - Sat 22 Aug,Estoril,Rio Ave,over_under,Over,,,,Estoril To Win @ 1.84,2026-08-22T03:58:15Z
+sportsgambler,sporting-vs-alverca,Liga Portugal,2026-08-22,22:30 - Sat 22 Aug,Sporting,Alverca,correct_score,4 - 0,,,,Sporting Asian Hcp -2 @ 1.80,2026-08-22T03:58:15Z
+sportsgambler,sporting-vs-alverca,Liga Portugal,2026-08-22,22:30 - Sat 22 Aug,Sporting,Alverca,1x2,1,,,,Sporting Asian Hcp -2 @ 1.80,2026-08-22T03:58:15Z
+sportsgambler,sporting-vs-alverca,Liga Portugal,2026-08-22,22:30 - Sat 22 Aug,Sporting,Alverca,btts,No,,,,Sporting Asian Hcp -2 @ 1.80,2026-08-22T03:58:15Z
+sportsgambler,sporting-vs-alverca,Liga Portugal,2026-08-22,22:30 - Sat 22 Aug,Sporting,Alverca,over_under,Over,,,,Sporting Asian Hcp -2 @ 1.80,2026-08-22T03:58:15Z
+sportsgambler,vitoria-de-guimaraes-vs-nacional,Liga Portugal,2026-08-23,17:30 - Sun 23 Aug,Vitória,Nacional,correct_score,3 - 0,,,,Vitória To Win @ 1.63,2026-08-22T03:58:15Z
+sportsgambler,vitoria-de-guimaraes-vs-nacional,Liga Portugal,2026-08-23,17:30 - Sun 23 Aug,Vitória,Nacional,1x2,1,,,,Vitória To Win @ 1.63,2026-08-22T03:58:15Z
+sportsgambler,vitoria-de-guimaraes-vs-nacional,Liga Portugal,2026-08-23,17:30 - Sun 23 Aug,Vitória,Nacional,btts,No,,,,Vitória To Win @ 1.63,2026-08-22T03:58:15Z
+sportsgambler,vitoria-de-guimaraes-vs-nacional,Liga Portugal,2026-08-23,17:30 - Sun 23 Aug,Vitória,Nacional,over_under,Over,,,,Vitória To Win @ 1.63,2026-08-22T03:58:15Z
+sportsgambler,santa-clara-vs-famalicao,Liga Portugal,2026-08-23,20:00 - Sun 23 Aug,Santa Clara,Famalicão,correct_score,1 - 2,,,,Famalicão Asian Hcp +0.25 @ 1.65,2026-08-22T03:58:15Z
+sportsgambler,santa-clara-vs-famalicao,Liga Portugal,2026-08-23,20:00 - Sun 23 Aug,Santa Clara,Famalicão,1x2,2,,,,Famalicão Asian Hcp +0.25 @ 1.65,2026-08-22T03:58:15Z
+sportsgambler,santa-clara-vs-famalicao,Liga Portugal,2026-08-23,20:00 - Sun 23 Aug,Santa Clara,Famalicão,btts,Yes,,,,Famalicão Asian Hcp +0.25 @ 1.65,2026-08-22T03:58:15Z
+sportsgambler,santa-clara-vs-famalicao,Liga Portugal,2026-08-23,20:00 - Sun 23 Aug,Santa Clara,Famalicão,over_under,Over,,,,Famalicão Asian Hcp +0.25 @ 1.65,2026-08-22T03:58:15Z
+sportsgambler,porto-vs-arouca,Liga Portugal,2026-08-23,22:30 - Sun 23 Aug,Porto,Arouca,correct_score,1 - 0,,,,Arouca Asian Hcp +1.75 @ 1.93,2026-08-22T03:58:15Z
+sportsgambler,porto-vs-arouca,Liga Portugal,2026-08-23,22:30 - Sun 23 Aug,Porto,Arouca,1x2,1,,,,Arouca Asian Hcp +1.75 @ 1.93,2026-08-22T03:58:15Z
+sportsgambler,porto-vs-arouca,Liga Portugal,2026-08-23,22:30 - Sun 23 Aug,Porto,Arouca,btts,No,,,,Arouca Asian Hcp +1.75 @ 1.93,2026-08-22T03:58:15Z
+sportsgambler,porto-vs-arouca,Liga Portugal,2026-08-23,22:30 - Sun 23 Aug,Porto,Arouca,over_under,Under,,,,Arouca Asian Hcp +1.75 @ 1.93,2026-08-22T03:58:15Z
