@@ -115,14 +115,27 @@ def scrape(leagues_only: bool = True) -> list[dict]:
                 "note": sr["odds"],
             })
         ou_r = ou.get(source_id)
-        if ou_r and ou_r["pick"] and ou_r["pick"].lower().startswith(("over", "under")):
-            rows.append({
-                **common,
-                "market": "over_under",
-                "pick": ou_r["pick"],
-                "p1": "", "p2": "", "p3": "",
-                "note": ou_r["odds"],
-            })
+        if ou_r and ou_r["pick"]:
+            ou_pick = ou_r["pick"].strip()
+            low = ou_pick.lower()
+            if low.startswith(("over", "under")):
+                rows.append({
+                    **common,
+                    "market": "over_under",
+                    "pick": ou_pick,
+                    "p1": "", "p2": "", "p3": "",
+                    "note": ou_r["odds"],
+                })
+            elif low.startswith("correct score"):
+                # site falls back to a score tip on the goals pages
+                score = re.sub(r"\s+", " ", ou_pick.split(":", 1)[1]).strip()
+                rows.append({
+                    **common,
+                    "market": "correct_score",
+                    "pick": score,
+                    "p1": "", "p2": "", "p3": "",
+                    "note": ou_r["odds"],
+                })
         bt_r = bt.get(source_id)
         if bt_r and bt_r["pick"] in ("BTTS - Yes", "BTTS - No"):
             rows.append({
