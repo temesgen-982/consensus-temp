@@ -24,10 +24,19 @@ def normalize_pick(site: str, market: str, pick: str, home: str, away: str) -> s
             return pick if pick in ("1", "X", "2") else ""
         # eaglepredict: "{Team} Win"
         if pick.endswith("Win"):
-            team = pick[: -len("Win")].strip()
-            if team and team.lower() == home.lower():
+            team = pick[: -len("Win")].strip().lower()
+            home_l = (home or "").lower()
+            away_l = (away or "").lower()
+
+            def same(x: str, y: str) -> bool:
+                # tolerate naming drift, e.g. "Betis" vs "Real Betis"
+                return bool(x) and bool(y) and (x == y or x in y or y in x)
+
+            team_home = same(team, home_l)
+            team_away = same(team, away_l)
+            if team_home and not team_away:
                 return "1"
-            if team and team.lower() == away.lower():
+            if team_away and not team_home:
                 return "2"
         if pick.lower() == "draw":
             return "X"

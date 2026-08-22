@@ -9,6 +9,7 @@ fixture_id,league,date,kickoff,home_id,away_id
 2026-08-23|brighton|vs|aston-villa,Premier League,2026-08-23,23/08/2026 15:00,brighton,aston-villa
 2026-08-23|newcastle-united|vs|liverpool,Premier League,2026-08-23,23/08/2026 17:30,newcastle-united,liverpool
 2026-08-24|fulham|vs|chelsea,Premier League,2026-08-24,24/08/2026 21:00,fulham,chelsea
+2026-08-22|fortuna-sittard|vs|az-alkmaar,Eredivisie,2026-08-22,22/08/2026 16:30,fortuna-sittard,az-alkmaar
 2026-08-20|rayo-vallecano|vs|deportivo-alav-s,La Liga,2026-08-20,20/08/2026 21:00,rayo-vallecano,deportivo-alav-s
 2026-08-21|real-betis|vs|real-sociedad,La Liga,2026-08-21,21/08/2026 21:00,real-betis,real-sociedad
 2026-08-22|athletic-bilbao|vs|sevilla,La Liga,2026-08-22,22/08/2026 17:00,athletic-bilbao,sevilla
@@ -44,7 +45,6 @@ fixture_id,league,date,kickoff,home_id,away_id
 2026-08-23|atalanta|vs|sassuolo,Serie A,2026-08-23,23/08/2026 20:45,atalanta,sassuolo
 2026-08-24|bologna|vs|lazio,Serie A,2026-08-24,24/08/2026 18:30,bologna,lazio
 2026-08-24|roma|vs|fiorentina,Serie A,2026-08-24,24/08/2026 20:45,roma,fiorentina
-2026-08-22|fortuna-sittard|vs|az-alkmaar,Eredivisie,2026-08-22,22/08/2026 16:30,fortuna-sittard,az-alkmaar
 2026-08-22|sparta-rotterdam|vs|utrecht,Eredivisie,2026-08-22,22/08/2026 18:45,sparta-rotterdam,utrecht
 2026-08-22|nijmegen|vs|excelsior,Eredivisie,2026-08-22,22/08/2026,nijmegen,excelsior
 2026-08-22|heerenveen|vs|pec-zwolle,Eredivisie,2026-08-22,22/08/2026 21:00,heerenveen,pec-zwolle
@@ -95,30 +95,33 @@ fixture_id,league,date,kickoff,home_id,away_id
 2026-08-09|moreirense-fc|vs|sporting-braga,Liga Portugal,2026-08-09,09/08/2026 21:30,moreirense-fc,sporting-braga
 2026-08-09|gil-vicente|vs|rio-ave,Liga Portugal,2026-08-09,09/08/2026 21:30,gil-vicente,rio-ave
 2026-08-10|santa-clara|vs|nacional-madeira,Liga Portugal,2026-08-10,10/08/2026 21:15,santa-clara,nacional-madeira
-2026-08-21|olympique-marseille|vs|strasbourg,Ligue 1,2026-08-21,21:45,olympique-marseille,strasbourg
-2026-08-21|betis|vs|real-sociedad,La Liga,2026-08-21,22:00,betis,real-sociedad
 2026-08-22|fortuna-sittard|vs|az,Eredivisie,2026-08-22,17:30,fortuna-sittard,az
 2026-08-22|mar-timo|vs|academico-viseu,Primeira Liga,2026-08-22,17:30,mar-timo,academico-viseu
 2026-08-22|gd-estoril-praia|vs|rio-ave-fc,Primeira Liga,2026-08-22,20:00,gd-estoril-praia,rio-ave-fc
 2026-08-22|sporting-cp|vs|alverca,Primeira Liga,2026-08-22,22:30,sporting-cp,alverca
 2026-08-22|lens|vs|auxerre,Ligue 1,2026-08-22,18:15,lens,auxerre
+2026-08-22|troyes|vs|paris,Ligue 1,2026-08-22,21:45,troyes,paris
+2026-08-22|le-mans|vs|brest,Ligue 1,2026-08-22,21:45,le-mans,brest
 2026-08-22|internazionale|vs|monza,Serie A,2026-08-22,19:30,internazionale,monza
 2026-08-22|udinese|vs|como,Serie A,2026-08-22,19:30,udinese,como
 2026-08-23|psv|vs|groningen,Eredivisie,2026-08-23,15:30,psv,groningen
 2026-08-23|newcastle|vs|liverpool,Premier League,2026-08-23,18:30,newcastle,liverpool
 2026-08-23|angers|vs|lille,Ligue 1,2026-08-23,16:00,angers,lille
 2026-08-23|le-havre|vs|monaco,Ligue 1,2026-08-23,18:15,le-havre,monaco
-2026-08-23|psg|vs|rennes,Ligue 1,2026-08-23,21:45,psg,rennes
+2026-08-23|rennes|vs|psg,Ligue 1,2026-08-23,21:45,rennes,psg
 2026-08-23|vit-ria-guimar-es|vs|cd-nacional,Primeira Liga,2026-08-23,17:30,vit-ria-guimar-es,cd-nacional
 2026-08-22|toulouse|vs|lyon,Ligue 1,2026-08-22,21:45,toulouse,lyon
 2026-08-22|nice|vs|lorient,Ligue 1,2026-08-22,21:45,nice,lorient
-2026-08-22|troyes|vs|paris,Ligue 1,2026-08-22,21:45,troyes,paris
-2026-08-22|le-mans|vs|brest,Ligue 1,2026-08-22,21:45,le-mans,brest
+2026-08-21|olympique-marseille|vs|strasbourg,Ligue 1,2026-08-21,21:45,olympique-marseille,strasbourg
+2026-08-22|parma-calcio-1913|vs|cagliari,Serie A,2026-08-22,19:45,parma-calcio-1913,cagliari
+2026-08-23|torino|vs|ac-milan,Serie A,2026-08-23,19:45,torino,ac-milan
+2026-08-22|troyes|vs|paris-fc,Ligue 1,2026-08-22,19:45,troyes,paris-fc
+2026-08-23|paris-saint-germain|vs|rennes,Ligue 1,2026-08-23,19:45,paris-saint-germain,rennes
+2026-08-21|marseille|vs|strasbourg,Ligue 1,2026-08-21,19:45,marseille,strasbourg
 2026-08-22|ipswich|vs|sunderland,Premier League,2026-08-22,15:00,ipswich,sunderland
 2026-08-22|nottingham-forest|vs|leeds,Premier League,2026-08-22,15:00,nottingham-forest,leeds
 2026-08-22|athletic-club|vs|sevilla,LaLiga,2026-08-22,16:00,athletic-club,sevilla
-2026-08-22|parma-calcio-1913|vs|cagliari,Serie A,2026-08-22,19:45,parma-calcio-1913,cagliari
-2026-08-21|marseille|vs|strasbourg,Ligue 1,2026-08-21,19:45,marseille,strasbourg
 2026-08-23|atl-madrid|vs|villarreal,LaLiga,2026-08-23,2026-08-23 15:00,atl-madrid,villarreal
-2026-08-22|troyes|vs|paris-fc,Ligue 1,2026-08-22,2026-08-22 18:45,troyes,paris-fc
+2026-08-24|malaga|vs|dep-a-coruna,LaLiga,2026-08-24,2026-08-24 19:30,malaga,dep-a-coruna
+2026-08-24|as-roma|vs|fiorentina,Serie A,2026-08-24,2026-08-24 18:45,as-roma,fiorentina
 2026-08-19|atl-madrid|vs|malaga,LaLiga,2026-08-19,2026-08-19 19:00,atl-madrid,malaga
