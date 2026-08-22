@@ -3,7 +3,7 @@ eaglepredict,ADO Den Haag,ado-den-haag
 eaglepredict,AZ,az
 eaglepredict,Academico Viseu,academico-viseu
 eaglepredict,Ajax,ajax
-eaglepredict,Alverca,alverca
+eaglepredict,Alverca,fc-alverca
 eaglepredict,Angers,angers
 eaglepredict,Arsenal,arsenal
 eaglepredict,Aston Villa,aston-villa
@@ -19,7 +19,7 @@ eaglepredict,Bournemouth,bournemouth
 eaglepredict,Brentford,brentford
 eaglepredict,Brest,brest
 eaglepredict,Brighton,brighton
-eaglepredict,CD Nacional,cd-nacional
+eaglepredict,CD Nacional,nacional-madeira
 eaglepredict,CS Marítimo,mar-timo
 eaglepredict,Cagliari,cagliari
 eaglepredict,Cambuur,cambuur
@@ -40,7 +40,7 @@ eaglepredict,Fiorentina,fiorentina
 eaglepredict,Fortuna Sittard,fortuna-sittard
 eaglepredict,Frosinone,frosinone
 eaglepredict,Fulham,fulham
-eaglepredict,GD Estoril Praia,gd-estoril-praia
+eaglepredict,GD Estoril Praia,gd-estoril
 eaglepredict,Genoa,genoa
 eaglepredict,Getafe,getafe
 eaglepredict,Gil Vicente,gil-vicente
@@ -48,7 +48,7 @@ eaglepredict,Go Ahead Eagles,go-ahead-eagles
 eaglepredict,Groningen,groningen
 eaglepredict,Heerenveen,heerenveen
 eaglepredict,Hull City,hull
-eaglepredict,Internazionale,internazionale
+eaglepredict,Internazionale,inter
 eaglepredict,Ipswich Town,ipswich
 eaglepredict,Juventus,juventus
 eaglepredict,Lazio,lazio
@@ -76,7 +76,7 @@ eaglepredict,Olympique Marseille,olympique-marseille
 eaglepredict,Osasuna,osasuna
 eaglepredict,PEC Zwolle,pec-zwolle
 eaglepredict,PSG,psg
-eaglepredict,PSV,psv
+eaglepredict,PSV,psv-eindhoven
 eaglepredict,Paris,paris
 eaglepredict,Parma,parma
 eaglepredict,Porto,porto
@@ -85,7 +85,7 @@ eaglepredict,Rayo Vallecano,rayo-vallecano
 eaglepredict,Real Madrid,real-madrid
 eaglepredict,Real Sociedad,real-sociedad
 eaglepredict,Rennes,rennes
-eaglepredict,Rio Ave FC,rio-ave-fc
+eaglepredict,Rio Ave FC,rio-ave
 eaglepredict,Roma,roma
 eaglepredict,Sassuolo,sassuolo
 eaglepredict,Sevilla,sevilla
@@ -102,7 +102,7 @@ eaglepredict,Twente,twente
 eaglepredict,Udinese,udinese
 eaglepredict,Utrecht,utrecht
 eaglepredict,Villarreal,villarreal
-eaglepredict,Vitória Guimarães,vit-ria-guimar-es
+eaglepredict,Vitória Guimarães,vit-ria
 flashscore,AC Milan,ac-milan
 flashscore,AS Roma,as-roma
 flashscore,Angers,angers
@@ -292,6 +292,80 @@ forebet,Vitória,vit-ria
 forebet,Werder Bremen,werder-bremen
 forebet,Willem II Tilburg,willem-ii-tilburg
 forebet,Wolfsburg,wolfsburg
+sportsgambler,AC Milan,ac-milan
+sportsgambler,AZ Alkmaar,az-alkmaar
+sportsgambler,Alverca,fc-alverca
+sportsgambler,Angers,angers
+sportsgambler,Arouca,fc-arouca
+sportsgambler,Aston Villa,aston-villa
+sportsgambler,Atalanta,atalanta
+sportsgambler,Athletic Club,athletic-club
+sportsgambler,Atlético Madrid,atl-tico-madrid
+sportsgambler,Auxerre,auxerre
+sportsgambler,Barcelona,barcelona
+sportsgambler,Bournemouth,bournemouth
+sportsgambler,Brentford,brentford
+sportsgambler,Brighton,brighton
+sportsgambler,Cagliari,cagliari
+sportsgambler,Celta Vigo,celta-vigo
+sportsgambler,Como,como
+sportsgambler,Crystal Palace,crystal-palace
+sportsgambler,Elche,elche
+sportsgambler,Espanyol,espanyol
+sportsgambler,Estoril,gd-estoril
+sportsgambler,Everton,everton
+sportsgambler,FC Groningen,groningen
+sportsgambler,FC Utrecht,utrecht
+sportsgambler,Famalicão,fc-famalic-o
+sportsgambler,Fortuna Sittard,fortuna-sittard
+sportsgambler,Frosinone,frosinone
+sportsgambler,Genoa,genoa
+sportsgambler,Getafe,getafe
+sportsgambler,Heerenveen,heerenveen
+sportsgambler,Hull,hull
+sportsgambler,Inter Milan,inter
+sportsgambler,Ipswich,ipswich
+sportsgambler,Juventus,juventus
+sportsgambler,Le Havre,le-havre
+sportsgambler,Lecce,lecce
+sportsgambler,Leeds,leeds-united
+sportsgambler,Lens,lens
+sportsgambler,Lille,lille
+sportsgambler,Liverpool,liverpool
+sportsgambler,Lorient,lorient
+sportsgambler,Lyon,lyon
+sportsgambler,Manchester City,manchester-city
+sportsgambler,Manchester United,manchester-united
+sportsgambler,Monaco,monaco
+sportsgambler,Monza,monza
+sportsgambler,Nacional,nacional-madeira
+sportsgambler,Napoli,napoli
+sportsgambler,Newcastle,newcastle
+sportsgambler,Nice,nice
+sportsgambler,Nottingham Forest,nottingham-forest
+sportsgambler,PEC Zwolle,pec-zwolle
+sportsgambler,PSG,psg
+sportsgambler,PSV Eindhoven,psv-eindhoven
+sportsgambler,Parma,parma
+sportsgambler,Porto,porto
+sportsgambler,Racing Club,racing-santander
+sportsgambler,Real Madrid,real-madrid
+sportsgambler,Rennes,rennes
+sportsgambler,Rio Ave,rio-ave
+sportsgambler,Santa Clara,santa-clara
+sportsgambler,Sassuolo,sassuolo
+sportsgambler,Sevilla,sevilla
+sportsgambler,Sparta Rotterdam,sparta-rotterdam
+sportsgambler,Sporting,sporting-cp
+sportsgambler,Sunderland,sunderland
+sportsgambler,Torino,torino
+sportsgambler,Tottenham,tottenham
+sportsgambler,Toulouse,toulouse
+sportsgambler,Udinese,udinese
+sportsgambler,Valencia,valencia
+sportsgambler,Venezia,venezia
+sportsgambler,Villarreal,villarreal
+sportsgambler,Vitória,vit-ria
 whoscored,AC Milan,ac-milan
 whoscored,ADO Den Haag,ado-den-haag
 whoscored,AZ Alkmaar,az-alkmaar

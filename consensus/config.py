@@ -9,7 +9,7 @@ CANONICAL_DIR = DATA_DIR / "canonical"
 CONSENSUS_DIR = DATA_DIR / "consensus"
 RESULTS_DIR = DATA_DIR / "results"
 
-SITES = ("forebet", "eaglepredict", "whoscored", "flashscore")
+SITES = ("forebet", "eaglepredict", "whoscored", "flashscore", "sportsgambler")
 
 # Only these leagues are scraped. Each site has its own naming; a league is kept
 # if any of its site's patterns is a case-insensitive substring of the league name.
@@ -46,6 +46,15 @@ TOP_LEAGUES = {
         "Liga Portugal",
     ],
     "flashscore": [
+        "Premier League",
+        "LaLiga",
+        "Bundesliga",
+        "Serie A",
+        "Ligue 1",
+        "Eredivisie",
+        "Liga Portugal",
+    ],
+    "sportsgambler": [
         "Premier League",
         "LaLiga",
         "Bundesliga",
@@ -112,6 +121,19 @@ FLASHSCORE = {
         {"name": "Ligue 1", "url": "/football/france/ligue-1/"},
         {"name": "Eredivisie", "url": "/football/netherlands/eredivisie/"},
         {"name": "Liga Portugal", "url": "/football/portugal/liga-portugal/"},
+    ],
+}
+
+SPORTSGAMBLER = {
+    "base": "https://www.sportsgambler.com",
+    "leagues": [
+        {"name": "Premier League", "url": "/betting-tips/football/premier-league-predictions/"},
+        {"name": "LaLiga", "url": "/betting-tips/football/la-liga-predictions/"},
+        {"name": "Bundesliga", "url": "/betting-tips/football/bundesliga-predictions/"},
+        {"name": "Serie A", "url": "/betting-tips/football/serie-a-predictions/"},
+        {"name": "Ligue 1", "url": "/betting-tips/football/ligue-1-predictions/"},
+        {"name": "Eredivisie", "url": "/betting-tips/football/eredivisie-predictions/"},
+        {"name": "Liga Portugal", "url": "/betting-tips/football/primeira-liga-predictions/"},
     ],
 }
 
