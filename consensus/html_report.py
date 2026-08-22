@@ -9,9 +9,17 @@ from .config import CONSENSUS_DIR
 from .report import MARKETS, MARKET_LABELS, agreement_tag, build_report_data, majority_pick, picks_by_site
 from .results import attach_results, evaluate_pick, grade, load_results
 
-SITES_ORDER = ("forebet", "eaglepredict", "whoscored", "flashscore")
+SITES_ORDER = (
+    "forebet",
+    "eaglepredict",
+    "whoscored",
+    "flashscore",
+    "sportsgambler",
+    "sportytrader",
+)
 SITE_NAMES = {"forebet": "Forebet", "eaglepredict": "EaglePredict",
-              "whoscored": "WhoScored", "flashscore": "Flashscore"}
+              "whoscored": "WhoScored", "flashscore": "Flashscore",
+              "sportsgambler": "SportsGambler", "sportytrader": "SportyTrader"}
 
 PAGE = """<!DOCTYPE html>
 <html lang="en">
@@ -252,9 +260,9 @@ def _fixture_html(item: dict, result: dict | None) -> str:
     )
 
     rows_html = [
-        '<div class="card-body"><table><thead><tr>'
-        '<th>Market</th><th>Forebet</th><th>EaglePredict</th><th>WhoScored</th>'
-        '<th>Flashscore</th><th>Consensus</th><th>Result</th></tr></thead><tbody>'
+        '<div class="card-body"><table><thead><tr><th>Market</th>'
+        + "".join(f"<th>{_esc(SITE_NAMES.get(s, s))}</th>" for s in SITES_ORDER)
+        + "<th>Consensus</th><th>Result</th></tr></thead><tbody>"
     ]
     for market in MARKETS:
         rows_by_site = {s: sites[s].get(market, []) for s in sites}
@@ -307,8 +315,8 @@ def _fixture_html(item: dict, result: dict | None) -> str:
 
         rows_html.append(
             f'<tr><td class="market">{_esc(MARKET_LABELS[market])}</td>'
-            f'<td>{cells[0]}</td><td>{cells[1]}</td><td>{cells[2]}</td><td>{cells[3]}</td>'
-            f"{cons_html}{res_html}"
+            + "".join(f"<td>{cell}</td>" for cell in cells)
+            + f"{cons_html}{res_html}"
             f'<td style="width:70px">{tag}</td></tr>'
         )
     rows_html.append("</tbody></table></div>")
