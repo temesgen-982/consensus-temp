@@ -703,10 +703,10 @@ fixture_id,league,date,kickoff,home,away,site,market,pick,pick_norm,p1,p2,p3,not
 2026-08-22|nottingham-forest|vs|leeds-united,Premier League,2026-08-22,15:00,Nottingham Forest,Leeds,whoscored,over_under,Over,Over,,,,1.81,2026-08-21T03:25:48Z
 2026-08-22|nottingham-forest|vs|leeds-united,Premier League,2026-08-22,15:00,Nottingham Forest,Leeds,whoscored,btts,Yes,Yes,,,,,2026-08-21T03:25:48Z
 2026-08-22|nottingham-forest|vs|leeds-united,Premier League,2026-08-22,15:00,Nottingham Forest,Leeds,whoscored,correct_score,2 - 2,2 - 2,,,,9.8,2026-08-21T03:25:48Z
-2026-08-22|athletic-club|vs|sevilla,LaLiga,2026-08-22,16:00,Athletic Club,Sevilla,whoscored,1x2,X,X,,,,3.41,2026-08-21T03:25:48Z
-2026-08-22|athletic-club|vs|sevilla,LaLiga,2026-08-22,16:00,Athletic Club,Sevilla,whoscored,over_under,Under,Under,,,,1.58,2026-08-21T03:25:48Z
-2026-08-22|athletic-club|vs|sevilla,LaLiga,2026-08-22,16:00,Athletic Club,Sevilla,whoscored,btts,Yes,Yes,,,,,2026-08-21T03:25:48Z
-2026-08-22|athletic-club|vs|sevilla,LaLiga,2026-08-22,16:00,Athletic Club,Sevilla,whoscored,correct_score,1 - 1,1 - 1,,,,5.7,2026-08-21T03:25:48Z
+2026-08-22|athletic-bilbao|vs|sevilla,LaLiga,2026-08-22,16:00,Athletic Club,Sevilla,whoscored,1x2,X,X,,,,3.41,2026-08-21T03:25:48Z
+2026-08-22|athletic-bilbao|vs|sevilla,LaLiga,2026-08-22,16:00,Athletic Club,Sevilla,whoscored,over_under,Under,Under,,,,1.58,2026-08-21T03:25:48Z
+2026-08-22|athletic-bilbao|vs|sevilla,LaLiga,2026-08-22,16:00,Athletic Club,Sevilla,whoscored,btts,Yes,Yes,,,,,2026-08-21T03:25:48Z
+2026-08-22|athletic-bilbao|vs|sevilla,LaLiga,2026-08-22,16:00,Athletic Club,Sevilla,whoscored,correct_score,1 - 1,1 - 1,,,,5.7,2026-08-21T03:25:48Z
 2026-08-22|valencia|vs|celta-vigo,LaLiga,2026-08-22,18:30,Valencia,Celta Vigo,whoscored,1x2,2,2,,,,3,2026-08-21T03:25:48Z
 2026-08-22|valencia|vs|celta-vigo,LaLiga,2026-08-22,18:30,Valencia,Celta Vigo,whoscored,over_under,Over,Over,,,,2.17,2026-08-21T03:25:48Z
 2026-08-22|valencia|vs|celta-vigo,LaLiga,2026-08-22,18:30,Valencia,Celta Vigo,whoscored,btts,Yes,Yes,,,,,2026-08-21T03:25:48Z
@@ -791,10 +791,10 @@ fixture_id,league,date,kickoff,home,away,site,market,pick,pick_norm,p1,p2,p3,not
 2026-08-23|newcastle|vs|liverpool,Premier League,2026-08-23,18:30 - Sun 23 Aug,Newcastle,Liverpool,sportsgambler,1x2,X,X,,,,Newcastle Asian Hcp +0.5 @ 1.96,2026-08-22T03:58:15Z
 2026-08-23|newcastle|vs|liverpool,Premier League,2026-08-23,18:30 - Sun 23 Aug,Newcastle,Liverpool,sportsgambler,btts,Yes,Yes,,,,Newcastle Asian Hcp +0.5 @ 1.96,2026-08-22T03:58:15Z
 2026-08-23|newcastle|vs|liverpool,Premier League,2026-08-23,18:30 - Sun 23 Aug,Newcastle,Liverpool,sportsgambler,over_under,Under,Under,,,,Newcastle Asian Hcp +0.5 @ 1.96,2026-08-22T03:58:15Z
-2026-08-22|athletic-club|vs|sevilla,LaLiga,2026-08-22,18:00 - Sat 22 Aug,Athletic Club,Sevilla,sportsgambler,correct_score,1 - 0,1 - 0,,,,Under 2.5 Goals @ 1.67,2026-08-22T03:58:15Z
-2026-08-22|athletic-club|vs|sevilla,LaLiga,2026-08-22,18:00 - Sat 22 Aug,Athletic Club,Sevilla,sportsgambler,1x2,1,1,,,,Under 2.5 Goals @ 1.67,2026-08-22T03:58:15Z
-2026-08-22|athletic-club|vs|sevilla,LaLiga,2026-08-22,18:00 - Sat 22 Aug,Athletic Club,Sevilla,sportsgambler,btts,No,No,,,,Under 2.5 Goals @ 1.67,2026-08-22T03:58:15Z
-2026-08-22|athletic-club|vs|sevilla,LaLiga,2026-08-22,18:00 - Sat 22 Aug,Athletic Club,Sevilla,sportsgambler,over_under,Under,Under,,,,Under 2.5 Goals @ 1.67,2026-08-22T03:58:15Z
+2026-08-22|athletic-bilbao|vs|sevilla,LaLiga,2026-08-22,18:00 - Sat 22 Aug,Athletic Club,Sevilla,sportsgambler,correct_score,1 - 0,1 - 0,,,,Under 2.5 Goals @ 1.67,2026-08-22T03:58:15Z
+2026-08-22|athletic-bilbao|vs|sevilla,LaLiga,2026-08-22,18:00 - Sat 22 Aug,Athletic Club,Sevilla,sportsgambler,1x2,1,1,,,,Under 2.5 Goals @ 1.67,2026-08-22T03:58:15Z
+2026-08-22|athletic-bilbao|vs|sevilla,LaLiga,2026-08-22,18:00 - Sat 22 Aug,Athletic Club,Sevilla,sportsgambler,btts,No,No,,,,Under 2.5 Goals @ 1.67,2026-08-22T03:58:15Z
+2026-08-22|athletic-bilbao|vs|sevilla,LaLiga,2026-08-22,18:00 - Sat 22 Aug,Athletic Club,Sevilla,sportsgambler,over_under,Under,Under,,,,Under 2.5 Goals @ 1.67,2026-08-22T03:58:15Z
 2026-08-22|valencia|vs|celta-vigo,LaLiga,2026-08-22,20:30 - Sat 22 Aug,Valencia,Celta Vigo,sportsgambler,correct_score,0 - 1,0 - 1,,,,Celta Asian Hcp +0.25 @ 1.81,2026-08-22T03:58:15Z
 2026-08-22|valencia|vs|celta-vigo,LaLiga,2026-08-22,20:30 - Sat 22 Aug,Valencia,Celta Vigo,sportsgambler,1x2,2,2,,,,Celta Asian Hcp +0.25 @ 1.81,2026-08-22T03:58:15Z
 2026-08-22|valencia|vs|celta-vigo,LaLiga,2026-08-22,20:30 - Sat 22 Aug,Valencia,Celta Vigo,sportsgambler,btts,No,No,,,,Celta Asian Hcp +0.25 @ 1.81,2026-08-22T03:58:15Z
