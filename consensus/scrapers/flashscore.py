@@ -144,6 +144,14 @@ def _team_variants(name: str) -> list[str]:
         out.append("spurs")
     if "internazionale" in toks or "inter" in toks:
         out.append("inter")
+    if "nottingham" in toks:
+        out.append("forest")
+    if "aston" in toks and "villa" in toks:
+        out.append("villa")
+    if "wolverhampton" in toks:
+        out.append("wolves")
+    if "crystal" in toks and "palace" in toks:
+        out.append("palace")
     if "manchester" in toks:
         short = " ".join(t for t in toks if t != "manchester")
         if short:

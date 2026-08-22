@@ -141,6 +141,7 @@ flashscore,Lazio,lazio
 flashscore,Le Havre,le-havre
 flashscore,Le Mans,le-mans
 flashscore,Lecce,lecce
+flashscore,Leeds,leeds-united
 flashscore,Lens,lens
 flashscore,Levante,levante
 flashscore,Lille,lille
@@ -156,6 +157,7 @@ flashscore,Monza,monza
 flashscore,Napoli,napoli
 flashscore,Newcastle,newcastle
 flashscore,Nice,nice
+flashscore,Nottingham,nottingham-forest
 flashscore,Osasuna,osasuna
 flashscore,PSG,psg
 flashscore,Paris FC,paris-fc
@@ -341,7 +343,7 @@ whoscored,Lazio,lazio
 whoscored,Le Havre,le-havre
 whoscored,Le Mans,le-mans
 whoscored,Lecce,lecce
-whoscored,Leeds,leeds
+whoscored,Leeds,leeds-united
 whoscored,Lens,lens
 whoscored,Levante,levante
 whoscored,Lille,lille
@@ -358,6 +360,7 @@ whoscored,NEC Nijmegen,nijmegen
 whoscored,Nacional,nacional-madeira
 whoscored,Napoli,napoli
 whoscored,Nice,nice
+whoscored,Nottingham,nottingham-forest
 whoscored,Nottingham Forest,nottingham-forest
 whoscored,PEC Zwolle,pec-zwolle
 whoscored,PSV Eindhoven,psv-eindhoven
