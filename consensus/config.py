@@ -9,7 +9,7 @@ CANONICAL_DIR = DATA_DIR / "canonical"
 CONSENSUS_DIR = DATA_DIR / "consensus"
 RESULTS_DIR = DATA_DIR / "results"
 
-SITES = ("forebet", "eaglepredict", "whoscored", "flashscore", "sportsgambler")
+SITES = ("forebet", "eaglepredict", "whoscored", "flashscore", "sportsgambler", "sportytrader")
 
 # Only these leagues are scraped. Each site has its own naming; a league is kept
 # if any of its site's patterns is a case-insensitive substring of the league name.
@@ -55,6 +55,15 @@ TOP_LEAGUES = {
         "Liga Portugal",
     ],
     "sportsgambler": [
+        "Premier League",
+        "LaLiga",
+        "Bundesliga",
+        "Serie A",
+        "Ligue 1",
+        "Eredivisie",
+        "Liga Portugal",
+    ],
+    "sportytrader": [
         "Premier League",
         "LaLiga",
         "Bundesliga",
@@ -135,6 +144,11 @@ SPORTSGAMBLER = {
         {"name": "Eredivisie", "url": "/betting-tips/football/eredivisie-predictions/"},
         {"name": "Liga Portugal", "url": "/betting-tips/football/primeira-liga-predictions/"},
     ],
+}
+
+SPORTYTRADER = {
+    "base": "https://www.sportytrader.com",
+    "today": "/en/betting-tips/football/today/",
 }
 
 

@@ -1,4 +1,4 @@
-from . import eaglepredict, flashscore, forebet, sportsgambler, whoscored
+from . import eaglepredict, flashscore, forebet, sportsgambler, sportytrader, whoscored
 
 SCRAPERS = {
     "forebet": forebet.scrape,
@@ -6,6 +6,7 @@ SCRAPERS = {
     "whoscored": whoscored.scrape,
     "flashscore": flashscore.scrape,
     "sportsgambler": sportsgambler.scrape,
+    "sportytrader": sportytrader.scrape,
 }
 
 __all__ = [
@@ -14,5 +15,6 @@ __all__ = [
     "whoscored",
     "flashscore",
     "sportsgambler",
+    "sportytrader",
     "SCRAPERS",
 ]

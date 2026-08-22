@@ -1,0 +1,21 @@
+site,source_id,league,date,kickoff,home_team,away_team,market,pick,p1,p2,p3,note,scraped_at
+sportytrader,nottingham-forest-leeds-367071,Premier League,2026-08-22,17:00,Nottingham Forest,Leeds,btts,Yes,,,,BTTS @ 1.75,2026-08-22T03:41:49Z
+sportytrader,everton-crystal-palace-367097,Premier League,2026-08-22,17:00,Everton,Crystal Palace,btts,Yes,,,,BTTS @ 1.75,2026-08-22T03:41:49Z
+sportytrader,ipswich-town-sunderland-367250,Premier League,2026-08-22,17:00,Ipswich Town,Sunderland,btts,Yes,,,,BTTS @ 1.8,2026-08-22T03:41:49Z
+sportytrader,brentford-tottenham-367105,Premier League,2026-08-22,19:30,Brentford,Tottenham,btts,Yes,,,,BTTS @ 1.57,2026-08-22T03:41:49Z
+sportytrader,fortuna-sittard-az-alkmaar-366819,Eredivisie,2026-08-22,17:30,Fortuna Sittard,AZ Alkmaar,btts,Yes,,,,BTTS @ 1.53,2026-08-22T03:41:49Z
+sportytrader,maritimo-academico-viseu-367128,Liga Portugal,2026-08-22,17:30,Maritimo,Academico De Viseu FC,1x2,1,,,,Maritimo wins @ 2.05,2026-08-22T03:41:49Z
+sportytrader,lens-auxerre-367171,Ligue 1,2026-08-22,18:15,Lens,Auxerre,1x2,1,,,,Lens wins @ 1.49,2026-08-22T03:41:49Z
+sportytrader,inter-milan-monza-367239,Serie A,2026-08-22,19:30,Inter Milan,Monza,1x2,1,,,,Inter Milan to win and BTTS @ 3.25,2026-08-22T03:41:49Z
+sportytrader,inter-milan-monza-367239,Serie A,2026-08-22,19:30,Inter Milan,Monza,btts,Yes,,,,Inter Milan to win and BTTS @ 3.25,2026-08-22T03:41:49Z
+sportytrader,udinese-como-calcio-367255,Serie A,2026-08-22,19:30,Udinese,Como 1907,over_under,Under,,,,Under 2.5 goals @ 1.7,2026-08-22T03:41:49Z
+sportytrader,sparta-rotterdam-utrecht-366833,Eredivisie,2026-08-22,19:45,Sparta Rotterdam,Utrecht,btts,Yes,,,,BTTS @ 1.57,2026-08-22T03:41:49Z
+sportytrader,estoril-rio-ave-367175,Liga Portugal,2026-08-22,20:00,Estoril,Rio Ave,btts,No,,,,BTTS: No @ 2.05,2026-08-22T03:41:49Z
+sportytrader,genoa-napoli-367272,Serie A,2026-08-22,21:45,Genoa,Napoli,1x2,2,,,,Napoli to win & BTTS @ 4.75,2026-08-22T03:41:49Z
+sportytrader,genoa-napoli-367272,Serie A,2026-08-22,21:45,Genoa,Napoli,btts,Yes,,,,Napoli to win & BTTS @ 4.75,2026-08-22T03:41:49Z
+sportytrader,parma-cagliari-367277,Serie A,2026-08-22,21:45,Parma,Cagliari,1x2,X,,,,Draw @ 3,2026-08-22T03:41:49Z
+sportytrader,le-mans-uc-72-brest-367281,Ligue 1,2026-08-22,21:45,Le Mans FC,Brest,over_under,Under,,,,Under 2.5 goals @ 1.91,2026-08-22T03:41:49Z
+sportytrader,nice-lorient-367284,Ligue 1,2026-08-22,21:45,Nice,Lorient,1x2,X,,,,Draw @ 3.5,2026-08-22T03:41:49Z
+sportytrader,toulouse-lyon-367288,Ligue 1,2026-08-22,21:45,Toulouse,Lyon,1x2,1,,,,Toulouse wins @ 2.63,2026-08-22T03:41:49Z
+sportytrader,troyes-paris-fc-367294,Ligue 1,2026-08-22,21:45,Troyes,Paris FC,1x2,2,,,,Paris FC wins @ 2.2,2026-08-22T03:41:49Z
+sportytrader,heerenveen-zwolle-366846,Eredivisie,2026-08-22,22:00,Heerenveen,Zwolle,1x2,1,,,,Heerenveen wins @ 1.57,2026-08-22T03:41:49Z

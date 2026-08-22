@@ -1,7 +1,7 @@
 site,team_name,canonical_id
 eaglepredict,ADO Den Haag,ado-den-haag
 eaglepredict,AZ,az
-eaglepredict,Academico Viseu,academico-viseu
+eaglepredict,Academico Viseu,acad-mico-viseu
 eaglepredict,Ajax,ajax
 eaglepredict,Alverca,fc-alverca
 eaglepredict,Angers,angers
@@ -366,6 +366,42 @@ sportsgambler,Valencia,valencia
 sportsgambler,Venezia,venezia
 sportsgambler,Villarreal,villarreal
 sportsgambler,Vitória,vit-ria
+sportytrader,AZ Alkmaar,az-alkmaar
+sportytrader,Academico De Viseu FC,acad-mico-viseu
+sportytrader,Auxerre,auxerre
+sportytrader,Brentford,brentford
+sportytrader,Brest,brest
+sportytrader,Cagliari,cagliari
+sportytrader,Como 1907,como
+sportytrader,Crystal Palace,crystal-palace
+sportytrader,Estoril,gd-estoril
+sportytrader,Everton,everton
+sportytrader,Fortuna Sittard,fortuna-sittard
+sportytrader,Genoa,genoa
+sportytrader,Heerenveen,heerenveen
+sportytrader,Inter Milan,inter
+sportytrader,Ipswich Town,ipswich
+sportytrader,Le Mans FC,le-mans
+sportytrader,Leeds,leeds-united
+sportytrader,Lens,lens
+sportytrader,Lorient,lorient
+sportytrader,Lyon,lyon
+sportytrader,Maritimo,mar-timo
+sportytrader,Monza,monza
+sportytrader,Napoli,napoli
+sportytrader,Nice,nice
+sportytrader,Nottingham Forest,nottingham-forest
+sportytrader,Paris FC,paris-fc
+sportytrader,Parma,parma
+sportytrader,Rio Ave,rio-ave
+sportytrader,Sparta Rotterdam,sparta-rotterdam
+sportytrader,Sunderland,sunderland
+sportytrader,Tottenham,tottenham
+sportytrader,Toulouse,toulouse
+sportytrader,Troyes,troyes
+sportytrader,Udinese,udinese
+sportytrader,Utrecht,utrecht
+sportytrader,Zwolle,pec-zwolle
 whoscored,AC Milan,ac-milan
 whoscored,ADO Den Haag,ado-den-haag
 whoscored,AZ Alkmaar,az-alkmaar

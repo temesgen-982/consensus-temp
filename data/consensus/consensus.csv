@@ -391,8 +391,8 @@ fixture_id,league,date,kickoff,home,away,site,market,pick,pick_norm,p1,p2,p3,not
 2026-08-22|fortuna-sittard|vs|az,Eredivisie,2026-08-22,17:30,Fortuna Sittard,AZ,eaglepredict,over_under,Over  2.5 Goals,Over,,,,1.35,2026-08-22T02:44:50Z
 2026-08-22|heerenveen|vs|pec-zwolle,Eredivisie,2026-08-22,22:00,Heerenveen,PEC Zwolle,eaglepredict,1x2,Heerenveen Win,1,,,,1.33,2026-08-22T02:44:50Z
 2026-08-22|heerenveen|vs|pec-zwolle,Eredivisie,2026-08-22,22:00,Heerenveen,PEC Zwolle,eaglepredict,over_under,Over  2.5 Goals,Over,,,,1.32,2026-08-22T02:44:50Z
-2026-08-22|mar-timo|vs|academico-viseu,Primeira Liga,2026-08-22,17:30,CS Marítimo,Academico Viseu,eaglepredict,1x2,CS Marítimo Win,1,,,,1.93,2026-08-22T02:44:50Z
-2026-08-22|mar-timo|vs|academico-viseu,Primeira Liga,2026-08-22,17:30,CS Marítimo,Academico Viseu,eaglepredict,over_under,Over  2.5 Goals,Over,,,,1.90,2026-08-19T17:43:16Z
+2026-08-22|mar-timo|vs|acad-mico-viseu,Primeira Liga,2026-08-22,17:30,CS Marítimo,Academico Viseu,eaglepredict,1x2,CS Marítimo Win,1,,,,1.93,2026-08-22T02:44:50Z
+2026-08-22|mar-timo|vs|acad-mico-viseu,Primeira Liga,2026-08-22,17:30,CS Marítimo,Academico Viseu,eaglepredict,over_under,Over  2.5 Goals,Over,,,,1.90,2026-08-19T17:43:16Z
 2026-08-22|gd-estoril|vs|rio-ave,Primeira Liga,2026-08-22,20:00,GD Estoril Praia,Rio Ave FC,eaglepredict,1x2,GD Estoril Praia Win,1,,,,1.86,2026-08-22T02:44:50Z
 2026-08-22|gd-estoril|vs|rio-ave,Primeira Liga,2026-08-22,20:00,GD Estoril Praia,Rio Ave FC,eaglepredict,over_under,Over  2.5 Goals,Over,,,,1.73,2026-08-22T02:44:50Z
 2026-08-22|sporting-cp|vs|fc-alverca,Primeira Liga,2026-08-22,22:30,Sporting CP,Alverca,eaglepredict,1x2,Sporting CP Win,1,,,,1.15,2026-08-22T02:44:50Z
@@ -793,3 +793,23 @@ fixture_id,league,date,kickoff,home,away,site,market,pick,pick_norm,p1,p2,p3,not
 2026-08-23|vit-ria|vs|nacional-madeira,Liga Portugal,2026-08-23,17:30 - Sun 23 Aug,Vitória,Nacional,sportsgambler,correct_score,3 - 0,3 - 0,,,,Vitória To Win @ 1.63,2026-08-22T03:23:55Z
 2026-08-23|santa-clara|vs|fc-famalic-o,Liga Portugal,2026-08-23,20:00 - Sun 23 Aug,Santa Clara,Famalicão,sportsgambler,correct_score,1 - 2,1 - 2,,,,Famalicão Asian Hcp +0.25 @ 1.65,2026-08-22T03:23:55Z
 2026-08-23|porto|vs|fc-arouca,Liga Portugal,2026-08-23,22:30 - Sun 23 Aug,Porto,Arouca,sportsgambler,correct_score,1 - 0,1 - 0,,,,Arouca Asian Hcp +1.75 @ 1.93,2026-08-22T03:23:55Z
+2026-08-22|nottingham-forest|vs|leeds-united,Premier League,2026-08-22,17:00,Nottingham Forest,Leeds,sportytrader,btts,Yes,Yes,,,,BTTS @ 1.75,2026-08-22T03:41:49Z
+2026-08-22|everton|vs|crystal-palace,Premier League,2026-08-22,17:00,Everton,Crystal Palace,sportytrader,btts,Yes,Yes,,,,BTTS @ 1.75,2026-08-22T03:41:49Z
+2026-08-22|ipswich|vs|sunderland,Premier League,2026-08-22,17:00,Ipswich Town,Sunderland,sportytrader,btts,Yes,Yes,,,,BTTS @ 1.8,2026-08-22T03:41:49Z
+2026-08-22|brentford|vs|tottenham,Premier League,2026-08-22,19:30,Brentford,Tottenham,sportytrader,btts,Yes,Yes,,,,BTTS @ 1.57,2026-08-22T03:41:49Z
+2026-08-22|fortuna-sittard|vs|az-alkmaar,Eredivisie,2026-08-22,17:30,Fortuna Sittard,AZ Alkmaar,sportytrader,btts,Yes,Yes,,,,BTTS @ 1.53,2026-08-22T03:41:49Z
+2026-08-22|mar-timo|vs|acad-mico-viseu,Liga Portugal,2026-08-22,17:30,Maritimo,Academico De Viseu FC,sportytrader,1x2,1,1,,,,Maritimo wins @ 2.05,2026-08-22T03:41:49Z
+2026-08-22|lens|vs|auxerre,Ligue 1,2026-08-22,18:15,Lens,Auxerre,sportytrader,1x2,1,1,,,,Lens wins @ 1.49,2026-08-22T03:41:49Z
+2026-08-22|inter|vs|monza,Serie A,2026-08-22,19:30,Inter Milan,Monza,sportytrader,1x2,1,1,,,,Inter Milan to win and BTTS @ 3.25,2026-08-22T03:41:49Z
+2026-08-22|inter|vs|monza,Serie A,2026-08-22,19:30,Inter Milan,Monza,sportytrader,btts,Yes,Yes,,,,Inter Milan to win and BTTS @ 3.25,2026-08-22T03:41:49Z
+2026-08-22|udinese|vs|como,Serie A,2026-08-22,19:30,Udinese,Como 1907,sportytrader,over_under,Under,Under,,,,Under 2.5 goals @ 1.7,2026-08-22T03:41:49Z
+2026-08-22|sparta-rotterdam|vs|utrecht,Eredivisie,2026-08-22,19:45,Sparta Rotterdam,Utrecht,sportytrader,btts,Yes,Yes,,,,BTTS @ 1.57,2026-08-22T03:41:49Z
+2026-08-22|gd-estoril|vs|rio-ave,Liga Portugal,2026-08-22,20:00,Estoril,Rio Ave,sportytrader,btts,No,No,,,,BTTS: No @ 2.05,2026-08-22T03:41:49Z
+2026-08-22|genoa|vs|napoli,Serie A,2026-08-22,21:45,Genoa,Napoli,sportytrader,1x2,2,2,,,,Napoli to win & BTTS @ 4.75,2026-08-22T03:41:49Z
+2026-08-22|genoa|vs|napoli,Serie A,2026-08-22,21:45,Genoa,Napoli,sportytrader,btts,Yes,Yes,,,,Napoli to win & BTTS @ 4.75,2026-08-22T03:41:49Z
+2026-08-22|parma|vs|cagliari,Serie A,2026-08-22,21:45,Parma,Cagliari,sportytrader,1x2,X,X,,,,Draw @ 3,2026-08-22T03:41:49Z
+2026-08-22|le-mans|vs|brest,Ligue 1,2026-08-22,21:45,Le Mans FC,Brest,sportytrader,over_under,Under,Under,,,,Under 2.5 goals @ 1.91,2026-08-22T03:41:49Z
+2026-08-22|nice|vs|lorient,Ligue 1,2026-08-22,21:45,Nice,Lorient,sportytrader,1x2,X,X,,,,Draw @ 3.5,2026-08-22T03:41:49Z
+2026-08-22|toulouse|vs|lyon,Ligue 1,2026-08-22,21:45,Toulouse,Lyon,sportytrader,1x2,1,1,,,,Toulouse wins @ 2.63,2026-08-22T03:41:49Z
+2026-08-22|troyes|vs|paris-fc,Ligue 1,2026-08-22,21:45,Troyes,Paris FC,sportytrader,1x2,2,2,,,,Paris FC wins @ 2.2,2026-08-22T03:41:49Z
+2026-08-22|heerenveen|vs|pec-zwolle,Eredivisie,2026-08-22,22:00,Heerenveen,Zwolle,sportytrader,1x2,1,1,,,,Heerenveen wins @ 1.57,2026-08-22T03:41:49Z
