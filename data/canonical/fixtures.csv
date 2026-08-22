@@ -2,7 +2,7 @@ fixture_id,league,date,kickoff,home_id,away_id
 2026-08-21|arsenal|vs|coventry,Premier League,2026-08-21,21/08/2026 21:00,arsenal,coventry
 2026-08-22|hull|vs|manchester-united,Premier League,2026-08-22,22/08/2026 13:30,hull,manchester-united
 2026-08-22|nottingham-forest|vs|leeds-united,Premier League,2026-08-22,22/08/2026 16:00,nottingham-forest,leeds-united
-2026-08-22|ipswich-town|vs|sunderland,Premier League,2026-08-22,22/08/2026 16:00,ipswich-town,sunderland
+2026-08-22|ipswich|vs|sunderland,Premier League,2026-08-22,22/08/2026 16:00,ipswich,sunderland
 2026-08-22|everton|vs|crystal-palace,Premier League,2026-08-22,22/08/2026 16:00,everton,crystal-palace
 2026-08-22|brentford|vs|tottenham,Premier League,2026-08-22,22/08/2026 18:30,brentford,tottenham
 2026-08-23|manchester-city|vs|bournemouth,Premier League,2026-08-23,23/08/2026 15:00,manchester-city,bournemouth
@@ -118,7 +118,6 @@ fixture_id,league,date,kickoff,home_id,away_id
 2026-08-22|troyes|vs|paris-fc,Ligue 1,2026-08-22,19:45,troyes,paris-fc
 2026-08-23|paris-saint-germain|vs|rennes,Ligue 1,2026-08-23,19:45,paris-saint-germain,rennes
 2026-08-21|marseille|vs|strasbourg,Ligue 1,2026-08-21,19:45,marseille,strasbourg
-2026-08-22|ipswich|vs|sunderland,Premier League,2026-08-22,15:00,ipswich,sunderland
 2026-08-22|nottingham-forest|vs|leeds,Premier League,2026-08-22,15:00,nottingham-forest,leeds
 2026-08-22|athletic-club|vs|sevilla,LaLiga,2026-08-22,16:00,athletic-club,sevilla
 2026-08-23|atl-madrid|vs|villarreal,LaLiga,2026-08-23,2026-08-23 15:00,atl-madrid,villarreal

@@ -115,7 +115,7 @@ def scrape(leagues_only: bool = True) -> list[dict]:
                 "note": sr["odds"],
             })
         ou_r = ou.get(source_id)
-        if ou_r and ou_r["pick"]:
+        if ou_r and ou_r["pick"] and ou_r["pick"].lower().startswith(("over", "under")):
             rows.append({
                 **common,
                 "market": "over_under",
