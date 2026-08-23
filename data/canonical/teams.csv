@@ -182,12 +182,14 @@ forebet,ADO Den Haag,ado-den-haag
 forebet,AZ Alkmaar,az-alkmaar
 forebet,Académico Viseu,acad-mico-viseu
 forebet,Ajax,ajax
+forebet,Angers,angers
 forebet,Arsenal,arsenal
 forebet,Aston Villa,aston-villa
 forebet,Atalanta,atalanta
 forebet,Athletic Bilbao,athletic-bilbao
 forebet,Atlético Madrid,atl-tico-madrid
 forebet,Augsburg,augsburg
+forebet,Auxerre,auxerre
 forebet,Barcelona,barcelona
 forebet,Bayer Leverkusen,bayer-leverkusen
 forebet,Bayern Munich,bayern-munich
@@ -196,6 +198,7 @@ forebet,Borussia Dortmund,borussia-dortmund
 forebet,Borussia M'gladbach,borussia-m-gladbach
 forebet,Bournemouth,bournemouth
 forebet,Brentford,brentford
+forebet,Brest,brest
 forebet,Brighton,brighton
 forebet,Cagliari,cagliari
 forebet,Calcio Como,calcio-como
@@ -237,27 +240,38 @@ forebet,Ipswich Town,ipswich
 forebet,Juventus,juventus
 forebet,Köln,k-ln
 forebet,Lazio,lazio
+forebet,Le Havre,le-havre
+forebet,Le Mans FC,le-mans-fc
 forebet,Lecce,lecce
 forebet,Leeds United,leeds-united
+forebet,Lens,lens
 forebet,Levante,levante
+forebet,Lille,lille
 forebet,Liverpool,liverpool
+forebet,Lorient,lorient
+forebet,Lyon,lyon
 forebet,Mainz,mainz
 forebet,Manchester City,manchester-city
 forebet,Manchester United,manchester-united
 forebet,Marítimo,mar-timo
 forebet,Milan,milan
+forebet,Monaco,monaco
 forebet,Monza,monza
 forebet,Moreirense FC,moreirense-fc
 forebet,Málaga CF,m-laga-cf
 forebet,Nacional Madeira,nacional-madeira
 forebet,Napoli,napoli
 forebet,Newcastle United,newcastle
+forebet,Nice,nice
 forebet,Nijmegen,nijmegen
 forebet,Nottingham Forest,nottingham-forest
+forebet,Olympique Marseille,olympique-marseille
 forebet,Osasuna,osasuna
 forebet,PEC Zwolle,pec-zwolle
+forebet,PSG,psg
 forebet,PSV Eindhoven,psv-eindhoven
 forebet,Paderborn,paderborn
+forebet,Paris FC,paris-fc
 forebet,Parma,parma
 forebet,Porto,porto
 forebet,RB Leipzig,rb-leipzig
@@ -266,6 +280,7 @@ forebet,Rayo Vallecano,rayo-vallecano
 forebet,Real Betis,real-betis
 forebet,Real Madrid,real-madrid
 forebet,Real Sociedad,real-sociedad
+forebet,Rennes,rennes
 forebet,Rio Ave,rio-ave
 forebet,Roma,roma
 forebet,SC Telstar,sc-telstar
@@ -278,10 +293,13 @@ forebet,Sevilla,sevilla
 forebet,Sparta Rotterdam,sparta-rotterdam
 forebet,Sporting Braga,sporting-braga
 forebet,Sporting CP,sporting-cp
+forebet,Strasbourg,strasbourg
 forebet,Stuttgart,stuttgart
 forebet,Sunderland,sunderland
 forebet,Torino,torino
 forebet,Tottenham,tottenham
+forebet,Toulouse,toulouse
+forebet,Troyes,troyes
 forebet,Twente,twente
 forebet,Udinese,udinese
 forebet,Union Berlin,union-berlin

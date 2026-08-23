@@ -11,6 +11,7 @@ fixture_id,date,home_id,away_id,sites
 2026-08-30|freiburg|vs|werder-bremen,2026-08-30,freiburg,werder-bremen,forebet
 2026-08-30|augsburg|vs|schalke-04,2026-08-30,augsburg,schalke-04,forebet
 2026-08-22|udinese|vs|calcio-como,2026-08-22,udinese,calcio-como,forebet
+2026-08-22|le-mans-fc|vs|brest,2026-08-22,le-mans-fc,brest,forebet
 2026-08-22|nijmegen|vs|excelsior,2026-08-22,nijmegen,excelsior,forebet
 2026-09-09|twente|vs|sc-telstar,2026-09-09,twente,sc-telstar,forebet
 2026-09-15|ajax|vs|willem-ii-tilburg,2026-09-15,ajax,willem-ii-tilburg,forebet
@@ -40,7 +41,6 @@ fixture_id,date,home_id,away_id,sites
 2026-08-09|gil-vicente|vs|rio-ave,2026-08-09,gil-vicente,rio-ave,forebet
 2026-08-10|santa-clara|vs|nacional-madeira,2026-08-10,santa-clara,nacional-madeira,forebet
 2026-08-22|fortuna-sittard|vs|az,2026-08-22,fortuna-sittard,az,eaglepredict
-2026-08-21|olympique-marseille|vs|strasbourg,2026-08-21,olympique-marseille,strasbourg,eaglepredict
 2026-08-22|troyes|vs|paris,2026-08-22,troyes,paris,eaglepredict
 2026-08-23|paris-saint-germain|vs|rennes,2026-08-23,paris-saint-germain,rennes,whoscored
 2026-08-22|parma-calcio-1913|vs|cagliari,2026-08-22,parma-calcio-1913,cagliari,whoscored

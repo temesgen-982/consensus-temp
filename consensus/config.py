@@ -94,7 +94,7 @@ FOREBET = {
         "/en/football-tips-and-predictions-for-spain/primera-division",
         "/en/football-tips-and-predictions-for-germany/bundesliga",
         "/en/football-tips-and-predictions-for-italy/serie-a",
-        "/en/football-tips-and-predictions-for-france/ligue-1",
+        "/en/football-tips-and-predictions-for-france/ligue1",
         "/en/football-tips-and-predictions-for-netherlands/eredivisie",
         "/en/football-tips-and-predictions-for-portugal/liga-portugal",
     ],
