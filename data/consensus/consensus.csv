@@ -497,86 +497,90 @@ fixture_id,league,date,kickoff,home,away,site,market,pick,pick_norm,p1,p2,p3,not
 2026-08-22|ipswich|vs|sunderland,Premier League,2026-08-22,17:00,Ipswich Town,Sunderland,eaglepredict,1x2,X,X,,,,5.91,2026-08-22T04:00:49Z
 2026-08-22|ipswich|vs|sunderland,Premier League,2026-08-22,17:00,Ipswich Town,Sunderland,eaglepredict,btts,Yes,Yes,,,,5.91,2026-08-22T04:00:49Z
 2026-08-22|ipswich|vs|sunderland,Premier League,2026-08-22,17:00,Ipswich Town,Sunderland,eaglepredict,over_under,Under,Under,,,,5.91,2026-08-22T04:00:49Z
-2026-08-23|brighton|vs|aston-villa,Premier League,2026-08-23,14:00,Brighton,Aston Villa,whoscored,1x2,X,X,,,,,2026-08-23T05:20:34Z
-2026-08-23|brighton|vs|aston-villa,Premier League,2026-08-23,14:00,Brighton,Aston Villa,whoscored,over_under,Under,Under,,,,,2026-08-23T05:20:34Z
-2026-08-23|brighton|vs|aston-villa,Premier League,2026-08-23,14:00,Brighton,Aston Villa,whoscored,btts,Yes,Yes,,,,,2026-08-23T05:20:34Z
-2026-08-23|brighton|vs|aston-villa,Premier League,2026-08-23,14:00,Brighton,Aston Villa,whoscored,correct_score,1 - 1,1 - 1,,,,5.2,2026-08-23T05:20:34Z
-2026-08-23|newcastle|vs|liverpool,Premier League,2026-08-23,16:30,Newcastle,Liverpool,whoscored,1x2,2,2,,,,,2026-08-23T05:20:34Z
-2026-08-23|newcastle|vs|liverpool,Premier League,2026-08-23,16:30,Newcastle,Liverpool,whoscored,over_under,Over,Over,,,,,2026-08-23T05:20:34Z
-2026-08-23|newcastle|vs|liverpool,Premier League,2026-08-23,16:30,Newcastle,Liverpool,whoscored,btts,Yes,Yes,,,,,2026-08-23T05:20:34Z
-2026-08-23|newcastle|vs|liverpool,Premier League,2026-08-23,16:30,Newcastle,Liverpool,whoscored,correct_score,1 - 2,1 - 2,,,,,2026-08-23T05:20:34Z
-2026-08-24|fulham|vs|chelsea,Premier League,2026-08-24,20:00,Fulham,Chelsea,whoscored,1x2,2,2,,,,,2026-08-23T05:20:34Z
-2026-08-24|fulham|vs|chelsea,Premier League,2026-08-24,20:00,Fulham,Chelsea,whoscored,over_under,Over,Over,,,,,2026-08-23T05:20:34Z
-2026-08-24|fulham|vs|chelsea,Premier League,2026-08-24,20:00,Fulham,Chelsea,whoscored,btts,Yes,Yes,,,,,2026-08-23T05:20:34Z
-2026-08-24|fulham|vs|chelsea,Premier League,2026-08-24,20:00,Fulham,Chelsea,whoscored,correct_score,1 - 2,1 - 2,,,,,2026-08-23T05:20:34Z
-2026-08-23|getafe|vs|racing-santander,LaLiga,2026-08-23,18:30,Getafe,Racing Santander,whoscored,1x2,X,X,,,,2.9,2026-08-23T05:20:34Z
-2026-08-23|getafe|vs|racing-santander,LaLiga,2026-08-23,18:30,Getafe,Racing Santander,whoscored,over_under,Under,Under,,,,1.44,2026-08-23T05:20:34Z
-2026-08-23|getafe|vs|racing-santander,LaLiga,2026-08-23,18:30,Getafe,Racing Santander,whoscored,btts,Yes,Yes,,,,,2026-08-23T05:20:34Z
-2026-08-23|getafe|vs|racing-santander,LaLiga,2026-08-23,18:30,Getafe,Racing Santander,whoscored,correct_score,1 - 1,1 - 1,,,,4.6,2026-08-23T05:20:34Z
-2026-08-23|elche|vs|barcelona,LaLiga,2026-08-23,20:30,Elche,Barcelona,whoscored,1x2,2,2,,,,,2026-08-23T05:20:34Z
-2026-08-23|elche|vs|barcelona,LaLiga,2026-08-23,20:30,Elche,Barcelona,whoscored,over_under,Over,Over,,,,,2026-08-23T05:20:34Z
-2026-08-23|elche|vs|barcelona,LaLiga,2026-08-23,20:30,Elche,Barcelona,whoscored,btts,Yes,Yes,,,,,2026-08-23T05:20:34Z
-2026-08-23|elche|vs|barcelona,LaLiga,2026-08-23,20:30,Elche,Barcelona,whoscored,correct_score,1 - 3,1 - 3,,,,,2026-08-23T05:20:34Z
-2026-08-23|venezia|vs|lecce,Serie A,2026-08-23,17:30,Venezia,Lecce,whoscored,1x2,X,X,,,,,2026-08-23T05:20:34Z
-2026-08-23|venezia|vs|lecce,Serie A,2026-08-23,17:30,Venezia,Lecce,whoscored,over_under,Under,Under,,,,,2026-08-23T05:20:34Z
-2026-08-23|venezia|vs|lecce,Serie A,2026-08-23,17:30,Venezia,Lecce,whoscored,btts,Yes,Yes,,,,,2026-08-23T05:20:34Z
-2026-08-23|venezia|vs|lecce,Serie A,2026-08-23,17:30,Venezia,Lecce,whoscored,correct_score,1 - 1,1 - 1,,,,4.8,2026-08-23T05:20:34Z
-2026-08-23|frosinone|vs|juventus,Serie A,2026-08-23,17:30,Frosinone,Juventus,whoscored,1x2,2,2,,,,,2026-08-23T05:20:34Z
-2026-08-23|frosinone|vs|juventus,Serie A,2026-08-23,17:30,Frosinone,Juventus,whoscored,over_under,Under,Under,,,,,2026-08-23T05:20:34Z
-2026-08-23|frosinone|vs|juventus,Serie A,2026-08-23,17:30,Frosinone,Juventus,whoscored,btts,No,No,,,,,2026-08-23T05:20:34Z
-2026-08-23|frosinone|vs|juventus,Serie A,2026-08-23,17:30,Frosinone,Juventus,whoscored,correct_score,0 - 2,0 - 2,,,,,2026-08-23T05:20:34Z
-2026-08-23|atalanta|vs|sassuolo,Serie A,2026-08-23,19:45,Atalanta,Sassuolo,whoscored,1x2,X,X,,,,,2026-08-23T05:20:34Z
-2026-08-23|atalanta|vs|sassuolo,Serie A,2026-08-23,19:45,Atalanta,Sassuolo,whoscored,over_under,Over,Over,,,,,2026-08-23T05:20:34Z
-2026-08-23|atalanta|vs|sassuolo,Serie A,2026-08-23,19:45,Atalanta,Sassuolo,whoscored,btts,Yes,Yes,,,,,2026-08-23T05:20:34Z
-2026-08-23|atalanta|vs|sassuolo,Serie A,2026-08-23,19:45,Atalanta,Sassuolo,whoscored,correct_score,2 - 2,2 - 2,,,,11,2026-08-23T05:20:34Z
-2026-08-23|torino|vs|milan,Serie A,2026-08-23,19:45,Torino,AC Milan,whoscored,1x2,2,2,,,,,2026-08-23T05:20:34Z
-2026-08-23|torino|vs|milan,Serie A,2026-08-23,19:45,Torino,AC Milan,whoscored,over_under,Over,Over,,,,,2026-08-23T05:20:34Z
-2026-08-23|torino|vs|milan,Serie A,2026-08-23,19:45,Torino,AC Milan,whoscored,btts,Yes,Yes,,,,,2026-08-23T05:20:34Z
-2026-08-23|torino|vs|milan,Serie A,2026-08-23,19:45,Torino,AC Milan,whoscored,correct_score,1 - 2,1 - 2,,,,,2026-08-23T05:20:34Z
-2026-08-24|bologna|vs|lazio,Serie A,2026-08-24,17:30,Bologna,Lazio,whoscored,1x2,X,X,,,,,2026-08-23T05:20:34Z
-2026-08-24|bologna|vs|lazio,Serie A,2026-08-24,17:30,Bologna,Lazio,whoscored,over_under,Under,Under,,,,,2026-08-23T05:20:34Z
-2026-08-24|bologna|vs|lazio,Serie A,2026-08-24,17:30,Bologna,Lazio,whoscored,btts,Yes,Yes,,,,,2026-08-23T05:20:34Z
-2026-08-24|bologna|vs|lazio,Serie A,2026-08-24,17:30,Bologna,Lazio,whoscored,correct_score,1 - 1,1 - 1,,,,4.75,2026-08-23T05:20:34Z
-2026-08-24|roma|vs|fiorentina,Serie A,2026-08-24,19:45,Roma,Fiorentina,whoscored,1x2,1,1,,,,,2026-08-23T05:20:34Z
-2026-08-24|roma|vs|fiorentina,Serie A,2026-08-24,19:45,Roma,Fiorentina,whoscored,over_under,Over,Over,,,,,2026-08-23T05:20:34Z
-2026-08-24|roma|vs|fiorentina,Serie A,2026-08-24,19:45,Roma,Fiorentina,whoscored,btts,Yes,Yes,,,,,2026-08-23T05:20:34Z
-2026-08-24|roma|vs|fiorentina,Serie A,2026-08-24,19:45,Roma,Fiorentina,whoscored,correct_score,2 - 1,2 - 1,,,,,2026-08-23T05:20:34Z
-2026-08-23|angers|vs|lille,Ligue 1,2026-08-23,14:00,Angers,Lille,whoscored,1x2,2,2,,,,,2026-08-23T05:20:34Z
-2026-08-23|angers|vs|lille,Ligue 1,2026-08-23,14:00,Angers,Lille,whoscored,over_under,Under,Under,,,,,2026-08-23T05:20:34Z
-2026-08-23|angers|vs|lille,Ligue 1,2026-08-23,14:00,Angers,Lille,whoscored,btts,No,No,,,,,2026-08-23T05:20:34Z
-2026-08-23|angers|vs|lille,Ligue 1,2026-08-23,14:00,Angers,Lille,whoscored,correct_score,0 - 2,0 - 2,,,,,2026-08-23T05:20:34Z
-2026-08-23|le-havre|vs|monaco,Ligue 1,2026-08-23,16:15,Le Havre,Monaco,whoscored,1x2,X,X,,,,,2026-08-23T05:20:34Z
-2026-08-23|le-havre|vs|monaco,Ligue 1,2026-08-23,16:15,Le Havre,Monaco,whoscored,over_under,Under,Under,,,,,2026-08-23T05:20:34Z
-2026-08-23|le-havre|vs|monaco,Ligue 1,2026-08-23,16:15,Le Havre,Monaco,whoscored,btts,Yes,Yes,,,,,2026-08-23T05:20:34Z
-2026-08-23|le-havre|vs|monaco,Ligue 1,2026-08-23,16:15,Le Havre,Monaco,whoscored,correct_score,1 - 1,1 - 1,,,,5.6,2026-08-23T05:20:34Z
-2026-08-23|paris-saint-germain|vs|rennes,Ligue 1,2026-08-23,19:45,Paris Saint-Germain,Rennes,whoscored,1x2,1,1,,,,,2026-08-23T05:20:34Z
-2026-08-23|paris-saint-germain|vs|rennes,Ligue 1,2026-08-23,19:45,Paris Saint-Germain,Rennes,whoscored,over_under,Over,Over,,,,,2026-08-23T05:20:34Z
-2026-08-23|paris-saint-germain|vs|rennes,Ligue 1,2026-08-23,19:45,Paris Saint-Germain,Rennes,whoscored,btts,Yes,Yes,,,,,2026-08-23T05:20:34Z
-2026-08-23|paris-saint-germain|vs|rennes,Ligue 1,2026-08-23,19:45,Paris Saint-Germain,Rennes,whoscored,correct_score,2 - 1,2 - 1,,,,,2026-08-23T05:20:34Z
-2026-08-23|go-ahead-eagles|vs|ado-den-haag,Eredivisie,2026-08-23,11:15,Go Ahead Eagles,ADO Den Haag,whoscored,1x2,1,1,,,,,2026-08-23T05:20:34Z
-2026-08-23|go-ahead-eagles|vs|ado-den-haag,Eredivisie,2026-08-23,11:15,Go Ahead Eagles,ADO Den Haag,whoscored,over_under,Over,Over,,,,,2026-08-23T05:20:34Z
-2026-08-23|go-ahead-eagles|vs|ado-den-haag,Eredivisie,2026-08-23,11:15,Go Ahead Eagles,ADO Den Haag,whoscored,btts,Yes,Yes,,,,,2026-08-23T05:20:34Z
-2026-08-23|go-ahead-eagles|vs|ado-den-haag,Eredivisie,2026-08-23,11:15,Go Ahead Eagles,ADO Den Haag,whoscored,correct_score,3 - 1,3 - 1,,,,,2026-08-23T05:20:34Z
-2026-08-23|psv-eindhoven|vs|groningen,Eredivisie,2026-08-23,13:30,PSV Eindhoven,FC Groningen,whoscored,1x2,1,1,,,,,2026-08-23T05:20:34Z
-2026-08-23|psv-eindhoven|vs|groningen,Eredivisie,2026-08-23,13:30,PSV Eindhoven,FC Groningen,whoscored,over_under,Over,Over,,,,,2026-08-23T05:20:34Z
-2026-08-23|psv-eindhoven|vs|groningen,Eredivisie,2026-08-23,13:30,PSV Eindhoven,FC Groningen,whoscored,btts,Yes,Yes,,,,,2026-08-23T05:20:34Z
-2026-08-23|psv-eindhoven|vs|groningen,Eredivisie,2026-08-23,13:30,PSV Eindhoven,FC Groningen,whoscored,correct_score,3 - 1,3 - 1,,,,,2026-08-23T05:20:34Z
-2026-08-23|vit-ria|vs|nacional-madeira,Liga Portugal,2026-08-23,15:30,Vitoria de Guimaraes,Nacional,whoscored,1x2,X,X,,,,,2026-08-23T05:20:34Z
-2026-08-23|vit-ria|vs|nacional-madeira,Liga Portugal,2026-08-23,15:30,Vitoria de Guimaraes,Nacional,whoscored,over_under,Over,Over,,,,,2026-08-23T05:20:34Z
-2026-08-23|vit-ria|vs|nacional-madeira,Liga Portugal,2026-08-23,15:30,Vitoria de Guimaraes,Nacional,whoscored,btts,Yes,Yes,,,,,2026-08-23T05:20:34Z
-2026-08-23|vit-ria|vs|nacional-madeira,Liga Portugal,2026-08-23,15:30,Vitoria de Guimaraes,Nacional,whoscored,correct_score,2 - 2,2 - 2,,,,15,2026-08-23T05:20:34Z
-2026-08-23|santa-clara|vs|fc-famalic-o,Liga Portugal,2026-08-23,18:00,Santa Clara,Famalicao,whoscored,1x2,X,X,,,,,2026-08-23T05:20:34Z
-2026-08-23|santa-clara|vs|fc-famalic-o,Liga Portugal,2026-08-23,18:00,Santa Clara,Famalicao,whoscored,over_under,Under,Under,,,,,2026-08-23T05:20:34Z
-2026-08-23|santa-clara|vs|fc-famalic-o,Liga Portugal,2026-08-23,18:00,Santa Clara,Famalicao,whoscored,btts,Yes,Yes,,,,,2026-08-23T05:20:34Z
-2026-08-23|santa-clara|vs|fc-famalic-o,Liga Portugal,2026-08-23,18:00,Santa Clara,Famalicao,whoscored,correct_score,1 - 1,1 - 1,,,,5.33,2026-08-23T05:20:34Z
-2026-08-23|porto|vs|fc-arouca,Liga Portugal,2026-08-23,20:30,FC Porto,Arouca,whoscored,1x2,1,1,,,,,2026-08-23T05:20:34Z
-2026-08-23|porto|vs|fc-arouca,Liga Portugal,2026-08-23,20:30,FC Porto,Arouca,whoscored,over_under,Over,Over,,,,,2026-08-23T05:20:34Z
-2026-08-23|porto|vs|fc-arouca,Liga Portugal,2026-08-23,20:30,FC Porto,Arouca,whoscored,btts,Yes,Yes,,,,,2026-08-23T05:20:34Z
-2026-08-23|porto|vs|fc-arouca,Liga Portugal,2026-08-23,20:30,FC Porto,Arouca,whoscored,correct_score,2 - 1,2 - 1,,,,,2026-08-23T05:20:34Z
-2026-08-24|gil-vicente|vs|casa-pia-ac,Liga Portugal,2026-08-24,20:15,Gil Vicente,Casa Pia AC,whoscored,1x2,1,1,,,,,2026-08-23T05:20:34Z
-2026-08-24|gil-vicente|vs|casa-pia-ac,Liga Portugal,2026-08-24,20:15,Gil Vicente,Casa Pia AC,whoscored,over_under,Under,Under,,,,,2026-08-23T05:20:34Z
-2026-08-24|gil-vicente|vs|casa-pia-ac,Liga Portugal,2026-08-24,20:15,Gil Vicente,Casa Pia AC,whoscored,btts,No,No,,,,,2026-08-23T05:20:34Z
-2026-08-24|gil-vicente|vs|casa-pia-ac,Liga Portugal,2026-08-24,20:15,Gil Vicente,Casa Pia AC,whoscored,correct_score,2 - 0,2 - 0,,,,,2026-08-23T05:20:34Z
+2026-08-23|brighton|vs|aston-villa,Premier League,2026-08-23,14:00,Brighton,Aston Villa,whoscored,1x2,X,X,,,,3.3,2026-08-23T11:01:49Z
+2026-08-23|brighton|vs|aston-villa,Premier League,2026-08-23,14:00,Brighton,Aston Villa,whoscored,over_under,Under,Under,,,,1.87,2026-08-23T11:01:49Z
+2026-08-23|brighton|vs|aston-villa,Premier League,2026-08-23,14:00,Brighton,Aston Villa,whoscored,btts,Yes,Yes,,,,,2026-08-23T11:01:49Z
+2026-08-23|brighton|vs|aston-villa,Premier League,2026-08-23,14:00,Brighton,Aston Villa,whoscored,correct_score,1 - 1,1 - 1,,,,5.2,2026-08-23T11:01:49Z
+2026-08-23|manchester-city|vs|bournemouth,Premier League,2026-08-23,14:00,Manchester City,Bournemouth,whoscored,1x2,1,1,,,,,2026-08-23T11:01:49Z
+2026-08-23|manchester-city|vs|bournemouth,Premier League,2026-08-23,14:00,Manchester City,Bournemouth,whoscored,over_under,Over,Over,,,,,2026-08-23T11:01:49Z
+2026-08-23|manchester-city|vs|bournemouth,Premier League,2026-08-23,14:00,Manchester City,Bournemouth,whoscored,btts,Yes,Yes,,,,,2026-08-23T11:01:49Z
+2026-08-23|manchester-city|vs|bournemouth,Premier League,2026-08-23,14:00,Manchester City,Bournemouth,whoscored,correct_score,3 - 1,3 - 1,,,,,2026-08-23T11:01:49Z
+2026-08-23|newcastle|vs|liverpool,Premier League,2026-08-23,16:30,Newcastle,Liverpool,whoscored,1x2,2,2,,,,,2026-08-23T11:01:49Z
+2026-08-23|newcastle|vs|liverpool,Premier League,2026-08-23,16:30,Newcastle,Liverpool,whoscored,over_under,Over,Over,,,,,2026-08-23T11:01:49Z
+2026-08-23|newcastle|vs|liverpool,Premier League,2026-08-23,16:30,Newcastle,Liverpool,whoscored,btts,Yes,Yes,,,,,2026-08-23T11:01:49Z
+2026-08-23|newcastle|vs|liverpool,Premier League,2026-08-23,16:30,Newcastle,Liverpool,whoscored,correct_score,1 - 2,1 - 2,,,,,2026-08-23T11:01:49Z
+2026-08-24|fulham|vs|chelsea,Premier League,2026-08-24,20:00,Fulham,Chelsea,whoscored,1x2,2,2,,,,1.8,2026-08-23T11:01:49Z
+2026-08-24|fulham|vs|chelsea,Premier League,2026-08-24,20:00,Fulham,Chelsea,whoscored,over_under,Over,Over,,,,1.58,2026-08-23T11:01:49Z
+2026-08-24|fulham|vs|chelsea,Premier League,2026-08-24,20:00,Fulham,Chelsea,whoscored,btts,Yes,Yes,,,,,2026-08-23T11:01:49Z
+2026-08-24|fulham|vs|chelsea,Premier League,2026-08-24,20:00,Fulham,Chelsea,whoscored,correct_score,1 - 2,1 - 2,,,,6.5,2026-08-23T11:01:49Z
+2026-08-23|atl-tico-madrid|vs|villarreal,LaLiga,2026-08-23,16:00,Atletico Madrid,Villarreal,whoscored,1x2,1,1,,,,1.78,2026-08-23T11:01:49Z
+2026-08-23|atl-tico-madrid|vs|villarreal,LaLiga,2026-08-23,16:00,Atletico Madrid,Villarreal,whoscored,over_under,Over,Over,,,,1.65,2026-08-23T11:01:49Z
+2026-08-23|atl-tico-madrid|vs|villarreal,LaLiga,2026-08-23,16:00,Atletico Madrid,Villarreal,whoscored,btts,Yes,Yes,,,,,2026-08-23T11:01:49Z
+2026-08-23|atl-tico-madrid|vs|villarreal,LaLiga,2026-08-23,16:00,Atletico Madrid,Villarreal,whoscored,correct_score,2 - 1,2 - 1,,,,6.3,2026-08-23T11:01:49Z
+2026-08-23|getafe|vs|racing-santander,LaLiga,2026-08-23,18:30,Getafe,Racing Santander,whoscored,1x2,X,X,,,,,2026-08-23T11:01:49Z
+2026-08-23|getafe|vs|racing-santander,LaLiga,2026-08-23,18:30,Getafe,Racing Santander,whoscored,over_under,Under,Under,,,,,2026-08-23T11:01:49Z
+2026-08-23|getafe|vs|racing-santander,LaLiga,2026-08-23,18:30,Getafe,Racing Santander,whoscored,btts,Yes,Yes,,,,,2026-08-23T11:01:49Z
+2026-08-23|getafe|vs|racing-santander,LaLiga,2026-08-23,18:30,Getafe,Racing Santander,whoscored,correct_score,1 - 1,1 - 1,,,,4.5,2026-08-23T11:01:49Z
+2026-08-23|elche|vs|barcelona,LaLiga,2026-08-23,20:30,Elche,Barcelona,whoscored,1x2,2,2,,,,1.33,2026-08-23T11:01:49Z
+2026-08-23|elche|vs|barcelona,LaLiga,2026-08-23,20:30,Elche,Barcelona,whoscored,over_under,Over,Over,,,,1.43,2026-08-23T11:01:49Z
+2026-08-23|elche|vs|barcelona,LaLiga,2026-08-23,20:30,Elche,Barcelona,whoscored,btts,Yes,Yes,,,,,2026-08-23T11:01:49Z
+2026-08-23|elche|vs|barcelona,LaLiga,2026-08-23,20:30,Elche,Barcelona,whoscored,correct_score,1 - 3,1 - 3,,,,7.9,2026-08-23T11:01:49Z
+2026-08-23|venezia|vs|lecce,Serie A,2026-08-23,17:30,Venezia,Lecce,whoscored,1x2,X,X,,,,3.13,2026-08-23T11:01:49Z
+2026-08-23|venezia|vs|lecce,Serie A,2026-08-23,17:30,Venezia,Lecce,whoscored,over_under,Under,Under,,,,1.61,2026-08-23T11:01:49Z
+2026-08-23|venezia|vs|lecce,Serie A,2026-08-23,17:30,Venezia,Lecce,whoscored,btts,Yes,Yes,,,,,2026-08-23T11:01:49Z
+2026-08-23|venezia|vs|lecce,Serie A,2026-08-23,17:30,Venezia,Lecce,whoscored,correct_score,1 - 1,1 - 1,,,,4.8,2026-08-23T11:01:49Z
+2026-08-23|frosinone|vs|juventus,Serie A,2026-08-23,17:30,Frosinone,Juventus,whoscored,1x2,2,2,,,,,2026-08-23T11:01:49Z
+2026-08-23|frosinone|vs|juventus,Serie A,2026-08-23,17:30,Frosinone,Juventus,whoscored,over_under,Under,Under,,,,,2026-08-23T11:01:49Z
+2026-08-23|frosinone|vs|juventus,Serie A,2026-08-23,17:30,Frosinone,Juventus,whoscored,btts,No,No,,,,,2026-08-23T11:01:49Z
+2026-08-23|frosinone|vs|juventus,Serie A,2026-08-23,17:30,Frosinone,Juventus,whoscored,correct_score,0 - 2,0 - 2,,,,,2026-08-23T11:01:49Z
+2026-08-23|atalanta|vs|sassuolo,Serie A,2026-08-23,19:45,Atalanta,Sassuolo,whoscored,1x2,X,X,,,,,2026-08-23T11:01:49Z
+2026-08-23|atalanta|vs|sassuolo,Serie A,2026-08-23,19:45,Atalanta,Sassuolo,whoscored,over_under,Over,Over,,,,,2026-08-23T11:01:49Z
+2026-08-23|atalanta|vs|sassuolo,Serie A,2026-08-23,19:45,Atalanta,Sassuolo,whoscored,btts,Yes,Yes,,,,,2026-08-23T11:01:49Z
+2026-08-23|atalanta|vs|sassuolo,Serie A,2026-08-23,19:45,Atalanta,Sassuolo,whoscored,correct_score,2 - 2,2 - 2,,,,12,2026-08-23T11:01:49Z
+2026-08-23|torino|vs|milan,Serie A,2026-08-23,19:45,Torino,AC Milan,whoscored,1x2,2,2,,,,1.87,2026-08-23T11:01:49Z
+2026-08-23|torino|vs|milan,Serie A,2026-08-23,19:45,Torino,AC Milan,whoscored,over_under,Over,Over,,,,1.95,2026-08-23T11:01:49Z
+2026-08-23|torino|vs|milan,Serie A,2026-08-23,19:45,Torino,AC Milan,whoscored,btts,Yes,Yes,,,,,2026-08-23T11:01:49Z
+2026-08-23|torino|vs|milan,Serie A,2026-08-23,19:45,Torino,AC Milan,whoscored,correct_score,1 - 2,1 - 2,,,,6.5,2026-08-23T11:01:49Z
+2026-08-24|bologna|vs|lazio,Serie A,2026-08-24,17:30,Bologna,Lazio,whoscored,1x2,X,X,,,,2.97,2026-08-23T11:01:49Z
+2026-08-24|bologna|vs|lazio,Serie A,2026-08-24,17:30,Bologna,Lazio,whoscored,over_under,Under,Under,,,,1.6,2026-08-23T11:01:49Z
+2026-08-24|bologna|vs|lazio,Serie A,2026-08-24,17:30,Bologna,Lazio,whoscored,btts,Yes,Yes,,,,,2026-08-23T11:01:49Z
+2026-08-24|bologna|vs|lazio,Serie A,2026-08-24,17:30,Bologna,Lazio,whoscored,correct_score,1 - 1,1 - 1,,,,4.75,2026-08-23T11:01:49Z
+2026-08-24|roma|vs|fiorentina,Serie A,2026-08-24,19:45,Roma,Fiorentina,whoscored,1x2,1,1,,,,,2026-08-23T11:01:49Z
+2026-08-24|roma|vs|fiorentina,Serie A,2026-08-24,19:45,Roma,Fiorentina,whoscored,over_under,Over,Over,,,,,2026-08-23T11:01:49Z
+2026-08-24|roma|vs|fiorentina,Serie A,2026-08-24,19:45,Roma,Fiorentina,whoscored,btts,Yes,Yes,,,,,2026-08-23T11:01:49Z
+2026-08-24|roma|vs|fiorentina,Serie A,2026-08-24,19:45,Roma,Fiorentina,whoscored,correct_score,2 - 1,2 - 1,,,,,2026-08-23T11:01:49Z
+2026-08-23|le-havre|vs|monaco,Ligue 1,2026-08-23,16:15,Le Havre,Monaco,whoscored,1x2,X,X,,,,,2026-08-23T11:01:49Z
+2026-08-23|le-havre|vs|monaco,Ligue 1,2026-08-23,16:15,Le Havre,Monaco,whoscored,over_under,Under,Under,,,,,2026-08-23T11:01:49Z
+2026-08-23|le-havre|vs|monaco,Ligue 1,2026-08-23,16:15,Le Havre,Monaco,whoscored,btts,Yes,Yes,,,,,2026-08-23T11:01:49Z
+2026-08-23|le-havre|vs|monaco,Ligue 1,2026-08-23,16:15,Le Havre,Monaco,whoscored,correct_score,1 - 1,1 - 1,,,,5.4,2026-08-23T11:01:49Z
+2026-08-23|paris-saint-germain|vs|rennes,Ligue 1,2026-08-23,19:45,Paris Saint-Germain,Rennes,whoscored,1x2,1,1,,,,,2026-08-23T11:01:49Z
+2026-08-23|paris-saint-germain|vs|rennes,Ligue 1,2026-08-23,19:45,Paris Saint-Germain,Rennes,whoscored,over_under,Over,Over,,,,,2026-08-23T11:01:49Z
+2026-08-23|paris-saint-germain|vs|rennes,Ligue 1,2026-08-23,19:45,Paris Saint-Germain,Rennes,whoscored,btts,Yes,Yes,,,,,2026-08-23T11:01:49Z
+2026-08-23|paris-saint-germain|vs|rennes,Ligue 1,2026-08-23,19:45,Paris Saint-Germain,Rennes,whoscored,correct_score,2 - 1,2 - 1,,,,,2026-08-23T11:01:49Z
+2026-08-23|psv-eindhoven|vs|groningen,Eredivisie,2026-08-23,13:30,PSV Eindhoven,FC Groningen,whoscored,1x2,1,1,,,,1.22,2026-08-23T11:01:49Z
+2026-08-23|psv-eindhoven|vs|groningen,Eredivisie,2026-08-23,13:30,PSV Eindhoven,FC Groningen,whoscored,over_under,Over,Over,,,,1.18,2026-08-23T11:01:49Z
+2026-08-23|psv-eindhoven|vs|groningen,Eredivisie,2026-08-23,13:30,PSV Eindhoven,FC Groningen,whoscored,btts,Yes,Yes,,,,,2026-08-23T11:01:49Z
+2026-08-23|psv-eindhoven|vs|groningen,Eredivisie,2026-08-23,13:30,PSV Eindhoven,FC Groningen,whoscored,correct_score,3 - 1,3 - 1,,,,6.8,2026-08-23T11:01:49Z
+2026-08-23|cambuur|vs|feyenoord,Eredivisie,2026-08-23,15:45,Cambuur,Feyenoord,whoscored,1x2,2,2,,,,1.18,2026-08-23T11:01:49Z
+2026-08-23|cambuur|vs|feyenoord,Eredivisie,2026-08-23,15:45,Cambuur,Feyenoord,whoscored,over_under,Over,Over,,,,1.24,2026-08-23T11:01:49Z
+2026-08-23|cambuur|vs|feyenoord,Eredivisie,2026-08-23,15:45,Cambuur,Feyenoord,whoscored,btts,Yes,Yes,,,,,2026-08-23T11:01:49Z
+2026-08-23|cambuur|vs|feyenoord,Eredivisie,2026-08-23,15:45,Cambuur,Feyenoord,whoscored,correct_score,1 - 3,1 - 3,,,,6,2026-08-23T11:01:49Z
+2026-08-23|vit-ria|vs|nacional-madeira,Liga Portugal,2026-08-23,15:30,Vitoria de Guimaraes,Nacional,whoscored,1x2,X,X,,,,,2026-08-23T11:01:49Z
+2026-08-23|vit-ria|vs|nacional-madeira,Liga Portugal,2026-08-23,15:30,Vitoria de Guimaraes,Nacional,whoscored,over_under,Over,Over,,,,,2026-08-23T11:01:49Z
+2026-08-23|vit-ria|vs|nacional-madeira,Liga Portugal,2026-08-23,15:30,Vitoria de Guimaraes,Nacional,whoscored,btts,Yes,Yes,,,,,2026-08-23T11:01:49Z
+2026-08-23|vit-ria|vs|nacional-madeira,Liga Portugal,2026-08-23,15:30,Vitoria de Guimaraes,Nacional,whoscored,correct_score,2 - 2,2 - 2,,,,15,2026-08-23T11:01:49Z
+2026-08-23|santa-clara|vs|fc-famalic-o,Liga Portugal,2026-08-23,18:00,Santa Clara,Famalicao,whoscored,1x2,X,X,,,,,2026-08-23T11:01:49Z
+2026-08-23|santa-clara|vs|fc-famalic-o,Liga Portugal,2026-08-23,18:00,Santa Clara,Famalicao,whoscored,over_under,Under,Under,,,,,2026-08-23T11:01:49Z
+2026-08-23|santa-clara|vs|fc-famalic-o,Liga Portugal,2026-08-23,18:00,Santa Clara,Famalicao,whoscored,btts,Yes,Yes,,,,,2026-08-23T11:01:49Z
+2026-08-23|santa-clara|vs|fc-famalic-o,Liga Portugal,2026-08-23,18:00,Santa Clara,Famalicao,whoscored,correct_score,1 - 1,1 - 1,,,,5.33,2026-08-23T11:01:49Z
+2026-08-23|porto|vs|fc-arouca,Liga Portugal,2026-08-23,20:30,FC Porto,Arouca,whoscored,1x2,1,1,,,,1.24,2026-08-23T11:01:49Z
+2026-08-23|porto|vs|fc-arouca,Liga Portugal,2026-08-23,20:30,FC Porto,Arouca,whoscored,over_under,Over,Over,,,,1.6,2026-08-23T11:01:49Z
+2026-08-23|porto|vs|fc-arouca,Liga Portugal,2026-08-23,20:30,FC Porto,Arouca,whoscored,btts,Yes,Yes,,,,,2026-08-23T11:01:49Z
+2026-08-23|porto|vs|fc-arouca,Liga Portugal,2026-08-23,20:30,FC Porto,Arouca,whoscored,correct_score,2 - 1,2 - 1,,,,8.5,2026-08-23T11:01:49Z
+2026-08-24|gil-vicente|vs|casa-pia-ac,Liga Portugal,2026-08-24,20:15,Gil Vicente,Casa Pia AC,whoscored,1x2,1,1,,,,,2026-08-23T11:01:49Z
+2026-08-24|gil-vicente|vs|casa-pia-ac,Liga Portugal,2026-08-24,20:15,Gil Vicente,Casa Pia AC,whoscored,over_under,Under,Under,,,,,2026-08-23T11:01:49Z
+2026-08-24|gil-vicente|vs|casa-pia-ac,Liga Portugal,2026-08-24,20:15,Gil Vicente,Casa Pia AC,whoscored,btts,No,No,,,,,2026-08-23T11:01:49Z
+2026-08-24|gil-vicente|vs|casa-pia-ac,Liga Portugal,2026-08-24,20:15,Gil Vicente,Casa Pia AC,whoscored,correct_score,2 - 0,2 - 0,,,,,2026-08-23T11:01:49Z
 2026-08-16|feyenoord|vs|go-ahead-eagles,Eredivisie,2026-08-16,14:30,Feyenoord,Go Ahead Eagles,whoscored,1x2,1,1,,,,1.18,2026-08-16T14:00:00Z
 2026-08-16|feyenoord|vs|go-ahead-eagles,Eredivisie,2026-08-16,14:30,Feyenoord,Go Ahead Eagles,whoscored,over_under,Over,Over,,,,1.22,2026-08-16T14:00:00Z
 2026-08-16|feyenoord|vs|go-ahead-eagles,Eredivisie,2026-08-16,14:30,Feyenoord,Go Ahead Eagles,whoscored,btts,Yes,Yes,,,,,2026-08-16T14:00:00Z
@@ -733,10 +737,14 @@ fixture_id,league,date,kickoff,home,away,site,market,pick,pick_norm,p1,p2,p3,not
 2026-08-22|nice|vs|lorient,Ligue 1,2026-08-22,19:45,Nice,Lorient,whoscored,over_under,Under,Under,,,,1.84,2026-08-22T02:22:42Z
 2026-08-22|nice|vs|lorient,Ligue 1,2026-08-22,19:45,Nice,Lorient,whoscored,btts,Yes,Yes,,,,,2026-08-22T02:22:42Z
 2026-08-22|nice|vs|lorient,Ligue 1,2026-08-22,19:45,Nice,Lorient,whoscored,correct_score,1 - 1,1 - 1,,,,5.55,2026-08-22T02:22:42Z
-2026-08-23|cambuur|vs|feyenoord,Eredivisie,2026-08-23,15:45,Cambuur,Feyenoord,whoscored,1x2,2,2,,,,1.22,2026-08-22T02:22:42Z
-2026-08-23|cambuur|vs|feyenoord,Eredivisie,2026-08-23,15:45,Cambuur,Feyenoord,whoscored,over_under,Over,Over,,,,1.31,2026-08-22T02:22:42Z
-2026-08-23|cambuur|vs|feyenoord,Eredivisie,2026-08-23,15:45,Cambuur,Feyenoord,whoscored,btts,Yes,Yes,,,,,2026-08-22T02:22:42Z
-2026-08-23|cambuur|vs|feyenoord,Eredivisie,2026-08-23,15:45,Cambuur,Feyenoord,whoscored,correct_score,1 - 3,1 - 3,,,,6.9,2026-08-22T02:22:42Z
+2026-08-23|angers|vs|lille,Ligue 1,2026-08-23,14:00,Angers,Lille,whoscored,1x2,2,2,,,,1.67,2026-08-22T02:22:42Z
+2026-08-23|angers|vs|lille,Ligue 1,2026-08-23,14:00,Angers,Lille,whoscored,over_under,Under,Under,,,,1.76,2026-08-22T02:22:42Z
+2026-08-23|angers|vs|lille,Ligue 1,2026-08-23,14:00,Angers,Lille,whoscored,btts,No,No,,,,,2026-08-22T02:22:42Z
+2026-08-23|angers|vs|lille,Ligue 1,2026-08-23,14:00,Angers,Lille,whoscored,correct_score,0 - 2,0 - 2,,,,6.3,2026-08-22T02:22:42Z
+2026-08-23|go-ahead-eagles|vs|ado-den-haag,Eredivisie,2026-08-23,11:15,Go Ahead Eagles,ADO Den Haag,whoscored,1x2,1,1,,,,,2026-08-22T02:22:42Z
+2026-08-23|go-ahead-eagles|vs|ado-den-haag,Eredivisie,2026-08-23,11:15,Go Ahead Eagles,ADO Den Haag,whoscored,over_under,Over,Over,,,,,2026-08-22T02:22:42Z
+2026-08-23|go-ahead-eagles|vs|ado-den-haag,Eredivisie,2026-08-23,11:15,Go Ahead Eagles,ADO Den Haag,whoscored,btts,Yes,Yes,,,,,2026-08-22T02:22:42Z
+2026-08-23|go-ahead-eagles|vs|ado-den-haag,Eredivisie,2026-08-23,11:15,Go Ahead Eagles,ADO Den Haag,whoscored,correct_score,3 - 1,3 - 1,,,,,2026-08-22T02:22:42Z
 2026-08-23|brighton|vs|aston-villa,Premier League,2026-08-23,2026-08-23 13:00,Brighton,Aston Villa,flashscore,1x2,2,2,,,,"Villa have had Brighton’s card marked in recent seasons, so it’s possibly worth siding with the outsiders with an away win selection here.",2026-08-23T05:24:02Z
 2026-08-23|manchester-city|vs|bournemouth,Premier League,2026-08-23,2026-08-23 13:00,Manchester City,Bournemouth,flashscore,1x2,1,1,,,,"Owing to their stunning home H2H record, backing Man City to win and score 3+ goals could be a smart play.",2026-08-23T05:24:02Z
 2026-08-23|newcastle|vs|liverpool,Premier League,2026-08-23,2026-08-23 15:30,Newcastle,Liverpool,flashscore,btts,Yes,Yes,,,,"Neither side will be blamed for a cautious start here before trying to prove themselves, so betting on both teams to score after half-time seems wise.",2026-08-23T05:24:02Z
