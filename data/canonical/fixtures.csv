@@ -34,7 +34,7 @@ fixture_id,league,date,kickoff,home_id,away_id
 2026-08-29|borussia-dortmund|vs|hamburger-sv,Bundesliga,2026-08-29,29/08/2026 18:30,borussia-dortmund,hamburger-sv
 2026-08-30|freiburg|vs|werder-bremen,Bundesliga,2026-08-30,30/08/2026 15:30,freiburg,werder-bremen
 2026-08-30|augsburg|vs|schalke-04,Bundesliga,2026-08-30,30/08/2026 17:30,augsburg,schalke-04
-2026-08-22|udinese|vs|calcio-como,Serie A,2026-08-22,22/08/2026 18:30,udinese,calcio-como
+2026-08-22|udinese|vs|como,Serie A,2026-08-22,22/08/2026 18:30,udinese,como
 2026-08-22|inter|vs|monza,Serie A,2026-08-22,22/08/2026 18:30,inter,monza
 2026-08-22|parma|vs|cagliari,Serie A,2026-08-22,22/08/2026 20:45,parma,cagliari
 2026-08-22|genoa|vs|napoli,Serie A,2026-08-22,22/08/2026 20:45,genoa,napoli
@@ -44,12 +44,21 @@ fixture_id,league,date,kickoff,home_id,away_id
 2026-08-23|atalanta|vs|sassuolo,Serie A,2026-08-23,23/08/2026 20:45,atalanta,sassuolo
 2026-08-24|bologna|vs|lazio,Serie A,2026-08-24,24/08/2026 18:30,bologna,lazio
 2026-08-24|roma|vs|fiorentina,Serie A,2026-08-24,24/08/2026 20:45,roma,fiorentina
+2026-08-28|lille|vs|psg,Ligue 1,2026-08-28,28/08/2026 20:45,lille,psg
+2026-08-29|strasbourg|vs|lens,Ligue 1,2026-08-29,29/08/2026 17:15,strasbourg,lens
+2026-08-29|lyon|vs|le-havre,Ligue 1,2026-08-29,29/08/2026 20:45,lyon,le-havre
+2026-08-29|lorient|vs|troyes,Ligue 1,2026-08-29,29/08/2026 20:45,lorient,troyes
+2026-08-29|brest|vs|toulouse,Ligue 1,2026-08-29,29/08/2026 20:45,brest,toulouse
+2026-08-29|auxerre|vs|angers,Ligue 1,2026-08-29,29/08/2026 20:45,auxerre,angers
+2026-08-30|paris-fc|vs|nice,Ligue 1,2026-08-30,30/08/2026 15:00,paris-fc,nice
+2026-08-30|rennes|vs|le-mans,Ligue 1,2026-08-30,30/08/2026 17:15,rennes,le-mans
+2026-08-30|monaco|vs|olympique-marseille,Ligue 1,2026-08-30,30/08/2026 20:45,monaco,olympique-marseille
 2026-08-21|olympique-marseille|vs|strasbourg,Ligue 1,2026-08-21,21/08/2026 20:45,olympique-marseille,strasbourg
 2026-08-22|lens|vs|auxerre,Ligue 1,2026-08-22,22/08/2026 17:15,lens,auxerre
 2026-08-22|troyes|vs|paris-fc,Ligue 1,2026-08-22,22/08/2026 20:45,troyes,paris-fc
 2026-08-22|toulouse|vs|lyon,Ligue 1,2026-08-22,22/08/2026 20:45,toulouse,lyon
 2026-08-22|nice|vs|lorient,Ligue 1,2026-08-22,22/08/2026 20:45,nice,lorient
-2026-08-22|le-mans-fc|vs|brest,Ligue 1,2026-08-22,22/08/2026 20:45,le-mans-fc,brest
+2026-08-22|le-mans|vs|brest,Ligue 1,2026-08-22,22/08/2026 20:45,le-mans,brest
 2026-08-23|angers|vs|lille,Ligue 1,2026-08-23,23/08/2026 15:00,angers,lille
 2026-08-23|le-havre|vs|monaco,Ligue 1,2026-08-23,23/08/2026 17:15,le-havre,monaco
 2026-08-23|rennes|vs|psg,Ligue 1,2026-08-23,23/08/2026 20:45,rennes,psg
@@ -74,8 +83,6 @@ fixture_id,league,date,kickoff,home_id,away_id
 2026-08-22|mar-timo|vs|acad-mico-viseu,Liga Portugal,2026-08-22,22/08/2026 16:30,mar-timo,acad-mico-viseu
 2026-08-22|gd-estoril|vs|rio-ave,Liga Portugal,2026-08-22,22/08/2026 19:00,gd-estoril,rio-ave
 2026-08-22|sporting-cp|vs|fc-alverca,Liga Portugal,2026-08-22,22/08/2026 21:30,sporting-cp,fc-alverca
-2026-08-23|moreirense-fc|vs|sl-benfica,Liga Portugal,2026-08-23,23/08/2026 02:00,moreirense-fc,sl-benfica
-2026-08-23|estrela-amadora|vs|sporting-braga,Liga Portugal,2026-08-23,23/08/2026 02:00,estrela-amadora,sporting-braga
 2026-08-23|vit-ria|vs|nacional-madeira,Liga Portugal,2026-08-23,23/08/2026 16:30,vit-ria,nacional-madeira
 2026-08-23|santa-clara|vs|fc-famalic-o,Liga Portugal,2026-08-23,23/08/2026 19:00,santa-clara,fc-famalic-o
 2026-08-23|porto|vs|fc-arouca,Liga Portugal,2026-08-23,23/08/2026 21:30,porto,fc-arouca
@@ -104,13 +111,9 @@ fixture_id,league,date,kickoff,home_id,away_id
 2026-08-09|moreirense-fc|vs|sporting-braga,Liga Portugal,2026-08-09,09/08/2026 21:30,moreirense-fc,sporting-braga
 2026-08-09|gil-vicente|vs|rio-ave,Liga Portugal,2026-08-09,09/08/2026 21:30,gil-vicente,rio-ave
 2026-08-10|santa-clara|vs|nacional-madeira,Liga Portugal,2026-08-10,10/08/2026 21:15,santa-clara,nacional-madeira
-2026-08-22|fortuna-sittard|vs|az,Eredivisie,2026-08-22,17:30,fortuna-sittard,az
-2026-08-22|troyes|vs|paris,Ligue 1,2026-08-22,21:45,troyes,paris
-2026-08-22|le-mans|vs|brest,Ligue 1,2026-08-22,21:45,le-mans,brest
-2026-08-22|udinese|vs|como,Serie A,2026-08-22,19:30,udinese,como
-2026-08-23|paris-saint-germain|vs|rennes,Ligue 1,2026-08-23,19:45,paris-saint-germain,rennes
+2026-08-23|moreirense-fc|vs|sl-benfica,Liga Portugal,2026-08-23,23/08/2026 02:00,moreirense-fc,sl-benfica
+2026-08-23|estrela-amadora|vs|sporting-braga,Liga Portugal,2026-08-23,23/08/2026 02:00,estrela-amadora,sporting-braga
+2026-08-23|psg|vs|rennes,Ligue 1,2026-08-23,21:45,psg,rennes
 2026-08-21|marseille|vs|strasbourg,Ligue 1,2026-08-21,19:45,marseille,strasbourg
 2026-08-22|parma-calcio-1913|vs|cagliari,Serie A,2026-08-22,19:45,parma-calcio-1913,cagliari
 2026-08-24|as-roma|vs|fiorentina,Serie A,2026-08-24,2026-08-24 18:45,as-roma,fiorentina
-2026-08-24|gil-vicente|vs|casa-pia,Liga Portugal,2026-08-24,22:15 - Mon 24 Aug,gil-vicente,casa-pia
-2026-08-23|santa-clara|vs|famalicao,Liga Portugal,2026-08-23,20:00,santa-clara,famalicao

@@ -1,6 +1,6 @@
 site,team_name,canonical_id
 eaglepredict,ADO Den Haag,ado-den-haag
-eaglepredict,AZ,az
+eaglepredict,AZ,az-alkmaar
 eaglepredict,Academico Viseu,acad-mico-viseu
 eaglepredict,Ajax,ajax
 eaglepredict,Alverca,fc-alverca
@@ -24,6 +24,7 @@ eaglepredict,CS Marítimo,mar-timo
 eaglepredict,Cagliari,cagliari
 eaglepredict,Cambuur,cambuur
 eaglepredict,Casa Pia,casa-pia-ac
+eaglepredict,Celta de Vigo,celta-vigo
 eaglepredict,Chelsea,chelsea
 eaglepredict,Como,como
 eaglepredict,Coventry City,coventry
@@ -77,7 +78,7 @@ eaglepredict,Osasuna,osasuna
 eaglepredict,PEC Zwolle,pec-zwolle
 eaglepredict,PSG,psg
 eaglepredict,PSV,psv-eindhoven
-eaglepredict,Paris,paris
+eaglepredict,Paris,paris-fc
 eaglepredict,Parma,parma
 eaglepredict,Porto,porto
 eaglepredict,Racing Santander,racing-santander
@@ -201,7 +202,7 @@ forebet,Brentford,brentford
 forebet,Brest,brest
 forebet,Brighton,brighton
 forebet,Cagliari,cagliari
-forebet,Calcio Como,calcio-como
+forebet,Calcio Como,como
 forebet,Cambuur,cambuur
 forebet,Casa Pia AC,casa-pia-ac
 forebet,Celta Vigo,celta-vigo
@@ -241,7 +242,7 @@ forebet,Juventus,juventus
 forebet,Köln,k-ln
 forebet,Lazio,lazio
 forebet,Le Havre,le-havre
-forebet,Le Mans FC,le-mans-fc
+forebet,Le Mans FC,le-mans
 forebet,Lecce,lecce
 forebet,Leeds United,leeds-united
 forebet,Lens,lens
@@ -327,7 +328,7 @@ sportsgambler,Bournemouth,bournemouth
 sportsgambler,Brentford,brentford
 sportsgambler,Brighton,brighton
 sportsgambler,Cagliari,cagliari
-sportsgambler,Casa Pia,casa-pia
+sportsgambler,Casa Pia,casa-pia-ac
 sportsgambler,Celta Vigo,celta-vigo
 sportsgambler,Chelsea,chelsea
 sportsgambler,Como,como
@@ -379,6 +380,7 @@ sportsgambler,PSV Eindhoven,psv-eindhoven
 sportsgambler,Parma,parma
 sportsgambler,Porto,porto
 sportsgambler,Racing Club,racing-santander
+sportsgambler,Real Betis,real-betis
 sportsgambler,Real Madrid,real-madrid
 sportsgambler,Rennes,rennes
 sportsgambler,Rio Ave,rio-ave
@@ -406,32 +408,41 @@ sportytrader,Atalanta,atalanta
 sportytrader,Atletico Madrid,atl-tico-madrid
 sportytrader,Auxerre,auxerre
 sportytrader,Barcelona,barcelona
+sportytrader,Bologna,bologna
 sportytrader,Bournemouth,bournemouth
 sportytrader,Brentford,brentford
 sportytrader,Brest,brest
 sportytrader,Brighton,brighton
 sportytrader,Cagliari,cagliari
 sportytrader,Cambuur,cambuur
+sportytrader,Casa Pia Lisbon,casa-pia-ac
+sportytrader,Chelsea,chelsea
 sportytrader,Como 1907,como
 sportytrader,Crystal Palace,crystal-palace
 sportytrader,Elche,elche
 sportytrader,Estoril,gd-estoril
 sportytrader,Everton,everton
-sportytrader,Famalicao,famalicao
+sportytrader,Famalicao,fc-famalic-o
 sportytrader,Feyenoord,feyenoord
+sportytrader,Fiorentina,fiorentina
 sportytrader,Fortuna Sittard,fortuna-sittard
+sportytrader,Fulham,fulham
 sportytrader,Genoa,genoa
 sportytrader,Getafe,getafe
+sportytrader,Gil Vicente,gil-vicente
 sportytrader,Go Ahead Eagles,go-ahead-eagles
 sportytrader,Groningen,groningen
 sportytrader,Heerenveen,heerenveen
 sportytrader,Inter Milan,inter
 sportytrader,Ipswich Town,ipswich
+sportytrader,La Coruna,deportivo-la-coru-a
+sportytrader,Lazio,lazio
 sportytrader,Le Havre,le-havre
 sportytrader,Le Mans FC,le-mans
 sportytrader,Lecce,lecce
 sportytrader,Leeds,leeds-united
 sportytrader,Lens,lens
+sportytrader,Levante,levante
 sportytrader,Liverpool,liverpool
 sportytrader,Lorient,lorient
 sportytrader,Lyon,lyon
@@ -439,16 +450,19 @@ sportytrader,Manchester City,manchester-city
 sportytrader,Maritimo,mar-timo
 sportytrader,Monaco,monaco
 sportytrader,Monza,monza
+sportytrader,Málaga,m-laga-cf
 sportytrader,Nacional Madeira,nacional-madeira
 sportytrader,Napoli,napoli
 sportytrader,Newcastle,newcastle
 sportytrader,Nice,nice
 sportytrader,Nottingham Forest,nottingham-forest
+sportytrader,Osasuna,osasuna
 sportytrader,PSV Eindhoven,psv-eindhoven
 sportytrader,Paris FC,paris-fc
 sportytrader,Parma,parma
 sportytrader,Racing Santander,racing-santander
 sportytrader,Rio Ave,rio-ave
+sportytrader,Roma,roma
 sportytrader,Santa Clara,santa-clara
 sportytrader,Sassuolo,sassuolo
 sportytrader,Sparta Rotterdam,sparta-rotterdam
@@ -546,7 +560,7 @@ whoscored,Nottingham Forest,nottingham-forest
 whoscored,PEC Zwolle,pec-zwolle
 whoscored,PSV Eindhoven,psv-eindhoven
 whoscored,Paris FC,paris-fc
-whoscored,Paris Saint-Germain,paris-saint-germain
+whoscored,Paris Saint-Germain,psg
 whoscored,Parma Calcio 1913,parma-calcio-1913
 whoscored,Racing Santander,racing-santander
 whoscored,Rayo Vallecano,rayo-vallecano
