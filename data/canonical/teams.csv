@@ -106,11 +106,12 @@ eaglepredict,Valencia,valencia
 eaglepredict,Villarreal,villarreal
 eaglepredict,Vitória Guimarães,vit-ria
 flashscore,AC Milan,milan
-flashscore,AS Roma,as-roma
+flashscore,AS Roma,roma
 flashscore,Angers,angers
 flashscore,Arsenal,arsenal
 flashscore,Aston Villa,aston-villa
 flashscore,Atalanta,atalanta
+flashscore,Ath Bilbao,athletic-bilbao
 flashscore,Atl. Madrid,atl-tico-madrid
 flashscore,Auxerre,auxerre
 flashscore,Barcelona,barcelona
@@ -382,6 +383,7 @@ sportsgambler,Porto,porto
 sportsgambler,Racing Club,racing-santander
 sportsgambler,Real Betis,real-betis
 sportsgambler,Real Madrid,real-madrid
+sportsgambler,Real Sociedad,real-sociedad
 sportsgambler,Rennes,rennes
 sportsgambler,Rio Ave,rio-ave
 sportsgambler,Roma,roma
@@ -408,6 +410,7 @@ sportytrader,Atalanta,atalanta
 sportytrader,Atletico Madrid,atl-tico-madrid
 sportytrader,Auxerre,auxerre
 sportytrader,Barcelona,barcelona
+sportytrader,Betis,real-betis
 sportytrader,Bologna,bologna
 sportytrader,Bournemouth,bournemouth
 sportytrader,Brentford,brentford
@@ -473,6 +476,7 @@ sportytrader,Toulouse,toulouse
 sportytrader,Troyes,troyes
 sportytrader,Udinese,udinese
 sportytrader,Utrecht,utrecht
+sportytrader,Valencia,valencia
 sportytrader,Venezia,venezia
 sportytrader,Villarreal,villarreal
 sportytrader,Vitoria SC Guimaraes,vit-ria
@@ -561,7 +565,7 @@ whoscored,PEC Zwolle,pec-zwolle
 whoscored,PSV Eindhoven,psv-eindhoven
 whoscored,Paris FC,paris-fc
 whoscored,Paris Saint-Germain,psg
-whoscored,Parma Calcio 1913,parma-calcio-1913
+whoscored,Parma Calcio 1913,parma
 whoscored,Racing Santander,racing-santander
 whoscored,Rayo Vallecano,rayo-vallecano
 whoscored,Real Betis,real-betis
