@@ -12,9 +12,13 @@ eaglepredict,Athletic Bilbao,athletic-bilbao
 eaglepredict,Atlético Madrid,atl-tico-madrid
 eaglepredict,Auxerre,auxerre
 eaglepredict,Barcelona,barcelona
+eaglepredict,Bayer Leverkusen,bayer-leverkusen
+eaglepredict,Bayern München,bayern-m-nchen
 eaglepredict,Benfica,sl-benfica
 eaglepredict,Betis,real-betis
 eaglepredict,Bologna,bologna
+eaglepredict,Borussia Dortmund,borussia-dortmund
+eaglepredict,Borussia M'gladbach,borussia-m-gladbach
 eaglepredict,Bournemouth,bournemouth
 eaglepredict,Brentford,brentford
 eaglepredict,Brest,brest
@@ -31,9 +35,12 @@ eaglepredict,Coventry City,coventry
 eaglepredict,Crystal Palace,crystal-palace
 eaglepredict,Deportivo Alavés,deportivo-alav-s
 eaglepredict,Deportivo La Coruña,deportivo-la-coru-a
+eaglepredict,Eintracht Frankfurt,eintracht-frankfurt
 eaglepredict,Elche CF,elche
+eaglepredict,Elversberg,elversberg
 eaglepredict,Espanyol,espanyol
 eaglepredict,Everton,everton
+eaglepredict,Excelsior,excelsior
 eaglepredict,FC Arouca,fc-arouca
 eaglepredict,Famalicão,fc-famalic-o
 eaglepredict,Feyenoord,feyenoord
@@ -47,11 +54,14 @@ eaglepredict,Getafe,getafe
 eaglepredict,Gil Vicente,gil-vicente
 eaglepredict,Go Ahead Eagles,go-ahead-eagles
 eaglepredict,Groningen,groningen
+eaglepredict,Hamburger SV,hamburger-sv
 eaglepredict,Heerenveen,heerenveen
+eaglepredict,Hoffenheim,hoffenheim
 eaglepredict,Hull City,hull
 eaglepredict,Internazionale,inter
 eaglepredict,Ipswich Town,ipswich
 eaglepredict,Juventus,juventus
+eaglepredict,Köln,k-ln
 eaglepredict,Lazio,lazio
 eaglepredict,Le Havre,le-havre
 eaglepredict,Le Mans,le-mans
@@ -62,6 +72,7 @@ eaglepredict,Lille,lille
 eaglepredict,Liverpool,liverpool
 eaglepredict,Lorient,lorient
 eaglepredict,Lyon,lyon
+eaglepredict,Mainz 05,mainz-05
 eaglepredict,Manchester City,manchester-city
 eaglepredict,Manchester United,manchester-united
 eaglepredict,Milan,milan
@@ -69,6 +80,7 @@ eaglepredict,Monaco,monaco
 eaglepredict,Monza,monza
 eaglepredict,Moreirense FC,moreirense-fc
 eaglepredict,Málaga CF,m-laga-cf
+eaglepredict,NEC,nec
 eaglepredict,Napoli,napoli
 eaglepredict,Newcastle,newcastle
 eaglepredict,Nice,nice
@@ -78,9 +90,11 @@ eaglepredict,Osasuna,osasuna
 eaglepredict,PEC Zwolle,pec-zwolle
 eaglepredict,PSG,psg
 eaglepredict,PSV,psv-eindhoven
+eaglepredict,Paderborn,paderborn
 eaglepredict,Paris,paris-fc
 eaglepredict,Parma,parma
 eaglepredict,Porto,porto
+eaglepredict,RB Leipzig,rb-leipzig
 eaglepredict,Racing Santander,racing-santander
 eaglepredict,Rayo Vallecano,rayo-vallecano
 eaglepredict,Real Madrid,real-madrid
@@ -94,6 +108,7 @@ eaglepredict,Sparta Rotterdam,sparta-rotterdam
 eaglepredict,Sporting Braga,sporting-braga
 eaglepredict,Sporting CP,sporting-cp
 eaglepredict,Strasbourg,strasbourg
+eaglepredict,Stuttgart,stuttgart
 eaglepredict,Sunderland,sunderland
 eaglepredict,Torino,torino
 eaglepredict,Tottenham,tottenham
@@ -101,8 +116,10 @@ eaglepredict,Toulouse,toulouse
 eaglepredict,Troyes,troyes
 eaglepredict,Twente,twente
 eaglepredict,Udinese,udinese
+eaglepredict,Union Berlin,union-berlin
 eaglepredict,Utrecht,utrecht
 eaglepredict,Valencia,valencia
+eaglepredict,Venezia,venezia
 eaglepredict,Villarreal,villarreal
 eaglepredict,Vitória Guimarães,vit-ria
 flashscore,AC Milan,milan
@@ -113,8 +130,10 @@ flashscore,Aston Villa,aston-villa
 flashscore,Atalanta,atalanta
 flashscore,Ath Bilbao,athletic-bilbao
 flashscore,Atl. Madrid,atl-tico-madrid
+flashscore,Augsburg,augsburg
 flashscore,Auxerre,auxerre
 flashscore,Barcelona,barcelona
+flashscore,Bayer Leverkusen,bayer-leverkusen
 flashscore,Betis,real-betis
 flashscore,Bologna,bologna
 flashscore,Bournemouth,bournemouth
@@ -128,14 +147,19 @@ flashscore,Como,como
 flashscore,Coventry,coventry
 flashscore,Crystal Palace,crystal-palace
 flashscore,Dep. A Coruna,deportivo-la-coru-a
+flashscore,Dortmund,dortmund
 flashscore,Elche,elche
+flashscore,Elversberg,elversberg
 flashscore,Espanyol,espanyol
 flashscore,Everton,everton
 flashscore,Fiorentina,fiorentina
+flashscore,Freiburg,freiburg
 flashscore,Frosinone,frosinone
 flashscore,Fulham,fulham
 flashscore,Genoa,genoa
 flashscore,Getafe,getafe
+flashscore,Groningen,groningen
+flashscore,Hamburger SV,hamburger-sv
 flashscore,Hull,hull
 flashscore,Inter,inter
 flashscore,Ipswich,ipswich
@@ -151,6 +175,7 @@ flashscore,Lille,lille
 flashscore,Liverpool,liverpool
 flashscore,Lorient,lorient
 flashscore,Lyon,lyon
+flashscore,Mainz,mainz
 flashscore,Malaga,m-laga-cf
 flashscore,Manchester City,manchester-city
 flashscore,Manchester Utd,manchester-united
@@ -163,6 +188,7 @@ flashscore,Nice,nice
 flashscore,Nottingham,nottingham-forest
 flashscore,Osasuna,osasuna
 flashscore,PSG,psg
+flashscore,Paderborn,paderborn
 flashscore,Paris FC,paris-fc
 flashscore,Parma,parma
 flashscore,Racing Santander,racing-santander
@@ -170,6 +196,9 @@ flashscore,Real Madrid,real-madrid
 flashscore,Real Sociedad,real-sociedad
 flashscore,Rennes,rennes
 flashscore,Sassuolo,sassuolo
+flashscore,Schalke,schalke
+flashscore,Sevilla,sevilla
+flashscore,Sittard,sittard
 flashscore,Strasbourg,strasbourg
 flashscore,Sunderland,sunderland
 flashscore,Torino,torino
@@ -180,6 +209,7 @@ flashscore,Udinese,udinese
 flashscore,Valencia,valencia
 flashscore,Venezia,venezia
 flashscore,Villarreal,villarreal
+flashscore,Werder Bremen,werder-bremen
 forebet,ADO Den Haag,ado-den-haag
 forebet,AZ Alkmaar,az-alkmaar
 forebet,Académico Viseu,acad-mico-viseu
@@ -315,6 +345,7 @@ forebet,Willem II Tilburg,willem-ii-tilburg
 forebet,Wolfsburg,wolfsburg
 sportsgambler,AC Milan,milan
 sportsgambler,AZ Alkmaar,az-alkmaar
+sportsgambler,Alavés,alav-s
 sportsgambler,Alverca,fc-alverca
 sportsgambler,Angers,angers
 sportsgambler,Arouca,fc-arouca
@@ -324,6 +355,7 @@ sportsgambler,Athletic Club,athletic-bilbao
 sportsgambler,Atlético Madrid,atl-tico-madrid
 sportsgambler,Auxerre,auxerre
 sportsgambler,Barcelona,barcelona
+sportsgambler,Bayern Munich,bayern-munich
 sportsgambler,Bologna,bologna
 sportsgambler,Bournemouth,bournemouth
 sportsgambler,Brentford,brentford
@@ -392,6 +424,7 @@ sportsgambler,Sassuolo,sassuolo
 sportsgambler,Sevilla,sevilla
 sportsgambler,Sparta Rotterdam,sparta-rotterdam
 sportsgambler,Sporting,sporting-cp
+sportsgambler,Stuttgart,stuttgart
 sportsgambler,Sunderland,sunderland
 sportsgambler,Torino,torino
 sportsgambler,Tottenham,tottenham
@@ -518,6 +551,7 @@ whoscored,Espanyol,espanyol
 whoscored,Estoril,gd-estoril
 whoscored,Estrela da Amadora,estrela-amadora
 whoscored,Everton,everton
+whoscored,Excelsior,excelsior
 whoscored,FC Groningen,groningen
 whoscored,FC Porto,porto
 whoscored,FC Utrecht,utrecht
