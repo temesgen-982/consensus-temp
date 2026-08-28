@@ -28,6 +28,9 @@ fixture_id,league,date,kickoff,home_id,away_id
 2026-08-29|sevilla|vs|atl-tico-madrid,La Liga,2026-08-29,29/08/2026 21:30,sevilla,atl-tico-madrid
 2026-08-30|real-madrid|vs|m-laga-cf,La Liga,2026-08-30,30/08/2026 17:00,real-madrid,m-laga-cf
 2026-08-30|deportivo-la-coru-a|vs|valencia,La Liga,2026-08-30,30/08/2026 19:30,deportivo-la-coru-a,valencia
+2026-08-30|celta-vigo|vs|athletic-bilbao,La Liga,2026-08-30,30/08/2026 21:30,celta-vigo,athletic-bilbao
+2026-08-31|osasuna|vs|getafe,La Liga,2026-08-31,31/08/2026 19:30,osasuna,getafe
+2026-08-31|barcelona|vs|rayo-vallecano,La Liga,2026-08-31,31/08/2026 21:30,barcelona,rayo-vallecano
 2026-08-20|rayo-vallecano|vs|deportivo-alav-s,La Liga,2026-08-20,20/08/2026 21:00,rayo-vallecano,deportivo-alav-s
 2026-08-21|real-betis|vs|real-sociedad,La Liga,2026-08-21,21/08/2026 21:00,real-betis,real-sociedad
 2026-08-22|athletic-bilbao|vs|sevilla,La Liga,2026-08-22,22/08/2026 17:00,athletic-bilbao,sevilla
@@ -41,10 +44,10 @@ fixture_id,league,date,kickoff,home_id,away_id
 2026-08-25|valencia|vs|real-betis,La Liga,2026-08-25,25/08/2026 21:00,valencia,real-betis
 2026-08-26|real-madrid|vs|real-sociedad,La Liga,2026-08-26,26/08/2026 21:00,real-madrid,real-sociedad
 2026-08-28|bayern-munich|vs|stuttgart,Bundesliga,2026-08-28,28/08/2026 20:30,bayern-munich,stuttgart
-2026-08-29|sv-elversberg|vs|bayer-leverkusen,Bundesliga,2026-08-29,29/08/2026 15:30,sv-elversberg,bayer-leverkusen
-2026-08-29|k-ln|vs|hoffenheim,Bundesliga,2026-08-29,29/08/2026 15:30,k-ln,hoffenheim
+2026-08-29|elversberg|vs|bayer-leverkusen,Bundesliga,2026-08-29,29/08/2026 15:30,elversberg,bayer-leverkusen
+2026-08-29|fc-koln|vs|hoffenheim,Bundesliga,2026-08-29,29/08/2026 15:30,fc-koln,hoffenheim
 2026-08-29|union-berlin|vs|eintracht-frankfurt,Bundesliga,2026-08-29,29/08/2026 15:30,union-berlin,eintracht-frankfurt
-2026-08-29|mainz|vs|paderborn,Bundesliga,2026-08-29,29/08/2026 15:30,mainz,paderborn
+2026-08-29|mainz-05|vs|paderborn,Bundesliga,2026-08-29,29/08/2026 15:30,mainz-05,paderborn
 2026-08-29|rb-leipzig|vs|borussia-m-gladbach,Bundesliga,2026-08-29,29/08/2026 15:30,rb-leipzig,borussia-m-gladbach
 2026-08-29|borussia-dortmund|vs|hamburger-sv,Bundesliga,2026-08-29,29/08/2026 18:30,borussia-dortmund,hamburger-sv
 2026-08-30|freiburg|vs|werder-bremen,Bundesliga,2026-08-30,30/08/2026 15:30,freiburg,werder-bremen
@@ -159,12 +162,6 @@ fixture_id,league,date,kickoff,home_id,away_id
 2026-08-23|moreirense-fc|vs|sl-benfica,Liga Portugal,2026-08-23,23/08/2026 02:00,moreirense-fc,sl-benfica
 2026-08-23|estrela-amadora|vs|sporting-braga,Liga Portugal,2026-08-23,23/08/2026 02:00,estrela-amadora,sporting-braga
 2026-08-28|bayern-m-nchen|vs|stuttgart,Bundesliga,2026-08-28,21:30,bayern-m-nchen,stuttgart
-2026-08-29|elversberg|vs|bayer-leverkusen,Bundesliga,2026-08-29,16:30,elversberg,bayer-leverkusen
-2026-08-29|mainz-05|vs|paderborn,Bundesliga,2026-08-29,16:30,mainz-05,paderborn
-2026-08-29|pec-zwolle|vs|nec,Eredivisie,2026-08-29,22:00,pec-zwolle,nec
 2026-08-23|psg|vs|rennes,Ligue 1,2026-08-23,21:45,psg,rennes
-2026-08-21|marseille|vs|strasbourg,Ligue 1,2026-08-21,19:45,marseille,strasbourg
-2026-08-29|dortmund|vs|hamburger-sv,Bundesliga,2026-08-29,2026-08-29 16:30,dortmund,hamburger-sv
-2026-08-30|augsburg|vs|schalke,Bundesliga,2026-08-30,2026-08-30 15:30,augsburg,schalke
 2026-08-28|groningen|vs|sittard,Eredivisie,2026-08-28,2026-08-28 18:00,groningen,sittard
 2026-08-28|alav-s|vs|villarreal,LaLiga,2026-08-28,22:30 - Fri 28 Aug,alav-s,villarreal

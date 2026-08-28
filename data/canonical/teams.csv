@@ -61,7 +61,7 @@ eaglepredict,Hull City,hull
 eaglepredict,Internazionale,inter
 eaglepredict,Ipswich Town,ipswich
 eaglepredict,Juventus,juventus
-eaglepredict,Köln,k-ln
+eaglepredict,Köln,fc-koln
 eaglepredict,Lazio,lazio
 eaglepredict,Le Havre,le-havre
 eaglepredict,Le Mans,le-mans
@@ -80,7 +80,7 @@ eaglepredict,Monaco,monaco
 eaglepredict,Monza,monza
 eaglepredict,Moreirense FC,moreirense-fc
 eaglepredict,Málaga CF,m-laga-cf
-eaglepredict,NEC,nec
+eaglepredict,NEC,nijmegen
 eaglepredict,Napoli,napoli
 eaglepredict,Newcastle,newcastle
 eaglepredict,Nice,nice
@@ -124,6 +124,7 @@ eaglepredict,Villarreal,villarreal
 eaglepredict,Vitória Guimarães,vit-ria
 flashscore,AC Milan,milan
 flashscore,AS Roma,roma
+flashscore,AZ Alkmaar,az-alkmaar
 flashscore,Angers,angers
 flashscore,Arsenal,arsenal
 flashscore,Aston Villa,aston-villa
@@ -147,15 +148,17 @@ flashscore,Como,como
 flashscore,Coventry,coventry
 flashscore,Crystal Palace,crystal-palace
 flashscore,Dep. A Coruna,deportivo-la-coru-a
-flashscore,Dortmund,dortmund
+flashscore,Dortmund,borussia-dortmund
 flashscore,Elche,elche
 flashscore,Elversberg,elversberg
 flashscore,Espanyol,espanyol
 flashscore,Everton,everton
+flashscore,Excelsior,excelsior
 flashscore,Fiorentina,fiorentina
 flashscore,Freiburg,freiburg
 flashscore,Frosinone,frosinone
 flashscore,Fulham,fulham
+flashscore,G.A. Eagles,go-ahead-eagles
 flashscore,Genoa,genoa
 flashscore,Getafe,getafe
 flashscore,Groningen,groningen
@@ -175,16 +178,17 @@ flashscore,Lille,lille
 flashscore,Liverpool,liverpool
 flashscore,Lorient,lorient
 flashscore,Lyon,lyon
-flashscore,Mainz,mainz
+flashscore,Mainz,mainz-05
 flashscore,Malaga,m-laga-cf
 flashscore,Manchester City,manchester-city
 flashscore,Manchester Utd,manchester-united
-flashscore,Marseille,marseille
+flashscore,Marseille,olympique-marseille
 flashscore,Monaco,monaco
 flashscore,Monza,monza
 flashscore,Napoli,napoli
 flashscore,Newcastle,newcastle
 flashscore,Nice,nice
+flashscore,Nijmegen,nijmegen
 flashscore,Nottingham,nottingham-forest
 flashscore,Osasuna,osasuna
 flashscore,PSG,psg
@@ -192,13 +196,15 @@ flashscore,Paderborn,paderborn
 flashscore,Paris FC,paris-fc
 flashscore,Parma,parma
 flashscore,Racing Santander,racing-santander
+flashscore,Rayo Vallecano,rayo-vallecano
 flashscore,Real Madrid,real-madrid
 flashscore,Real Sociedad,real-sociedad
 flashscore,Rennes,rennes
 flashscore,Sassuolo,sassuolo
-flashscore,Schalke,schalke
+flashscore,Schalke,schalke-04
 flashscore,Sevilla,sevilla
 flashscore,Sittard,sittard
+flashscore,Sparta Rotterdam,sparta-rotterdam
 flashscore,Strasbourg,strasbourg
 flashscore,Sunderland,sunderland
 flashscore,Torino,torino
@@ -210,6 +216,7 @@ flashscore,Valencia,valencia
 flashscore,Venezia,venezia
 flashscore,Villarreal,villarreal
 flashscore,Werder Bremen,werder-bremen
+flashscore,Zwolle,pec-zwolle
 forebet,ADO Den Haag,ado-den-haag
 forebet,AZ Alkmaar,az-alkmaar
 forebet,Académico Viseu,acad-mico-viseu
@@ -270,7 +277,7 @@ forebet,Hull City,hull
 forebet,Inter,inter
 forebet,Ipswich Town,ipswich
 forebet,Juventus,juventus
-forebet,Köln,k-ln
+forebet,Köln,fc-koln
 forebet,Lazio,lazio
 forebet,Le Havre,le-havre
 forebet,Le Mans FC,le-mans
@@ -282,7 +289,7 @@ forebet,Lille,lille
 forebet,Liverpool,liverpool
 forebet,Lorient,lorient
 forebet,Lyon,lyon
-forebet,Mainz,mainz
+forebet,Mainz,mainz-05
 forebet,Manchester City,manchester-city
 forebet,Manchester United,manchester-united
 forebet,Marítimo,mar-timo
@@ -317,7 +324,7 @@ forebet,Rio Ave,rio-ave
 forebet,Roma,roma
 forebet,SC Telstar,sc-telstar
 forebet,SL Benfica,sl-benfica
-forebet,SV Elversberg,sv-elversberg
+forebet,SV Elversberg,elversberg
 forebet,Santa Clara,santa-clara
 forebet,Sassuolo,sassuolo
 forebet,Schalke 04,schalke-04
@@ -344,6 +351,7 @@ forebet,Werder Bremen,werder-bremen
 forebet,Willem II Tilburg,willem-ii-tilburg
 forebet,Wolfsburg,wolfsburg
 sportsgambler,AC Milan,milan
+sportsgambler,ADO Den Haag,ado-den-haag
 sportsgambler,AZ Alkmaar,az-alkmaar
 sportsgambler,Alavés,alav-s
 sportsgambler,Alverca,fc-alverca
@@ -355,25 +363,35 @@ sportsgambler,Athletic Club,athletic-bilbao
 sportsgambler,Atlético Madrid,atl-tico-madrid
 sportsgambler,Auxerre,auxerre
 sportsgambler,Barcelona,barcelona
+sportsgambler,Bayer Leverkusen,bayer-leverkusen
 sportsgambler,Bayern Munich,bayern-munich
 sportsgambler,Bologna,bologna
+sportsgambler,Borussia Dortmund,borussia-dortmund
+sportsgambler,Borussia Monchengladbach,borussia-m-gladbach
 sportsgambler,Bournemouth,bournemouth
 sportsgambler,Brentford,brentford
+sportsgambler,Brest,brest
 sportsgambler,Brighton,brighton
 sportsgambler,Cagliari,cagliari
 sportsgambler,Casa Pia,casa-pia-ac
 sportsgambler,Celta Vigo,celta-vigo
 sportsgambler,Chelsea,chelsea
 sportsgambler,Como,como
+sportsgambler,Coventry,coventry
 sportsgambler,Crystal Palace,crystal-palace
 sportsgambler,Deportivo,deportivo-la-coru-a
+sportsgambler,Eintracht Frankfurt,eintracht-frankfurt
 sportsgambler,Elche,elche
+sportsgambler,Elversberg,elversberg
 sportsgambler,Espanyol,espanyol
 sportsgambler,Estoril,gd-estoril
 sportsgambler,Everton,everton
+sportsgambler,Excelsior,excelsior
 sportsgambler,FC Groningen,groningen
+sportsgambler,FC Koln,fc-koln
 sportsgambler,FC Utrecht,utrecht
 sportsgambler,Famalicão,fc-famalic-o
+sportsgambler,Feyenoord,feyenoord
 sportsgambler,Fiorentina,fiorentina
 sportsgambler,Fortuna Sittard,fortuna-sittard
 sportsgambler,Frosinone,frosinone
@@ -381,7 +399,10 @@ sportsgambler,Fulham,fulham
 sportsgambler,Genoa,genoa
 sportsgambler,Getafe,getafe
 sportsgambler,Gil Vicente,gil-vicente
+sportsgambler,Go Ahead Eagles,go-ahead-eagles
+sportsgambler,Hamburger SV,hamburger-sv
 sportsgambler,Heerenveen,heerenveen
+sportsgambler,Hoffenheim,hoffenheim
 sportsgambler,Hull,hull
 sportsgambler,Inter Milan,inter
 sportsgambler,Ipswich,ipswich
@@ -396,11 +417,13 @@ sportsgambler,Lille,lille
 sportsgambler,Liverpool,liverpool
 sportsgambler,Lorient,lorient
 sportsgambler,Lyon,lyon
+sportsgambler,Mainz 05,mainz-05
 sportsgambler,Manchester City,manchester-city
 sportsgambler,Manchester United,manchester-united
 sportsgambler,Monaco,monaco
 sportsgambler,Monza,monza
 sportsgambler,Málaga,m-laga-cf
+sportsgambler,NEC Nijmegen,nijmegen
 sportsgambler,Nacional,nacional-madeira
 sportsgambler,Napoli,napoli
 sportsgambler,Newcastle,newcastle
@@ -410,8 +433,10 @@ sportsgambler,Osasuna,osasuna
 sportsgambler,PEC Zwolle,pec-zwolle
 sportsgambler,PSG,psg
 sportsgambler,PSV Eindhoven,psv-eindhoven
+sportsgambler,Paderborn,paderborn
 sportsgambler,Parma,parma
 sportsgambler,Porto,porto
+sportsgambler,RB Leipzig,rb-leipzig
 sportsgambler,Racing Club,racing-santander
 sportsgambler,Real Betis,real-betis
 sportsgambler,Real Madrid,real-madrid
@@ -424,12 +449,14 @@ sportsgambler,Sassuolo,sassuolo
 sportsgambler,Sevilla,sevilla
 sportsgambler,Sparta Rotterdam,sparta-rotterdam
 sportsgambler,Sporting,sporting-cp
+sportsgambler,Strasbourg,strasbourg
 sportsgambler,Stuttgart,stuttgart
 sportsgambler,Sunderland,sunderland
 sportsgambler,Torino,torino
 sportsgambler,Tottenham,tottenham
 sportsgambler,Toulouse,toulouse
 sportsgambler,Udinese,udinese
+sportsgambler,Union Berlin,union-berlin
 sportsgambler,Valencia,valencia
 sportsgambler,Venezia,venezia
 sportsgambler,Villarreal,villarreal
@@ -438,6 +465,7 @@ sportytrader,AC Milan,milan
 sportytrader,ADO The Hague,ado-den-haag
 sportytrader,AZ Alkmaar,az-alkmaar
 sportytrader,Academico De Viseu FC,acad-mico-viseu
+sportytrader,Alavés,alav-s
 sportytrader,Aston Villa,aston-villa
 sportytrader,Atalanta,atalanta
 sportytrader,Atletico Madrid,atl-tico-madrid
@@ -527,10 +555,14 @@ whoscored,Aston Villa,aston-villa
 whoscored,Atalanta,atalanta
 whoscored,Athletic Club,athletic-bilbao
 whoscored,Atletico Madrid,atl-tico-madrid
+whoscored,Augsburg,augsburg
 whoscored,Auxerre,auxerre
 whoscored,Barcelona,barcelona
+whoscored,Bayer Leverkusen,bayer-leverkusen
 whoscored,Benfica,sl-benfica
 whoscored,Bologna,bologna
+whoscored,Borussia Dortmund,borussia-dortmund
+whoscored,Borussia M.Gladbach,borussia-m-gladbach
 whoscored,Bournemouth,bournemouth
 whoscored,Braga,sporting-braga
 whoscored,Brentford,brentford
@@ -546,25 +578,31 @@ whoscored,Coventry,coventry
 whoscored,Crystal Palace,crystal-palace
 whoscored,Deportivo Alaves,deportivo-alav-s
 whoscored,Deportivo de A Coruna,deportivo-la-coru-a
+whoscored,Eintracht Frankfurt,eintracht-frankfurt
 whoscored,Elche,elche
+whoscored,Elversberg,elversberg
 whoscored,Espanyol,espanyol
 whoscored,Estoril,gd-estoril
 whoscored,Estrela da Amadora,estrela-amadora
 whoscored,Everton,everton
 whoscored,Excelsior,excelsior
 whoscored,FC Groningen,groningen
+whoscored,FC Koln,fc-koln
 whoscored,FC Porto,porto
 whoscored,FC Utrecht,utrecht
 whoscored,Famalicao,fc-famalic-o
 whoscored,Feyenoord,feyenoord
 whoscored,Fiorentina,fiorentina
 whoscored,Fortuna Sittard,fortuna-sittard
+whoscored,Freiburg,freiburg
 whoscored,Frosinone,frosinone
 whoscored,Fulham,fulham
 whoscored,Genoa,genoa
 whoscored,Getafe,getafe
 whoscored,Gil Vicente,gil-vicente
 whoscored,Go Ahead Eagles,go-ahead-eagles
+whoscored,Hamburger SV,hamburger-sv
+whoscored,Hoffenheim,hoffenheim
 whoscored,Hull,hull
 whoscored,Inter,inter
 whoscored,Ipswich,ipswich
@@ -580,11 +618,12 @@ whoscored,Lille,lille
 whoscored,Liverpool,liverpool
 whoscored,Lorient,lorient
 whoscored,Lyon,lyon
+whoscored,Mainz 05,mainz-05
 whoscored,Malaga,m-laga-cf
 whoscored,Manchester City,manchester-city
 whoscored,Manchester United,manchester-united
 whoscored,Maritimo,mar-timo
-whoscored,Marseille,marseille
+whoscored,Marseille,olympique-marseille
 whoscored,Monaco,monaco
 whoscored,Monza,monza
 whoscored,Moreirense,moreirense-fc
@@ -595,11 +634,14 @@ whoscored,Newcastle,newcastle
 whoscored,Nice,nice
 whoscored,Nottingham,nottingham-forest
 whoscored,Nottingham Forest,nottingham-forest
+whoscored,Osasuna,osasuna
 whoscored,PEC Zwolle,pec-zwolle
 whoscored,PSV Eindhoven,psv-eindhoven
+whoscored,Paderborn,paderborn
 whoscored,Paris FC,paris-fc
 whoscored,Paris Saint-Germain,psg
 whoscored,Parma Calcio 1913,parma
+whoscored,RB Leipzig,rb-leipzig
 whoscored,Racing Santander,racing-santander
 whoscored,Rayo Vallecano,rayo-vallecano
 whoscored,Real Betis,real-betis
@@ -611,6 +653,7 @@ whoscored,Roma,roma
 whoscored,SC Heerenveen,heerenveen
 whoscored,Santa Clara,santa-clara
 whoscored,Sassuolo,sassuolo
+whoscored,Schalke 04,schalke-04
 whoscored,Sevilla,sevilla
 whoscored,Sparta Rotterdam,sparta-rotterdam
 whoscored,Sporting CP,sporting-cp
@@ -623,8 +666,10 @@ whoscored,Toulouse,toulouse
 whoscored,Troyes,troyes
 whoscored,Twente,twente
 whoscored,Udinese,udinese
+whoscored,Union Berlin,union-berlin
 whoscored,Valencia,valencia
 whoscored,Venezia,venezia
 whoscored,Villarreal,villarreal
 whoscored,Vitoria de Guimaraes,vit-ria
+whoscored,Werder Bremen,werder-bremen
 whoscored,Willem II,willem-ii-tilburg
