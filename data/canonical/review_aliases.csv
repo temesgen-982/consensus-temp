@@ -1,6 +1,4 @@
 fixture_id,date,home_id,away_id,sites
-2026-08-31|sl-benfica|vs|gd-estoril,2026-08-31,sl-benfica,gd-estoril,forebet
-2026-08-31|sporting-braga|vs|vit-ria,2026-08-31,sporting-braga,vit-ria,forebet
 2026-08-15|deportivo-alav-s|vs|getafe,2026-08-15,deportivo-alav-s,getafe,forebet
 2026-08-15|sevilla|vs|rayo-vallecano,2026-08-15,sevilla,rayo-vallecano,forebet
 2026-05-25|paderborn|vs|wolfsburg,2026-05-25,paderborn,wolfsburg,forebet
@@ -30,3 +28,4 @@ fixture_id,date,home_id,away_id,sites
 2026-08-23|estrela-amadora|vs|sporting-braga,2026-08-23,estrela-amadora,sporting-braga,forebet
 2026-08-28|bayern-m-nchen|vs|stuttgart,2026-08-28,bayern-m-nchen,stuttgart,eaglepredict
 2026-08-28|groningen|vs|sittard,2026-08-28,groningen,sittard,flashscore
+2026-08-30|monaco|vs|marseille,2026-08-30,monaco,marseille,sportsgambler

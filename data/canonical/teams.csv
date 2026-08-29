@@ -10,6 +10,7 @@ eaglepredict,Aston Villa,aston-villa
 eaglepredict,Atalanta,atalanta
 eaglepredict,Athletic Bilbao,athletic-bilbao
 eaglepredict,Atlético Madrid,atl-tico-madrid
+eaglepredict,Augsburg,augsburg
 eaglepredict,Auxerre,auxerre
 eaglepredict,Barcelona,barcelona
 eaglepredict,Bayer Leverkusen,bayer-leverkusen
@@ -39,6 +40,7 @@ eaglepredict,Eintracht Frankfurt,eintracht-frankfurt
 eaglepredict,Elche CF,elche
 eaglepredict,Elversberg,elversberg
 eaglepredict,Espanyol,espanyol
+eaglepredict,Estrela Amadora,estrela-amadora
 eaglepredict,Everton,everton
 eaglepredict,Excelsior,excelsior
 eaglepredict,FC Arouca,fc-arouca
@@ -46,6 +48,7 @@ eaglepredict,Famalicão,fc-famalic-o
 eaglepredict,Feyenoord,feyenoord
 eaglepredict,Fiorentina,fiorentina
 eaglepredict,Fortuna Sittard,fortuna-sittard
+eaglepredict,Freiburg,freiburg
 eaglepredict,Frosinone,frosinone
 eaglepredict,Fulham,fulham
 eaglepredict,GD Estoril Praia,gd-estoril
@@ -65,6 +68,7 @@ eaglepredict,Köln,fc-koln
 eaglepredict,Lazio,lazio
 eaglepredict,Le Havre,le-havre
 eaglepredict,Le Mans,le-mans
+eaglepredict,Lecce,lecce
 eaglepredict,Leeds United,leeds-united
 eaglepredict,Lens,lens
 eaglepredict,Levante UD,levante
@@ -102,7 +106,9 @@ eaglepredict,Real Sociedad,real-sociedad
 eaglepredict,Rennes,rennes
 eaglepredict,Rio Ave FC,rio-ave
 eaglepredict,Roma,roma
+eaglepredict,Santa Clara,santa-clara
 eaglepredict,Sassuolo,sassuolo
+eaglepredict,Schalke 04,schalke-04
 eaglepredict,Sevilla,sevilla
 eaglepredict,Sparta Rotterdam,sparta-rotterdam
 eaglepredict,Sporting Braga,sporting-braga
@@ -110,6 +116,7 @@ eaglepredict,Sporting CP,sporting-cp
 eaglepredict,Strasbourg,strasbourg
 eaglepredict,Stuttgart,stuttgart
 eaglepredict,Sunderland,sunderland
+eaglepredict,Telstar,sc-telstar
 eaglepredict,Torino,torino
 eaglepredict,Tottenham,tottenham
 eaglepredict,Toulouse,toulouse
@@ -122,6 +129,8 @@ eaglepredict,Valencia,valencia
 eaglepredict,Venezia,venezia
 eaglepredict,Villarreal,villarreal
 eaglepredict,Vitória Guimarães,vit-ria
+eaglepredict,Werder Bremen,werder-bremen
+eaglepredict,Willem II,willem-ii-tilburg
 flashscore,AC Milan,milan
 flashscore,AS Roma,roma
 flashscore,AZ Alkmaar,az-alkmaar
@@ -353,6 +362,7 @@ forebet,Wolfsburg,wolfsburg
 sportsgambler,AC Milan,milan
 sportsgambler,ADO Den Haag,ado-den-haag
 sportsgambler,AZ Alkmaar,az-alkmaar
+sportsgambler,Ajax,ajax
 sportsgambler,Alavés,alav-s
 sportsgambler,Alverca,fc-alverca
 sportsgambler,Angers,angers
@@ -361,6 +371,7 @@ sportsgambler,Aston Villa,aston-villa
 sportsgambler,Atalanta,atalanta
 sportsgambler,Athletic Club,athletic-bilbao
 sportsgambler,Atlético Madrid,atl-tico-madrid
+sportsgambler,Augsburg,augsburg
 sportsgambler,Auxerre,auxerre
 sportsgambler,Barcelona,barcelona
 sportsgambler,Bayer Leverkusen,bayer-leverkusen
@@ -373,6 +384,7 @@ sportsgambler,Brentford,brentford
 sportsgambler,Brest,brest
 sportsgambler,Brighton,brighton
 sportsgambler,Cagliari,cagliari
+sportsgambler,Cambuur,cambuur
 sportsgambler,Casa Pia,casa-pia-ac
 sportsgambler,Celta Vigo,celta-vigo
 sportsgambler,Chelsea,chelsea
@@ -385,6 +397,7 @@ sportsgambler,Elche,elche
 sportsgambler,Elversberg,elversberg
 sportsgambler,Espanyol,espanyol
 sportsgambler,Estoril,gd-estoril
+sportsgambler,Estrela Amadora,estrela-amadora
 sportsgambler,Everton,everton
 sportsgambler,Excelsior,excelsior
 sportsgambler,FC Groningen,groningen
@@ -394,6 +407,7 @@ sportsgambler,Famalicão,fc-famalic-o
 sportsgambler,Feyenoord,feyenoord
 sportsgambler,Fiorentina,fiorentina
 sportsgambler,Fortuna Sittard,fortuna-sittard
+sportsgambler,Freiburg,freiburg
 sportsgambler,Frosinone,frosinone
 sportsgambler,Fulham,fulham
 sportsgambler,Genoa,genoa
@@ -420,8 +434,10 @@ sportsgambler,Lyon,lyon
 sportsgambler,Mainz 05,mainz-05
 sportsgambler,Manchester City,manchester-city
 sportsgambler,Manchester United,manchester-united
+sportsgambler,Marseille,marseille
 sportsgambler,Monaco,monaco
 sportsgambler,Monza,monza
+sportsgambler,Moreirense,moreirense-fc
 sportsgambler,Málaga,m-laga-cf
 sportsgambler,NEC Nijmegen,nijmegen
 sportsgambler,Nacional,nacional-madeira
@@ -434,6 +450,7 @@ sportsgambler,PEC Zwolle,pec-zwolle
 sportsgambler,PSG,psg
 sportsgambler,PSV Eindhoven,psv-eindhoven
 sportsgambler,Paderborn,paderborn
+sportsgambler,Paris FC,paris-fc
 sportsgambler,Parma,parma
 sportsgambler,Porto,porto
 sportsgambler,RB Leipzig,rb-leipzig
@@ -446,33 +463,41 @@ sportsgambler,Rio Ave,rio-ave
 sportsgambler,Roma,roma
 sportsgambler,Santa Clara,santa-clara
 sportsgambler,Sassuolo,sassuolo
+sportsgambler,Schalke 04,schalke-04
 sportsgambler,Sevilla,sevilla
 sportsgambler,Sparta Rotterdam,sparta-rotterdam
 sportsgambler,Sporting,sporting-cp
 sportsgambler,Strasbourg,strasbourg
 sportsgambler,Stuttgart,stuttgart
 sportsgambler,Sunderland,sunderland
+sportsgambler,Telstar,sc-telstar
 sportsgambler,Torino,torino
 sportsgambler,Tottenham,tottenham
 sportsgambler,Toulouse,toulouse
+sportsgambler,Twente,twente
 sportsgambler,Udinese,udinese
 sportsgambler,Union Berlin,union-berlin
 sportsgambler,Valencia,valencia
 sportsgambler,Venezia,venezia
 sportsgambler,Villarreal,villarreal
 sportsgambler,Vitória,vit-ria
+sportsgambler,Werder Bremen,werder-bremen
+sportytrader,1 Fsv Mainz 05,mainz-05
 sportytrader,AC Milan,milan
 sportytrader,ADO The Hague,ado-den-haag
 sportytrader,AZ Alkmaar,az-alkmaar
 sportytrader,Academico De Viseu FC,acad-mico-viseu
 sportytrader,Alavés,alav-s
+sportytrader,Arouca,fc-arouca
 sportytrader,Aston Villa,aston-villa
 sportytrader,Atalanta,atalanta
 sportytrader,Atletico Madrid,atl-tico-madrid
 sportytrader,Auxerre,auxerre
 sportytrader,Barcelona,barcelona
+sportytrader,Bayer Leverkusen,bayer-leverkusen
 sportytrader,Betis,real-betis
 sportytrader,Bologna,bologna
+sportytrader,Borussia Dortmund,borussia-dortmund
 sportytrader,Bournemouth,bournemouth
 sportytrader,Brentford,brentford
 sportytrader,Brest,brest
@@ -482,29 +507,38 @@ sportytrader,Cambuur,cambuur
 sportytrader,Casa Pia Lisbon,casa-pia-ac
 sportytrader,Chelsea,chelsea
 sportytrader,Como 1907,como
+sportytrader,Coventry City,coventry
 sportytrader,Crystal Palace,crystal-palace
+sportytrader,Eintracht Frankfurt,eintracht-frankfurt
 sportytrader,Elche,elche
+sportytrader,Espanyol,espanyol
 sportytrader,Estoril,gd-estoril
 sportytrader,Everton,everton
 sportytrader,Famalicao,fc-famalic-o
 sportytrader,Feyenoord,feyenoord
 sportytrader,Fiorentina,fiorentina
 sportytrader,Fortuna Sittard,fortuna-sittard
+sportytrader,Frosinone,frosinone
 sportytrader,Fulham,fulham
 sportytrader,Genoa,genoa
 sportytrader,Getafe,getafe
 sportytrader,Gil Vicente,gil-vicente
 sportytrader,Go Ahead Eagles,go-ahead-eagles
 sportytrader,Groningen,groningen
+sportytrader,Hamburg,hamburger-sv
 sportytrader,Heerenveen,heerenveen
+sportytrader,Hoffenheim,hoffenheim
+sportytrader,Hull,hull
 sportytrader,Inter Milan,inter
 sportytrader,Ipswich Town,ipswich
+sportytrader,Köln,fc-koln
 sportytrader,La Coruna,deportivo-la-coru-a
 sportytrader,Lazio,lazio
 sportytrader,Le Havre,le-havre
 sportytrader,Le Mans FC,le-mans
 sportytrader,Lecce,lecce
 sportytrader,Leeds,leeds-united
+sportytrader,Leipzig,rb-leipzig
 sportytrader,Lens,lens
 sportytrader,Levante,levante
 sportytrader,Liverpool,liverpool
@@ -515,6 +549,7 @@ sportytrader,Maritimo,mar-timo
 sportytrader,Monaco,monaco
 sportytrader,Monza,monza
 sportytrader,Málaga,m-laga-cf
+sportytrader,Mönchengladbach,borussia-m-gladbach
 sportytrader,Nacional Madeira,nacional-madeira
 sportytrader,Napoli,napoli
 sportytrader,Newcastle,newcastle
@@ -522,20 +557,26 @@ sportytrader,Nice,nice
 sportytrader,Nottingham Forest,nottingham-forest
 sportytrader,Osasuna,osasuna
 sportytrader,PSV Eindhoven,psv-eindhoven
+sportytrader,Paderborn,paderborn
 sportytrader,Paris FC,paris-fc
 sportytrader,Parma,parma
+sportytrader,Porto,porto
 sportytrader,Racing Santander,racing-santander
+sportytrader,Real Sociedad,real-sociedad
 sportytrader,Rio Ave,rio-ave
 sportytrader,Roma,roma
 sportytrader,Santa Clara,santa-clara
 sportytrader,Sassuolo,sassuolo
 sportytrader,Sparta Rotterdam,sparta-rotterdam
+sportytrader,Spvgg Elversberg,elversberg
+sportytrader,Strasbourg,strasbourg
 sportytrader,Sunderland,sunderland
 sportytrader,Torino FC,torino
 sportytrader,Tottenham,tottenham
 sportytrader,Toulouse,toulouse
 sportytrader,Troyes,troyes
 sportytrader,Udinese,udinese
+sportytrader,Union Berlin,union-berlin
 sportytrader,Utrecht,utrecht
 sportytrader,Valencia,valencia
 sportytrader,Venezia,venezia

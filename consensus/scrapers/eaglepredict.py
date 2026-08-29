@@ -6,7 +6,7 @@ from datetime import datetime
 from bs4 import BeautifulSoup
 
 from ..config import EAGLEPREDICT
-from ..http import fetch, utcnow
+from ..http import FetchError, fetch, utcnow
 from ..markets import derive_from_score
 
 _DAY_RE = re.compile(
@@ -82,9 +82,20 @@ def scrape(leagues_only: bool = True) -> list[dict]:
     from ..config import is_top_league
 
     base = EAGLEPREDICT["base"]
-    straight = parse_market(fetch(base + EAGLEPREDICT["straight_win"]))
-    over_under = parse_market(fetch(base + EAGLEPREDICT["over_under"]))
-    btts = parse_market(fetch(base + EAGLEPREDICT["both_to_score"]))
+    endpoints = {"straight_win": "straight", "over_under": "over_under", "both_to_score": "btts"}
+    markets: dict[str, list[dict]] = {}
+    for key, name in endpoints.items():
+        try:
+            markets[name] = parse_market(fetch(base + EAGLEPREDICT[key]))
+        except FetchError:
+            # Tolerate a single flaky/down market endpoint (e.g. Cloudflare or a
+            # site 500) so the rest of the site's picks are still captured.
+            print(f"eaglepredict: skipping {key} market (fetch failed)")
+            markets[name] = []
+
+    straight = markets["straight"]
+    over_under = markets["over_under"]
+    btts = markets["btts"]
 
     st = {r["source_id"]: r for r in straight}
     ou = {r["source_id"]: r for r in over_under}
