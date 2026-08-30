@@ -19,6 +19,7 @@ fixture_id,league,date,kickoff,home_id,away_id
 2026-08-23|brighton|vs|aston-villa,Premier League,2026-08-23,23/08/2026 15:00,brighton,aston-villa
 2026-08-23|newcastle|vs|liverpool,Premier League,2026-08-23,23/08/2026 17:30,newcastle,liverpool
 2026-08-24|fulham|vs|chelsea,Premier League,2026-08-24,24/08/2026 21:00,fulham,chelsea
+2026-08-30|sc-telstar|vs|ajax,Eredivisie,2026-08-30,30/08/2026 16:45,sc-telstar,ajax
 2026-08-27|celta-vigo|vs|osasuna,La Liga,2026-08-27,27/08/2026 20:30,celta-vigo,osasuna
 2026-08-27|barcelona|vs|athletic-bilbao,La Liga,2026-08-27,27/08/2026 21:00,barcelona,athletic-bilbao
 2026-08-28|racing-santander|vs|elche,La Liga,2026-08-28,28/08/2026 19:00,racing-santander,elche
@@ -72,7 +73,7 @@ fixture_id,league,date,kickoff,home_id,away_id
 2026-08-23|atalanta|vs|sassuolo,Serie A,2026-08-23,23/08/2026 20:45,atalanta,sassuolo
 2026-08-24|bologna|vs|lazio,Serie A,2026-08-24,24/08/2026 18:30,bologna,lazio
 2026-08-24|roma|vs|fiorentina,Serie A,2026-08-24,24/08/2026 20:45,roma,fiorentina
-2026-08-28|lille|vs|psg,Ligue 1,2026-08-28,28/08/2026 20:45,lille,psg
+2026-08-28|lille|vs|psg,Ligue 1,2026-08-28,28/08/2026 21:00,lille,psg
 2026-08-29|strasbourg|vs|lens,Ligue 1,2026-08-29,29/08/2026 17:15,strasbourg,lens
 2026-08-29|lyon|vs|le-havre,Ligue 1,2026-08-29,29/08/2026 20:45,lyon,le-havre
 2026-08-29|lorient|vs|troyes,Ligue 1,2026-08-29,29/08/2026 20:45,lorient,troyes
@@ -97,7 +98,6 @@ fixture_id,league,date,kickoff,home_id,away_id
 2026-08-30|utrecht|vs|psv-eindhoven,Eredivisie,2026-08-30,30/08/2026 12:15,utrecht,psv-eindhoven
 2026-08-30|feyenoord|vs|ado-den-haag,Eredivisie,2026-08-30,30/08/2026 14:30,feyenoord,ado-den-haag
 2026-08-30|willem-ii-tilburg|vs|heerenveen,Eredivisie,2026-08-30,30/08/2026 14:30,willem-ii-tilburg,heerenveen
-2026-08-30|sc-telstar|vs|ajax,Eredivisie,2026-08-30,30/08/2026 16:45,sc-telstar,ajax
 2026-08-30|cambuur|vs|twente,Eredivisie,2026-08-30,30/08/2026 20:00,cambuur,twente
 2026-08-22|fortuna-sittard|vs|az-alkmaar,Eredivisie,2026-08-22,22/08/2026 16:30,fortuna-sittard,az-alkmaar
 2026-08-22|sparta-rotterdam|vs|utrecht,Eredivisie,2026-08-22,22/08/2026 18:45,sparta-rotterdam,utrecht
@@ -164,5 +164,4 @@ fixture_id,league,date,kickoff,home_id,away_id
 2026-08-23|psg|vs|rennes,Ligue 1,2026-08-23,21:45,psg,rennes
 2026-08-28|bayern-m-nchen|vs|stuttgart,Bundesliga,2026-08-28,21:30,bayern-m-nchen,stuttgart
 2026-08-28|groningen|vs|sittard,Eredivisie,2026-08-28,2026-08-28 18:00,groningen,sittard
-2026-08-30|monaco|vs|marseille,Ligue 1,2026-08-30,21:45 - Sun 30 Aug,monaco,marseille
 2026-08-28|alav-s|vs|villarreal,LaLiga,2026-08-28,22:30 - Fri 28 Aug,alav-s,villarreal
