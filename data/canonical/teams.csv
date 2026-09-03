@@ -143,8 +143,10 @@ flashscore,Ath Bilbao,athletic-bilbao
 flashscore,Atl. Madrid,atl-tico-madrid
 flashscore,Augsburg,augsburg
 flashscore,Auxerre,auxerre
+flashscore,B. Monchengladbach,b-monchengladbach
 flashscore,Barcelona,barcelona
 flashscore,Bayer Leverkusen,bayer-leverkusen
+flashscore,Bayern Munich,bayern-munich
 flashscore,Betis,real-betis
 flashscore,Bologna,bologna
 flashscore,Bournemouth,bournemouth
@@ -166,6 +168,7 @@ flashscore,Elversberg,elversberg
 flashscore,Espanyol,espanyol
 flashscore,Everton,everton
 flashscore,Excelsior,excelsior
+flashscore,FC Koln,fc-koln
 flashscore,Feyenoord,feyenoord
 flashscore,Fiorentina,fiorentina
 flashscore,Freiburg,freiburg
@@ -177,6 +180,7 @@ flashscore,Getafe,getafe
 flashscore,Groningen,groningen
 flashscore,Hamburger SV,hamburger-sv
 flashscore,Heerenveen,heerenveen
+flashscore,Hoffenheim,hoffenheim
 flashscore,Hull,hull
 flashscore,Inter,inter
 flashscore,Ipswich,ipswich
@@ -210,6 +214,7 @@ flashscore,PSV,psv-eindhoven
 flashscore,Paderborn,paderborn
 flashscore,Paris FC,paris-fc
 flashscore,Parma,parma
+flashscore,RB Leipzig,rb-leipzig
 flashscore,Racing Santander,racing-santander
 flashscore,Rayo Vallecano,rayo-vallecano
 flashscore,Real Madrid,real-madrid
@@ -221,6 +226,7 @@ flashscore,Sevilla,sevilla
 flashscore,Sittard,sittard
 flashscore,Sparta Rotterdam,sparta-rotterdam
 flashscore,Strasbourg,strasbourg
+flashscore,Stuttgart,stuttgart
 flashscore,Sunderland,sunderland
 flashscore,Telstar,sc-telstar
 flashscore,Torino,torino
@@ -229,6 +235,7 @@ flashscore,Toulouse,toulouse
 flashscore,Troyes,troyes
 flashscore,Twente,twente
 flashscore,Udinese,udinese
+flashscore,Union Berlin,union-berlin
 flashscore,Utrecht,utrecht
 flashscore,Valencia,valencia
 flashscore,Venezia,venezia
@@ -628,6 +635,7 @@ whoscored,Augsburg,augsburg
 whoscored,Auxerre,auxerre
 whoscored,Barcelona,barcelona
 whoscored,Bayer Leverkusen,bayer-leverkusen
+whoscored,Bayern Munich,bayern-munich
 whoscored,Benfica,sl-benfica
 whoscored,Bologna,bologna
 whoscored,Borussia Dortmund,borussia-dortmund
