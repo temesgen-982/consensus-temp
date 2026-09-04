@@ -1,4 +1,180 @@
 site,source_id,league,date,kickoff,home_team,away_team,market,pick,p1,p2,p3,note,scraped_at
+whoscored,1983584,Premier League,2026-09-05,12:30,Newcastle,Bournemouth,1x2,2,,,,3.1,2026-09-04T08:38:14Z
+whoscored,1983584,Premier League,2026-09-05,12:30,Newcastle,Bournemouth,over_under,Over,,,,1.5,2026-09-04T08:38:14Z
+whoscored,1983584,Premier League,2026-09-05,12:30,Newcastle,Bournemouth,btts,Yes,,,,,2026-09-04T08:38:14Z
+whoscored,1983584,Premier League,2026-09-05,12:30,Newcastle,Bournemouth,correct_score,1 - 2,,,,8.9,2026-09-04T08:38:14Z
+whoscored,1983582,Premier League,2026-09-05,15:00,Manchester City,Coventry,1x2,1,,,,1.15,2026-09-04T08:38:14Z
+whoscored,1983582,Premier League,2026-09-05,15:00,Manchester City,Coventry,over_under,Over,,,,1.31,2026-09-04T08:38:14Z
+whoscored,1983582,Premier League,2026-09-05,15:00,Manchester City,Coventry,btts,No,,,,,2026-09-04T08:38:14Z
+whoscored,1983582,Premier League,2026-09-05,15:00,Manchester City,Coventry,correct_score,3 - 0,,,,6,2026-09-04T08:38:14Z
+whoscored,1983586,Premier League,2026-09-05,15:00,Nottingham Forest,Tottenham,1x2,X,,,,3.37,2026-09-04T08:38:14Z
+whoscored,1983586,Premier League,2026-09-05,15:00,Nottingham Forest,Tottenham,over_under,Under,,,,1.79,2026-09-04T08:38:14Z
+whoscored,1983586,Premier League,2026-09-05,15:00,Nottingham Forest,Tottenham,btts,Yes,,,,,2026-09-04T08:38:14Z
+whoscored,1983586,Premier League,2026-09-05,15:00,Nottingham Forest,Tottenham,correct_score,1 - 1,,,,5.2,2026-09-04T08:38:14Z
+whoscored,1983576,Premier League,2026-09-05,15:00,Fulham,Crystal Palace,1x2,X,,,,3.25,2026-09-04T08:38:14Z
+whoscored,1983576,Premier League,2026-09-05,15:00,Fulham,Crystal Palace,over_under,Under,,,,1.85,2026-09-04T08:38:14Z
+whoscored,1983576,Premier League,2026-09-05,15:00,Fulham,Crystal Palace,btts,Yes,,,,,2026-09-04T08:38:14Z
+whoscored,1983576,Premier League,2026-09-05,15:00,Fulham,Crystal Palace,correct_score,1 - 1,,,,5,2026-09-04T08:38:14Z
+whoscored,1983570,Premier League,2026-09-05,15:00,Brentford,Sunderland,1x2,1,,,,1.58,2026-09-04T08:38:14Z
+whoscored,1983570,Premier League,2026-09-05,15:00,Brentford,Sunderland,over_under,Over,,,,1.73,2026-09-04T08:38:14Z
+whoscored,1983570,Premier League,2026-09-05,15:00,Brentford,Sunderland,btts,Yes,,,,,2026-09-04T08:38:14Z
+whoscored,1983570,Premier League,2026-09-05,15:00,Brentford,Sunderland,correct_score,2 - 1,,,,6.3,2026-09-04T08:38:14Z
+whoscored,1983572,Premier League,2026-09-05,15:00,Brighton,Leeds,1x2,1,,,,1.93,2026-09-04T08:38:14Z
+whoscored,1983572,Premier League,2026-09-05,15:00,Brighton,Leeds,over_under,Over,,,,1.76,2026-09-04T08:38:14Z
+whoscored,1983572,Premier League,2026-09-05,15:00,Brighton,Leeds,btts,Yes,,,,,2026-09-04T08:38:14Z
+whoscored,1983572,Premier League,2026-09-05,15:00,Brighton,Leeds,correct_score,2 - 1,,,,6.6,2026-09-04T08:38:14Z
+whoscored,1983577,Premier League,2026-09-05,17:30,Hull,Aston Villa,1x2,2,,,,1.78,2026-09-04T08:38:14Z
+whoscored,1983577,Premier League,2026-09-05,17:30,Hull,Aston Villa,over_under,Under,,,,1.87,2026-09-04T08:38:14Z
+whoscored,1983577,Premier League,2026-09-05,17:30,Hull,Aston Villa,btts,No,,,,,2026-09-04T08:38:14Z
+whoscored,1983577,Premier League,2026-09-05,17:30,Hull,Aston Villa,correct_score,0 - 1,,,,6,2026-09-04T08:38:14Z
+whoscored,1983574,Premier League,2026-09-06,14:00,Everton,Manchester United,1x2,2,,,,2.03,2026-09-04T08:38:14Z
+whoscored,1983574,Premier League,2026-09-06,14:00,Everton,Manchester United,over_under,Over,,,,1.6,2026-09-04T08:38:14Z
+whoscored,1983574,Premier League,2026-09-06,14:00,Everton,Manchester United,btts,Yes,,,,,2026-09-04T08:38:14Z
+whoscored,1983574,Premier League,2026-09-06,14:00,Everton,Manchester United,correct_score,1 - 2,,,,6.7,2026-09-04T08:38:14Z
+whoscored,1983568,Premier League,2026-09-06,16:30,Arsenal,Chelsea,1x2,1,,,,1.6,2026-09-04T08:38:14Z
+whoscored,1983568,Premier League,2026-09-06,16:30,Arsenal,Chelsea,over_under,Over,,,,1.65,2026-09-04T08:38:14Z
+whoscored,1983568,Premier League,2026-09-06,16:30,Arsenal,Chelsea,btts,Yes,,,,,2026-09-04T08:38:14Z
+whoscored,1983568,Premier League,2026-09-06,16:30,Arsenal,Chelsea,correct_score,2 - 1,,,,6.2,2026-09-04T08:38:14Z
+whoscored,1993928,LaLiga,2026-09-04,20:00,Real Betis,Real Madrid,1x2,2,,,,1.38,2026-09-04T08:38:14Z
+whoscored,1993928,LaLiga,2026-09-04,20:00,Real Betis,Real Madrid,over_under,Over,,,,1.33,2026-09-04T08:38:14Z
+whoscored,1993928,LaLiga,2026-09-04,20:00,Real Betis,Real Madrid,btts,Yes,,,,,2026-09-04T08:38:14Z
+whoscored,1993928,LaLiga,2026-09-04,20:00,Real Betis,Real Madrid,correct_score,2 - 3,,,,13,2026-09-04T08:38:14Z
+whoscored,1993946,LaLiga,2026-09-05,15:15,Athletic Club,Atletico Madrid,1x2,X,,,,3.3,2026-09-04T08:38:14Z
+whoscored,1993946,LaLiga,2026-09-05,15:15,Athletic Club,Atletico Madrid,over_under,Under,,,,1.84,2026-09-04T08:38:14Z
+whoscored,1993946,LaLiga,2026-09-05,15:15,Athletic Club,Atletico Madrid,btts,Yes,,,,,2026-09-04T08:38:14Z
+whoscored,1993946,LaLiga,2026-09-05,15:15,Athletic Club,Atletico Madrid,correct_score,1 - 1,,,,5.1,2026-09-04T08:38:14Z
+whoscored,1993945,LaLiga,2026-09-05,17:30,Rayo Vallecano,Racing Santander,1x2,1,,,,2.13,2026-09-04T08:38:14Z
+whoscored,1993945,LaLiga,2026-09-05,17:30,Rayo Vallecano,Racing Santander,over_under,Over,,,,1.7,2026-09-04T08:38:14Z
+whoscored,1993945,LaLiga,2026-09-05,17:30,Rayo Vallecano,Racing Santander,btts,Yes,,,,,2026-09-04T08:38:14Z
+whoscored,1993945,LaLiga,2026-09-05,17:30,Rayo Vallecano,Racing Santander,correct_score,2 - 1,,,,6.8,2026-09-04T08:38:14Z
+whoscored,1993927,LaLiga,2026-09-05,20:00,Villarreal,Deportivo de A Coruna,1x2,1,,,,,2026-09-04T08:38:14Z
+whoscored,1993927,LaLiga,2026-09-05,20:00,Villarreal,Deportivo de A Coruna,over_under,Over,,,,,2026-09-04T08:38:14Z
+whoscored,1993927,LaLiga,2026-09-05,20:00,Villarreal,Deportivo de A Coruna,btts,Yes,,,,,2026-09-04T08:38:14Z
+whoscored,1993927,LaLiga,2026-09-05,20:00,Villarreal,Deportivo de A Coruna,correct_score,2 - 1,,,,,2026-09-04T08:38:14Z
+whoscored,1995408,Bundesliga,2026-09-04,19:30,VfB Stuttgart,FC Koln,1x2,1,,,,1.45,2026-09-04T08:38:14Z
+whoscored,1995408,Bundesliga,2026-09-04,19:30,VfB Stuttgart,FC Koln,over_under,Over,,,,1.33,2026-09-04T08:38:14Z
+whoscored,1995408,Bundesliga,2026-09-04,19:30,VfB Stuttgart,FC Koln,btts,Yes,,,,,2026-09-04T08:38:14Z
+whoscored,1995408,Bundesliga,2026-09-04,19:30,VfB Stuttgart,FC Koln,correct_score,2 - 1,,,,6.5,2026-09-04T08:38:14Z
+whoscored,1995410,Bundesliga,2026-09-05,14:30,Werder Bremen,RB Leipzig,1x2,2,,,,1.7,2026-09-04T08:38:14Z
+whoscored,1995410,Bundesliga,2026-09-05,14:30,Werder Bremen,RB Leipzig,over_under,Under,,,,2.57,2026-09-04T08:38:14Z
+whoscored,1995410,Bundesliga,2026-09-05,14:30,Werder Bremen,RB Leipzig,btts,No,,,,,2026-09-04T08:38:14Z
+whoscored,1995410,Bundesliga,2026-09-05,14:30,Werder Bremen,RB Leipzig,correct_score,0 - 2,,,,8.9,2026-09-04T08:38:14Z
+whoscored,1995394,Bundesliga,2026-09-05,14:30,Bayer Leverkusen,Union Berlin,1x2,1,,,,1.4,2026-09-04T08:38:14Z
+whoscored,1995394,Bundesliga,2026-09-05,14:30,Bayer Leverkusen,Union Berlin,over_under,Over,,,,1.39,2026-09-04T08:38:14Z
+whoscored,1995394,Bundesliga,2026-09-05,14:30,Bayer Leverkusen,Union Berlin,btts,Yes,,,,,2026-09-04T08:38:14Z
+whoscored,1995394,Bundesliga,2026-09-05,14:30,Bayer Leverkusen,Union Berlin,correct_score,2 - 1,,,,6.7,2026-09-04T08:38:14Z
+whoscored,1995397,Bundesliga,2026-09-05,14:30,Borussia M.Gladbach,Elversberg,1x2,2,,,,3.6,2026-09-04T08:38:14Z
+whoscored,1995397,Bundesliga,2026-09-05,14:30,Borussia M.Gladbach,Elversberg,over_under,Over,,,,1.52,2026-09-04T08:38:14Z
+whoscored,1995397,Bundesliga,2026-09-05,14:30,Borussia M.Gladbach,Elversberg,btts,Yes,,,,,2026-09-04T08:38:14Z
+whoscored,1995397,Bundesliga,2026-09-05,14:30,Borussia M.Gladbach,Elversberg,correct_score,1 - 2,,,,9.8,2026-09-04T08:38:14Z
+whoscored,1995401,Bundesliga,2026-09-05,14:30,Hoffenheim,Borussia Dortmund,1x2,2,,,,2.15,2026-09-04T08:38:14Z
+whoscored,1995401,Bundesliga,2026-09-05,14:30,Hoffenheim,Borussia Dortmund,over_under,Over,,,,1.41,2026-09-04T08:38:14Z
+whoscored,1995401,Bundesliga,2026-09-05,14:30,Hoffenheim,Borussia Dortmund,btts,Yes,,,,,2026-09-04T08:38:14Z
+whoscored,1995401,Bundesliga,2026-09-05,14:30,Hoffenheim,Borussia Dortmund,correct_score,1 - 2,,,,7,2026-09-04T08:38:14Z
+whoscored,1995403,Bundesliga,2026-09-05,14:30,Paderborn,Freiburg,1x2,2,,,,1.95,2026-09-04T08:38:14Z
+whoscored,1995403,Bundesliga,2026-09-05,14:30,Paderborn,Freiburg,over_under,Over,,,,1.62,2026-09-04T08:38:14Z
+whoscored,1995403,Bundesliga,2026-09-05,14:30,Paderborn,Freiburg,btts,Yes,,,,,2026-09-04T08:38:14Z
+whoscored,1995403,Bundesliga,2026-09-05,14:30,Paderborn,Freiburg,correct_score,1 - 2,,,,6.5,2026-09-04T08:38:14Z
+whoscored,1995405,Bundesliga,2026-09-05,17:30,Schalke 04,Bayern Munich,1x2,2,,,,1.12,2026-09-04T08:38:14Z
+whoscored,1995405,Bundesliga,2026-09-05,17:30,Schalke 04,Bayern Munich,over_under,Over,,,,1.2,2026-09-04T08:38:14Z
+whoscored,1995405,Bundesliga,2026-09-05,17:30,Schalke 04,Bayern Munich,btts,No,,,,,2026-09-04T08:38:14Z
+whoscored,1995405,Bundesliga,2026-09-05,17:30,Schalke 04,Bayern Munich,correct_score,0 - 4,,,,7.8,2026-09-04T08:38:14Z
+whoscored,1980905,Serie A,2026-09-04,19:45,Genoa,Como,1x2,2,,,,1.72,2026-09-04T08:38:14Z
+whoscored,1980905,Serie A,2026-09-04,19:45,Genoa,Como,over_under,Over,,,,1.94,2026-09-04T08:38:14Z
+whoscored,1980905,Serie A,2026-09-04,19:45,Genoa,Como,btts,No,,,,,2026-09-04T08:38:14Z
+whoscored,1980905,Serie A,2026-09-04,19:45,Genoa,Como,correct_score,0 - 3,,,,10,2026-09-04T08:38:14Z
+whoscored,1980898,Serie A,2026-09-05,14:00,Fiorentina,Torino,1x2,1,,,,1.86,2026-09-04T08:38:14Z
+whoscored,1980898,Serie A,2026-09-05,14:00,Fiorentina,Torino,over_under,Over,,,,2,2026-09-04T08:38:14Z
+whoscored,1980898,Serie A,2026-09-05,14:00,Fiorentina,Torino,btts,Yes,,,,,2026-09-04T08:38:14Z
+whoscored,1980898,Serie A,2026-09-05,14:00,Fiorentina,Torino,correct_score,3 - 1,,,,13,2026-09-04T08:38:14Z
+whoscored,1980909,Serie A,2026-09-05,17:00,Inter,Napoli,1x2,1,,,,1.57,2026-09-04T08:38:14Z
+whoscored,1980909,Serie A,2026-09-05,17:00,Inter,Napoli,over_under,Over,,,,1.94,2026-09-04T08:38:14Z
+whoscored,1980909,Serie A,2026-09-05,17:00,Inter,Napoli,btts,Yes,,,,,2026-09-04T08:38:14Z
+whoscored,1980909,Serie A,2026-09-05,17:00,Inter,Napoli,correct_score,2 - 1,,,,6.6,2026-09-04T08:38:14Z
+whoscored,1980888,Serie A,2026-09-05,19:45,Roma,Atalanta,1x2,1,,,,1.63,2026-09-04T08:38:14Z
+whoscored,1980888,Serie A,2026-09-05,19:45,Roma,Atalanta,over_under,Over,,,,1.82,2026-09-04T08:38:14Z
+whoscored,1980888,Serie A,2026-09-05,19:45,Roma,Atalanta,btts,Yes,,,,,2026-09-04T08:38:14Z
+whoscored,1980888,Serie A,2026-09-05,19:45,Roma,Atalanta,correct_score,3 - 1,,,,11,2026-09-04T08:38:14Z
+whoscored,1980901,Serie A,2026-09-06,14:00,Frosinone,Venezia,1x2,1,,,,2.59,2026-09-04T08:38:14Z
+whoscored,1980901,Serie A,2026-09-06,14:00,Frosinone,Venezia,over_under,Over,,,,1.73,2026-09-04T08:38:14Z
+whoscored,1980901,Serie A,2026-09-06,14:00,Frosinone,Venezia,btts,Yes,,,,,2026-09-04T08:38:14Z
+whoscored,1980901,Serie A,2026-09-06,14:00,Frosinone,Venezia,correct_score,3 - 1,,,,15,2026-09-04T08:38:14Z
+whoscored,1984068,Ligue 1,2026-09-04,18:00,Lyon,Auxerre,1x2,1,,,,1.4,2026-09-04T08:38:14Z
+whoscored,1984068,Ligue 1,2026-09-04,18:00,Lyon,Auxerre,over_under,Under,,,,2.22,2026-09-04T08:38:14Z
+whoscored,1984068,Ligue 1,2026-09-04,18:00,Lyon,Auxerre,btts,No,,,,,2026-09-04T08:38:14Z
+whoscored,1984068,Ligue 1,2026-09-04,18:00,Lyon,Auxerre,correct_score,2 - 0,,,,6.2,2026-09-04T08:38:14Z
+whoscored,1984081,Ligue 1,2026-09-04,20:05,Paris Saint-Germain,Monaco,1x2,1,,,,1.33,2026-09-04T08:38:14Z
+whoscored,1984081,Ligue 1,2026-09-04,20:05,Paris Saint-Germain,Monaco,over_under,Over,,,,1.32,2026-09-04T08:38:14Z
+whoscored,1984081,Ligue 1,2026-09-04,20:05,Paris Saint-Germain,Monaco,btts,Yes,,,,,2026-09-04T08:38:14Z
+whoscored,1984081,Ligue 1,2026-09-04,20:05,Paris Saint-Germain,Monaco,correct_score,2 - 1,,,,6.8,2026-09-04T08:38:14Z
+whoscored,1984064,Ligue 1,2026-09-05,16:15,Lens,Lorient,1x2,1,,,,1.44,2026-09-04T08:38:14Z
+whoscored,1984064,Ligue 1,2026-09-05,16:15,Lens,Lorient,over_under,Over,,,,1.57,2026-09-04T08:38:14Z
+whoscored,1984064,Ligue 1,2026-09-05,16:15,Lens,Lorient,btts,Yes,,,,,2026-09-04T08:38:14Z
+whoscored,1984064,Ligue 1,2026-09-05,16:15,Lens,Lorient,correct_score,2 - 1,,,,6.4,2026-09-04T08:38:14Z
+whoscored,1984077,Ligue 1,2026-09-05,19:45,Nice,Le Mans,1x2,1,,,,1.77,2026-09-04T08:38:14Z
+whoscored,1984077,Ligue 1,2026-09-05,19:45,Nice,Le Mans,over_under,Under,,,,1.87,2026-09-04T08:38:14Z
+whoscored,1984077,Ligue 1,2026-09-05,19:45,Nice,Le Mans,btts,No,,,,,2026-09-04T08:38:14Z
+whoscored,1984077,Ligue 1,2026-09-05,19:45,Nice,Le Mans,correct_score,2 - 0,,,,7.3,2026-09-04T08:38:14Z
+whoscored,1984084,Ligue 1,2026-09-05,19:45,Le Havre,Brest,1x2,X,,,,3.12,2026-09-04T08:38:14Z
+whoscored,1984084,Ligue 1,2026-09-05,19:45,Le Havre,Brest,over_under,Under,,,,1.65,2026-09-04T08:38:14Z
+whoscored,1984084,Ligue 1,2026-09-05,19:45,Le Havre,Brest,btts,Yes,,,,,2026-09-04T08:38:14Z
+whoscored,1984084,Ligue 1,2026-09-05,19:45,Le Havre,Brest,correct_score,1 - 1,,,,4.9,2026-09-04T08:38:14Z
+whoscored,1982272,Eredivisie,2026-09-04,19:00,Sparta Rotterdam,PEC Zwolle,1x2,1,,,,1.77,2026-09-04T08:38:14Z
+whoscored,1982272,Eredivisie,2026-09-04,19:00,Sparta Rotterdam,PEC Zwolle,over_under,Over,,,,1.4,2026-09-04T08:38:14Z
+whoscored,1982272,Eredivisie,2026-09-04,19:00,Sparta Rotterdam,PEC Zwolle,btts,Yes,,,,,2026-09-04T08:38:14Z
+whoscored,1982272,Eredivisie,2026-09-04,19:00,Sparta Rotterdam,PEC Zwolle,correct_score,2 - 1,,,,5.8,2026-09-04T08:38:14Z
+whoscored,1982270,Eredivisie,2026-09-05,15:30,NEC Nijmegen,Feyenoord,1x2,2,,,,1.99,2026-09-04T08:38:14Z
+whoscored,1982270,Eredivisie,2026-09-05,15:30,NEC Nijmegen,Feyenoord,over_under,Over,,,,1.24,2026-09-04T08:38:14Z
+whoscored,1982270,Eredivisie,2026-09-05,15:30,NEC Nijmegen,Feyenoord,btts,Yes,,,,,2026-09-04T08:38:14Z
+whoscored,1982270,Eredivisie,2026-09-05,15:30,NEC Nijmegen,Feyenoord,correct_score,1 - 2,,,,6.5,2026-09-04T08:38:14Z
+whoscored,1982262,Eredivisie,2026-09-05,17:45,FC Utrecht,Go Ahead Eagles,1x2,2,,,,2.87,2026-09-04T08:38:14Z
+whoscored,1982262,Eredivisie,2026-09-05,17:45,FC Utrecht,Go Ahead Eagles,over_under,Over,,,,1.38,2026-09-04T08:38:14Z
+whoscored,1982262,Eredivisie,2026-09-05,17:45,FC Utrecht,Go Ahead Eagles,btts,Yes,,,,,2026-09-04T08:38:14Z
+whoscored,1982262,Eredivisie,2026-09-05,17:45,FC Utrecht,Go Ahead Eagles,correct_score,2 - 3,,,,15,2026-09-04T08:38:14Z
+whoscored,1982266,Eredivisie,2026-09-05,19:00,Ajax,PSV Eindhoven,1x2,X,,,,3.5,2026-09-04T08:38:14Z
+whoscored,1982266,Eredivisie,2026-09-05,19:00,Ajax,PSV Eindhoven,over_under,Over,,,,1.19,2026-09-04T08:38:14Z
+whoscored,1982266,Eredivisie,2026-09-05,19:00,Ajax,PSV Eindhoven,btts,Yes,,,,,2026-09-04T08:38:14Z
+whoscored,1982266,Eredivisie,2026-09-05,19:00,Ajax,PSV Eindhoven,correct_score,2 - 2,,,,6.7,2026-09-04T08:38:14Z
+whoscored,1982274,Eredivisie,2026-09-05,20:00,Willem II,Excelsior,1x2,2,,,,2.12,2026-09-04T08:38:14Z
+whoscored,1982274,Eredivisie,2026-09-05,20:00,Willem II,Excelsior,over_under,Over,,,,1.48,2026-09-04T08:38:14Z
+whoscored,1982274,Eredivisie,2026-09-05,20:00,Willem II,Excelsior,btts,Yes,,,,,2026-09-04T08:38:14Z
+whoscored,1982274,Eredivisie,2026-09-05,20:00,Willem II,Excelsior,correct_score,1 - 2,,,,6.2,2026-09-04T08:38:14Z
+whoscored,1982260,Eredivisie,2026-09-06,11:15,FC Groningen,Twente,1x2,2,,,,1.86,2026-09-04T08:38:14Z
+whoscored,1982260,Eredivisie,2026-09-06,11:15,FC Groningen,Twente,over_under,Over,,,,1.36,2026-09-04T08:38:14Z
+whoscored,1982260,Eredivisie,2026-09-06,11:15,FC Groningen,Twente,btts,Yes,,,,,2026-09-04T08:38:14Z
+whoscored,1982260,Eredivisie,2026-09-06,11:15,FC Groningen,Twente,correct_score,2 - 3,,,,11,2026-09-04T08:38:14Z
+whoscored,1982268,Eredivisie,2026-09-06,13:30,SC Heerenveen,AZ Alkmaar,1x2,2,,,,1.68,2026-09-04T08:38:14Z
+whoscored,1982268,Eredivisie,2026-09-06,13:30,SC Heerenveen,AZ Alkmaar,over_under,Over,,,,1.33,2026-09-04T08:38:14Z
+whoscored,1982268,Eredivisie,2026-09-06,13:30,SC Heerenveen,AZ Alkmaar,btts,Yes,,,,,2026-09-04T08:38:14Z
+whoscored,1982268,Eredivisie,2026-09-06,13:30,SC Heerenveen,AZ Alkmaar,correct_score,1 - 2,,,,5.9,2026-09-04T08:38:14Z
+whoscored,1982264,Eredivisie,2026-09-06,13:30,Telstar,Cambuur,1x2,1,,,,1.52,2026-09-04T08:38:14Z
+whoscored,1982264,Eredivisie,2026-09-06,13:30,Telstar,Cambuur,over_under,Over,,,,1.33,2026-09-04T08:38:14Z
+whoscored,1982264,Eredivisie,2026-09-06,13:30,Telstar,Cambuur,btts,Yes,,,,,2026-09-04T08:38:14Z
+whoscored,1982264,Eredivisie,2026-09-06,13:30,Telstar,Cambuur,correct_score,2 - 1,,,,5.8,2026-09-04T08:38:14Z
+whoscored,1982276,Eredivisie,2026-09-06,15:45,ADO Den Haag,Fortuna Sittard,1x2,2,,,,,2026-09-04T08:38:14Z
+whoscored,1982276,Eredivisie,2026-09-06,15:45,ADO Den Haag,Fortuna Sittard,over_under,Over,,,,,2026-09-04T08:38:14Z
+whoscored,1982276,Eredivisie,2026-09-06,15:45,ADO Den Haag,Fortuna Sittard,btts,Yes,,,,,2026-09-04T08:38:14Z
+whoscored,1982276,Eredivisie,2026-09-06,15:45,ADO Den Haag,Fortuna Sittard,correct_score,1 - 2,,,,,2026-09-04T08:38:14Z
+whoscored,1997606,Liga Portugal,2026-09-04,20:15,FC Porto,Moreirense,1x2,1,,,,1.12,2026-09-04T08:38:14Z
+whoscored,1997606,Liga Portugal,2026-09-04,20:15,FC Porto,Moreirense,over_under,Over,,,,1.55,2026-09-04T08:38:14Z
+whoscored,1997606,Liga Portugal,2026-09-04,20:15,FC Porto,Moreirense,btts,No,,,,,2026-09-04T08:38:14Z
+whoscored,1997606,Liga Portugal,2026-09-04,20:15,FC Porto,Moreirense,correct_score,3 - 0,,,,5.5,2026-09-04T08:38:14Z
+whoscored,1997598,Liga Portugal,2026-09-05,15:30,Estrela da Amadora,Famalicao,1x2,1,,,,2.9,2026-09-04T08:38:14Z
+whoscored,1997598,Liga Portugal,2026-09-05,15:30,Estrela da Amadora,Famalicao,over_under,Over,,,,2.15,2026-09-04T08:38:14Z
+whoscored,1997598,Liga Portugal,2026-09-05,15:30,Estrela da Amadora,Famalicao,btts,Yes,,,,,2026-09-04T08:38:14Z
+whoscored,1997598,Liga Portugal,2026-09-05,15:30,Estrela da Amadora,Famalicao,correct_score,2 - 1,,,,10,2026-09-04T08:38:14Z
+whoscored,1997597,Liga Portugal,2026-09-05,18:00,Alverca,Braga,1x2,2,,,,1.71,2026-09-04T08:38:14Z
+whoscored,1997597,Liga Portugal,2026-09-05,18:00,Alverca,Braga,over_under,Under,,,,1.727,2026-09-04T08:38:14Z
+whoscored,1997597,Liga Portugal,2026-09-05,18:00,Alverca,Braga,btts,No,,,,,2026-09-04T08:38:14Z
+whoscored,1997597,Liga Portugal,2026-09-05,18:00,Alverca,Braga,correct_score,0 - 2,,,,7,2026-09-04T08:38:14Z
+whoscored,1997604,Liga Portugal,2026-09-05,18:00,Maritimo,Benfica,1x2,2,,,,1.22,2026-09-04T08:38:14Z
+whoscored,1997604,Liga Portugal,2026-09-05,18:00,Maritimo,Benfica,over_under,Over,,,,1.5,2026-09-04T08:38:14Z
+whoscored,1997604,Liga Portugal,2026-09-05,18:00,Maritimo,Benfica,btts,Yes,,,,,2026-09-04T08:38:14Z
+whoscored,1997604,Liga Portugal,2026-09-05,18:00,Maritimo,Benfica,correct_score,1 - 3,,,,9.5,2026-09-04T08:38:14Z
+whoscored,1997610,Liga Portugal,2026-09-05,20:30,Sporting CP,Nacional,1x2,1,,,,1.17,2026-09-04T08:38:14Z
+whoscored,1997610,Liga Portugal,2026-09-05,20:30,Sporting CP,Nacional,over_under,Over,,,,1.41,2026-09-04T08:38:14Z
+whoscored,1997610,Liga Portugal,2026-09-05,20:30,Sporting CP,Nacional,btts,No,,,,,2026-09-04T08:38:14Z
+whoscored,1997610,Liga Portugal,2026-09-05,20:30,Sporting CP,Nacional,correct_score,3 - 0,,,,7,2026-09-04T08:38:14Z
 whoscored,1983580,Premier League,2026-09-04,20:00,Ipswich,Liverpool,1x2,2,,,,1.48,2026-09-04T08:48:15Z
 whoscored,1983580,Premier League,2026-09-04,20:00,Ipswich,Liverpool,over_under,Over,,,,1.36,2026-09-04T08:48:15Z
 whoscored,1983580,Premier League,2026-09-04,20:00,Ipswich,Liverpool,btts,No,,,,,2026-09-04T08:48:15Z

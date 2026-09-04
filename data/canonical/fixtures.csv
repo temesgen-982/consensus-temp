@@ -19,7 +19,7 @@ fixture_id,league,date,kickoff,home_id,away_id
 2026-08-30|chelsea|vs|brighton,Premier League,2026-08-30,30/08/2026 15:00,chelsea,brighton
 2026-08-30|manchester-united|vs|ipswich,Premier League,2026-08-30,30/08/2026 17:30,manchester-united,ipswich
 2026-08-31|aston-villa|vs|arsenal,Premier League,2026-08-31,31/08/2026 21:00,aston-villa,arsenal
-2026-09-03|real-sociedad|vs|celta-vigo,La Liga,2026-09-03,03/09/2026 21:00,real-sociedad,celta-vigo
+2026-09-04|sparta-rotterdam|vs|pec-zwolle,Eredivisie,2026-09-04,04/09/2026 20:00,sparta-rotterdam,pec-zwolle
 2026-09-04|real-betis|vs|real-madrid,La Liga,2026-09-04,04/09/2026 21:00,real-betis,real-madrid
 2026-09-05|athletic-bilbao|vs|atl-tico-madrid,La Liga,2026-09-05,05/09/2026 16:15,athletic-bilbao,atl-tico-madrid
 2026-09-05|rayo-vallecano|vs|racing-santander,La Liga,2026-09-05,05/09/2026 18:30,rayo-vallecano,racing-santander
@@ -28,6 +28,8 @@ fixture_id,league,date,kickoff,home_id,away_id
 2026-09-06|m-laga-cf|vs|levante,La Liga,2026-09-06,06/09/2026 18:30,m-laga-cf,levante
 2026-09-06|deportivo-alav-s|vs|osasuna,La Liga,2026-09-06,06/09/2026 18:30,deportivo-alav-s,osasuna
 2026-09-06|espanyol|vs|sevilla,La Liga,2026-09-06,06/09/2026 21:00,espanyol,sevilla
+2026-09-07|getafe|vs|celta-vigo,La Liga,2026-09-07,07/09/2026 19:00,getafe,celta-vigo
+2026-09-07|elche|vs|real-sociedad,La Liga,2026-09-07,07/09/2026 21:30,elche,real-sociedad
 2026-08-28|racing-santander|vs|elche,La Liga,2026-08-28,28/08/2026 19:00,racing-santander,elche
 2026-08-28|deportivo-alav-s|vs|villarreal,La Liga,2026-08-28,28/08/2026 21:30,deportivo-alav-s,villarreal
 2026-08-29|levante|vs|real-betis,La Liga,2026-08-29,29/08/2026 17:00,levante,real-betis
@@ -38,6 +40,7 @@ fixture_id,league,date,kickoff,home_id,away_id
 2026-08-30|celta-vigo|vs|athletic-bilbao,La Liga,2026-08-30,30/08/2026 21:30,celta-vigo,athletic-bilbao
 2026-08-31|osasuna|vs|getafe,La Liga,2026-08-31,31/08/2026 19:30,osasuna,getafe
 2026-08-31|barcelona|vs|rayo-vallecano,La Liga,2026-08-31,31/08/2026 21:30,barcelona,rayo-vallecano
+2026-09-03|real-sociedad|vs|celta-vigo,La Liga,2026-09-03,03/09/2026 21:00,real-sociedad,celta-vigo
 2026-09-04|stuttgart|vs|fc-koln,Bundesliga,2026-09-04,04/09/2026 20:30,stuttgart,fc-koln
 2026-09-05|paderborn|vs|freiburg,Bundesliga,2026-09-05,05/09/2026 15:30,paderborn,freiburg
 2026-09-05|werder-bremen|vs|rb-leipzig,Bundesliga,2026-09-05,05/09/2026 15:30,werder-bremen,rb-leipzig
@@ -94,7 +97,6 @@ fixture_id,league,date,kickoff,home_id,away_id
 2026-08-30|paris-fc|vs|nice,Ligue 1,2026-08-30,30/08/2026 15:00,paris-fc,nice
 2026-08-30|rennes|vs|le-mans,Ligue 1,2026-08-30,30/08/2026 17:15,rennes,le-mans
 2026-08-30|monaco|vs|olympique-marseille,Ligue 1,2026-08-30,30/08/2026 20:45,monaco,olympique-marseille
-2026-09-04|sparta-rotterdam|vs|pec-zwolle,Eredivisie,2026-09-04,04/09/2026 20:00,sparta-rotterdam,pec-zwolle
 2026-09-05|nijmegen|vs|feyenoord,Eredivisie,2026-09-05,05/09/2026 16:30,nijmegen,feyenoord
 2026-09-05|utrecht|vs|go-ahead-eagles,Eredivisie,2026-09-05,05/09/2026 18:45,utrecht,go-ahead-eagles
 2026-09-05|ajax|vs|psv-eindhoven,Eredivisie,2026-09-05,05/09/2026 20:00,ajax,psv-eindhoven

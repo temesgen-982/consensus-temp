@@ -11,7 +11,13 @@ from ..http import fetch, utcnow
 
 _REQUEST_DELAY = 1.0
 
-_DATE_RE = re.compile(r"^(\d{1,2}) (\w{3}) (\d{4}), (\d{2}:\d{2})$")
+_DATE_RE = re.compile(r"^(\d{1,2}) (\w{3,4}) (\d{4}), (\d{2}:\d{2})$")
+
+_MONTHS = {
+    "jan": 1, "feb": 2, "mar": 3, "apr": 4, "may": 5, "jun": 6,
+    "jul": 7, "aug": 8, "sep": 9, "sept": 9, "oct": 10,
+    "nov": 11, "dec": 12,
+}
 
 _OU_RE = re.compile(r"^(over|under)\s+(\d+(?:\.\d+)?)\s+goals$", re.IGNORECASE)
 _WIN_RE = re.compile(r"^(.+?)\s+(?:to\s+)?wins?$", re.IGNORECASE)
@@ -114,15 +120,10 @@ def parse_card(card) -> dict | None:
     if date_p:
         dm = _DATE_RE.match(_norm(date_p.get_text()))
         if dm:
-            try:
-                dt = datetime.strptime(
-                    f"{dm.group(1)} {dm.group(2)} {dm.group(3)} {dm.group(4)}",
-                    "%d %b %Y %H:%M",
-                )
-                date = dt.strftime("%Y-%m-%d")
-                kickoff = dt.strftime("%H:%M")
-            except ValueError:
-                pass
+            month = _MONTHS.get(dm.group(2).lower())
+            if month:
+                date = f"{dm.group(3)}-{month:02d}-{int(dm.group(1)):02d}"
+                kickoff = dm.group(4)
     if not date:
         return None
 
