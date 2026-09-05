@@ -51,8 +51,6 @@ TOP_LEAGUES = {
         "Bundesliga",
         "Serie A",
         "Ligue 1",
-        "Eredivisie",
-        "Liga Portugal",
     ],
     "sportsgambler": [
         "Premier League",
@@ -134,8 +132,6 @@ FLASHSCORE = {
         {"name": "Bundesliga", "url": "/football/germany/bundesliga/"},
         {"name": "Serie A", "url": "/football/italy/serie-a/"},
         {"name": "Ligue 1", "url": "/football/france/ligue-1/"},
-        {"name": "Eredivisie", "url": "/football/netherlands/eredivisie/"},
-        {"name": "Liga Portugal", "url": "/football/portugal/liga-portugal/"},
     ],
 }
 
