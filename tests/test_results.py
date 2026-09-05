@@ -25,6 +25,15 @@ def test_evaluate_pick_correct_score():
     assert evaluate_pick("correct_score", "1 - 1", 2, 1) is False
 
 
+def test_evaluate_pick_double_chance():
+    assert evaluate_pick("double_chance", "1X", 3, 0) is True
+    assert evaluate_pick("double_chance", "1X", 1, 1) is True
+    assert evaluate_pick("double_chance", "1X", 0, 2) is False
+    assert evaluate_pick("double_chance", "X2", 1, 2) is True
+    assert evaluate_pick("double_chance", "12", 3, 0) is True
+    assert evaluate_pick("double_chance", "12", 1, 1) is False
+
+
 def test_evaluate_pick_blank_or_bad():
     assert evaluate_pick("1x2", "", 1, 0) is None
     assert evaluate_pick("1x2", "1", "-", "-") is None

@@ -102,9 +102,15 @@ FOREBET = {
 
 EAGLEPREDICT = {
     "base": "https://eaglepredict.com",
-    "straight_win": "/predictions/straight-win/",
-    "over_under": "/predictions/over-25-goals/",
-    "both_to_score": "/predictions/both-teams-to-score/",
+    "leagues": [
+        {"name": "Premier League", "url": "/predictions/league/england-premier-league/"},
+        {"name": "La Liga", "url": "/predictions/league/spain-la-liga/"},
+        {"name": "Bundesliga", "url": "/predictions/league/germany-bundesliga/"},
+        {"name": "Serie A", "url": "/predictions/league/italy-serie-a/"},
+        {"name": "Ligue 1", "url": "/predictions/league/france-ligue-1/"},
+        {"name": "Eredivisie", "url": "/predictions/league/netherlands-eredivise/"},
+        {"name": "Primeira Liga", "url": "/predictions/league/portugal-primeira-liga/"},
+    ],
 }
 
 WHOSCORED = {

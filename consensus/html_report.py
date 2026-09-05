@@ -334,7 +334,7 @@ def _accuracy_html(grade_result: dict) -> str:
         return '<div class="panel"><h2>Recent Results</h2><p class="empty">No results recorded yet.</p></div>'
 
     sites = sorted({s for (s, m) in stats})
-    markets = ["1x2", "over_under", "btts", "correct_score"]
+    markets = ["1x2", "over_under", "btts", "correct_score", "double_chance"]
     rows = ['<table class="acc-table"><thead><tr><th>Site</th>']
     for m in markets:
         rows.append(f"<th>{_esc(MARKET_LABELS[m])}</th>")

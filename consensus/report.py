@@ -5,13 +5,14 @@ from collections import Counter, defaultdict
 from .config import CANONICAL_DIR, CONSENSUS_DIR
 from .storage import read_csv
 
-MARKETS = ["1x2", "over_under", "btts", "correct_score"]
+MARKETS = ["1x2", "over_under", "btts", "correct_score", "double_chance"]
 SITES_ORDER = ("forebet", "eaglepredict", "whoscored", "flashscore")
 MARKET_LABELS = {
     "1x2": "1X2",
     "over_under": "Over/Under 2.5",
     "btts": "Both To Score",
     "correct_score": "Correct Score",
+    "double_chance": "Double Chance",
 }
 
 

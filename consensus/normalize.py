@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import re
 from pathlib import Path
 
 from .config import CANONICAL_DIR, CONSENSUS_DIR, RAW_DIR, SITES
@@ -55,7 +56,40 @@ def normalize_pick(site: str, market: str, pick: str, home: str, away: str) -> s
         if low in ("no", "btts - no"):
             return "No"
         return pick
+    if market == "double_chance":
+        return normalize_double_chance(pick, home, away)
     return pick
+
+
+def normalize_double_chance(pick: str, home: str, away: str) -> str:
+    """Map 'Double Chance: X or Y' onto the '1X'/'X2'/'12' vocabulary."""
+    low = (pick or "").lower()
+    if "double chance" not in low or ":" not in low:
+        return ""
+    sides = [s.strip() for s in re.split(r"\s+or\s+", low.split(":", 1)[1])]
+    if len(sides) != 2:
+        return ""
+    home_l = (home or "").lower()
+    away_l = (away or "").lower()
+
+    def label(side: str) -> str:
+        side = side.strip()
+        if side == "draw":
+            return "D"
+        if side and (side == home_l or side in home_l or home_l in side):
+            return "H"
+        if side and (side == away_l or side in away_l or away_l in side):
+            return "A"
+        return ""
+
+    outs = {label(s) for s in sides} - {""}
+    if outs == {"H", "D"}:
+        return "1X"
+    if outs == {"A", "D"}:
+        return "X2"
+    if outs == {"H", "A"}:
+        return "12"
+    return ""
 
 
 def _load_aliases() -> dict[tuple[str, str], str]:

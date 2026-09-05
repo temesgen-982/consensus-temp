@@ -1,4 +1,26 @@
 site,source_id,league,date,kickoff,home_team,away_team,market,pick,p1,p2,p3,note,scraped_at
+eaglepredict,8558035,Premier League,2026-09-05,14:30,Newcastle,Bournemouth,double_chance,Double Chance: Newcastle or Draw,,,,1.23,2026-09-05T07:43:12Z
+eaglepredict,8557829,Premier League,2026-09-05,17:00,Fulham,Crystal Palace,over_under,Under  3.5 Goals,,,,1.36,2026-09-05T07:43:12Z
+eaglepredict,8557831,Premier League,2026-09-05,17:00,Nottingham Forest,Tottenham,double_chance,Double Chance: Draw or Tottenham,,,,1.63,2026-09-05T07:43:12Z
+eaglepredict,8557843,Premier League,2026-09-05,17:00,Brighton,Leeds United,over_under,Under  3.5 Goals,,,,1.38,2026-09-05T07:43:12Z
+eaglepredict,8558072,Premier League,2026-09-05,17:00,Manchester City,Coventry City,over_under,Under  4.5 Goals,,,,1.35,2026-09-05T07:43:12Z
+eaglepredict,8558087,Premier League,2026-09-05,17:00,Brentford,Sunderland,double_chance,Double Chance: Brentford or Draw,,,,1.21,2026-09-05T07:43:12Z
+eaglepredict,8558073,Premier League,2026-09-05,19:30,Hull City,Aston Villa,over_under,Under  4.5 Goals,,,,1.10,2026-09-05T07:43:12Z
+eaglepredict,8570434,La Liga,2026-09-05,17:15,Athletic Bilbao,Atlético Madrid,btts,BTTS - Yes,,,,1.68,2026-09-05T07:43:12Z
+eaglepredict,8570401,La Liga,2026-09-05,19:30,Rayo Vallecano,Racing Santander,btts,BTTS - Yes,,,,1.71,2026-09-05T07:43:12Z
+eaglepredict,8570423,La Liga,2026-09-05,22:00,Villarreal,Deportivo La Coruña,btts,BTTS - Yes,,,,1.84,2026-09-05T07:43:12Z
+eaglepredict,8545074,Serie A,2026-09-05,16:00,Fiorentina,Torino,double_chance,Double Chance: Fiorentina or Draw,,,,1.28,2026-09-05T07:43:12Z
+eaglepredict,8545102,Serie A,2026-09-05,19:00,Internazionale,Napoli,over_under,Under  2.5 Goals,,,,1.84,2026-09-05T07:43:12Z
+eaglepredict,8545224,Serie A,2026-09-05,21:45,Roma,Atalanta,over_under,Under  4.5 Goals,,,,1.05,2026-09-05T07:43:12Z
+eaglepredict,8572496,Bundesliga,2026-09-05,16:30,Werder Bremen,RB Leipzig,1x2,RB Leipzig Win,,,,1.80,2026-09-05T07:43:12Z
+eaglepredict,8572557,Bundesliga,2026-09-05,16:30,Paderborn,Freiburg,double_chance,Double Chance: Draw or Freiburg,,,,1.30,2026-09-05T07:43:12Z
+eaglepredict,8572512,Bundesliga,2026-09-05,16:30,Borussia M'gladbach,Elversberg,btts,BTTS - Yes,,,,1.48,2026-09-05T07:43:12Z
+eaglepredict,8572499,Bundesliga,2026-09-05,16:30,Hoffenheim,Borussia Dortmund,over_under,Under  3.5 Goals,,,,1.70,2026-09-05T07:43:12Z
+eaglepredict,8572283,Bundesliga,2026-09-05,16:30,Bayer Leverkusen,Union Berlin,over_under,Under  3.5 Goals,,,,1.78,2026-09-05T07:43:12Z
+eaglepredict,8572558,Bundesliga,2026-09-05,19:30,Schalke 04,Bayern München,btts,BTTS - Yes,,,,1.70,2026-09-05T07:43:12Z
+eaglepredict,8548637,Ligue 1,2026-09-05,18:15,Lens,Lorient,double_chance,Double Chance: Lens or Draw,,,,1.12,2026-09-05T07:43:12Z
+eaglepredict,8548631,Ligue 1,2026-09-05,21:45,Nice,Le Mans,over_under,Under  3.5 Goals,,,,1.31,2026-09-05T07:43:12Z
+eaglepredict,8548633,Ligue 1,2026-09-05,21:45,Le Havre,Brest,double_chance,Double Chance: Le Havre or Draw,,,,1.44,2026-09-05T07:43:12Z
 eaglepredict,8558035,Premier League,2026-09-05,14:30,Newcastle,Bournemouth,double_chance,Double Chance: Newcastle or Draw,,,,1.23,2026-09-05T07:58:32Z
 eaglepredict,8557829,Premier League,2026-09-05,17:00,Fulham,Crystal Palace,over_under,Under  3.5 Goals,,,,1.36,2026-09-05T07:58:32Z
 eaglepredict,8557831,Premier League,2026-09-05,17:00,Nottingham Forest,Tottenham,double_chance,Double Chance: Draw or Tottenham,,,,1.63,2026-09-05T07:58:32Z

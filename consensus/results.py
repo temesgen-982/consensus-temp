@@ -87,6 +87,9 @@ def evaluate_pick(market: str, pick: str, home_goals: int, away_goals: int) -> b
         return pick == actual
     if market == "correct_score":
         return pick == f"{hg} - {ag}"
+    if market == "double_chance":
+        actual = "1" if hg > ag else ("X" if hg == ag else "2")
+        return actual in pick
     return None
 
 
@@ -183,7 +186,7 @@ def render_grade(result: dict) -> str:
     split = result.get("split", {})
 
     sites = sorted({s for (s, m) in stats})
-    markets = ["1x2", "over_under", "btts", "correct_score"]
+    markets = ["1x2", "over_under", "btts", "correct_score", "double_chance"]
 
     lines.append("Accuracy per site/market (hits / total):")
     lines.append(f"  {'market':<14} " + " ".join(f"{s:<14}" for s in sites))

@@ -54,3 +54,30 @@ def test_normalize_pick_over_under():
 def test_normalize_pick_btts():
     assert normalize_pick("eaglepredict", "btts", "BTTS - Yes", "", "") == "Yes"
     assert normalize_pick("eaglepredict", "btts", "BTTS - No", "", "") == "No"
+
+
+def test_normalize_double_chance_1x():
+    assert normalize_pick("eaglepredict", "double_chance",
+                          "Double Chance: Newcastle or Draw", "Newcastle", "Bournemouth") == "1X"
+
+
+def test_normalize_double_chance_x2():
+    assert normalize_pick("eaglepredict", "double_chance",
+                          "Double Chance: Draw or Freiburg", "Paderborn", "Freiburg") == "X2"
+
+
+def test_normalize_double_chance_x2_away_first():
+    assert normalize_pick("eaglepredict", "double_chance",
+                          "Double Chance: Tottenham or Draw", "Nottingham Forest", "Tottenham") == "X2"
+    assert normalize_pick("eaglepredict", "double_chance",
+                          "Double Chance: Draw or Tottenham", "Nottingham Forest", "Tottenham") == "X2"
+
+
+def test_normalize_double_chance_12():
+    assert normalize_pick("eaglepredict", "double_chance",
+                          "Double Chance: Bayern München or Borussia Dortmund", "Bayern München", "Borussia Dortmund") == "12"
+
+
+def test_normalize_double_chance_unmappable():
+    assert normalize_pick("eaglepredict", "double_chance",
+                          "Double Chance: Real Madrid or Tottenham", "Arsenal", "Chelsea") == ""

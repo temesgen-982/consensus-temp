@@ -7,7 +7,6 @@ from bs4 import BeautifulSoup
 
 from ..config import EAGLEPREDICT
 from ..http import FetchError, fetch, utcnow
-from ..markets import derive_from_score
 
 _DAY_RE = re.compile(
     r"\b(?:Mon|Tue|Wed|Thu|Fri|Sat|Sun)\s*-\s*(\d{1,2})\s+([A-Z][a-z]{2})\s+(\d{4})\b"
@@ -57,6 +56,71 @@ def parse_card(card) -> dict:
     }
 
 
+def parse_league(html: str) -> list[dict]:
+    """Parse a per-league predictions page into raw match cards.
+
+    League pages list each fixture once with its *main* prediction, which may
+    be a win tip, a total-goals tip, BTTS, a double chance, etc. Each matchday
+    (usually one section per day) looks like:
+
+        <div class="... bg-primary/30 cursor-pointer card">Premier League Sat - 05 Sep 2026</div>
+        <div class="flex flex-col gap-4">
+          <div class="card bg-base-300 p-4">...pick...</div>
+        </div>
+
+    Unlike the homepage, every league is fully expanded here — collapsed sections
+    render client-side (Alpine.js) so their cards never exist in the fetched HTML.
+    """
+    soup = BeautifulSoup(html, "lxml")
+    out: list[dict] = []
+    for header in soup.select('div[class*="bg-primary/30"]'):
+        container = header.find_next_sibling()
+        if container is None or container.name != "div" or "flex-col" not in (container.get("class") or []):
+            continue
+        header_text = header.get_text(" ", strip=True)
+        league = _DAY_RE.sub("", header_text).strip()
+        date = _parse_date(header_text)
+        if not league or not date:
+            continue
+        for card in container.select("div.card.bg-base-300.p-4"):
+            row = parse_card(card)
+            if not row["source_id"]:
+                continue
+            row["league"] = league
+            row["date"] = date
+            out.append(row)
+    return out
+
+
+def map_pick(row: dict) -> list[tuple[str, str]]:
+    """Map a league page's main prediction onto (market, pick) rows the pipeline knows.
+
+    Prediction styles seen on the site:
+      "{Team} Win"                          -> 1x2
+      "Double Chance: X or Y"               -> double_chance (normalized in normalize.py)
+      "Over/Under N Goals"                  -> over_under
+      "BTTS - Yes"/"BTTS - No"              -> btts
+    """
+    pick = (row.get("pick") or "").strip()
+    low = pick.lower()
+    if not pick:
+        return []
+    if low.endswith("win"):
+        return [("1x2", pick)]
+    if low.startswith("double chance"):
+        return [("double_chance", pick)]
+    if "goal" in low:
+        if low.startswith("over"):
+            return [("over_under", pick)]
+        if low.startswith("under"):
+            return [("over_under", pick)]
+    if low.startswith("btss") or low.startswith("btts"):
+        return [("btts", "BTTS - No" if "no" in low else "BTTS - Yes")]
+    if "both teams to score" in low:
+        return [("btts", "BTTS - Yes" if low.endswith("yes") else "BTTS - No")]
+    return []
+
+
 def parse_market(html: str) -> list[dict]:
     soup = BeautifulSoup(html, "lxml")
     out: list[dict] = []
@@ -79,94 +143,46 @@ def parse_market(html: str) -> list[dict]:
 
 
 def scrape(leagues_only: bool = True) -> list[dict]:
+    """Scrape each top league's page for main predictions per match.
+
+    The per-market pages (/predictions/straight-win/, /predictions/over-25-goals/,
+    /predictions/both-teams-to-score/) only carry a rolling today-window of
+    fixtures, which frequently contains no top-league matches. The league pages
+    list every scheduled fixture once with whichever market the tipster actually
+    picked, and (unlike the homepage) have no client-side collapsed sections.
+    """
+    import time
+
     from ..config import is_top_league
 
     base = EAGLEPREDICT["base"]
-    endpoints = {"straight_win": "straight", "over_under": "over_under", "both_to_score": "btts"}
-    markets: dict[str, list[dict]] = {}
-    for key, name in endpoints.items():
-        try:
-            markets[name] = parse_market(fetch(base + EAGLEPREDICT[key]))
-        except FetchError:
-            # Tolerate a single flaky/down market endpoint (e.g. Cloudflare or a
-            # site 500) so the rest of the site's picks are still captured.
-            print(f"eaglepredict: skipping {key} market (fetch failed)")
-            markets[name] = []
-
-    straight = markets["straight"]
-    over_under = markets["over_under"]
-    btts = markets["btts"]
-
-    st = {r["source_id"]: r for r in straight}
-    ou = {r["source_id"]: r for r in over_under}
-    bt = {r["source_id"]: r for r in btts}
-
     now = utcnow()
     rows: list[dict] = []
-    for source_id in {**st, **ou, **bt}:
-        r = st.get(source_id) or ou.get(source_id) or bt.get(source_id)
-        if leagues_only and not is_top_league("eaglepredict", r["league"]):
+    for cfg in EAGLEPREDICT["leagues"]:
+        time.sleep(2.0)
+        try:
+            html = fetch(base + cfg["url"])
+        except FetchError:
+            print(f"eaglepredict: skipping {cfg['name']} (fetch failed)")
             continue
-        common = {
-            "site": "eaglepredict",
-            "source_id": source_id,
-            "league": r["league"],
-            "date": r["date"],
-            "kickoff": r["kickoff"],
-            "home_team": r["home_team"],
-            "away_team": r["away_team"],
-            "scraped_at": now,
-        }
-        sr = st.get(source_id)
-        if sr and sr["pick"]:
-            rows.append({
-                **common,
-                "market": "1x2",
-                "pick": sr["pick"],
-                "p1": "", "p2": "", "p3": "",
-                "note": sr["odds"],
-            })
-        ou_r = ou.get(source_id)
-        if ou_r and ou_r["pick"]:
-            ou_pick = ou_r["pick"].strip()
-            low = ou_pick.lower()
-            if low.startswith(("over", "under")):
+        for r in parse_league(html):
+            if leagues_only and not is_top_league("eaglepredict", r["league"]):
+                continue
+            for market, pick in map_pick(r):
+                if not pick:
+                    continue
                 rows.append({
-                    **common,
-                    "market": "over_under",
-                    "pick": ou_pick,
+                    "site": "eaglepredict",
+                    "source_id": r["source_id"],
+                    "league": r["league"],
+                    "date": r["date"],
+                    "kickoff": r["kickoff"],
+                    "home_team": r["home_team"],
+                    "away_team": r["away_team"],
+                    "market": market,
+                    "pick": pick,
                     "p1": "", "p2": "", "p3": "",
-                    "note": ou_r["odds"],
+                    "note": r["odds"],
+                    "scraped_at": now,
                 })
-            elif low.startswith("correct score"):
-                # site falls back to a score tip on the goals pages
-                score = re.sub(r"\s+", " ", ou_pick.split(":", 1)[1]).strip()
-                rows.append({
-                    **common,
-                    "market": "correct_score",
-                    "pick": score,
-                    "p1": "", "p2": "", "p3": "",
-                    "note": ou_r["odds"],
-                })
-                parts = re.match(r"^(\d+)\s*-\s*(\d+)$", score)
-                if parts:
-                    for market, pick in derive_from_score(
-                        int(parts.group(1)), int(parts.group(2))
-                    ).items():
-                        rows.append({
-                            **common,
-                            "market": market,
-                            "pick": pick,
-                            "p1": "", "p2": "", "p3": "",
-                            "note": ou_r["odds"],
-                        })
-        bt_r = bt.get(source_id)
-        if bt_r and bt_r["pick"] in ("BTTS - Yes", "BTTS - No"):
-            rows.append({
-                **common,
-                "market": "btts",
-                "pick": bt_r["pick"],
-                "p1": "", "p2": "", "p3": "",
-                "note": bt_r["odds"],
-            })
     return rows
