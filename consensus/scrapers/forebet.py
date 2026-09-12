@@ -101,9 +101,9 @@ def scrape(leagues_only: bool = True) -> list[dict]:
     seen: set[tuple[str, str]] = set()
 
     for league_path in FOREBET["leagues"]:
-        predictions = parse_predictions(fetch(base + league_path))
-        over_under = parse_market(fetch(base + league_path + "/under-over"))
-        btts = parse_market(fetch(base + league_path + "/bothtoscore"))
+        predictions = parse_predictions(fetch(base + league_path, retries=6, delay=2.0))
+        over_under = parse_market(fetch(base + league_path + "/under-over", retries=6, delay=2.0))
+        btts = parse_market(fetch(base + league_path + "/bothtoscore", retries=6, delay=2.0))
 
         for fid, data in predictions.items():
             if leagues_only and not is_top_league("forebet", data["league"]):

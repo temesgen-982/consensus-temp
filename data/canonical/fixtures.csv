@@ -228,16 +228,82 @@ fixture_id,league,date,kickoff,home_id,away_id
 2026-08-23|angers|vs|lille,Ligue 1,2026-08-23,23/08/2026 15:00,angers,lille
 2026-08-23|le-havre|vs|monaco,Ligue 1,2026-08-23,23/08/2026 17:15,le-havre,monaco
 2026-08-23|rennes|vs|psg,Ligue 1,2026-08-23,23/08/2026 20:45,rennes,psg
-2026-09-08|nijmegen|vs|excelsior,Eredivisie,2026-09-08,19:45,nijmegen,excelsior
+2026-09-12|liverpool|vs|fulham,Premier League,2026-09-12,17:00,liverpool,fulham
+2026-09-12|aston-villa|vs|nottingham-forest,Premier League,2026-09-12,17:00,aston-villa,nottingham-forest
+2026-09-12|chelsea|vs|hull,Premier League,2026-09-12,17:00,chelsea,hull
+2026-09-12|crystal-palace|vs|ipswich,Premier League,2026-09-12,17:00,crystal-palace,ipswich
+2026-09-12|bournemouth|vs|brentford,Premier League,2026-09-12,17:00,bournemouth,brentford
+2026-09-12|tottenham|vs|everton,Premier League,2026-09-12,19:30,tottenham,everton
+2026-09-12|sunderland|vs|arsenal,Premier League,2026-09-12,22:00,sunderland,arsenal
+2026-09-13|coventry|vs|brighton,Premier League,2026-09-13,16:00,coventry,brighton
+2026-09-13|manchester-united|vs|manchester-city,Premier League,2026-09-13,18:30,manchester-united,manchester-city
+2026-09-14|leeds-united|vs|newcastle,Premier League,2026-09-14,22:00,leeds-united,newcastle
+2026-09-12|racing-santander|vs|deportivo-alav-s,La Liga,2026-09-12,15:00,racing-santander,deportivo-alav-s
+2026-09-12|osasuna|vs|espanyol,La Liga,2026-09-12,17:15,osasuna,espanyol
+2026-09-12|athletic-bilbao|vs|elche,La Liga,2026-09-12,19:30,athletic-bilbao,elche
+2026-09-12|real-madrid|vs|rayo-vallecano,La Liga,2026-09-12,22:00,real-madrid,rayo-vallecano
+2026-09-13|celta-vigo|vs|m-laga-cf,La Liga,2026-09-13,15:00,celta-vigo,m-laga-cf
+2026-09-13|levante|vs|barcelona,La Liga,2026-09-13,17:15,levante,barcelona
+2026-09-13|getafe|vs|deportivo-la-coru-a,La Liga,2026-09-13,19:30,getafe,deportivo-la-coru-a
+2026-09-13|real-sociedad|vs|atl-tico-madrid,La Liga,2026-09-13,22:00,real-sociedad,atl-tico-madrid
+2026-09-14|villarreal|vs|real-betis,La Liga,2026-09-14,22:00,villarreal,real-betis
+2026-09-12|borussia-dortmund|vs|paderborn,Bundesliga,2026-09-12,16:30,borussia-dortmund,paderborn
+2026-09-12|hoffenheim|vs|stuttgart,Bundesliga,2026-09-12,16:30,hoffenheim,stuttgart
+2026-09-12|mainz-05|vs|eintracht-frankfurt,Bundesliga,2026-09-12,16:30,mainz-05,eintracht-frankfurt
+2026-09-12|freiburg|vs|borussia-m-gladbach,Bundesliga,2026-09-12,16:30,freiburg,borussia-m-gladbach
+2026-09-12|augsburg|vs|bayer-leverkusen,Bundesliga,2026-09-12,16:30,augsburg,bayer-leverkusen
+2026-09-12|fc-koln|vs|werder-bremen,Bundesliga,2026-09-12,19:30,fc-koln,werder-bremen
+2026-09-13|rb-leipzig|vs|hamburger-sv,Bundesliga,2026-09-13,16:30,rb-leipzig,hamburger-sv
+2026-09-13|elversberg|vs|bayern-m-nchen,Bundesliga,2026-09-13,18:30,elversberg,bayern-m-nchen
+2026-09-12|genoa|vs|frosinone,Serie A,2026-09-12,16:00,genoa,frosinone
+2026-09-12|lazio|vs|milan,Serie A,2026-09-12,19:00,lazio,milan
+2026-09-12|atalanta|vs|cagliari,Serie A,2026-09-12,21:45,atalanta,cagliari
+2026-09-13|lecce|vs|monza,Serie A,2026-09-13,16:00,lecce,monza
+2026-09-13|napoli|vs|bologna,Serie A,2026-09-13,19:00,napoli,bologna
+2026-09-13|sassuolo|vs|juventus,Serie A,2026-09-13,21:45,sassuolo,juventus
+2026-09-14|torino|vs|roma,Serie A,2026-09-14,19:30,torino,roma
+2026-09-14|como|vs|parma,Serie A,2026-09-14,19:30,como,parma
+2026-09-14|inter|vs|udinese,Serie A,2026-09-14,21:45,inter,udinese
+2026-09-12|strasbourg|vs|monaco,Ligue 1,2026-09-12,18:15,strasbourg,monaco
+2026-09-12|paris-fc|vs|lyon,Ligue 1,2026-09-12,21:45,paris-fc,lyon
+2026-09-12|lorient|vs|toulouse,Ligue 1,2026-09-12,21:45,lorient,toulouse
+2026-09-12|le-havre|vs|angers,Ligue 1,2026-09-12,21:45,le-havre,angers
+2026-09-12|auxerre|vs|nice,Ligue 1,2026-09-12,21:45,auxerre,nice
+2026-09-13|lille|vs|troyes,Ligue 1,2026-09-13,16:00,lille,troyes
+2026-09-13|le-mans|vs|lens,Ligue 1,2026-09-13,18:15,le-mans,lens
+2026-09-13|brest|vs|psg,Ligue 1,2026-09-13,21:45,brest,psg
+2026-09-12|twente|vs|ado-den-haag,Eredivisie,2026-09-12,17:30,twente,ado-den-haag
+2026-09-12|go-ahead-eagles|vs|groningen,Eredivisie,2026-09-12,19:45,go-ahead-eagles,groningen
+2026-09-12|fortuna-sittard|vs|ajax,Eredivisie,2026-09-12,21:00,fortuna-sittard,ajax
+2026-09-12|cambuur|vs|nijmegen,Eredivisie,2026-09-12,22:00,cambuur,nijmegen
+2026-09-13|excelsior|vs|utrecht,Eredivisie,2026-09-13,13:15,excelsior,utrecht
+2026-09-13|heerenveen|vs|sc-telstar,Eredivisie,2026-09-13,15:30,heerenveen,sc-telstar
+2026-09-13|pec-zwolle|vs|feyenoord,Eredivisie,2026-09-13,17:45,pec-zwolle,feyenoord
+2026-09-13|psv-eindhoven|vs|sparta-rotterdam,Eredivisie,2026-09-13,21:00,psv-eindhoven,sparta-rotterdam
+2026-09-12|nacional-madeira|vs|fc-alverca,Primeira Liga,2026-09-12,17:30,nacional-madeira,fc-alverca
+2026-09-12|casa-pia-ac|vs|porto,Primeira Liga,2026-09-12,20:00,casa-pia-ac,porto
+2026-09-12|acad-mico-viseu|vs|vit-ria,Primeira Liga,2026-09-12,22:30,acad-mico-viseu,vit-ria
+2026-09-13|sl-benfica|vs|gil-vicente,Primeira Liga,2026-09-13,20:00,sl-benfica,gil-vicente
+2026-09-13|fc-arouca|vs|santa-clara,Primeira Liga,2026-09-13,20:00,fc-arouca,santa-clara
+2026-09-13|fc-famalic-o|vs|sporting-cp,Primeira Liga,2026-09-13,22:30,fc-famalic-o,sporting-cp
+2026-09-14|rio-ave|vs|estrela-amadora,Primeira Liga,2026-09-14,20:45,rio-ave,estrela-amadora
+2026-09-14|moreirense-fc|vs|mar-timo,Primeira Liga,2026-09-14,22:15,moreirense-fc,mar-timo
+2026-09-14|sporting-braga|vs|gd-estoril,Primeira Liga,2026-09-14,22:45,sporting-braga,gd-estoril
 2026-08-23|psg|vs|rennes,Ligue 1,2026-08-23,21:45,psg,rennes
 2026-08-28|bayern-m-nchen|vs|stuttgart,Bundesliga,2026-08-28,21:30,bayern-m-nchen,stuttgart
 2026-09-05|schalke-04|vs|bayern-m-nchen,Bundesliga,2026-09-05,19:30,schalke-04,bayern-m-nchen
+2026-09-08|nijmegen|vs|excelsior,Eredivisie,2026-09-08,19:45,nijmegen,excelsior
+2026-09-12|hoffenheim|vs|vfb-stuttgart,Bundesliga,2026-09-12,14:30,hoffenheim,vfb-stuttgart
+2026-09-13|elversberg|vs|bayern-munich,Bundesliga,2026-09-13,16:30,elversberg,bayern-munich
 2026-09-04|vfb-stuttgart|vs|fc-koln,Bundesliga,2026-09-04,19:30,vfb-stuttgart,fc-koln
-2026-09-06|alaves|vs|osasuna,LaLiga,2026-09-06,2026-09-06 16:30,alaves,osasuna
-2026-09-05|b-monchengladbach|vs|elversberg,Bundesliga,2026-09-05,2026-09-05 13:30,b-monchengladbach,elversberg
+2026-09-12|freiburg|vs|b-monchengladbach,Bundesliga,2026-09-12,2026-09-12 13:30,freiburg,b-monchengladbach
 2026-08-28|groningen|vs|sittard,Eredivisie,2026-08-28,2026-08-28 18:00,groningen,sittard
-2026-09-06|alav-s|vs|osasuna,LaLiga,2026-09-06,19:30 - Sun 06 Sep,alav-s,osasuna
-2026-09-06|gil-vicente|vs|academico-viseu,Liga Portugal,2026-09-06,22:30 - Sun 06 Sep,gil-vicente,academico-viseu
+2026-09-05|b-monchengladbach|vs|elversberg,Bundesliga,2026-09-05,2026-09-05 13:30,b-monchengladbach,elversberg
+2026-09-06|alaves|vs|osasuna,LaLiga,2026-09-06,2026-09-06 16:30,alaves,osasuna
+2026-09-12|racing-santander|vs|alav-s,LaLiga,2026-09-12,15:00 - Sat 12 Sep,racing-santander,alav-s
+2026-09-12|academico-viseu|vs|vit-ria,Liga Portugal,2026-09-12,22:30 - Sat 12 Sep,academico-viseu,vit-ria
 2026-08-28|alav-s|vs|villarreal,LaLiga,2026-08-28,22:30 - Fri 28 Aug,alav-s,villarreal
+2026-09-06|alav-s|vs|osasuna,LaLiga,2026-09-06,19:30 - Sun 06 Sep,alav-s,osasuna
 2026-09-05|willem-ii|vs|excelsior,Eredivisie,2026-09-05,22:00 - Sat 05 Sep,willem-ii,excelsior
 2026-09-05|maritimo|vs|sl-benfica,Liga Portugal,2026-09-05,20:00 - Sat 05 Sep,maritimo,sl-benfica
+2026-09-06|gil-vicente|vs|academico-viseu,Liga Portugal,2026-09-06,22:30 - Sun 06 Sep,gil-vicente,academico-viseu
