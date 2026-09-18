@@ -1,6 +1,8 @@
 from __future__ import annotations
 
+import random
 import re
+import time
 
 from bs4 import BeautifulSoup
 
@@ -92,18 +94,45 @@ def parse_market(html: str) -> dict:
     return out
 
 
+def _pace(lo: float = 2.0, hi: float = 5.0) -> None:
+    time.sleep(random.uniform(lo, hi))
+
+
+def _pace_and_wait(secs: float) -> None:
+    time.sleep(secs + random.uniform(2.0, 6.0))
+
+
+def _host(league_path: str) -> str:
+    return "https://m.forebet.com" if random.random() < 0.5 else "https://www.forebet.com"
+
+
 def scrape(leagues_only: bool = True) -> list[dict]:
     from ..config import is_top_league
 
-    base = FOREBET["base"]
     now = utcnow()
     rows = []
     seen: set[tuple[str, str]] = set()
 
     for league_path in FOREBET["leagues"]:
-        predictions = parse_predictions(fetch(base + league_path, retries=6, delay=2.0))
-        over_under = parse_market(fetch(base + league_path + "/under-over", retries=6, delay=2.0))
-        btts = parse_market(fetch(base + league_path + "/bothtoscore", retries=6, delay=2.0))
+        base = _host(league_path)
+        _pace(4.0, 8.0)
+        done = False
+        for attempt in range(3):
+            try:
+                predictions = parse_predictions(fetch(base + league_path, retries=2, delay=1.0))
+                _pace()
+                over_under = parse_market(fetch(base + league_path + "/under-over", retries=2, delay=1.0))
+                _pace()
+                btts = parse_market(fetch(base + league_path + "/bothtoscore", retries=2, delay=1.0))
+                done = True
+                break
+            except Exception as exc:  # noqa: BLE001
+                print(f"  forebet: attempt {attempt+1} failed for {league_path.split('/')[-1]}: {exc.__class__.__name__}; cooling down")
+                _pace_and_wait(90.0 if attempt == 0 else 180.0)
+        if not done:
+            print(f"  forebet: skipping league {league_path.split('/')[-1]} (hostile window)")
+            continue
+        print(f"  forebet: {league_path.split('/')[-1]}: {len(predictions)} fixtures")
 
         for fid, data in predictions.items():
             if leagues_only and not is_top_league("forebet", data["league"]):
