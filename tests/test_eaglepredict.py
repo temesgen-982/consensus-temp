@@ -138,3 +138,11 @@ def test_map_pick_variants():
 def test_map_pick_unrecognized():
     assert map_pick({"pick": "Both teams to Score - No"}) == [("btts", "BTTS - No")]
     assert map_pick({"pick": "Corner Kick Magic"}) == []
+
+
+def test_map_pick_correct_score():
+    assert map_pick({"pick": "Correct Score: 1 - 1"}) == [("correct_score", "1 - 1")]
+    assert map_pick({"pick": "Correct Score: 2 - 0"}) == [("correct_score", "2 - 0")]
+    assert map_pick({"pick": "Correct Score: 1  -  1"}) == [("correct_score", "1 - 1")]
+    assert map_pick({"pick": "Correct Score: 1-1"}) == [("correct_score", "1 - 1")]
+    assert map_pick({"pick": "Correct Score: whatever"}) == []

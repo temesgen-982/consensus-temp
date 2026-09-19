@@ -100,11 +100,18 @@ def map_pick(row: dict) -> list[tuple[str, str]]:
       "Double Chance: X or Y"               -> double_chance (normalized in normalize.py)
       "Over/Under N Goals"                  -> over_under
       "BTTS - Yes"/"BTTS - No"              -> btts
+      "Correct Score: N - M"                -> correct_score (normalized to "N - M")
     """
     pick = (row.get("pick") or "").strip()
     low = pick.lower()
     if not pick:
         return []
+    if low.startswith("correct score"):
+        score = re.sub(r"\s+", " ", low.split(":", 1)[1]).strip()
+        m = re.fullmatch(r"(\d+)\s*-\s*(\d+)", score)
+        if not m:
+            return []
+        return [("correct_score", f"{m.group(1)} - {m.group(2)}")]
     if low.endswith("win"):
         return [("1x2", pick)]
     if low.startswith("double chance"):
