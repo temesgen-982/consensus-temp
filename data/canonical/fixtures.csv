@@ -359,7 +359,6 @@ fixture_id,league,date,kickoff,home_id,away_id
 2026-09-07|gd-estoril|vs|fc-arouca,Liga Portugal,2026-09-07,07/09/2026 21:15,gd-estoril,fc-arouca
 2026-09-07|getafe|vs|celta-vigo,La Liga,2026-09-07,07/09/2026 19:00,getafe,celta-vigo
 2026-09-07|elche|vs|real-sociedad,La Liga,2026-09-07,07/09/2026 21:30,elche,real-sociedad
-2026-09-18|bayern-m-nchen|vs|union-berlin,Bundesliga,2026-09-18,21:30,bayern-m-nchen,union-berlin
 2026-08-23|psg|vs|rennes,Ligue 1,2026-08-23,21:45,psg,rennes
 2026-08-28|bayern-m-nchen|vs|stuttgart,Bundesliga,2026-08-28,21:30,bayern-m-nchen,stuttgart
 2026-09-05|schalke-04|vs|bayern-m-nchen,Bundesliga,2026-09-05,19:30,schalke-04,bayern-m-nchen
@@ -374,6 +373,7 @@ fixture_id,league,date,kickoff,home_id,away_id
 2026-09-13|real-sociedad|vs|atl-tico-madrid,La Liga,2026-09-13,22:00,real-sociedad,atl-tico-madrid
 2026-09-14|villarreal|vs|real-betis,La Liga,2026-09-14,22:00,villarreal,real-betis
 2026-09-13|elversberg|vs|bayern-m-nchen,Bundesliga,2026-09-13,18:30,elversberg,bayern-m-nchen
+2026-09-18|bayern-m-nchen|vs|union-berlin,Bundesliga,2026-09-18,21:30,bayern-m-nchen,union-berlin
 2026-09-19|vfb-stuttgart|vs|borussia-dortmund,Bundesliga,2026-09-19,17:30,vfb-stuttgart,borussia-dortmund
 2026-09-04|vfb-stuttgart|vs|fc-koln,Bundesliga,2026-09-04,19:30,vfb-stuttgart,fc-koln
 2026-09-12|hoffenheim|vs|vfb-stuttgart,Bundesliga,2026-09-12,14:30,hoffenheim,vfb-stuttgart

@@ -1439,23 +1439,22 @@ fixture_id,league,date,kickoff,home,away,site,market,pick,pick_norm,p1,p2,p3,not
 2026-09-07|elche|vs|real-sociedad,La Liga,2026-09-07,07/09/2026 21:30,Elche,Real Sociedad,forebet,correct_score,0 - 0,0 - 0,,,,avg=2.45,2026-09-04T08:37:17Z
 2026-09-07|elche|vs|real-sociedad,La Liga,2026-09-07,07/09/2026 21:30,Elche,Real Sociedad,forebet,over_under,Under,Under,51,49,,,2026-09-04T08:37:17Z
 2026-09-07|elche|vs|real-sociedad,La Liga,2026-09-07,07/09/2026 21:30,Elche,Real Sociedad,forebet,btts,No,No,53,47,,,2026-09-04T08:37:17Z
-2026-09-19|newcastle|vs|hull,Premier League,2026-09-19,17:00,Newcastle,Hull City,eaglepredict,over_under,Over  2.5 Goals,Over,,,,1.76,2026-09-18T13:44:28Z
-2026-09-19|sevilla|vs|barcelona,La Liga,2026-09-19,22:00,Sevilla,Barcelona,eaglepredict,1x2,Barcelona Win,2,,,,1.19,2026-09-18T13:44:28Z
-2026-09-20|villarreal|vs|levante,La Liga,2026-09-20,19:30,Villarreal,Levante UD,eaglepredict,over_under,Under  3.5 Goals,Under,,,,1.62,2026-09-18T13:44:28Z
-2026-09-18|bayern-m-nchen|vs|union-berlin,Bundesliga,2026-09-18,21:30,Bayern München,Union Berlin,eaglepredict,1x2,Bayern München Win,1,,,,1.02,2026-09-18T13:44:28Z
-2026-09-19|eintracht-frankfurt|vs|freiburg,Bundesliga,2026-09-19,16:30,Eintracht Frankfurt,Freiburg,eaglepredict,double_chance,Double Chance: Draw or Freiburg,X2,,,,1.65,2026-09-18T13:44:28Z
-2026-09-19|werder-bremen|vs|augsburg,Bundesliga,2026-09-19,16:30,Werder Bremen,Augsburg,eaglepredict,over_under,Over  2.5 Goals,Over,,,,1.36,2026-09-18T13:44:28Z
-2026-09-19|stuttgart|vs|borussia-dortmund,Bundesliga,2026-09-19,19:30,Stuttgart,Borussia Dortmund,eaglepredict,over_under,Under  4.5 Goals,Under,,,,1.31,2026-09-18T13:44:28Z
-2026-09-20|bayer-leverkusen|vs|rb-leipzig,Bundesliga,2026-09-20,16:30,Bayer Leverkusen,RB Leipzig,eaglepredict,over_under,Under  4.5 Goals,Under,,,,1.40,2026-09-18T13:44:28Z
-2026-09-20|paderborn|vs|hoffenheim,Bundesliga,2026-09-20,20:30,Paderborn,Hoffenheim,eaglepredict,over_under,Over  2.5 Goals,Over,,,,1.37,2026-09-18T13:44:28Z
-2026-09-20|frosinone|vs|como,Serie A,2026-09-20,16:00,Frosinone,Como,eaglepredict,over_under,Under  4.5 Goals,Under,,,,1.33,2026-09-18T13:44:28Z
-2026-09-20|olympique-marseille|vs|psg,Ligue 1,2026-09-20,21:45,Olympique Marseille,PSG,eaglepredict,over_under,Under  4.5 Goals,Under,,,,1.35,2026-09-18T13:44:28Z
-2026-09-19|ajax|vs|excelsior,Eredivisie,2026-09-19,21:00,Ajax,Excelsior,eaglepredict,over_under,Over  2.5 Goals,Over,,,,1.27,2026-09-18T13:44:28Z
-2026-09-20|feyenoord|vs|utrecht,Eredivisie,2026-09-20,13:15,Feyenoord,Utrecht,eaglepredict,1x2,Feyenoord Win,1,,,,1.21,2026-09-18T13:44:28Z
-2026-09-20|twente|vs|psv-eindhoven,Eredivisie,2026-09-20,15:30,Twente,PSV,eaglepredict,double_chance,Double Chance: Draw or PSV,X2,,,,1.40,2026-09-18T13:44:28Z
-2026-09-20|az-alkmaar|vs|sc-telstar,Eredivisie,2026-09-20,15:30,AZ,Telstar,eaglepredict,1x2,AZ Win,1,,,,1.17,2026-09-18T13:44:28Z
-2026-09-20|nijmegen|vs|go-ahead-eagles,Eredivisie,2026-09-20,17:45,NEC,Go Ahead Eagles,eaglepredict,double_chance,Double Chance: NEC or Draw,1X,,,,1.30,2026-09-18T13:44:28Z
-2026-09-19|sporting-cp|vs|fc-arouca,Primeira Liga,2026-09-19,22:30,Sporting CP,FC Arouca,eaglepredict,1x2,Sporting CP Win,1,,,,1.15,2026-09-18T13:44:28Z
+2026-09-19|newcastle|vs|hull,Premier League,2026-09-19,17:00,Newcastle,Hull City,eaglepredict,over_under,Over  2.5 Goals,Over,,,,1.76,2026-09-19T07:59:35Z
+2026-09-19|sevilla|vs|barcelona,La Liga,2026-09-19,22:00,Sevilla,Barcelona,eaglepredict,1x2,Barcelona Win,2,,,,1.24,2026-09-19T07:59:35Z
+2026-09-20|villarreal|vs|levante,La Liga,2026-09-20,19:30,Villarreal,Levante UD,eaglepredict,over_under,Under  3.5 Goals,Under,,,,1.66,2026-09-19T07:59:35Z
+2026-09-19|eintracht-frankfurt|vs|freiburg,Bundesliga,2026-09-19,16:30,Eintracht Frankfurt,Freiburg,eaglepredict,double_chance,Double Chance: Draw or Freiburg,X2,,,,1.65,2026-09-19T07:59:35Z
+2026-09-19|werder-bremen|vs|augsburg,Bundesliga,2026-09-19,16:30,Werder Bremen,Augsburg,eaglepredict,over_under,Over  2.5 Goals,Over,,,,1.44,2026-09-19T07:59:35Z
+2026-09-19|stuttgart|vs|borussia-dortmund,Bundesliga,2026-09-19,19:30,Stuttgart,Borussia Dortmund,eaglepredict,over_under,Under  4.5 Goals,Under,,,,1.32,2026-09-19T07:59:35Z
+2026-09-20|bayer-leverkusen|vs|rb-leipzig,Bundesliga,2026-09-20,16:30,Bayer Leverkusen,RB Leipzig,eaglepredict,over_under,Under  4.5 Goals,Under,,,,1.48,2026-09-19T07:59:35Z
+2026-09-20|paderborn|vs|hoffenheim,Bundesliga,2026-09-20,20:30,Paderborn,Hoffenheim,eaglepredict,over_under,Over  2.5 Goals,Over,,,,1.37,2026-09-19T07:59:35Z
+2026-09-20|frosinone|vs|como,Serie A,2026-09-20,16:00,Frosinone,Como,eaglepredict,over_under,Under  4.5 Goals,Under,,,,1.22,2026-09-19T07:59:35Z
+2026-09-20|olympique-marseille|vs|psg,Ligue 1,2026-09-20,21:45,Olympique Marseille,PSG,eaglepredict,over_under,Under  4.5 Goals,Under,,,,1.37,2026-09-19T07:59:35Z
+2026-09-19|ajax|vs|excelsior,Eredivisie,2026-09-19,21:00,Ajax,Excelsior,eaglepredict,over_under,Over  2.5 Goals,Over,,,,1.22,2026-09-19T07:59:35Z
+2026-09-20|feyenoord|vs|utrecht,Eredivisie,2026-09-20,13:15,Feyenoord,Utrecht,eaglepredict,1x2,Feyenoord Win,1,,,,1.21,2026-09-19T07:59:35Z
+2026-09-20|twente|vs|psv-eindhoven,Eredivisie,2026-09-20,15:30,Twente,PSV,eaglepredict,double_chance,Double Chance: Draw or PSV,X2,,,,1.40,2026-09-19T07:59:35Z
+2026-09-20|az-alkmaar|vs|sc-telstar,Eredivisie,2026-09-20,15:30,AZ,Telstar,eaglepredict,1x2,AZ Win,1,,,,1.18,2026-09-19T07:59:35Z
+2026-09-20|nijmegen|vs|go-ahead-eagles,Eredivisie,2026-09-20,17:45,NEC,Go Ahead Eagles,eaglepredict,double_chance,Double Chance: NEC or Draw,1X,,,,1.30,2026-09-19T07:59:35Z
+2026-09-19|sporting-cp|vs|fc-arouca,Primeira Liga,2026-09-19,22:30,Sporting CP,FC Arouca,eaglepredict,1x2,Sporting CP Win,1,,,,1.15,2026-09-19T07:59:35Z
 2026-08-16|ado-den-haag|vs|groningen,Eredivisie,2026-08-16,13:15,ADO Den Haag,Groningen,eaglepredict,1x2,ADO Den Haag Win,1,,,,1.83,2026-08-16T10:35:42Z
 2026-08-16|ado-den-haag|vs|groningen,Eredivisie,2026-08-16,13:15,ADO Den Haag,Groningen,eaglepredict,over_under,Over  2.5 Goals,Over,,,,1.53,2026-08-16T10:35:42Z
 2026-08-16|feyenoord|vs|go-ahead-eagles,Eredivisie,2026-08-16,15:30,Feyenoord,Go Ahead Eagles,eaglepredict,1x2,Feyenoord Win,1,,,,1.18,2026-08-16T10:35:42Z
@@ -1822,6 +1821,7 @@ fixture_id,league,date,kickoff,home,away,site,market,pick,pick_norm,p1,p2,p3,not
 2026-09-14|rio-ave|vs|estrela-amadora,Primeira Liga,2026-09-14,20:45,Rio Ave FC,Estrela Amadora,eaglepredict,double_chance,Double Chance: Draw or Estrela Amadora,X2,,,,1.39,2026-09-12T13:14:07Z
 2026-09-14|moreirense-fc|vs|mar-timo,Primeira Liga,2026-09-14,22:15,Moreirense FC,CS Marítimo,eaglepredict,over_under,Under  3.5 Goals,Under,,,,1.20,2026-09-12T13:14:07Z
 2026-09-14|sporting-braga|vs|gd-estoril,Primeira Liga,2026-09-14,22:45,Sporting Braga,GD Estoril Praia,eaglepredict,over_under,Under  3.5 Goals,Under,,,,1.38,2026-09-12T13:14:07Z
+2026-09-18|bayern-m-nchen|vs|union-berlin,Bundesliga,2026-09-18,21:30,Bayern München,Union Berlin,eaglepredict,1x2,Bayern München Win,1,,,,1.02,2026-09-18T13:44:28Z
 2026-09-18|brentford|vs|chelsea,Premier League,2026-09-18,20:00,Brentford,Chelsea,whoscored,1x2,2,2,,,,2.45,2026-09-18T14:09:49Z
 2026-09-18|brentford|vs|chelsea,Premier League,2026-09-18,20:00,Brentford,Chelsea,whoscored,over_under,Over,Over,,,,1.44,2026-09-18T14:09:49Z
 2026-09-18|brentford|vs|chelsea,Premier League,2026-09-18,20:00,Brentford,Chelsea,whoscored,btts,Yes,Yes,,,,,2026-09-18T14:09:49Z
