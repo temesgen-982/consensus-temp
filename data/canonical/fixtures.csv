@@ -382,8 +382,7 @@ fixture_id,league,date,kickoff,home_id,away_id
 2026-09-05|b-monchengladbach|vs|elversberg,Bundesliga,2026-09-05,2026-09-05 13:30,b-monchengladbach,elversberg
 2026-09-06|alaves|vs|osasuna,LaLiga,2026-09-06,2026-09-06 16:30,alaves,osasuna
 2026-09-12|freiburg|vs|b-monchengladbach,Bundesliga,2026-09-12,2026-09-12 13:30,freiburg,b-monchengladbach
-2026-09-19|willem-ii|vs|fortuna-sittard,Eredivisie,2026-09-19,22:00 - Sat 19 Sep,willem-ii,fortuna-sittard
-2026-09-19|gil-vicente|vs|maritimo,Liga Portugal,2026-09-19,17:30 - Sat 19 Sep,gil-vicente,maritimo
+2026-09-20|estrela-amadora|vs|academico-viseu,Liga Portugal,2026-09-20,17:30 - Sun 20 Sep,estrela-amadora,academico-viseu
 2026-08-28|alav-s|vs|villarreal,LaLiga,2026-08-28,22:30 - Fri 28 Aug,alav-s,villarreal
 2026-09-06|alav-s|vs|osasuna,LaLiga,2026-09-06,19:30 - Sun 06 Sep,alav-s,osasuna
 2026-09-05|willem-ii|vs|excelsior,Eredivisie,2026-09-05,22:00 - Sat 05 Sep,willem-ii,excelsior
@@ -391,3 +390,5 @@ fixture_id,league,date,kickoff,home_id,away_id
 2026-09-06|gil-vicente|vs|academico-viseu,Liga Portugal,2026-09-06,22:30 - Sun 06 Sep,gil-vicente,academico-viseu
 2026-09-12|racing-santander|vs|alav-s,LaLiga,2026-09-12,15:00 - Sat 12 Sep,racing-santander,alav-s
 2026-09-12|academico-viseu|vs|vit-ria,Liga Portugal,2026-09-12,22:30 - Sat 12 Sep,academico-viseu,vit-ria
+2026-09-19|willem-ii|vs|fortuna-sittard,Eredivisie,2026-09-19,22:00 - Sat 19 Sep,willem-ii,fortuna-sittard
+2026-09-19|gil-vicente|vs|maritimo,Liga Portugal,2026-09-19,17:30 - Sat 19 Sep,gil-vicente,maritimo
