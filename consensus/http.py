@@ -26,6 +26,9 @@ _MIN_BODY = 2000
 # /cdn-cgi/challenge-platform script in the DOM, so that marker is present on
 # pages that are otherwise perfectly loadable.
 _CF_MARKERS = ("Just a moment", "__cf_chl", "cf-chl")
+# Hosts where curl's TLS fingerprint is reliably rejected (403) — skip straight
+# to the browser instead of burning retries.
+_BROWSER_ONLY_HOSTS = ("forebet.com", "www.forebet.com", "m.forebet.com", "whoscored.com", "www.whoscored.com")
 
 
 def _is_challenge(body: str) -> bool:
@@ -87,7 +90,9 @@ def fetch(url: str, *, headers: dict | None = None, retries: int = 3, delay: flo
     intermittently opens a hostile window for a few minutes, so the browser path
     retries with growing backoff to wait it out."""
     last_exc: Exception | None = None
-    for attempt in range(retries):
+    host = _host(url)
+    try_curl = host not in _BROWSER_ONLY_HOSTS
+    for attempt in range(retries if try_curl else 0):
         try:
             body = _fetch_curl(url, headers)
             if body is not None and len(body) >= _MIN_BODY and not _is_challenge(body):
@@ -95,7 +100,9 @@ def fetch(url: str, *, headers: dict | None = None, retries: int = 3, delay: flo
         except Exception as exc:  # noqa: BLE001
             last_exc = exc
         time.sleep(delay * (attempt + 1))
-    for i, backoff in enumerate((10, 45)):
+    # Browser-only hosts get a slightly tighter deadline; a failed solve there
+    # is almost always a hostile window that a longer poll won't clear.
+    for i, backoff in enumerate((10, 45) if try_curl else (5, 30)):
         if i:
             time.sleep(backoff)
         body = _fetch_playwright(url, save_cookies=True)
@@ -141,7 +148,7 @@ def _fetch_playwright(url: str, *, save_cookies: bool = False) -> str | None:
     page = context.new_page()
     try:
         page.goto(url, wait_until="domcontentloaded", timeout=60000)
-        deadline = time.monotonic() + 50
+        deadline = time.monotonic() + 25
         solved = False
         last_body = ""
         stable = 0
@@ -153,12 +160,12 @@ def _fetch_playwright(url: str, *, save_cookies: bool = False) -> str | None:
                 solved = True
                 if body == last_body:
                     stable += 1
-                    if stable >= 3:
+                    if stable >= 2:
                         break
                 else:
                     stable = 0
             last_body = body
-            time.sleep(2.0)
+            time.sleep(0.75)
         body = page.content() if solved else last_body
         if solved and len(body) >= _MIN_BODY:
             if save_cookies:

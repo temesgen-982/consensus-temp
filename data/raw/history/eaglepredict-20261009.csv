@@ -1,0 +1,67 @@
+site,source_id,league,date,kickoff,home_team,away_team,market,pick,p1,p2,p3,note,scraped_at
+eaglepredict,8557837,Premier League,2026-10-10,14:30,Arsenal,Leeds United,correct_score,2 - 0,,,,6.00,2026-10-09T09:08:56Z
+eaglepredict,8557804,Premier League,2026-10-10,17:00,Aston Villa,Brentford,correct_score,1 - 1,,,,6.00,2026-10-09T09:08:56Z
+eaglepredict,8557821,Premier League,2026-10-10,17:00,Sunderland,Brighton,correct_score,1 - 1,,,,6.00,2026-10-09T09:08:56Z
+eaglepredict,8557828,Premier League,2026-10-10,17:00,Ipswich Town,Fulham,correct_score,1 - 1,,,,6.50,2026-10-09T09:08:56Z
+eaglepredict,8557809,Premier League,2026-10-10,17:00,Chelsea,Bournemouth,double_chance,Double Chance: Chelsea or Draw,,,,1.17,2026-10-09T09:08:56Z
+eaglepredict,8557823,Premier League,2026-10-10,19:30,Manchester United,Tottenham,btts,BTTS - Yes,,,,1.46,2026-10-09T09:08:56Z
+eaglepredict,8557825,Premier League,2026-10-11,16:00,Crystal Palace,Nottingham Forest,double_chance,Double Chance: Crystal Palace or Draw,,,,1.44,2026-10-09T09:08:56Z
+eaglepredict,8558118,Premier League,2026-10-11,16:00,Hull City,Everton,double_chance,Double Chance: Hull City or Draw,,,,1.71,2026-10-09T09:08:56Z
+eaglepredict,8558026,Premier League,2026-10-11,18:30,Liverpool,Manchester City,double_chance,Double Chance: Liverpool or Draw,,,,1.53,2026-10-09T09:08:56Z
+eaglepredict,8558050,Premier League,2026-10-12,22:00,Coventry City,Newcastle,double_chance,Double Chance: Draw or Newcastle,,,,1.34,2026-10-09T09:08:56Z
+eaglepredict,8570524,La Liga,2026-10-09,22:00,Málaga CF,Espanyol,correct_score,1 - 1,,,,5.71,2026-10-09T09:08:56Z
+eaglepredict,8570360,La Liga,2026-10-10,15:00,Rayo Vallecano,Athletic Bilbao,correct_score,1 - 1,,,,6.53,2026-10-09T09:08:56Z
+eaglepredict,8570419,La Liga,2026-10-10,17:15,Deportivo Alavés,Atlético Madrid,correct_score,1 - 1,,,,6.25,2026-10-09T09:08:56Z
+eaglepredict,8570368,La Liga,2026-10-10,19:30,Barcelona,Getafe,correct_score,3 - 0,,,,6.50,2026-10-09T09:08:56Z
+eaglepredict,8570426,La Liga,2026-10-10,22:00,Real Madrid,Villarreal,btts,BTTS - Yes,,,,1.53,2026-10-09T09:08:56Z
+eaglepredict,8570453,La Liga,2026-10-11,15:00,Elche CF,Celta de Vigo,over_under,Under  3.5 Goals,,,,1.28,2026-10-09T09:08:56Z
+eaglepredict,8570442,La Liga,2026-10-11,17:15,Real Sociedad,Deportivo La Coruña,over_under,Under  3.5 Goals,,,,1.42,2026-10-09T09:08:56Z
+eaglepredict,8570333,La Liga,2026-10-11,19:30,Betis,Osasuna,over_under,Under  3.5 Goals,,,,1.42,2026-10-09T09:08:56Z
+eaglepredict,8570424,La Liga,2026-10-11,22:00,Racing Santander,Valencia,btts,BTTS - Yes,,,,1.50,2026-10-09T09:08:56Z
+eaglepredict,8570367,La Liga,2026-10-12,22:00,Levante UD,Sevilla,double_chance,Double Chance: Draw or Sevilla,,,,1.51,2026-10-09T09:08:56Z
+eaglepredict,8572465,Bundesliga,2026-10-09,21:30,Borussia Dortmund,Werder Bremen,1x2,Borussia Dortmund Win,,,,1.41,2026-10-09T09:08:56Z
+eaglepredict,8572313,Bundesliga,2026-10-10,16:30,Union Berlin,Elversberg,correct_score,1 - 1,,,,5.80,2026-10-09T09:08:56Z
+eaglepredict,8572477,Bundesliga,2026-10-10,16:30,Augsburg,Bayern München,1x2,Bayern München Win,,,,1.21,2026-10-09T09:08:56Z
+eaglepredict,8572482,Bundesliga,2026-10-10,16:30,Mainz 05,Bayer Leverkusen,over_under,Under  4.5 Goals,,,,1.33,2026-10-09T09:08:56Z
+eaglepredict,8572484,Bundesliga,2026-10-10,16:30,Paderborn,Stuttgart,over_under,Under  4.5 Goals,,,,1.38,2026-10-09T09:08:56Z
+eaglepredict,8572514,Bundesliga,2026-10-10,16:30,Hoffenheim,Hamburger SV,over_under,Over  2.5 Goals,,,,1.44,2026-10-09T09:08:56Z
+eaglepredict,8572561,Bundesliga,2026-10-10,19:30,RB Leipzig,Eintracht Frankfurt,over_under,Under  4.5 Goals,,,,1.52,2026-10-09T09:08:56Z
+eaglepredict,8572263,Bundesliga,2026-10-11,16:30,Köln,Borussia M'gladbach,double_chance,Double Chance: Köln or Draw,,,,1.42,2026-10-09T09:08:56Z
+eaglepredict,8572549,Bundesliga,2026-10-11,18:30,Freiburg,Schalke 04,1x2,Freiburg Win,,,,1.76,2026-10-09T09:08:56Z
+eaglepredict,8544869,Serie A,2026-10-10,16:00,Genoa,Fiorentina,correct_score,1 - 1,,,,6.00,2026-10-09T09:08:56Z
+eaglepredict,8545067,Serie A,2026-10-10,19:00,Internazionale,Parma,correct_score,3 - 0,,,,6.36,2026-10-09T09:08:56Z
+eaglepredict,8544865,Serie A,2026-10-10,21:45,Napoli,Frosinone,over_under,Under  4.5 Goals,,,,1.25,2026-10-09T09:08:56Z
+eaglepredict,8545058,Serie A,2026-10-11,13:30,Como,Roma,over_under,Over  2.5 Goals,,,,1.74,2026-10-09T09:08:56Z
+eaglepredict,8544871,Serie A,2026-10-11,16:00,Lecce,Bologna,double_chance,Double Chance: Lecce or Draw,,,,1.85,2026-10-09T09:08:56Z
+eaglepredict,8545064,Serie A,2026-10-11,16:00,Lazio,Monza,double_chance,Double Chance: Lazio or Draw,,,,1.09,2026-10-09T09:08:56Z
+eaglepredict,8545065,Serie A,2026-10-11,19:00,Sassuolo,Milan,double_chance,Double Chance: Draw or Milan,,,,1.20,2026-10-09T09:08:56Z
+eaglepredict,8544874,Serie A,2026-10-11,21:45,Cagliari,Juventus,over_under,Over  2.5 Goals,,,,2.00,2026-10-09T09:08:56Z
+eaglepredict,8545029,Serie A,2026-10-12,19:30,Atalanta,Venezia,over_under,Over  2.5 Goals,,,,1.61,2026-10-09T09:08:56Z
+eaglepredict,8545070,Serie A,2026-10-12,21:45,Torino,Udinese,double_chance,Double Chance: Draw or Udinese,,,,1.64,2026-10-09T09:08:56Z
+eaglepredict,8548621,Ligue 1,2026-10-09,21:45,Lens,Lyon,correct_score,1 - 1,,,,5.80,2026-10-09T09:08:56Z
+eaglepredict,8548617,Ligue 1,2026-10-10,18:15,Lille,Le Havre,correct_score,2 - 0,,,,5.90,2026-10-09T09:08:56Z
+eaglepredict,8548611,Ligue 1,2026-10-10,21:45,Monaco,Toulouse,btts,BTTS - Yes,,,,1.62,2026-10-09T09:08:56Z
+eaglepredict,8548619,Ligue 1,2026-10-10,21:45,PSG,Le Mans,correct_score,3 - 0,,,,5.75,2026-10-09T09:08:56Z
+eaglepredict,8548620,Ligue 1,2026-10-10,21:45,Brest,Angers,correct_score,1 - 1,,,,6.00,2026-10-09T09:08:56Z
+eaglepredict,8548623,Ligue 1,2026-10-10,21:45,Lorient,Paris,correct_score,1 - 1,,,,6.00,2026-10-09T09:08:56Z
+eaglepredict,8548613,Ligue 1,2026-10-11,16:00,Nice,Strasbourg,over_under,Over  2.5 Goals,,,,1.72,2026-10-09T09:08:56Z
+eaglepredict,8548748,Ligue 1,2026-10-11,18:15,Rennes,Auxerre,double_chance,Double Chance: Rennes or Draw,,,,1.08,2026-10-09T09:08:56Z
+eaglepredict,8548612,Ligue 1,2026-10-11,21:45,Troyes,Olympique Marseille,double_chance,Double Chance: Draw or Olympique Marseille,,,,1.29,2026-10-09T09:08:56Z
+eaglepredict,8547609,Eredivisie,2026-10-09,21:00,PSV,Heerenveen,over_under,Over  2.5 Goals,,,,1.20,2026-10-09T09:08:56Z
+eaglepredict,8547608,Eredivisie,2026-10-10,17:30,Go Ahead Eagles,Sparta Rotterdam,correct_score,1 - 1,,,,6.00,2026-10-09T09:08:56Z
+eaglepredict,8547593,Eredivisie,2026-10-10,19:45,Feyenoord,AZ,correct_score,1 - 1,,,,5.80,2026-10-09T09:08:56Z
+eaglepredict,8547610,Eredivisie,2026-10-10,21:00,Fortuna Sittard,Twente,over_under,Over  2.5 Goals,,,,1.33,2026-10-09T09:08:56Z
+eaglepredict,8547670,Eredivisie,2026-10-10,22:00,Ajax,NEC,over_under,Under  4.5 Goals,,,,1.33,2026-10-09T09:08:56Z
+eaglepredict,8547592,Eredivisie,2026-10-11,13:15,Utrecht,Willem II,btts,BTTS - Yes,,,,1.53,2026-10-09T09:08:56Z
+eaglepredict,8547606,Eredivisie,2026-10-11,15:30,PEC Zwolle,Cambuur,btts,BTTS - Yes,,,,1.51,2026-10-09T09:08:56Z
+eaglepredict,8547607,Eredivisie,2026-10-11,15:30,Telstar,ADO Den Haag,double_chance,Double Chance: Draw or ADO Den Haag,,,,1.80,2026-10-09T09:08:56Z
+eaglepredict,8547677,Eredivisie,2026-10-11,17:45,Excelsior,Groningen,double_chance,Double Chance: Excelsior or Draw,,,,1.50,2026-10-09T09:08:56Z
+eaglepredict,8574222,Primeira Liga,2026-10-09,20:45,Moreirense FC,Gil Vicente,1x2,Gil Vicente Win,,,,2.30,2026-10-09T09:08:56Z
+eaglepredict,8574322,Primeira Liga,2026-10-09,22:15,Sporting Braga,Sporting CP,correct_score,1 - 1,,,,6.25,2026-10-09T09:08:56Z
+eaglepredict,8574294,Primeira Liga,2026-10-10,17:30,Casa Pia,Santa Clara,correct_score,0 - 2,,,,5.40,2026-10-09T09:08:56Z
+eaglepredict,8574223,Primeira Liga,2026-10-10,20:00,CS Marítimo,Porto,correct_score,0 - 2,,,,6.00,2026-10-09T09:08:56Z
+eaglepredict,8574231,Primeira Liga,2026-10-10,22:30,Academico Viseu,GD Estoril Praia,correct_score,1 - 1,,,,6.28,2026-10-09T09:08:56Z
+eaglepredict,8574458,Primeira Liga,2026-10-11,17:30,Rio Ave FC,CD Nacional,double_chance,Double Chance: Rio Ave FC or Draw,,,,1.24,2026-10-09T09:08:56Z
+eaglepredict,8574392,Primeira Liga,2026-10-11,20:00,Benfica,Vitória Guimarães,1x2,Benfica Win,,,,1.22,2026-10-09T09:08:56Z
+eaglepredict,8574390,Primeira Liga,2026-10-11,22:30,FC Arouca,Estrela Amadora,double_chance,Double Chance: Draw or Estrela Amadora,,,,1.65,2026-10-09T09:08:56Z
+eaglepredict,8574372,Primeira Liga,2026-10-12,22:15,Famalicão,Alverca,over_under,Under  2.5 Goals,,,,1.72,2026-10-09T09:08:56Z
