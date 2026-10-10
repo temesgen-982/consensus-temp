@@ -63,7 +63,8 @@ def cmd_status(args) -> None:
 def cmd_report_html(args) -> None:
     from .html_report import write_html
 
-    path = write_html(args.out)
+    days_back = getattr(args, "days", 2)
+    path = write_html(args.out, days_back=days_back)
     print(f"wrote {path}")
 
 
@@ -130,6 +131,8 @@ def main(argv: list[str] | None = None) -> int:
 
     p_html = sub.add_parser("report-html", help="write a static HTML report")
     p_html.add_argument("--out", help="output path (default data/consensus/consensus.html)")
+    p_html.add_argument("--days", type=int, default=2,
+                        help="how many past days to include alongside upcoming fixtures (default: 2)")
     p_html.set_defaults(func=cmd_report_html)
 
     p_res = sub.add_parser("scrape-results", help="scrape finished-match results from flashscore.mobi")
