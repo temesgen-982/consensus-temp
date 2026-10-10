@@ -70,9 +70,9 @@ def cmd_report_html(args) -> None:
 def cmd_scrape_results(args) -> None:
     from .results import save_results, scrape_results
 
-    rows = scrape_results()
+    rows = scrape_results(days=args.days)
     save_results(rows)
-    print(f"whoscored: {len(rows)} finished matches -> {RESULTS_DIR / 'whoscored.csv'}")
+    print(f"flashscore.mobi: {len(rows)} finished matches -> {RESULTS_DIR / 'flashscore.csv'}")
     if args.print:
         for r in rows[: args.limit]:
             print(" ", r["league"], "|", r["home_team"], r["home_goals"],
@@ -132,9 +132,10 @@ def main(argv: list[str] | None = None) -> int:
     p_html.add_argument("--out", help="output path (default data/consensus/consensus.html)")
     p_html.set_defaults(func=cmd_report_html)
 
-    p_res = sub.add_parser("scrape-results", help="scrape finished-match results from WhoScored")
+    p_res = sub.add_parser("scrape-results", help="scrape finished-match results from flashscore.mobi")
     p_res.add_argument("--print", action="store_true", help="print scraped rows")
     p_res.add_argument("--limit", type=int, default=20)
+    p_res.add_argument("--days", type=int, default=1, help="how many past days to fetch (default: 1)")
     p_res.set_defaults(func=cmd_scrape_results)
 
     p_grade = sub.add_parser("grade", help="grade consensus picks against recorded results")
@@ -149,6 +150,7 @@ def main(argv: list[str] | None = None) -> int:
     p_run.add_argument("--all-leagues", action="store_true", help="scrape all leagues (default: top only)")
     p_run.add_argument("--skip-scrape", action="store_true", help="reuse existing raw CSVs")
     p_run.add_argument("--with-results", action="store_true", help="also scrape results and print grade")
+    p_run.add_argument("--days", type=int, default=1, help="past days of results to fetch with --with-results")
     p_run.add_argument("--verbose", action="store_true", help="show per-fixture detail in grade")
     p_run.add_argument("--out", help="HTML output path (default data/consensus/consensus.html)")
     p_run.set_defaults(func=cmd_run)

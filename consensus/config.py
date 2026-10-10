@@ -135,6 +135,21 @@ FLASHSCORE = {
     ],
 }
 
+# Plain-HTML mobile site, no Cloudflare — used for finished-match results.
+# League labels are the exact h4 text on flashscore.mobi ("COUNTRY: League").
+FLASHSCORE_MOBI = {
+    "base": "https://www.flashscore.mobi",
+    "leagues": [
+        "ENGLAND: Premier League",
+        "SPAIN: LaLiga",
+        "GERMANY: Bundesliga",
+        "ITALY: Serie A",
+        "FRANCE: Ligue 1",
+        "NETHERLANDS: Eredivisie",
+        "PORTUGAL: Liga Portugal",
+    ],
+}
+
 SPORTSGAMBLER = {
     "base": "https://www.sportsgambler.com",
     "leagues": [

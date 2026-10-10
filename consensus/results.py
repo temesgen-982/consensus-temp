@@ -1,11 +1,14 @@
 from __future__ import annotations
 
+import re
 from collections import defaultdict
+from datetime import datetime, timedelta
+from html import unescape
+from zoneinfo import ZoneInfo
 
-from .config import CONSENSUS_DIR, RESULTS_DIR, WHOSCORED
+from .config import CONSENSUS_DIR, FLASHSCORE_MOBI, RESULTS_DIR
 from .http import fetch, slugify, utcnow
 from .report import MARKETS, MARKET_LABELS, agreement_tag, majority_pick, picks_by_site
-from .scrapers.whoscored import fixtures_url, parse_scores
 from .storage import read_csv, write_csv
 
 RESULT_COLUMNS = [
@@ -13,38 +16,78 @@ RESULT_COLUMNS = [
     "home_team", "away_team", "home_goals", "away_goals", "scraped_at",
 ]
 
-_REQUEST_DELAY = 3.0
+_MOBI_LEAGUES = frozenset(FLASHSCORE_MOBI["leagues"])
+
+# <h4>League</h4> or <span>HH:MM</span>Home[<img card>] - Away <a ... class="fin">H-A</a>
+_MOBI_TOKEN = re.compile(
+    r"<h4>(.*?)</h4>"
+    r"|<span>(\d{1,2}:\d{2})(?:<span[^>]*>[^<]*</span>)?</span>"
+    r'(.*?)<a href="/match/([A-Za-z0-9]+)/[^"]*" class="fin">([^<]*)</a>',
+    re.S,
+)
 
 
-def scrape_results() -> list[dict]:
-    """Fetch finished-match scores from WhoScored league fixtures pages."""
-    import time
+def _strip_tags(fragment: str) -> str:
+    return re.sub(r"\s+", " ", unescape(re.sub(r"<[^>]+>", " ", fragment))).strip()
 
-    base = WHOSCORED["base"]
-    now = utcnow()
-    rows: list[dict] = []
 
-    for league in WHOSCORED["leagues"]:
-        time.sleep(_REQUEST_DELAY)
-        league_html = fetch(base + league["url"], retries=8, delay=4.0)
-        fix_url = fixtures_url(league_html)
-        if not fix_url:
+def parse_finished(html: str, date: str) -> list[dict]:
+    """Parse flashscore.mobi's score-data section -> finished top-league matches."""
+    m = re.search(r'id="score-data">(.*)$', html, re.S)
+    if not m:
+        return []
+    chunk = re.sub(r"<script\b.*?</script>", "", m.group(1), flags=re.S)
+
+    out: list[dict] = []
+    league = ""
+    for t in _MOBI_TOKEN.finditer(chunk):
+        if t.group(1) is not None:
+            league = _strip_tags(t.group(1)).replace(" Standings", "").strip()
             continue
+        if league not in _MOBI_LEAGUES:
+            continue
+        score = _strip_tags(t.group(5))
+        sm = re.fullmatch(r"(\d+)\s*-\s*(\d+)", score)
+        if not sm:
+            continue  # walkover / postponed show "- - -"
+        teams = _strip_tags(t.group(3))
+        teams = re.sub(r"\bWO\b", "", teams).strip()
+        if " - " not in teams:
+            continue
+        home, away = teams.split(" - ", 1)
+        kickoff = t.group(2)
+        out.append({
+            "source_id": t.group(4),
+            "league": league.split(":", 1)[-1].strip() if ":" in league else league,
+            "date": date,
+            "kickoff": f"{date} {kickoff}",
+            "home_team": home.strip(),
+            "away_team": away.strip(),
+            "home_goals": sm.group(1),
+            "away_goals": sm.group(2),
+        })
+    return out
 
-        time.sleep(_REQUEST_DELAY)
-        for m in parse_scores(fetch(base + fix_url, retries=8, delay=4.0)):
-            rows.append({
-                "site": "whoscored",
-                "source_id": m["source_id"],
-                "league": league["name"],
-                "date": m["date"],
-                "kickoff": m["kickoff"],
-                "home_team": m["home_team"],
-                "away_team": m["away_team"],
-                "home_goals": m["home_goals"],
-                "away_goals": m["away_goals"],
-                "scraped_at": now,
-            })
+
+def scrape_results(days: int = 1) -> list[dict]:
+    """Fetch yesterday's finished scores from flashscore.mobi (plain HTML, curl-safe).
+
+    `days` fetches each of the last N calendar days (site-local, Europe/Prague).
+    """
+    base = FLASHSCORE_MOBI["base"]
+    now = utcnow()
+    today = datetime.now(ZoneInfo("Europe/Prague")).date()
+    rows: list[dict] = []
+    seen: set[str] = set()
+
+    for back in range(days, 0, -1):
+        d = (today - timedelta(days=back)).strftime("%Y-%m-%d")
+        html = fetch(f"{base}/?d={-back}&s=3", retries=3, delay=1.5)
+        for m in parse_finished(html, d):
+            if m["source_id"] in seen:
+                continue
+            seen.add(m["source_id"])
+            rows.append({"site": "flashscore", "scraped_at": now, **m})
     return rows
 
 
@@ -60,8 +103,9 @@ def attach_results(results: list[dict]) -> dict:
     aliases = _load_aliases()
     out: dict[str, list[dict]] = defaultdict(list)
     for r in results:
-        home_id = aliases.get(("whoscored", r["home_team"])) or slugify(r["home_team"])
-        away_id = aliases.get(("whoscored", r["away_team"])) or slugify(r["away_team"])
+        site = r.get("site") or "flashscore"
+        home_id = aliases.get((site, r["home_team"])) or slugify(r["home_team"])
+        away_id = aliases.get((site, r["away_team"])) or slugify(r["away_team"])
         fid = f"{r['date']}|{home_id}|vs|{away_id}"
         out[fid].append(r)
     return dict(out)
@@ -244,10 +288,8 @@ def render_fixture_results(result: dict) -> str:
 
 
 def save_results(rows: list[dict]) -> None:
-    write_csv(RESULTS_DIR / "whoscored.csv", rows, RESULT_COLUMNS)
+    write_csv(RESULTS_DIR / "flashscore.csv", rows, RESULT_COLUMNS)
 
 
 def load_results() -> list[dict]:
-    from .config import RESULTS_DIR
-
-    return read_csv(RESULTS_DIR / "whoscored.csv")
+    return read_csv(RESULTS_DIR / "flashscore.csv")
