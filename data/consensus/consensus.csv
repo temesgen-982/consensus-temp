@@ -4186,10 +4186,10 @@ fixture_id,league,date,kickoff,home,away,site,market,pick,pick_norm,p1,p2,p3,not
 2026-10-10|ajax|vs|nijmegen,Eredivisie,2026-10-10,22:00 - Sat 10 Oct,Ajax,NEC Nijmegen,sportsgambler,1x2,1,1,,,,NEC Nijmegen Asian Hcp +1.75 @ 1.93,2026-10-10T07:42:26Z
 2026-10-10|ajax|vs|nijmegen,Eredivisie,2026-10-10,22:00 - Sat 10 Oct,Ajax,NEC Nijmegen,sportsgambler,btts,Yes,Yes,,,,NEC Nijmegen Asian Hcp +1.75 @ 1.93,2026-10-10T07:42:26Z
 2026-10-10|ajax|vs|nijmegen,Eredivisie,2026-10-10,22:00 - Sat 10 Oct,Ajax,NEC Nijmegen,sportsgambler,over_under,Over,Over,,,,NEC Nijmegen Asian Hcp +1.75 @ 1.93,2026-10-10T07:42:26Z
-2026-10-11|utrecht|vs|willem-ii,Eredivisie,2026-10-11,13:15 - Sun 11 Oct,FC Utrecht,Willem II,sportsgambler,correct_score,2 - 2,2 - 2,,,,Willem II Asian Hcp +1.25 @ 1.87,2026-10-10T07:42:26Z
-2026-10-11|utrecht|vs|willem-ii,Eredivisie,2026-10-11,13:15 - Sun 11 Oct,FC Utrecht,Willem II,sportsgambler,1x2,X,X,,,,Willem II Asian Hcp +1.25 @ 1.87,2026-10-10T07:42:26Z
-2026-10-11|utrecht|vs|willem-ii,Eredivisie,2026-10-11,13:15 - Sun 11 Oct,FC Utrecht,Willem II,sportsgambler,btts,Yes,Yes,,,,Willem II Asian Hcp +1.25 @ 1.87,2026-10-10T07:42:26Z
-2026-10-11|utrecht|vs|willem-ii,Eredivisie,2026-10-11,13:15 - Sun 11 Oct,FC Utrecht,Willem II,sportsgambler,over_under,Over,Over,,,,Willem II Asian Hcp +1.25 @ 1.87,2026-10-10T07:42:26Z
+2026-10-11|utrecht|vs|willem-ii-tilburg,Eredivisie,2026-10-11,13:15 - Sun 11 Oct,FC Utrecht,Willem II,sportsgambler,correct_score,2 - 2,2 - 2,,,,Willem II Asian Hcp +1.25 @ 1.87,2026-10-10T07:42:26Z
+2026-10-11|utrecht|vs|willem-ii-tilburg,Eredivisie,2026-10-11,13:15 - Sun 11 Oct,FC Utrecht,Willem II,sportsgambler,1x2,X,X,,,,Willem II Asian Hcp +1.25 @ 1.87,2026-10-10T07:42:26Z
+2026-10-11|utrecht|vs|willem-ii-tilburg,Eredivisie,2026-10-11,13:15 - Sun 11 Oct,FC Utrecht,Willem II,sportsgambler,btts,Yes,Yes,,,,Willem II Asian Hcp +1.25 @ 1.87,2026-10-10T07:42:26Z
+2026-10-11|utrecht|vs|willem-ii-tilburg,Eredivisie,2026-10-11,13:15 - Sun 11 Oct,FC Utrecht,Willem II,sportsgambler,over_under,Over,Over,,,,Willem II Asian Hcp +1.25 @ 1.87,2026-10-10T07:42:26Z
 2026-10-11|pec-zwolle|vs|cambuur,Eredivisie,2026-10-11,15:30 - Sun 11 Oct,PEC Zwolle,Cambuur,sportsgambler,correct_score,1 - 2,1 - 2,,,,Cambuur Asian Hcp +0.5 @ 1.83,2026-10-10T07:42:26Z
 2026-10-11|pec-zwolle|vs|cambuur,Eredivisie,2026-10-11,15:30 - Sun 11 Oct,PEC Zwolle,Cambuur,sportsgambler,1x2,2,2,,,,Cambuur Asian Hcp +0.5 @ 1.83,2026-10-10T07:42:26Z
 2026-10-11|pec-zwolle|vs|cambuur,Eredivisie,2026-10-11,15:30 - Sun 11 Oct,PEC Zwolle,Cambuur,sportsgambler,btts,Yes,Yes,,,,Cambuur Asian Hcp +0.5 @ 1.83,2026-10-10T07:42:26Z
@@ -4850,10 +4850,10 @@ fixture_id,league,date,kickoff,home,away,site,market,pick,pick_norm,p1,p2,p3,not
 2026-09-05|ajax|vs|psv-eindhoven,Eredivisie,2026-09-05,21:00 - Sat 05 Sep,Ajax,PSV Eindhoven,sportsgambler,1x2,2,2,,,,PSV To Win @ 2.30,2026-09-05T08:07:03Z
 2026-09-05|ajax|vs|psv-eindhoven,Eredivisie,2026-09-05,21:00 - Sat 05 Sep,Ajax,PSV Eindhoven,sportsgambler,btts,Yes,Yes,,,,PSV To Win @ 2.30,2026-09-05T08:07:03Z
 2026-09-05|ajax|vs|psv-eindhoven,Eredivisie,2026-09-05,21:00 - Sat 05 Sep,Ajax,PSV Eindhoven,sportsgambler,over_under,Over,Over,,,,PSV To Win @ 2.30,2026-09-05T08:07:03Z
-2026-09-05|willem-ii|vs|excelsior,Eredivisie,2026-09-05,22:00 - Sat 05 Sep,Willem II,Excelsior,sportsgambler,correct_score,2 - 1,2 - 1,,,,Over 2.5 Goals @ 1.68,2026-09-05T08:07:03Z
-2026-09-05|willem-ii|vs|excelsior,Eredivisie,2026-09-05,22:00 - Sat 05 Sep,Willem II,Excelsior,sportsgambler,1x2,1,1,,,,Over 2.5 Goals @ 1.68,2026-09-05T08:07:03Z
-2026-09-05|willem-ii|vs|excelsior,Eredivisie,2026-09-05,22:00 - Sat 05 Sep,Willem II,Excelsior,sportsgambler,btts,Yes,Yes,,,,Over 2.5 Goals @ 1.68,2026-09-05T08:07:03Z
-2026-09-05|willem-ii|vs|excelsior,Eredivisie,2026-09-05,22:00 - Sat 05 Sep,Willem II,Excelsior,sportsgambler,over_under,Over,Over,,,,Over 2.5 Goals @ 1.68,2026-09-05T08:07:03Z
+2026-09-05|willem-ii-tilburg|vs|excelsior,Eredivisie,2026-09-05,22:00 - Sat 05 Sep,Willem II,Excelsior,sportsgambler,correct_score,2 - 1,2 - 1,,,,Over 2.5 Goals @ 1.68,2026-09-05T08:07:03Z
+2026-09-05|willem-ii-tilburg|vs|excelsior,Eredivisie,2026-09-05,22:00 - Sat 05 Sep,Willem II,Excelsior,sportsgambler,1x2,1,1,,,,Over 2.5 Goals @ 1.68,2026-09-05T08:07:03Z
+2026-09-05|willem-ii-tilburg|vs|excelsior,Eredivisie,2026-09-05,22:00 - Sat 05 Sep,Willem II,Excelsior,sportsgambler,btts,Yes,Yes,,,,Over 2.5 Goals @ 1.68,2026-09-05T08:07:03Z
+2026-09-05|willem-ii-tilburg|vs|excelsior,Eredivisie,2026-09-05,22:00 - Sat 05 Sep,Willem II,Excelsior,sportsgambler,over_under,Over,Over,,,,Over 2.5 Goals @ 1.68,2026-09-05T08:07:03Z
 2026-09-06|groningen|vs|twente,Eredivisie,2026-09-06,13:15 - Sun 06 Sep,FC Groningen,Twente,sportsgambler,correct_score,1 - 2,1 - 2,,,,Twente To Win @ 1.98,2026-09-05T08:07:03Z
 2026-09-06|groningen|vs|twente,Eredivisie,2026-09-06,13:15 - Sun 06 Sep,FC Groningen,Twente,sportsgambler,1x2,2,2,,,,Twente To Win @ 1.98,2026-09-05T08:07:03Z
 2026-09-06|groningen|vs|twente,Eredivisie,2026-09-06,13:15 - Sun 06 Sep,FC Groningen,Twente,sportsgambler,btts,Yes,Yes,,,,Twente To Win @ 1.98,2026-09-05T08:07:03Z
@@ -5238,10 +5238,10 @@ fixture_id,league,date,kickoff,home,away,site,market,pick,pick_norm,p1,p2,p3,not
 2026-09-19|ajax|vs|excelsior,Eredivisie,2026-09-19,21:00 - Sat 19 Sep,Ajax,Excelsior,sportsgambler,1x2,1,1,,,,Excelsior Asian Hcp +1.75 @ 1.96,2026-09-18T14:26:06Z
 2026-09-19|ajax|vs|excelsior,Eredivisie,2026-09-19,21:00 - Sat 19 Sep,Ajax,Excelsior,sportsgambler,btts,Yes,Yes,,,,Excelsior Asian Hcp +1.75 @ 1.96,2026-09-18T14:26:06Z
 2026-09-19|ajax|vs|excelsior,Eredivisie,2026-09-19,21:00 - Sat 19 Sep,Ajax,Excelsior,sportsgambler,over_under,Over,Over,,,,Excelsior Asian Hcp +1.75 @ 1.96,2026-09-18T14:26:06Z
-2026-09-19|willem-ii|vs|fortuna-sittard,Eredivisie,2026-09-19,22:00 - Sat 19 Sep,Willem II,Fortuna Sittard,sportsgambler,correct_score,0 - 1,0 - 1,,,,Fortuna Asian Hcp +0.25 @ 1.72,2026-09-18T14:26:06Z
-2026-09-19|willem-ii|vs|fortuna-sittard,Eredivisie,2026-09-19,22:00 - Sat 19 Sep,Willem II,Fortuna Sittard,sportsgambler,1x2,2,2,,,,Fortuna Asian Hcp +0.25 @ 1.72,2026-09-18T14:26:06Z
-2026-09-19|willem-ii|vs|fortuna-sittard,Eredivisie,2026-09-19,22:00 - Sat 19 Sep,Willem II,Fortuna Sittard,sportsgambler,btts,No,No,,,,Fortuna Asian Hcp +0.25 @ 1.72,2026-09-18T14:26:06Z
-2026-09-19|willem-ii|vs|fortuna-sittard,Eredivisie,2026-09-19,22:00 - Sat 19 Sep,Willem II,Fortuna Sittard,sportsgambler,over_under,Under,Under,,,,Fortuna Asian Hcp +0.25 @ 1.72,2026-09-18T14:26:06Z
+2026-09-19|willem-ii-tilburg|vs|fortuna-sittard,Eredivisie,2026-09-19,22:00 - Sat 19 Sep,Willem II,Fortuna Sittard,sportsgambler,correct_score,0 - 1,0 - 1,,,,Fortuna Asian Hcp +0.25 @ 1.72,2026-09-18T14:26:06Z
+2026-09-19|willem-ii-tilburg|vs|fortuna-sittard,Eredivisie,2026-09-19,22:00 - Sat 19 Sep,Willem II,Fortuna Sittard,sportsgambler,1x2,2,2,,,,Fortuna Asian Hcp +0.25 @ 1.72,2026-09-18T14:26:06Z
+2026-09-19|willem-ii-tilburg|vs|fortuna-sittard,Eredivisie,2026-09-19,22:00 - Sat 19 Sep,Willem II,Fortuna Sittard,sportsgambler,btts,No,No,,,,Fortuna Asian Hcp +0.25 @ 1.72,2026-09-18T14:26:06Z
+2026-09-19|willem-ii-tilburg|vs|fortuna-sittard,Eredivisie,2026-09-19,22:00 - Sat 19 Sep,Willem II,Fortuna Sittard,sportsgambler,over_under,Under,Under,,,,Fortuna Asian Hcp +0.25 @ 1.72,2026-09-18T14:26:06Z
 2026-09-19|gil-vicente|vs|maritimo,Liga Portugal,2026-09-19,17:30 - Sat 19 Sep,Gil Vicente,Maritimo,sportsgambler,correct_score,2 - 0,2 - 0,,,,Gil Vicente To Win @ 1.95,2026-09-18T14:26:06Z
 2026-09-19|gil-vicente|vs|maritimo,Liga Portugal,2026-09-19,17:30 - Sat 19 Sep,Gil Vicente,Maritimo,sportsgambler,1x2,1,1,,,,Gil Vicente To Win @ 1.95,2026-09-18T14:26:06Z
 2026-09-19|gil-vicente|vs|maritimo,Liga Portugal,2026-09-19,17:30 - Sat 19 Sep,Gil Vicente,Maritimo,sportsgambler,btts,No,No,,,,Gil Vicente To Win @ 1.95,2026-09-18T14:26:06Z
