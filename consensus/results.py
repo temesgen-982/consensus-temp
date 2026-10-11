@@ -107,6 +107,8 @@ def attach_results(results: list[dict]) -> dict:
         home_id = aliases.get((site, r["home_team"])) or slugify(r["home_team"])
         away_id = aliases.get((site, r["away_team"])) or slugify(r["away_team"])
         fid = f"{r['date']}|{home_id}|vs|{away_id}"
+        if fid in out:
+            continue
         out[fid].append(r)
     return dict(out)
 
@@ -292,4 +294,7 @@ def save_results(rows: list[dict]) -> None:
 
 
 def load_results() -> list[dict]:
-    return read_csv(RESULTS_DIR / "flashscore.csv")
+    rows: list[dict] = []
+    for path in sorted(RESULTS_DIR.glob("*.csv")):
+        rows += read_csv(path)
+    return rows
