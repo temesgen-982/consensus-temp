@@ -94,6 +94,47 @@ def cmd_grade(args) -> None:
         print(render_fixture_results(result))
 
 
+def cmd_scrape_odds(args) -> None:
+    from datetime import date as date_cls, timedelta
+
+    from .odds import save_odds, scrape
+
+    start = args.date or date_cls.today().isoformat()
+    rows: list[dict] = []
+    for i in range(args.days):
+        day = (date_cls.fromisoformat(start) + timedelta(days=i)).isoformat()
+        day_rows = scrape(date=day)
+        print(f"  {day}: {len(day_rows)} price rows")
+        rows += day_rows
+    save_odds(rows)
+    from .odds import rebind
+    bound = rebind()
+    missing = sum(1 for r in rows if not r["fixture_id"])
+    msg = f"espn odds: {len(rows)} price rows -> data/raw/odds.csv"
+    if bound:
+        msg += f" ({bound} earlier rows rebound)"
+    if missing:
+        msg += f" ({missing} events unmatched - fixtures not scraped yet, or need espn aliases)"
+    print(msg)
+    if args.print:
+        for r in rows[: args.limit]:
+            line = f" line {r['line']}" if r["line"] else ""
+            print(" ", r["date"], r["league"], "|", r["home"], "v", r["away"],
+                  "|", r["provider"], r["market"], r["outcome"], r["odds"] + line)
+
+
+def cmd_ev(args) -> None:
+    import datetime as dt
+
+    from .ev import build_ev, render_ev
+    from .odds import rebind
+
+    rebind()  # attach odds whose fixture has appeared since they were scraped
+    min_date = None if args.past else dt.date.today().isoformat()
+    rows = build_ev(date=args.date, min_date=min_date)
+    print(render_ev(rows, limit=None if args.all else 30))
+
+
 def cmd_run(args) -> None:
     if not args.skip_scrape:
         cmd_scrape(args)
@@ -144,6 +185,21 @@ def main(argv: list[str] | None = None) -> int:
     p_grade = sub.add_parser("grade", help="grade consensus picks against recorded results")
     p_grade.add_argument("--verbose", action="store_true", help="show per-fixture detail")
     p_grade.set_defaults(func=cmd_grade)
+
+    p_odds = sub.add_parser("scrape-odds", help="scrape bookmaker odds from the ESPN API")
+    p_odds.add_argument("--date", help="YYYY-MM-DD first day (default: today)")
+    p_odds.add_argument("--days", type=int, default=1,
+                        help="how many days forward to fetch (default: 1)")
+    p_odds.add_argument("--print", action="store_true", help="print scraped rows")
+    p_odds.add_argument("--limit", type=int, default=30)
+    p_odds.set_defaults(func=cmd_scrape_odds)
+
+    p_ev = sub.add_parser("ev", help="flag picks where consensus probability beats the book price")
+    p_ev.add_argument("--date", help="odds snapshot YYYY-MM-DD (default: latest)")
+    p_ev.add_argument("--all", action="store_true", help="show every priced pick, not just top 30")
+    p_ev.add_argument("--past", action="store_true",
+                      help="include finished fixtures (stale note prices, for backtesting)")
+    p_ev.set_defaults(func=cmd_ev)
 
     p_run = sub.add_parser("run", help="daily pipeline: scrape, normalize, report-html")
     p_run.add_argument("--site", choices=[*SITES, "all"], default="all")

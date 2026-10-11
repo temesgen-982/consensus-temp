@@ -82,31 +82,41 @@ def _save_cookies(url: str, cookies: list[dict]) -> None:
         pass
 
 
-def fetch(url: str, *, headers: dict | None = None, retries: int = 3, delay: float = 1.5) -> str:
+def fetch(url: str, *, headers: dict | None = None, retries: int = 3, delay: float = 1.5,
+          browser: bool = True, min_body: int | None = None) -> str:
     """Fetch a URL, preferring curl (its TLS fingerprint passes Cloudflare bot
     detection, which httpx often fails). If every attempt returns empty or a
     Cloudflare JS challenge, fall back to a headless Firefox (Playwright),
     which passes the Turnstile challenge far more often than Chromium. Cloudflare
     intermittently opens a hostile window for a few minutes, so the browser path
-    retries with growing backoff to wait it out."""
+    retries with growing backoff to wait it out.
+
+    browser=False skips the Playwright fallback (plain JSON APIs that never
+    challenge); min_body overrides the minimum acceptable response size (for
+    APIs whose valid responses can be small)."""
     last_exc: Exception | None = None
     host = _host(url)
+    min_len = _MIN_BODY if min_body is None else min_body
     try_curl = host not in _BROWSER_ONLY_HOSTS
     for attempt in range(retries if try_curl else 0):
         try:
             body = _fetch_curl(url, headers)
-            if body is not None and len(body) >= _MIN_BODY and not _is_challenge(body):
+            if body is not None and len(body) >= min_len and not _is_challenge(body):
                 return body
         except Exception as exc:  # noqa: BLE001
             last_exc = exc
         time.sleep(delay * (attempt + 1))
+    if not browser:
+        if last_exc is not None:
+            raise FetchError(f"failed to fetch {url}: {last_exc}") from last_exc
+        raise FetchError(f"failed to fetch {url}: short or empty response")
     # Browser-only hosts get a slightly tighter deadline; a failed solve there
     # is almost always a hostile window that a longer poll won't clear.
     for i, backoff in enumerate((10, 45) if try_curl else (5, 30)):
         if i:
             time.sleep(backoff)
         body = _fetch_playwright(url, save_cookies=True)
-        if body is not None and len(body) >= _MIN_BODY and not _is_challenge(body):
+        if body is not None and len(body) >= min_len and not _is_challenge(body):
             return body
     if last_exc is not None:
         raise FetchError(f"failed to fetch {url}: {last_exc}") from last_exc

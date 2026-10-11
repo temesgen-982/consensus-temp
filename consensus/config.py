@@ -168,6 +168,18 @@ SPORTYTRADER = {
     "today": "/en/betting-tips/football/today/",
 }
 
+# ESPN public API: no key needed. Scoreboard for events, core API for
+# bookmaker prices (DraftKings + Bet365: 1x2, O/U, double chance).
+ESPN = {
+    "scoreboard": "https://site.api.espn.com/apis/site/v2/sports/soccer/{league}/scoreboard",
+    "odds": (
+        "https://sports.core.api.espn.com/v2/sports/soccer/leagues/{league}"
+        "/events/{event}/competitions/{event}/odds"
+    ),
+    "leagues": ("eng.1", "esp.1", "ger.1", "ita.1", "fra.1", "ned.1", "por.1"),
+    "providers": ("DraftKings", "Bet 365"),
+}
+
 
 def ensure_dirs() -> None:
     for d in (RAW_DIR, CANONICAL_DIR, CONSENSUS_DIR, RESULTS_DIR):
