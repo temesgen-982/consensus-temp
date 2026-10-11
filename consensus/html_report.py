@@ -8,6 +8,7 @@ from pathlib import Path
 from string import Template
 
 from .config import CANONICAL_DIR, CONSENSUS_DIR
+from .ev import build_ev, group_by_fixture
 from .report import (
     MARKETS,
     MARKET_LABELS,
@@ -16,6 +17,7 @@ from .report import (
     majority_pick,
     picks_by_site,
 )
+from .odds import rebind
 from .results import attach_results, evaluate_pick, grade, load_results
 from .storage import read_csv
 
@@ -311,6 +313,22 @@ PAGE = Template("""<!DOCTYPE html>
   .na { color: var(--dim); }
   .no-picks { color: var(--muted); font-size: 13px; padding: 12px 14px; }
 
+  /* value / EV */
+  .vpill {
+    display: inline-flex; gap: 4px; align-items: baseline; font-size: 11px;
+    font-weight: 700; border-radius: 4px; padding: 1px 7px; white-space: nowrap;
+    background: rgba(46,204,113,.14); color: var(--ok); letter-spacing: .03em;
+  }
+  .vpill.edge { background: rgba(91,156,255,.12); color: var(--accent); }
+  .vpill em { font-style: normal; color: var(--muted); font-weight: 600; }
+  .val-table td, .val-table th { padding: 5px 9px; }
+  .val-table td.num { font-variant-numeric: tabular-nums; text-align: right; }
+  .val-table .edge-pos { color: var(--ok); font-weight: 700; }
+  .val-table .edge-neg { color: var(--bad); font-weight: 700; }
+  .val-table .mkt { font-weight: 700; font-size: 12px; white-space: nowrap; }
+  .val-table .pickv { font-weight: 700; }
+  .val-table .prov { color: var(--dim); font-size: 11px; }
+
   .empty-state {
     text-align: center; padding: 60px 16px; color: var(--muted);
     border: 1px dashed var(--line2); border-radius: 12px; margin-top: 18px;
@@ -384,6 +402,7 @@ PAGE = Template("""<!DOCTYPE html>
 
 <div class="wrap">
 <main>
+$value
 $accuracy
 $body
 <div class="empty-state" id="empty" hidden>
@@ -937,12 +956,13 @@ def _accuracy_html(grade_result: dict) -> str:
     )
 
 
-def _kpis_html(fixtures: int, agreements: int, splits: int, grade_result: dict) -> str:
+def _kpis_html(fixtures: int, agreements: int, splits: int, grade_result: dict,
+               value_count: int = 0) -> str:
     stats = grade_result.get("stats", {})
     total_hits = sum(sum(v) for v in stats.values())
     total_n = sum(len(v) for v in stats.values())
     hit_rate = f"{total_hits / total_n * 100:.0f}%" if total_n else "&ndash;"
-    return (
+    kpis = (
         f'<div class="kpi"><span class="kpi-v">{fixtures}</span>'
         '<span class="kpi-l">Fixtures</span></div>'
         f'<div class="kpi ok"><span class="kpi-v">{agreements}</span>'
@@ -950,7 +970,81 @@ def _kpis_html(fixtures: int, agreements: int, splits: int, grade_result: dict) 
         f'<div class="kpi"><span class="kpi-v">{splits}</span>'
         '<span class="kpi-l">Splits</span></div>'
         f'<div class="kpi acc"><span class="kpi-v">{hit_rate}</span>'
-        f'<span class="kpi-l">Hit rate</span></div>'
+        '<span class="kpi-l">Hit rate</span></div>'
+    )
+    if value_count:
+        kpis += (
+            f'<div class="kpi ok"><span class="kpi-v">{value_count}</span>'
+            '<span class="kpi-l">Value</span></div>'
+        )
+    return kpis
+
+
+def _ev_rows_html(rows: list[dict], names: dict[str, str], cutoff: str) -> str:
+    """Rows for the Value panel: VALUE-flagged first, then by edge descending,
+    keeping only the current window (note-priced history is stale)."""
+    in_window = [r for r in rows if r["date"] >= cutoff]
+    if not in_window:
+        return ""
+    in_window.sort(key=lambda r: (r["flag"] != "VALUE", -r["edge"]))
+    out = []
+    for r in in_window:
+        home = _pretty(r["home"], names)
+        away = _pretty(r["away"], names)
+        edge = r["edge"]
+        edge_cls = "edge-pos" if edge >= 0 else "edge-neg"
+        flag_html = (
+            '<span class="vpill">VALUE</span>' if r["flag"] == "VALUE"
+            else f'<span class="vpill edge">edge {edge:+.2f}</span>'
+        )
+        out.append(
+            "<tr>"
+            f'<td>{_esc(home)} <span class="na">vs</span> {_esc(away)}</td>'
+            f'<td class="mkt">{_esc(MARKET_LABELS.get(r["market"], r["market"]))}</td>'
+            f'<td class="pickv">{_esc(r["pick"])}</td>'
+            f'<td class="num">{r["p_est"]:.2f}</td>'
+            f'<td class="num">{r["odds"]:.2f}</td>'
+            f'<td class="num">{r["implied"]:.2f}</td>'
+            f'<td class="num {edge_cls}">{edge:+.2f}</td>'
+            f'<td class="num">{r["ev"]:+.2f}</td>'
+            f'<td><span class="prov">{_esc(r["provider"])}</span></td>'
+            f"<td>{flag_html}</td>"
+            "</tr>"
+        )
+    return "".join(out)
+
+
+def _ev_html(rows: list[dict], names: dict[str, str], cutoff: str) -> str:
+    total = len(rows)
+    if not total:
+        return (
+            '<details class="panel"><summary>Value (EV)'
+            '<span class="hint">run consensus scrape-odds to populate bookmaker prices</span>'
+            "</summary></details>"
+        )
+    body = _ev_rows_html(rows, names, cutoff)
+    if not body:
+        return (
+            '<details class="panel"><summary>Value (EV)'
+            f'<span class="hint">{total} priced, none in window</span></summary></details>'
+        )
+    n_value = sum(1 for r in rows if r["flag"] == "VALUE")
+    shown = body.count("<tr>")
+    hint = f"{n_value} VALUE &middot; {shown} priced in window"
+    table = (
+        '<table class="val-table"><thead><tr>'
+        "<th>Fixture</th><th>Market</th><th>Pick</th>"
+        '<th class="num">P_est</th><th class="num">Odds</th><th class="num">Implied</th>'
+        '<th class="num">Edge</th><th class="num">EV</th><th>Book</th><th>Flag</th>'
+        "</tr></thead>"
+        f"<tbody>{body}</tbody></table>"
+    )
+    return (
+        '<details class="panel"><summary>Value (EV)'
+        f'<span class="hint">{hint}</span></summary><div class="panel-body">'
+        "<h3>Consensus probability vs bookmaker implied</h3>"
+        f'<div class="tbl-wrap">{table}</div>'
+        "</div></details>"
     )
 
 
@@ -967,6 +1061,10 @@ def build_html(days_back: int = DAYS_BACK_DEFAULT) -> str:
     )
     attached = attach_results(results) if results else {}
     names = _team_display_names()
+
+    rebind()
+    ev_rows = build_ev(min_date=cutoff.isoformat())
+    value_html = _ev_html(ev_rows, names, cutoff.isoformat())
 
     items = [it for it in data if it["fixture"]["date"] >= cutoff.isoformat()]
 
@@ -1095,10 +1193,12 @@ def build_html(days_back: int = DAYS_BACK_DEFAULT) -> str:
 
     return PAGE.substitute(
         sub=sub,
-        kpis=_kpis_html(fixtures, agreements, splits, grade_result),
+        kpis=_kpis_html(fixtures, agreements, splits, grade_result,
+                         sum(1 for r in ev_rows if r["flag"] == "VALUE")),
         tabs="".join(tabs),
         chips="".join(chips),
         count=f"{fixtures} of {fixtures} fixtures",
+        value=value_html,
         accuracy=_accuracy_html(grade_result),
         body="".join(sections),
         generated=now,

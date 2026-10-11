@@ -268,6 +268,25 @@ def build_ev(date: str | None = None, *, consensus_rows: list[dict] | None = Non
     return out
 
 
+def group_by_fixture(rows: list[dict]) -> dict[str, list[dict]]:
+    """fixture_id -> EV rows, sorted VALUE-first then by edge (as build_ev)."""
+    out: dict[str, list[dict]] = defaultdict(list)
+    for r in rows:
+        out[r["fixture_id"]].append(r)
+    return out
+
+
+def price_lookup(rows: list[dict]) -> dict[tuple[str, str, str], dict]:
+    """(fixture_id, market, outcome) -> {odds, provider} for the best price."""
+    out: dict[tuple[str, str, str], dict] = {}
+    for r in rows:
+        key = (r["fixture_id"], r["market"], r["pick"])
+        cur = out.get(key)
+        if cur is None or r["odds"] > cur["odds"]:
+            out[key] = {"odds": r["odds"], "provider": r["provider"]}
+    return out
+
+
 def render_ev(rows: list[dict], limit: int | None = 30) -> str:
     if not rows:
         return ("no priced consensus picks found - run 'consensus scrape-odds' first")
