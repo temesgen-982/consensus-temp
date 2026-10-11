@@ -135,6 +135,13 @@ def cmd_ev(args) -> None:
     print(render_ev(rows, limit=None if args.all else 30))
 
 
+def cmd_backtest(args) -> None:
+    from .backtest import graded_rows, render_backtest
+
+    rows = graded_rows()
+    print(render_backtest(rows))
+
+
 def cmd_run(args) -> None:
     if not args.skip_scrape:
         cmd_scrape(args)
@@ -200,6 +207,10 @@ def main(argv: list[str] | None = None) -> int:
     p_ev.add_argument("--past", action="store_true",
                       help="include finished fixtures (stale note prices, for backtesting)")
     p_ev.set_defaults(func=cmd_ev)
+
+    p_bt = sub.add_parser("backtest",
+                          help="test whether EV edge predicts winners over graded history")
+    p_bt.set_defaults(func=cmd_backtest)
 
     p_run = sub.add_parser("run", help="daily pipeline: scrape, normalize, report-html")
     p_run.add_argument("--site", choices=[*SITES, "all"], default="all")

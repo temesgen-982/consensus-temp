@@ -4,7 +4,8 @@ P_est = average of (a) accuracy-weighted site votes and (b) Forebet's published
 probability vector where available. Implied = vig-stripped book price when every
 outcome is priced (1x2, O/U, double chance), raw 1/odds when only the consensus
 pick's own price exists (conservative: the vig inflates implied). A pick is
-flagged VALUE only when 3+ sites agree unanimously and edge >= EDGE_MIN.
+flagged VALUE by the backtested rule in is_value (strong agreement, BTTS/OU,
+positive calibrated EV).
 """
 
 from __future__ import annotations
@@ -18,12 +19,95 @@ from .report import agreement_tag, majority_pick, picks_by_site
 from .results import grade, load_results
 from .storage import read_csv
 
-EDGE_MIN = 0.08
-MIN_AGREE_SITES = 3
+# Flag rule, chosen by `consensus backtest` on graded history rather than
+# intuition. The previous rule (3+ sites, edge >= 8pp) backtested at 44% hit /
+# -0.05 ROI and flipped from +0.30 to -0.50 across halves of the sample - it was
+# selecting calibration residuals, not value. The rule below is the cut that
+# holds positive ROI in both halves of that sample:
+#
+#   4+ sites  n=56  69.6% hit  +0.073 ROI
+#   + non-1x2 n=38  ...        ...
+#   + ev>0    n=24  66.7% hit  +0.162 ROI   (first half +0.098, second +0.406)
+#
+# Two caveats the numbers impose: the sample is 24 picks (small, in-sample, and
+# optimistic), and the profit is carried almost entirely by BTTS (10 picks,
+# 80%, +0.419) with over_under flat (-0.021). Treat VALUE as a strong-agreement
+# BTTS/OU signal, not a general edge detector, until fresh odds history grows
+# the sample.
+FLAG_MIN_SITES = 4
+FLAG_MARKETS = ("over_under", "btts")  # 1x2 excluded: 47.2% hit, -0.159 ROI
+FLAG_MIN_EV = 0.0
+
+
+def is_value(row: dict) -> bool:
+    """Does this priced pick meet the backtested VALUE rule?
+
+    Row needs market, n_sites, and the calibrated ev from build_ev.
+    """
+    return (
+        row.get("n_sites", 0) >= FLAG_MIN_SITES
+        and row.get("market") in FLAG_MARKETS
+        and row.get("ev", 0.0) > FLAG_MIN_EV
+    )
+
+
+def is_value_text(row: dict) -> str:
+    """VALUE label for rendering, empty string when the rule is not met."""
+    return "VALUE" if is_value(row) else ""
+
+
 NOTE_ODDS_SITES = ("whoscored", "eaglepredict")
-# When Forebet publishes no probability vector, unanimity among sites is
-# smoothed with a uniform prior so 3 agreeing sites never reads as P=1.0.
-_UNANIMITY_PRIOR = 4.0
+# Strength of the empirical prior when a market/strength cell has no graded
+# history: pull toward a coin-flip with this many pseudo-observations.
+_PRIOR_PSEUDO_N = 6.0
+
+# Market x agreement-strength base rates, measured on graded consensus history
+# (majority pick hit rate). The naive model called a unanimous 1x2 pick ~0.75;
+# history says 58%. That gap - overconfidence - is what calibration removes.
+# Cells absent here fall back to _default_base_rate.
+_BASE_RATES: dict[tuple[str, str], tuple[int, int]] = {
+    ("1x2", "2"): (5, 10), ("1x2", "3"): (22, 58), ("1x2", "4"): (11, 23),
+    ("1x2", "5"): (2, 5),
+    ("over_under", "2"): (5, 10), ("over_under", "3"): (30, 75),
+    ("over_under", "4"): (9, 12), ("over_under", "5"): (6, 9),
+    ("btts", "2"): (5, 10), ("btts", "3"): (57, 87), ("btts", "4"): (26, 34),
+    ("btts", "5"): (1, 3),
+}
+
+
+def _strength_band(n_sites: int) -> str:
+    return str(min(max(n_sites, 2), 5))
+
+
+def _shrink_one(p: float, target: float) -> float:
+    """Pull a raw probability p toward the calibrated target.
+
+    A fully confident estimate (p near 1 or 0) is dragged hard toward the base
+    rate; an estimate already near the target barely moves. Weight is set so a
+    unanimous pick (p ~1) lands near target + (1-target)/2, keeping some signal
+    while killing the certainty the data never supports.
+    """
+    pull = min(abs(p - target), 0.5) / 0.5  # 0..1, how extreme the estimate is
+    w = 0.4 + 0.4 * pull  # 0.4 .. 0.8
+    return target + (1.0 - w) * (p - target)
+
+
+def base_rate(market: str, n_sites: int,
+              extra: tuple[int, int] | None = None) -> float:
+    """Empirical P(majority pick correct) for a market at an agreement strength.
+
+    Blends the measured (hits, n) cell with a coin-flip pseudo-count so thin
+    cells shrink toward 0.5 instead of trusting a 3-sample cell. `extra` adds
+    graded (hits, n) from the current run, letting live accuracy re-weight the
+    table without re-baking constants.
+    """
+    hits, n = _BASE_RATES.get((market, _strength_band(n_sites)), (0, 0))
+    if extra:
+        hits += extra[0]
+        n += extra[1]
+    hits += _PRIOR_PSEUDO_N * 0.5
+    n += _PRIOR_PSEUDO_N
+    return hits / n
 
 EV_MARKETS = ("1x2", "over_under", "double_chance", "btts")
 _OUTCOMES = {
@@ -90,10 +174,14 @@ def _forebet_vector(sites: dict, market: str) -> dict[str, float] | None:
 
 
 def consensus_prob(sites: dict, market: str,
-                   weights: dict[tuple[str, str], float]) -> tuple[dict[str, float], int, str]:
+                   weights: dict[tuple[str, str], float],
+                   target: float | None = None) -> tuple[dict[str, float], int, str]:
     """Estimated outcome distribution for a fixture/market.
 
     Returns (probabilities by outcome, number of covering sites, agreement tag).
+    `target` is the calibrated base rate for the majority pick; the blended
+    distribution is shrunk toward it so unanimity never reads as certainty.
+    When None the raw (overconfident) blend is returned - tests use this.
     """
     by_site = picks_by_site(sites, market)
     n = len(by_site)
@@ -115,11 +203,25 @@ def consensus_prob(sites: dict, market: str,
         dist = {o: vec.get(o, 0.0) for o in outcomes}
     else:
         uniform = 1.0 / len(outcomes) if outcomes else 0.0
-        dist = {o: (total * vote.get(o, 0.0) + _UNANIMITY_PRIOR * uniform)
-                / (total + _UNANIMITY_PRIOR) for o in outcomes}
+        dist = {o: (total * vote.get(o, 0.0) + _PRIOR_PSEUDO_N * uniform)
+                / (total + _PRIOR_PSEUDO_N) for o in outcomes}
     norm = sum(dist.values())
     if norm > 0:
         dist = {k: v / norm for k, v in dist.items()}
+
+    if target is not None and dist:
+        majority = max(dist, key=dist.get)
+        new_p = _shrink_one(dist[majority], target)
+        others = {k: v for k, v in dist.items() if k != majority}
+        rest = 1.0 - new_p
+        osum = sum(others.values())
+        dist[majority] = new_p
+        if osum > 0:
+            for k in others:
+                dist[k] = others[k] / osum * rest
+        norm = sum(dist.values())
+        if norm > 0:
+            dist = {k: v / norm for k, v in dist.items()}
     return dist, n, tag
 
 
@@ -182,7 +284,6 @@ def _best_prices(odds_rows: list[dict], consensus_rows: list[dict]) -> dict:
 def build_ev(date: str | None = None, *, consensus_rows: list[dict] | None = None,
              odds_rows: list[dict] | None = None,
              weights: dict[tuple[str, str], float] | None = None,
-             edge_min: float = EDGE_MIN, min_sites: int = MIN_AGREE_SITES,
              min_date: str | None = None) -> list[dict]:
     """One row per priced fixture/market, sorted VALUE-first then by edge.
 
@@ -237,7 +338,10 @@ def build_ev(date: str | None = None, *, consensus_rows: list[dict] | None = Non
             pick = majority_pick(sites, market)
             if not pick:
                 continue
-            dist, n, tag = consensus_prob(sites, market, weights)
+            n_cover = len(picks_by_site(sites, market))
+            # shrink the raw blend toward the empirical (market, strength) hit rate
+            target = base_rate(market, n_cover)
+            dist, n, tag = consensus_prob(sites, market, weights, target=target)
             if n < 2:
                 continue  # one site is not a consensus
             outcomes = _OUTCOMES[market]
@@ -254,16 +358,19 @@ def build_ev(date: str | None = None, *, consensus_rows: list[dict] | None = Non
             odds_pick = have[pick]["odds"]
             edge = p_pick - implied.get(pick, 0.0)
             ev = p_pick * odds_pick - 1.0
-            flag = ("VALUE" if tag == "agree" and n >= min_sites
-                    and edge >= edge_min else "")
-            out.append({
+            # VALUE is the backtested rule: strong agreement in a market where
+            # consensus has historically beaten the price, and the calibrated
+            # probability still clears the vig-stripped price.
+            row = {
                 "fixture_id": fid, "snapshot": snapshot, **m,
                 "market": market, "pick": pick, "tag": tag, "n_sites": n,
-                "p_est": p_pick, "odds": odds_pick,
+                "p_est": p_pick, "base": target, "odds": odds_pick,
                 "provider": have[pick]["provider"], "opened": have[pick]["opened"],
                 "implied": implied.get(pick, 0.0), "edge": edge, "ev": ev,
-                "vig": vig, "flag": flag,
-            })
+                "vig": vig,
+            }
+            row["flag"] = is_value_text(row)
+            out.append(row)
     out.sort(key=lambda r: (r["flag"] != "VALUE", -r["edge"]))
     return out
 
