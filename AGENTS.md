@@ -21,6 +21,8 @@ Daily pipeline (order matters):
 
 `run` bundles 1+2+5 (add `--with-results` for 3+4, `--skip-scrape` to reuse raw).
 
+Personal bet ledger: `consensus bet add --stake 50 --odds 4.986 --leg 'DATE|HOME|vs|AWAY|COND'` (repeat `--leg` per parlay leg), `consensus bet list [--pending]`, `consensus bet settle` (auto-grades legs against recorded results; add `--id N --result won|lost` to force one), `consensus bet summary`. Leg conditions: `1`/`X`/`2`, `1X`/`X2`/`12`, `O2.5`/`U3.5`, `BTTS`/`nBTTS`, `H0.5`/`A1.5`. A leg with no conditions (or free text) settles manually. Stored in `data/bets/bets.csv` + `data/bets/bet_legs.csv` — **local only, gitignored, never committed or deployed** (it's personal financial data).
+
 ## Gotchas
 
 - **`fetch()` shells out to `curl`** (`consensus/http.py`), NOT httpx. httpx's TLS fingerprint gets blocked by Cloudflare (WhoScored 403s), curl passes. `curl` must be installed. Fetch treats bodies containing `Just a moment`/`cf-chl`/`challenge-platform` as Cloudflare challenges and retries.
@@ -41,5 +43,6 @@ Sites spell teams differently; a match appearing as two fixtures means an alias 
 - `consensus/normalize.py` — the merge logic (fixtures + consensus). Team name → canonical id via slugify + aliases.
 - `consensus/results.py` — results scrape + grading (`evaluate_pick`, `grade`). Results come from flashscore.mobi (yesterday's finished top-league scores; joins on canonical fixture ids via flashscore aliases).
 - `consensus/report.py` / `html_report.py` — terminal and static HTML renderers.
+- `consensus/bets.py` — personal bet ledger (`data/bets/`, gitignored/local-only). Legs carry canonical fixture ids plus a small condition string, so `bet settle` auto-grades parlay legs against recorded results.
 - `consensus/config.py` — `SITES`, `TOP_LEAGUES`, per-site league URLs, `BASE_HEADERS` (User-Agent matters for Cloudflare).
 - Storage is CSV-only via `consensus/storage.py` (`read_csv`/`write_csv`/`append_csv`).

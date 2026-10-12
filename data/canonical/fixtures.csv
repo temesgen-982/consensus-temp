@@ -452,9 +452,6 @@ fixture_id,league,date,kickoff,home_id,away_id
 2026-09-06|alaves|vs|osasuna,LaLiga,2026-09-06,2026-09-06 16:30,alaves,osasuna
 2026-09-12|freiburg|vs|b-monchengladbach,Bundesliga,2026-09-12,2026-09-12 13:30,freiburg,b-monchengladbach
 2026-09-19|b-monchengladbach|vs|mainz-05,Bundesliga,2026-09-19,2026-09-19 13:30,b-monchengladbach,mainz-05
-2026-10-10|alav-s|vs|atl-tico-madrid,LaLiga,2026-10-10,17:15 - Sat 10 Oct,alav-s,atl-tico-madrid
-2026-10-10|maritimo|vs|porto,Liga Portugal,2026-10-10,20:00 - Sat 10 Oct,maritimo,porto
-2026-10-10|academico-viseu|vs|gd-estoril,Liga Portugal,2026-10-10,22:30 - Sat 10 Oct,academico-viseu,gd-estoril
 2026-08-28|alav-s|vs|villarreal,LaLiga,2026-08-28,22:30 - Fri 28 Aug,alav-s,villarreal
 2026-09-06|alav-s|vs|osasuna,LaLiga,2026-09-06,19:30 - Sun 06 Sep,alav-s,osasuna
 2026-09-05|maritimo|vs|sl-benfica,Liga Portugal,2026-09-05,20:00 - Sat 05 Sep,maritimo,sl-benfica
@@ -463,4 +460,7 @@ fixture_id,league,date,kickoff,home_id,away_id
 2026-09-12|academico-viseu|vs|vit-ria,Liga Portugal,2026-09-12,22:30 - Sat 12 Sep,academico-viseu,vit-ria
 2026-09-19|gil-vicente|vs|maritimo,Liga Portugal,2026-09-19,17:30 - Sat 19 Sep,gil-vicente,maritimo
 2026-09-20|estrela-amadora|vs|academico-viseu,Liga Portugal,2026-09-20,17:30 - Sun 20 Sep,estrela-amadora,academico-viseu
+2026-10-10|alav-s|vs|atl-tico-madrid,LaLiga,2026-10-10,17:15 - Sat 10 Oct,alav-s,atl-tico-madrid
+2026-10-10|maritimo|vs|porto,Liga Portugal,2026-10-10,20:00 - Sat 10 Oct,maritimo,porto
+2026-10-10|academico-viseu|vs|gd-estoril,Liga Portugal,2026-10-10,22:30 - Sat 10 Oct,academico-viseu,gd-estoril
 2026-10-09|sc-braga|vs|sporting-lisbon,Liga Portugal,2026-10-09,22:15,sc-braga,sporting-lisbon

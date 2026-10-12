@@ -142,6 +142,39 @@ def cmd_backtest(args) -> None:
     print(render_backtest(rows))
 
 
+def cmd_bet(args) -> None:
+    from .bets import add_bet, load_bets, load_legs, render_bets, settle_bets
+
+    action = args.action or "list"
+    if action == "add":
+        if args.stake is None:
+            raise SystemExit("bet add requires --stake")
+        try:
+            bet = add_bet(
+                args.stake,
+                args.odds,
+                args.leg or [],
+                source=args.source,
+                placed_date=args.date,
+                note=args.note or "",
+            )
+        except ValueError as exc:
+            raise SystemExit(str(exc))
+        print(f"added bet {bet['bet_id']} ({bet['kind']}, stake {bet['stake']})")
+        print(render_bets(load_bets(), load_legs()))
+        return
+    if action == "settle":
+        if args.id and not args.result:
+            raise SystemExit("bet settle --id needs --result won|lost")
+        log = settle_bets(manual_id=args.id, manual_result=args.result)
+        for line in log:
+            print(line)
+        if not log:
+            print("no pending bets to settle")
+        return
+    print(render_bets(load_bets(), load_legs(), only_pending=args.pending))
+
+
 def cmd_run(args) -> None:
     if not args.skip_scrape:
         cmd_scrape(args)
@@ -211,6 +244,23 @@ def main(argv: list[str] | None = None) -> int:
     p_bt = sub.add_parser("backtest",
                           help="test whether EV edge predicts winners over graded history")
     p_bt.set_defaults(func=cmd_backtest)
+
+    p_bet = sub.add_parser("bet", help="track personal bets (add/list/settle/summary)")
+    p_bet.add_argument("action", nargs="?", default="list",
+                       choices=["add", "list", "settle", "summary"])
+    p_bet.add_argument("--stake", type=float, help="stake (bet add)")
+    p_bet.add_argument("--odds", type=float, help="total decimal odds (bet add)")
+    p_bet.add_argument("--leg", action="append",
+                       help="repeatable; 'DATE|HOME|vs|AWAY|COND' e.g. "
+                            "'2026-10-11|fc-koln|vs|b-monchengladbach|1X+H0.5'")
+    p_bet.add_argument("--source", choices=["own", "consensus", "value", "other"],
+                       default="own", help="where the pick came from")
+    p_bet.add_argument("--date", help="placed date YYYY-MM-DD (default today)")
+    p_bet.add_argument("--note", default="")
+    p_bet.add_argument("--pending", action="store_true", help="list only pending bets")
+    p_bet.add_argument("--id", help="bet id for a manual settle")
+    p_bet.add_argument("--result", choices=["won", "lost"], help="manual settle result")
+    p_bet.set_defaults(func=cmd_bet)
 
     p_run = sub.add_parser("run", help="daily pipeline: scrape, normalize, report-html")
     p_run.add_argument("--site", choices=[*SITES, "all"], default="all")

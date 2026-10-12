@@ -8,6 +8,7 @@ RAW_DIR = DATA_DIR / "raw"
 CANONICAL_DIR = DATA_DIR / "canonical"
 CONSENSUS_DIR = DATA_DIR / "consensus"
 RESULTS_DIR = DATA_DIR / "results"
+BETS_DIR = DATA_DIR / "bets"
 
 SITES = ("forebet", "eaglepredict", "whoscored", "flashscore", "sportsgambler", "sportytrader")
 
@@ -182,5 +183,5 @@ ESPN = {
 
 
 def ensure_dirs() -> None:
-    for d in (RAW_DIR, CANONICAL_DIR, CONSENSUS_DIR, RESULTS_DIR):
+    for d in (RAW_DIR, CANONICAL_DIR, CONSENSUS_DIR, RESULTS_DIR, BETS_DIR):
         d.mkdir(parents=True, exist_ok=True)

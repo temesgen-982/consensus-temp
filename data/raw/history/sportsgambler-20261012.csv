@@ -1,0 +1,21 @@
+site,source_id,league,date,kickoff,home_team,away_team,market,pick,p1,p2,p3,note,scraped_at
+sportsgambler,coventry-vs-newcastle,Premier League,2026-10-12,22:00 - Mon 12 Oct,Coventry,Newcastle,correct_score,1 - 0,,,,Coventry Asian Hcp +0.25 @ 1.98,2026-10-12T16:42:07Z
+sportsgambler,coventry-vs-newcastle,Premier League,2026-10-12,22:00 - Mon 12 Oct,Coventry,Newcastle,1x2,1,,,,Coventry Asian Hcp +0.25 @ 1.98,2026-10-12T16:42:07Z
+sportsgambler,coventry-vs-newcastle,Premier League,2026-10-12,22:00 - Mon 12 Oct,Coventry,Newcastle,btts,No,,,,Coventry Asian Hcp +0.25 @ 1.98,2026-10-12T16:42:07Z
+sportsgambler,coventry-vs-newcastle,Premier League,2026-10-12,22:00 - Mon 12 Oct,Coventry,Newcastle,over_under,Under,,,,Coventry Asian Hcp +0.25 @ 1.98,2026-10-12T16:42:07Z
+sportsgambler,levante-vs-sevilla,LaLiga,2026-10-12,22:00 - Mon 12 Oct,Levante,Sevilla,correct_score,1 - 1,,,,Both Teams To Score - Yes @ 1.79,2026-10-12T16:42:07Z
+sportsgambler,levante-vs-sevilla,LaLiga,2026-10-12,22:00 - Mon 12 Oct,Levante,Sevilla,1x2,X,,,,Both Teams To Score - Yes @ 1.79,2026-10-12T16:42:07Z
+sportsgambler,levante-vs-sevilla,LaLiga,2026-10-12,22:00 - Mon 12 Oct,Levante,Sevilla,btts,Yes,,,,Both Teams To Score - Yes @ 1.79,2026-10-12T16:42:07Z
+sportsgambler,levante-vs-sevilla,LaLiga,2026-10-12,22:00 - Mon 12 Oct,Levante,Sevilla,over_under,Under,,,,Both Teams To Score - Yes @ 1.79,2026-10-12T16:42:07Z
+sportsgambler,atalanta-vs-venezia,Serie A,2026-10-12,19:30 - Mon 12 Oct,Atalanta,Venezia,correct_score,1 - 1,,,,Venezia Asian Hcp +1 @ 1.83,2026-10-12T16:42:07Z
+sportsgambler,atalanta-vs-venezia,Serie A,2026-10-12,19:30 - Mon 12 Oct,Atalanta,Venezia,1x2,X,,,,Venezia Asian Hcp +1 @ 1.83,2026-10-12T16:42:07Z
+sportsgambler,atalanta-vs-venezia,Serie A,2026-10-12,19:30 - Mon 12 Oct,Atalanta,Venezia,btts,Yes,,,,Venezia Asian Hcp +1 @ 1.83,2026-10-12T16:42:07Z
+sportsgambler,atalanta-vs-venezia,Serie A,2026-10-12,19:30 - Mon 12 Oct,Atalanta,Venezia,over_under,Under,,,,Venezia Asian Hcp +1 @ 1.83,2026-10-12T16:42:07Z
+sportsgambler,torino-vs-udinese,Serie A,2026-10-12,21:45 - Mon 12 Oct,Torino,Udinese,correct_score,1 - 1,,,,Both Teams To Score - Yes @ 1.79,2026-10-12T16:42:07Z
+sportsgambler,torino-vs-udinese,Serie A,2026-10-12,21:45 - Mon 12 Oct,Torino,Udinese,1x2,X,,,,Both Teams To Score - Yes @ 1.79,2026-10-12T16:42:07Z
+sportsgambler,torino-vs-udinese,Serie A,2026-10-12,21:45 - Mon 12 Oct,Torino,Udinese,btts,Yes,,,,Both Teams To Score - Yes @ 1.79,2026-10-12T16:42:07Z
+sportsgambler,torino-vs-udinese,Serie A,2026-10-12,21:45 - Mon 12 Oct,Torino,Udinese,over_under,Under,,,,Both Teams To Score - Yes @ 1.79,2026-10-12T16:42:07Z
+sportsgambler,famalicao-vs-alverca,Liga Portugal,2026-10-12,22:15 - Mon 12 Oct,Famalicão,Alverca,correct_score,1 - 0,,,,Famalicão To Win @ 1.77,2026-10-12T16:42:07Z
+sportsgambler,famalicao-vs-alverca,Liga Portugal,2026-10-12,22:15 - Mon 12 Oct,Famalicão,Alverca,1x2,1,,,,Famalicão To Win @ 1.77,2026-10-12T16:42:07Z
+sportsgambler,famalicao-vs-alverca,Liga Portugal,2026-10-12,22:15 - Mon 12 Oct,Famalicão,Alverca,btts,No,,,,Famalicão To Win @ 1.77,2026-10-12T16:42:07Z
+sportsgambler,famalicao-vs-alverca,Liga Portugal,2026-10-12,22:15 - Mon 12 Oct,Famalicão,Alverca,over_under,Under,,,,Famalicão To Win @ 1.77,2026-10-12T16:42:07Z

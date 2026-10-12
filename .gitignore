@@ -4,3 +4,5 @@ __pycache__/
 .pytest_cache/
 *.egg-info
 .fetch_cookies.json
+# personal bet ledger - kept local, never committed/deployed
+data/bets/
