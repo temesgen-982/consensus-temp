@@ -1,8 +1,5 @@
 site,source_id,league,date,kickoff,home_team,away_team,market,pick,p1,p2,p3,note,scraped_at
-sportytrader,moreirense-gil-vicente-377432,Liga Portugal,2026-10-09,20:45,Moreirense,Gil Vicente,btts,Yes,,,,Over 2.5 goals and BTTS @ 2.62,2026-10-09T09:08:44Z
-sportytrader,psv-eindhoven-heerenveen-377569,Eredivisie,2026-10-09,21:00,PSV Eindhoven,Heerenveen,btts,Yes,,,,PSV to win and BTTS @ 1.83,2026-10-09T09:08:44Z
-sportytrader,borussia-dortmund-werder-bremen-377468,Bundesliga,2026-10-09,21:30,Borussia Dortmund,Werder Bremen,btts,No,,,,BTTS: No @ 2.2,2026-10-09T09:08:44Z
-sportytrader,lens-lyon-377590,Ligue 1,2026-10-09,21:45,Lens,Lyon,1x2,2,,,,Lyon to win & over 2.5 goals @ 2.5,2026-10-09T09:08:44Z
-sportytrader,lens-lyon-377590,Ligue 1,2026-10-09,21:45,Lens,Lyon,over_under,Over,,,,Lyon to win & over 2.5 goals @ 2.5,2026-10-09T09:08:44Z
-sportytrader,malaga-espanyol-377601,LaLiga,2026-10-09,22:00,Málaga,Espanyol,over_under,Under,,,,Under 2.5 goals @ 1.8,2026-10-09T09:08:44Z
-sportytrader,sporting-braga-sporting-portugal-377595,Liga Portugal,2026-10-09,22:15,SC Braga,Sporting Lisbon,1x2,X,,,,Draw @ 3.2,2026-10-09T09:08:44Z
+sportytrader,eintracht-frankfurt-koln-379258,Bundesliga,2026-10-16,21:30,Eintracht Frankfurt,Köln,over_under,Over,,,,Over 3.5 goals @ 2.00,2026-10-16T14:30:23Z
+sportytrader,frosinone-sassuolo-379412,Serie A,2026-10-16,21:45,Frosinone,Sassuolo,1x2,1,,,,Frosinone wins @ 2.30,2026-10-16T14:30:23Z
+sportytrader,le-mans-uc-72-toulouse-379418,Ligue 1,2026-10-16,21:45,Le Mans FC,Toulouse,1x2,X,,,,Draw @ 3.60,2026-10-16T14:30:23Z
+sportytrader,la-coruna-levante-379425,LaLiga,2026-10-16,22:00,La Coruna,Levante,btts,Yes,,,,BTTS @ 1.70,2026-10-16T14:30:23Z

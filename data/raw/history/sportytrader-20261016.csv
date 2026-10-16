@@ -1,0 +1,5 @@
+site,source_id,league,date,kickoff,home_team,away_team,market,pick,p1,p2,p3,note,scraped_at
+sportytrader,eintracht-frankfurt-koln-379258,Bundesliga,2026-10-16,21:30,Eintracht Frankfurt,Köln,over_under,Over,,,,Over 3.5 goals @ 2.00,2026-10-16T14:30:23Z
+sportytrader,frosinone-sassuolo-379412,Serie A,2026-10-16,21:45,Frosinone,Sassuolo,1x2,1,,,,Frosinone wins @ 2.30,2026-10-16T14:30:23Z
+sportytrader,le-mans-uc-72-toulouse-379418,Ligue 1,2026-10-16,21:45,Le Mans FC,Toulouse,1x2,X,,,,Draw @ 3.60,2026-10-16T14:30:23Z
+sportytrader,la-coruna-levante-379425,LaLiga,2026-10-16,22:00,La Coruna,Levante,btts,Yes,,,,BTTS @ 1.70,2026-10-16T14:30:23Z
