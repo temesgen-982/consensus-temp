@@ -92,3 +92,31 @@ def test_render_grade_includes_consensus():
 def test_grade_no_results():
     out = grade([])
     assert out["stats"] == {}
+
+
+def test_save_results_merges_instead_of_overwriting(tmp_path):
+    from consensus.results import save_results
+    from consensus.storage import read_csv
+
+    path = tmp_path / "flashscore.csv"
+    old = {
+        "site": "flashscore", "source_id": "AAA", "league": "Bundesliga",
+        "date": "2026-10-09", "kickoff": "2026-10-09 20:30",
+        "home_team": "Dortmund", "away_team": "Werder Bremen",
+        "home_goals": "2", "away_goals": "2",
+        "scraped_at": "2026-10-16T14:30:27Z",
+    }
+    save_results([old], path=path)
+
+    # a later short-window scrape must keep the older window and refresh dupes
+    refreshed = {**old, "home_goals": "3", "scraped_at": "2026-10-17T04:27:22Z"}
+    newer = {**old, "source_id": "BBB", "date": "2026-10-16",
+             "kickoff": "2026-10-16 20:45", "home_team": "Frosinone",
+             "away_team": "Sassuolo", "home_goals": "4", "away_goals": "2",
+             "scraped_at": "2026-10-17T04:27:22Z"}
+    save_results([refreshed, newer], path=path)
+
+    rows = read_csv(path)
+    assert len(rows) == 2  # deduped by source_id, older window kept
+    assert [r["date"] for r in rows] == ["2026-10-09", "2026-10-16"]  # sorted
+    assert next(r for r in rows if r["source_id"] == "AAA")["home_goals"] == "3"

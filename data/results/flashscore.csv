@@ -1,6 +1,72 @@
 site,source_id,league,date,kickoff,home_team,away_team,home_goals,away_goals,scraped_at
-flashscore,pjtbZnNH,Ligue 1,2026-10-16,2026-10-16 20:45,Le Mans,Toulouse,0,3,2026-10-17T04:27:22Z
-flashscore,ADR926vh,Bundesliga,2026-10-16,2026-10-16 20:30,Eintracht Frankfurt,FC Koln,1,0,2026-10-17T04:27:22Z
-flashscore,fmMyId8e,Serie A,2026-10-16,2026-10-16 20:45,Frosinone,Sassuolo,4,2,2026-10-17T04:27:22Z
+flashscore,z3PvErW6,Liga Portugal,2026-10-09,2026-10-09 19:45,Moreirense,Gil Vicente,0,1,2026-10-16T14:30:27Z
+flashscore,ABvXMeTa,Eredivisie,2026-10-09,2026-10-09 20:00,PSV,Heerenveen,2,0,2026-10-16T14:30:27Z
+flashscore,plkwWY3D,Bundesliga,2026-10-09,2026-10-09 20:30,Dortmund,Werder Bremen,2,2,2026-10-16T14:30:27Z
+flashscore,MFDuQNS6,Ligue 1,2026-10-09,2026-10-09 20:45,Lens,Lyon,2,1,2026-10-16T14:30:27Z
+flashscore,dUikzzNa,LaLiga,2026-10-09,2026-10-09 21:00,Malaga,Espanyol,1,1,2026-10-16T14:30:27Z
+flashscore,Iqp7aqHD,Liga Portugal,2026-10-09,2026-10-09 21:15,Braga,Sporting CP,1,3,2026-10-16T14:30:27Z
+flashscore,xtmHKGT0,Premier League,2026-10-10,2026-10-10 13:30,Arsenal,Leeds,2,1,2026-10-16T14:30:27Z
+flashscore,zsIUF5yo,LaLiga,2026-10-10,2026-10-10 14:00,Rayo Vallecano,Ath Bilbao,0,0,2026-10-16T14:30:27Z
+flashscore,6k8N36mo,Serie A,2026-10-10,2026-10-10 15:00,Genoa,Fiorentina,2,1,2026-10-16T14:30:27Z
+flashscore,nyUApYI6,Bundesliga,2026-10-10,2026-10-10 15:30,Augsburg,Bayern Munich,2,2,2026-10-16T14:30:27Z
+flashscore,8QSflGJs,Bundesliga,2026-10-10,2026-10-10 15:30,Hoffenheim,Hamburger SV,2,3,2026-10-16T14:30:27Z
+flashscore,f1XIrCmJ,Bundesliga,2026-10-10,2026-10-10 15:30,Mainz,Bayer Leverkusen,3,4,2026-10-16T14:30:27Z
+flashscore,vBppnofB,Bundesliga,2026-10-10,2026-10-10 15:30,Paderborn,Stuttgart,0,2,2026-10-16T14:30:27Z
+flashscore,KtlUkTfn,Bundesliga,2026-10-10,2026-10-10 15:30,Union Berlin,Elversberg,1,0,2026-10-16T14:30:27Z
+flashscore,p6jPIfbD,Premier League,2026-10-10,2026-10-10 16:00,Aston Villa,Brentford,2,2,2026-10-16T14:30:27Z
+flashscore,8I6zQB5t,Premier League,2026-10-10,2026-10-10 16:00,Chelsea,Bournemouth,5,1,2026-10-16T14:30:27Z
+flashscore,UZ96Io4U,Premier League,2026-10-10,2026-10-10 16:00,Ipswich,Fulham,2,1,2026-10-16T14:30:27Z
+flashscore,Qw1VY6lB,Premier League,2026-10-10,2026-10-10 16:00,Sunderland,Brighton,0,2,2026-10-16T14:30:27Z
+flashscore,6cE9Ndwf,LaLiga,2026-10-10,2026-10-10 16:15,Alaves,Atl. Madrid,1,2,2026-10-16T14:30:27Z
+flashscore,jktmJDSO,Eredivisie,2026-10-10,2026-10-10 16:30,G.A. Eagles,Sparta Rotterdam,3,3,2026-10-16T14:30:27Z
+flashscore,UuHmO1cJ,Ligue 1,2026-10-10,2026-10-10 17:15,Lille,Le Havre,1,0,2026-10-16T14:30:27Z
+flashscore,bqe9R9uh,Serie A,2026-10-10,2026-10-10 18:00,Inter,Parma,3,0,2026-10-16T14:30:27Z
+flashscore,hQ2NzTJb,Premier League,2026-10-10,2026-10-10 18:30,Manchester Utd,Tottenham,1,1,2026-10-16T14:30:27Z
+flashscore,xrxPgxdK,Bundesliga,2026-10-10,2026-10-10 18:30,RB Leipzig,Eintracht Frankfurt,6,0,2026-10-16T14:30:27Z
+flashscore,Es8BsIUP,LaLiga,2026-10-10,2026-10-10 18:30,Barcelona,Getafe,3,0,2026-10-16T14:30:27Z
+flashscore,rPxuLZcC,Eredivisie,2026-10-10,2026-10-10 18:45,Feyenoord,AZ Alkmaar,2,0,2026-10-16T14:30:27Z
+flashscore,SxMWF41f,Liga Portugal,2026-10-10,2026-10-10 19:00,Maritimo,FC Porto,1,2,2026-10-16T14:30:27Z
+flashscore,CbJ4yerg,Eredivisie,2026-10-10,2026-10-10 20:00,Sittard,Twente,1,1,2026-10-16T14:30:27Z
+flashscore,zaFXRqbf,Ligue 1,2026-10-10,2026-10-10 20:45,Brest,Angers,5,1,2026-10-16T14:30:27Z
+flashscore,O2jXVDGP,Ligue 1,2026-10-10,2026-10-10 20:45,Lorient,Paris FC,1,0,2026-10-16T14:30:27Z
+flashscore,fos3Qivm,Ligue 1,2026-10-10,2026-10-10 20:45,Monaco,Toulouse,2,2,2026-10-16T14:30:27Z
+flashscore,K6cIM9wC,Ligue 1,2026-10-10,2026-10-10 20:45,PSG,Le Mans,3,1,2026-10-16T14:30:27Z
+flashscore,pKaXL59T,Serie A,2026-10-10,2026-10-10 20:45,Napoli,Frosinone,3,0,2026-10-16T14:30:27Z
+flashscore,voLdwHDt,Eredivisie,2026-10-10,2026-10-10 21:00,Ajax,Nijmegen,1,1,2026-10-16T14:30:27Z
+flashscore,2mAGw9Ti,LaLiga,2026-10-10,2026-10-10 21:00,Real Madrid,Villarreal,1,0,2026-10-16T14:30:27Z
+flashscore,x6ri3RHl,Liga Portugal,2026-10-10,2026-10-10 21:30,Academico Viseu,Estoril,2,1,2026-10-16T14:30:27Z
+flashscore,OtXhNn9K,Liga Portugal,2026-10-10,2026-10-10 21:30,Casa Pia,Santa Clara,0,1,2026-10-16T14:30:27Z
+flashscore,KOMCZYC5,Eredivisie,2026-10-11,2026-10-11 12:15,Utrecht,Willem II,3,1,2026-10-16T14:30:27Z
+flashscore,z7Hi9SPN,Serie A,2026-10-11,2026-10-11 12:30,Como,AS Roma,0,0,2026-10-16T14:30:27Z
+flashscore,nyGPJExJ,LaLiga,2026-10-11,2026-10-11 14:00,Elche,Celta Vigo,0,0,2026-10-16T14:30:27Z
+flashscore,02OSVjCU,Eredivisie,2026-10-11,2026-10-11 14:30,Telstar,Den Haag,2,2,2026-10-16T14:30:27Z
+flashscore,SlQKXCsI,Eredivisie,2026-10-11,2026-10-11 14:30,Zwolle,Cambuur,0,1,2026-10-16T14:30:27Z
+flashscore,ld8jMT45,Premier League,2026-10-11,2026-10-11 15:00,Crystal Palace,Nottingham,3,1,2026-10-16T14:30:27Z
+flashscore,dMBbK7ZH,Premier League,2026-10-11,2026-10-11 15:00,Hull,Everton,2,2,2026-10-16T14:30:27Z
+flashscore,ngaAOV8a,Ligue 1,2026-10-11,2026-10-11 15:00,Nice,Strasbourg,2,1,2026-10-16T14:30:27Z
+flashscore,69bHPmA4,Serie A,2026-10-11,2026-10-11 15:00,Lazio,Monza,3,1,2026-10-16T14:30:27Z
+flashscore,C61PNRvH,Serie A,2026-10-11,2026-10-11 15:00,Lecce,Bologna,1,2,2026-10-16T14:30:27Z
+flashscore,hfnxl7Pb,Bundesliga,2026-10-11,2026-10-11 15:30,FC Koln,B. Monchengladbach,2,1,2026-10-16T14:30:27Z
+flashscore,feSNymb4,LaLiga,2026-10-11,2026-10-11 16:15,Real Sociedad,Dep. A Coruna,3,2,2026-10-16T14:30:27Z
+flashscore,t0SnCM0J,Liga Portugal,2026-10-11,2026-10-11 16:30,Rio Ave,Nacional,3,2,2026-10-16T14:30:27Z
+flashscore,UHbxjfcn,Eredivisie,2026-10-11,2026-10-11 16:45,Excelsior,Groningen,1,5,2026-10-16T14:30:27Z
+flashscore,SW0QKm8O,Ligue 1,2026-10-11,2026-10-11 17:15,Rennes,Auxerre,4,1,2026-10-16T14:30:27Z
+flashscore,p0aFxkkn,Premier League,2026-10-11,2026-10-11 17:30,Liverpool,Manchester City,0,3,2026-10-16T14:30:27Z
+flashscore,ENV2nflf,Bundesliga,2026-10-11,2026-10-11 17:30,Freiburg,Schalke,2,1,2026-10-16T14:30:27Z
+flashscore,G2j3GqXj,Serie A,2026-10-11,2026-10-11 18:00,Sassuolo,AC Milan,1,1,2026-10-16T14:30:27Z
+flashscore,vBCHLz86,LaLiga,2026-10-11,2026-10-11 18:30,Betis,Osasuna,5,2,2026-10-16T14:30:27Z
+flashscore,Sby8eIVo,Liga Portugal,2026-10-11,2026-10-11 19:00,Benfica,Vitoria Guimaraes,2,0,2026-10-16T14:30:27Z
+flashscore,Ietzuigt,Ligue 1,2026-10-11,2026-10-11 20:45,Troyes,Marseille,0,2,2026-10-16T14:30:27Z
+flashscore,ljJqBleB,Serie A,2026-10-11,2026-10-11 20:45,Cagliari,Juventus,1,1,2026-10-16T14:30:27Z
+flashscore,4fecYDiC,LaLiga,2026-10-11,2026-10-11 21:00,Racing Santander,Valencia,2,2,2026-10-16T14:30:27Z
+flashscore,pWoa15n1,Liga Portugal,2026-10-11,2026-10-11 21:30,Arouca,Estrela,1,0,2026-10-16T14:30:27Z
+flashscore,GxLyDAQb,Serie A,2026-10-12,2026-10-12 18:30,Atalanta,Venezia,3,1,2026-10-16T14:30:27Z
+flashscore,r9rkvmPc,Serie A,2026-10-12,2026-10-12 20:45,Torino,Udinese,2,1,2026-10-16T14:30:27Z
+flashscore,tW4rOkzg,Premier League,2026-10-12,2026-10-12 21:00,Coventry,Newcastle,4,1,2026-10-16T14:30:27Z
+flashscore,ADgsxdhm,LaLiga,2026-10-12,2026-10-12 21:00,Levante,Sevilla,3,3,2026-10-16T14:30:27Z
+flashscore,fPNOHQWs,Liga Portugal,2026-10-12,2026-10-12 21:15,Famalicao,Alverca,1,4,2026-10-16T14:30:27Z
 flashscore,xr2plYRb,Eredivisie,2026-10-16,2026-10-16 20:00,Heerenveen,Excelsior,4,0,2026-10-17T04:27:22Z
+flashscore,ADR926vh,Bundesliga,2026-10-16,2026-10-16 20:30,Eintracht Frankfurt,FC Koln,1,0,2026-10-17T04:27:22Z
+flashscore,pjtbZnNH,Ligue 1,2026-10-16,2026-10-16 20:45,Le Mans,Toulouse,0,3,2026-10-17T04:27:22Z
+flashscore,fmMyId8e,Serie A,2026-10-16,2026-10-16 20:45,Frosinone,Sassuolo,4,2,2026-10-17T04:27:22Z
 flashscore,6HK9SrLj,LaLiga,2026-10-16,2026-10-16 21:00,Dep. A Coruna,Levante,1,1,2026-10-17T04:27:22Z

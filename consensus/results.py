@@ -3,6 +3,7 @@ from __future__ import annotations
 import re
 from collections import defaultdict
 from datetime import datetime, timedelta
+from pathlib import Path
 from html import unescape
 from zoneinfo import ZoneInfo
 
@@ -289,8 +290,20 @@ def render_fixture_results(result: dict) -> str:
     return "\n".join(lines)
 
 
-def save_results(rows: list[dict]) -> None:
-    write_csv(RESULTS_DIR / "flashscore.csv", rows, RESULT_COLUMNS)
+def save_results(rows: list[dict], path: Path | None = None) -> None:
+    """Merge fresh results into the results file, keyed by source_id.
+
+    A short-window scrape must not drop older finished matches: they feed
+    bet settling and the accuracy backtest, and unlike raw scrapes results
+    have no history snapshots - the live file is the archive.
+    """
+    path = path or RESULTS_DIR / "flashscore.csv"
+    existing = read_csv(path)
+    fresh = {r["source_id"] for r in rows if r.get("source_id")}
+    merged = [r for r in existing if r.get("source_id") not in fresh]
+    merged += rows
+    merged.sort(key=lambda r: (r.get("date", ""), r.get("kickoff", "")))
+    write_csv(path, merged, RESULT_COLUMNS)
 
 
 def load_results() -> list[dict]:
