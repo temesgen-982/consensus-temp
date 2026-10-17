@@ -1,5 +1,23 @@
 site,source_id,league,date,kickoff,home_team,away_team,market,pick,p1,p2,p3,note,scraped_at
-sportytrader,eintracht-frankfurt-koln-379258,Bundesliga,2026-10-16,21:30,Eintracht Frankfurt,Köln,over_under,Over,,,,Over 3.5 goals @ 2.00,2026-10-16T14:30:23Z
-sportytrader,frosinone-sassuolo-379412,Serie A,2026-10-16,21:45,Frosinone,Sassuolo,1x2,1,,,,Frosinone wins @ 2.30,2026-10-16T14:30:23Z
-sportytrader,le-mans-uc-72-toulouse-379418,Ligue 1,2026-10-16,21:45,Le Mans FC,Toulouse,1x2,X,,,,Draw @ 3.60,2026-10-16T14:30:23Z
-sportytrader,la-coruna-levante-379425,LaLiga,2026-10-16,22:00,La Coruna,Levante,btts,Yes,,,,BTTS @ 1.70,2026-10-16T14:30:23Z
+sportytrader,brentford-liverpool-379809,Premier League,2026-10-17,17:00,Brentford,Liverpool,btts,Yes,,,,BTTS @ 1.50,2026-10-17T04:54:06Z
+sportytrader,fulham-hull-379829,Premier League,2026-10-17,17:00,Fulham,Hull,1x2,X,,,,Draw @ 4.00,2026-10-17T04:54:06Z
+sportytrader,newcastle-aston-villa-379596,Premier League,2026-10-17,19:30,Newcastle,Aston Villa,btts,Yes,,,,BTTS @ 1.47,2026-10-17T04:54:06Z
+sportytrader,espanyol-atletico-madrid-379639,LaLiga,2026-10-17,15:00,Espanyol,Atletico Madrid,1x2,2,,,,Atletico Madrid to win and BTTS @ 3.50,2026-10-17T04:54:06Z
+sportytrader,espanyol-atletico-madrid-379639,LaLiga,2026-10-17,15:00,Espanyol,Atletico Madrid,btts,Yes,,,,Atletico Madrid to win and BTTS @ 3.50,2026-10-17T04:54:06Z
+sportytrader,venezia-napoli-379745,Serie A,2026-10-17,16:00,Venezia,Napoli,1x2,2,,,,Napoli to win & over 2.5 goals @ 2.50,2026-10-17T04:54:06Z
+sportytrader,venezia-napoli-379745,Serie A,2026-10-17,16:00,Venezia,Napoli,over_under,Over,,,,Napoli to win & over 2.5 goals @ 2.50,2026-10-17T04:54:06Z
+sportytrader,union-berlin-borussia-dortmund-379576,Bundesliga,2026-10-17,16:30,Union Berlin,Borussia Dortmund,1x2,2,,,,Borussia Dortmund wins @ 1.57,2026-10-17T04:54:06Z
+sportytrader,werder-bremen-paderborn-379615,Bundesliga,2026-10-17,16:30,Werder Bremen,Paderborn,1x2,1,,,,Werder Bremen wins @ 1.80,2026-10-17T04:54:06Z
+sportytrader,spvgg-elversberg-augsburg-379645,Bundesliga,2026-10-17,16:30,Spvgg Elversberg,Augsburg,1x2,2,,,,Augsburg wins @ 2.70,2026-10-17T04:54:06Z
+sportytrader,villarreal-elche-379667,LaLiga,2026-10-17,17:15,Villarreal,Elche,1x2,1,,,,Villarreal to win and BTTS @ 2.62,2026-10-17T04:54:06Z
+sportytrader,villarreal-elche-379667,LaLiga,2026-10-17,17:15,Villarreal,Elche,btts,Yes,,,,Villarreal to win and BTTS @ 2.62,2026-10-17T04:54:06Z
+sportytrader,ado-the-hague-psv-eindhoven-379719,Eredivisie,2026-10-17,17:30,ADO The Hague,PSV Eindhoven,over_under,Over,,,,Over 3.5 goals @ 1.54,2026-10-17T04:54:06Z
+sportytrader,racing-strasbourg-psg-379765,Ligue 1,2026-10-17,18:15,Strasbourg,PSG,1x2,2,,,,PSG to win and BTTS @ 2.40,2026-10-17T04:54:06Z
+sportytrader,racing-strasbourg-psg-379765,Ligue 1,2026-10-17,18:15,Strasbourg,PSG,btts,Yes,,,,PSG to win and BTTS @ 2.40,2026-10-17T04:54:06Z
+sportytrader,bayern-munich-leipzig-379666,Bundesliga,2026-10-17,19:30,Bayern Munich,Leipzig,over_under,Over,,,,Over 4.5 goals @ 2.00,2026-10-17T04:54:06Z
+sportytrader,betis-barcelona-379773,LaLiga,2026-10-17,19:30,Betis,Barcelona,over_under,Over,,,,Over 3.5 goals @ 1.57,2026-10-17T04:54:06Z
+sportytrader,telstar-feyenoord-379711,Eredivisie,2026-10-17,21:00,Telstar,Feyenoord,btts,Yes,,,,BTTS @ 1.53,2026-10-17T04:54:06Z
+sportytrader,roma-genoa-379780,Serie A,2026-10-17,21:45,Roma,Genoa,1x2,1,,,,Roma to win and over 2.5 goals @ 2.10,2026-10-17T04:54:06Z
+sportytrader,roma-genoa-379780,Serie A,2026-10-17,21:45,Roma,Genoa,over_under,Over,,,,Roma to win and over 2.5 goals @ 2.10,2026-10-17T04:54:06Z
+sportytrader,lille-osc-brest-379789,Ligue 1,2026-10-17,21:45,Lille,Brest,over_under,Over,,,,Over 2.5 goals @ 1.93,2026-10-17T04:54:06Z
+sportytrader,valencia-athletic-bilbao-379859,LaLiga,2026-10-17,22:00,Valencia,Athletic Bilbao,1x2,2,,,,Athletic Bilbao wins @ 2.30,2026-10-17T04:54:06Z
