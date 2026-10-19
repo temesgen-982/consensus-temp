@@ -81,7 +81,9 @@ def scrape_results(days: int = 1) -> list[dict]:
     rows: list[dict] = []
     seen: set[str] = set()
 
-    for back in range(days, 0, -1):
+    # range includes 0 (flashscore's "today"): between midnight and ~03:00 EAT
+    # the just-finished day is still the site's current day (Prague lags EAT).
+    for back in range(days, -1, -1):
         d = (today - timedelta(days=back)).strftime("%Y-%m-%d")
         html = fetch(f"{base}/?d={-back}&s=3", retries=3, delay=1.5)
         for m in parse_finished(html, d):
