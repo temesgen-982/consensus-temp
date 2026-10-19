@@ -1,31 +1,7 @@
 site,source_id,league,date,kickoff,home_team,away_team,market,pick,p1,p2,p3,note,scraped_at
-eaglepredict,8557741,Premier League,2026-10-18,16:00,Leeds United,Manchester United,over_under,Under  4.5 Goals,,,,1.16,2026-10-18T03:12:12Z
-eaglepredict,8558031,Premier League,2026-10-18,16:00,Bournemouth,Sunderland,double_chance,Double Chance: Bournemouth or Draw,,,,1.36,2026-10-18T03:12:12Z
-eaglepredict,8558115,Premier League,2026-10-18,16:00,Brighton,Crystal Palace,btts,BTTS - Yes,,,,1.61,2026-10-18T03:12:12Z
-eaglepredict,8558067,Premier League,2026-10-18,18:30,Nottingham Forest,Arsenal,double_chance,Double Chance: Draw or Arsenal,,,,1.14,2026-10-18T03:12:12Z
-eaglepredict,8558111,Premier League,2026-10-19,22:00,Tottenham,Coventry City,over_under,Over  2.5 Goals,,,,1.65,2026-10-18T03:12:12Z
-eaglepredict,8570422,La Liga,2026-10-18,15:00,Osasuna,Racing Santander,over_under,Under  3.5 Goals,,,,1.49,2026-10-18T03:12:12Z
-eaglepredict,8570443,La Liga,2026-10-18,17:15,Celta de Vigo,Deportivo Alavés,btts,BTTS - Yes,,,,1.77,2026-10-18T03:12:12Z
-eaglepredict,8570380,La Liga,2026-10-18,19:30,Málaga CF,Real Sociedad,double_chance,Double Chance: Draw or Real Sociedad,,,,1.44,2026-10-18T03:12:12Z
-eaglepredict,8570409,La Liga,2026-10-18,22:00,Real Madrid,Sevilla,over_under,Under  3.5 Goals,,,,1.85,2026-10-18T03:12:12Z
-eaglepredict,8570370,La Liga,2026-10-19,22:00,Getafe,Rayo Vallecano,double_chance,Double Chance: Draw or Rayo Vallecano,,,,1.37,2026-10-18T03:12:12Z
-eaglepredict,8570398,La Liga,2026-10-21,21:00,Levante UD,Athletic Bilbao,correct_score,1 - 1,,,,6.00,2026-10-18T03:12:12Z
-eaglepredict,8572508,Bundesliga,2026-10-18,16:30,Bayer Leverkusen,Freiburg,double_chance,Double Chance: Bayer Leverkusen or Draw,,,,1.20,2026-10-18T03:12:12Z
-eaglepredict,8572492,Bundesliga,2026-10-18,18:30,Borussia M'gladbach,Hoffenheim,over_under,Over  2.5 Goals,,,,1.37,2026-10-18T03:12:12Z
-eaglepredict,8545175,Serie A,2026-10-18,13:30,Udinese,Lecce,1x2,Udinese Win,,,,1.88,2026-10-18T03:12:12Z
-eaglepredict,8545101,Serie A,2026-10-18,16:00,Fiorentina,Como,btts,BTTS - Yes,,,,1.47,2026-10-18T03:12:12Z
-eaglepredict,8545063,Serie A,2026-10-18,19:00,Milan,Atalanta,over_under,Under  3.5 Goals,,,,1.39,2026-10-18T03:12:12Z
-eaglepredict,8545066,Serie A,2026-10-18,21:45,Juventus,Lazio,over_under,Under  3.5 Goals,,,,1.26,2026-10-18T03:12:12Z
-eaglepredict,8544868,Serie A,2026-10-19,19:30,Monza,Cagliari,1x2,Monza Win,,,,2.40,2026-10-18T03:12:12Z
-eaglepredict,8545202,Serie A,2026-10-19,21:45,Parma,Torino,btts,BTTS - Yes,,,,2.02,2026-10-18T03:12:12Z
-eaglepredict,8548728,Ligue 1,2026-10-18,16:00,Angers,Olympique Marseille,double_chance,Double Chance: Draw or Olympique Marseille,,,,1.33,2026-10-18T03:12:12Z
-eaglepredict,8548588,Ligue 1,2026-10-18,18:15,Le Havre,Auxerre,double_chance,Double Chance: Le Havre or Draw,,,,1.35,2026-10-18T03:12:12Z
-eaglepredict,8548598,Ligue 1,2026-10-18,18:15,Paris,Rennes,over_under,Over  2.5 Goals,,,,1.64,2026-10-18T03:12:12Z
-eaglepredict,8548720,Ligue 1,2026-10-18,18:15,Lorient,Monaco,double_chance,Double Chance: Draw or Monaco,,,,1.30,2026-10-18T03:12:12Z
-eaglepredict,8548589,Ligue 1,2026-10-18,21:45,Lyon,Nice,over_under,Under  3.5 Goals,,,,1.40,2026-10-18T03:12:12Z
-eaglepredict,8547674,Eredivisie,2026-10-18,13:15,PEC Zwolle,Go Ahead Eagles,btts,BTTS - Yes,,,,1.36,2026-10-18T03:12:12Z
-eaglepredict,8547676,Eredivisie,2026-10-18,15:30,Cambuur,AZ,double_chance,Double Chance: Draw or AZ,,,,1.05,2026-10-18T03:12:12Z
-eaglepredict,8547683,Eredivisie,2026-10-18,17:45,Groningen,Ajax,over_under,Under  3.5 Goals,,,,1.80,2026-10-18T03:12:12Z
-eaglepredict,8547590,Eredivisie,2026-10-18,21:00,Twente,Utrecht,over_under,Over  2.5 Goals,,,,1.33,2026-10-18T03:12:12Z
-eaglepredict,8547604,Eredivisie,2026-10-18,21:00,NEC,Fortuna Sittard,over_under,Under  4.5 Goals,,,,1.34,2026-10-18T03:12:12Z
-eaglepredict,8574422,Primeira Liga,2026-10-19,22:15,Sporting Braga,Gil Vicente,double_chance,Double Chance: Sporting Braga or Draw,,,,1.07,2026-10-18T03:12:12Z
+eaglepredict,8558111,Premier League,2026-10-19,22:00,Tottenham,Coventry City,over_under,Over  2.5 Goals,,,,1.65,2026-10-19T03:40:53Z
+eaglepredict,8570370,La Liga,2026-10-19,22:00,Getafe,Rayo Vallecano,double_chance,Double Chance: Draw or Rayo Vallecano,,,,1.37,2026-10-19T03:40:53Z
+eaglepredict,8570398,La Liga,2026-10-21,21:00,Levante UD,Athletic Bilbao,correct_score,1 - 1,,,,6.00,2026-10-19T03:40:53Z
+eaglepredict,8544868,Serie A,2026-10-19,19:30,Monza,Cagliari,1x2,Monza Win,,,,1.62,2026-10-19T03:40:53Z
+eaglepredict,8545202,Serie A,2026-10-19,21:45,Parma,Torino,btts,BTTS - Yes,,,,1.89,2026-10-19T03:40:53Z
+eaglepredict,8574422,Primeira Liga,2026-10-19,22:15,Sporting Braga,Gil Vicente,double_chance,Double Chance: Sporting Braga or Draw,,,,1.13,2026-10-19T03:40:53Z

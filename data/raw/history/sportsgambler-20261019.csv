@@ -1,0 +1,21 @@
+site,source_id,league,date,kickoff,home_team,away_team,market,pick,p1,p2,p3,note,scraped_at
+sportsgambler,tottenham-vs-coventry,Premier League,2026-10-19,22:00 - Mon 19 Oct,Tottenham,Coventry,correct_score,1 - 1,,,,Coventry Asian Hcp +1.25 @ 1.80,2026-10-19T03:45:45Z
+sportsgambler,tottenham-vs-coventry,Premier League,2026-10-19,22:00 - Mon 19 Oct,Tottenham,Coventry,1x2,X,,,,Coventry Asian Hcp +1.25 @ 1.80,2026-10-19T03:45:45Z
+sportsgambler,tottenham-vs-coventry,Premier League,2026-10-19,22:00 - Mon 19 Oct,Tottenham,Coventry,btts,Yes,,,,Coventry Asian Hcp +1.25 @ 1.80,2026-10-19T03:45:45Z
+sportsgambler,tottenham-vs-coventry,Premier League,2026-10-19,22:00 - Mon 19 Oct,Tottenham,Coventry,over_under,Under,,,,Coventry Asian Hcp +1.25 @ 1.80,2026-10-19T03:45:45Z
+sportsgambler,getafe-vs-rayo-vallecano,LaLiga,2026-10-19,22:00 - Mon 19 Oct,Getafe,Rayo Vallecano,correct_score,1 - 0,,,,Getafe Asian Hcp +0.25 @ 1.61,2026-10-19T03:45:45Z
+sportsgambler,getafe-vs-rayo-vallecano,LaLiga,2026-10-19,22:00 - Mon 19 Oct,Getafe,Rayo Vallecano,1x2,1,,,,Getafe Asian Hcp +0.25 @ 1.61,2026-10-19T03:45:45Z
+sportsgambler,getafe-vs-rayo-vallecano,LaLiga,2026-10-19,22:00 - Mon 19 Oct,Getafe,Rayo Vallecano,btts,No,,,,Getafe Asian Hcp +0.25 @ 1.61,2026-10-19T03:45:45Z
+sportsgambler,getafe-vs-rayo-vallecano,LaLiga,2026-10-19,22:00 - Mon 19 Oct,Getafe,Rayo Vallecano,over_under,Under,,,,Getafe Asian Hcp +0.25 @ 1.61,2026-10-19T03:45:45Z
+sportsgambler,monza-vs-cagliari,Serie A,2026-10-19,19:30 - Mon 19 Oct,Monza,Cagliari,correct_score,0 - 1,,,,Cagliari Asian Hcp +0.25 @ 1.78,2026-10-19T03:45:45Z
+sportsgambler,monza-vs-cagliari,Serie A,2026-10-19,19:30 - Mon 19 Oct,Monza,Cagliari,1x2,2,,,,Cagliari Asian Hcp +0.25 @ 1.78,2026-10-19T03:45:45Z
+sportsgambler,monza-vs-cagliari,Serie A,2026-10-19,19:30 - Mon 19 Oct,Monza,Cagliari,btts,No,,,,Cagliari Asian Hcp +0.25 @ 1.78,2026-10-19T03:45:45Z
+sportsgambler,monza-vs-cagliari,Serie A,2026-10-19,19:30 - Mon 19 Oct,Monza,Cagliari,over_under,Under,,,,Cagliari Asian Hcp +0.25 @ 1.78,2026-10-19T03:45:45Z
+sportsgambler,parma-vs-torino,Serie A,2026-10-19,21:45 - Mon 19 Oct,Parma,Torino,correct_score,1 - 0,,,,Parma Asian Hcp +0.25 @ 1.76,2026-10-19T03:45:45Z
+sportsgambler,parma-vs-torino,Serie A,2026-10-19,21:45 - Mon 19 Oct,Parma,Torino,1x2,1,,,,Parma Asian Hcp +0.25 @ 1.76,2026-10-19T03:45:45Z
+sportsgambler,parma-vs-torino,Serie A,2026-10-19,21:45 - Mon 19 Oct,Parma,Torino,btts,No,,,,Parma Asian Hcp +0.25 @ 1.76,2026-10-19T03:45:45Z
+sportsgambler,parma-vs-torino,Serie A,2026-10-19,21:45 - Mon 19 Oct,Parma,Torino,over_under,Under,,,,Parma Asian Hcp +0.25 @ 1.76,2026-10-19T03:45:45Z
+sportsgambler,braga-vs-gil-vicente,Liga Portugal,2026-10-19,22:15 - Mon 19 Oct,Braga,Gil Vicente,correct_score,1 - 1,,,,Gil Vicente Asian Hcp +1 @ 1.75,2026-10-19T03:45:45Z
+sportsgambler,braga-vs-gil-vicente,Liga Portugal,2026-10-19,22:15 - Mon 19 Oct,Braga,Gil Vicente,1x2,X,,,,Gil Vicente Asian Hcp +1 @ 1.75,2026-10-19T03:45:45Z
+sportsgambler,braga-vs-gil-vicente,Liga Portugal,2026-10-19,22:15 - Mon 19 Oct,Braga,Gil Vicente,btts,Yes,,,,Gil Vicente Asian Hcp +1 @ 1.75,2026-10-19T03:45:45Z
+sportsgambler,braga-vs-gil-vicente,Liga Portugal,2026-10-19,22:15 - Mon 19 Oct,Braga,Gil Vicente,over_under,Under,,,,Gil Vicente Asian Hcp +1 @ 1.75,2026-10-19T03:45:45Z

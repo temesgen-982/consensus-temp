@@ -1,19 +1,7 @@
 site,source_id,league,date,kickoff,home_team,away_team,market,pick,p1,p2,p3,note,scraped_at
-sportytrader,leeds-manchester-united-379891,Premier League,2026-10-18,16:00,Leeds,Manchester United,btts,Yes,,,,BTTS @ 1.57,2026-10-18T03:25:09Z
-sportytrader,brighton-crystal-palace-380018,Premier League,2026-10-18,16:00,Brighton,Crystal Palace,1x2,1,,,,Brighton wins @ 1.48,2026-10-18T03:25:09Z
-sportytrader,bournemouth-sunderland-380110,Premier League,2026-10-18,16:00,Bournemouth,Sunderland,btts,Yes,,,,BTTS @ 1.70,2026-10-18T03:25:09Z
-sportytrader,udinese-lecce-380001,Serie A,2026-10-18,13:30,Udinese,Lecce,over_under,Under,,,,Under 2.5 goals @ 1.80,2026-10-18T03:25:09Z
-sportytrader,osasuna-racing-santander-380025,LaLiga,2026-10-18,15:00,Osasuna,Racing Santander,1x2,X,,,,Draw @ 3.75,2026-10-18T03:25:09Z
-sportytrader,cambuur-az-alkmaar-379870,Eredivisie,2026-10-18,15:30,Cambuur,AZ Alkmaar,over_under,Under,,,,Under 3.5 goals @ 1.83,2026-10-18T03:25:09Z
-sportytrader,fiorentina-como-calcio-380031,Serie A,2026-10-18,16:00,Fiorentina,Como 1907,1x2,2,,,,Como 1907 wins @ 2.10,2026-10-18T03:25:09Z
-sportytrader,celta-vigo-alaves-380039,LaLiga,2026-10-18,17:15,Celta Vigo,Alavés,1x2,X,,,,Draw @ 3.25,2026-10-18T03:25:09Z
-sportytrader,le-havre-auxerre-380042,Ligue 1,2026-10-18,18:15,Le Havre,Auxerre,over_under,Under,,,,Under 2.5 goals @ 1.91,2026-10-18T03:25:09Z
-sportytrader,lorient-monaco-380044,Ligue 1,2026-10-18,18:15,Lorient,Monaco,btts,Yes,,,,BTTS @ 1.75,2026-10-18T03:25:09Z
-sportytrader,paris-fc-rennes-380047,Ligue 1,2026-10-18,18:15,Paris FC,Rennes,1x2,2,,,,Rennes wins @ 3.10,2026-10-18T03:25:09Z
-sportytrader,monchengladbach-hoffenheim-379897,Bundesliga,2026-10-18,18:30,Mönchengladbach,Hoffenheim,over_under,Over,,,,Over 3.5 goals @ 2.00,2026-10-18T03:25:09Z
-sportytrader,ac-milan-atalanta-380050,Serie A,2026-10-18,19:00,AC Milan,Atalanta,1x2,1,,,,AC Milan wins @ 1.80,2026-10-18T03:25:09Z
-sportytrader,malaga-real-sociedad-380052,LaLiga,2026-10-18,19:30,Málaga,Real Sociedad,1x2,2,,,,Real Sociedad wins @ 2.10,2026-10-18T03:25:09Z
-sportytrader,twente-utrecht-379911,Eredivisie,2026-10-18,21:00,Twente,Utrecht,over_under,Under,,,,Under 3.5 goals @ 1.91,2026-10-18T03:25:09Z
-sportytrader,lyon-nice-380056,Ligue 1,2026-10-18,21:45,Lyon,Nice,1x2,1,,,,Lyon wins @ 1.80,2026-10-18T03:25:09Z
-sportytrader,juventus-lazio-380058,Serie A,2026-10-18,21:45,Juventus,Lazio,over_under,Under,,,,Under 2.5 goals @ 1.88,2026-10-18T03:25:09Z
-sportytrader,real-madrid-sevilla-380054,LaLiga,2026-10-18,22:00,Real Madrid,Sevilla,over_under,Over,,,,Over 3.5 goals @ 1.85,2026-10-18T03:25:09Z
+sportytrader,tottenham-coventry-city-380159,Premier League,2026-10-19,22:00,Tottenham,Coventry City,over_under,Under,,,,Under 2.5 goals @ 2.32,2026-10-19T03:46:25Z
+sportytrader,monza-cagliari-380211,Serie A,2026-10-19,19:30,Monza,Cagliari,1x2,2,,,,Cagliari wins @ 3.00,2026-10-19T03:46:25Z
+sportytrader,parma-turin-380222,Serie A,2026-10-19,21:45,Parma,Torino FC,btts,Yes,,,,BTTS @ 2.00,2026-10-19T03:46:25Z
+sportytrader,getafe-rayo-vallecano-380224,LaLiga,2026-10-19,22:00,Getafe,Rayo Vallecano,1x2,1,,,,Getafe wins & under 2.5 goals @ 4.00,2026-10-19T03:46:25Z
+sportytrader,getafe-rayo-vallecano-380224,LaLiga,2026-10-19,22:00,Getafe,Rayo Vallecano,over_under,Under,,,,Getafe wins & under 2.5 goals @ 4.00,2026-10-19T03:46:25Z
+sportytrader,sporting-braga-gil-vicente-380103,Liga Portugal,2026-10-19,22:15,SC Braga,Gil Vicente,over_under,Under,,,,Under 2.5 goals @ 1.77,2026-10-19T03:46:25Z

@@ -1,525 +1,525 @@
 site,source_id,league,date,kickoff,home_team,away_team,market,pick,p1,p2,p3,note,scraped_at
-forebet,2495612,Premier League,2026-10-17,17/10/2026 14:30,Everton,Chelsea,1x2,1,39,35,27,avg=2.61,2026-10-18T03:07:51Z
-forebet,2495612,Premier League,2026-10-17,17/10/2026 14:30,Everton,Chelsea,correct_score,2 - 1,,,,avg=2.61,2026-10-18T03:07:51Z
-forebet,2495612,Premier League,2026-10-17,17/10/2026 14:30,Everton,Chelsea,over_under,Over,48,52,,,2026-10-18T03:07:51Z
-forebet,2495612,Premier League,2026-10-17,17/10/2026 14:30,Everton,Chelsea,btts,Yes,28,72,,,2026-10-18T03:07:51Z
-forebet,2495609,Premier League,2026-10-17,17/10/2026 17:00,Manchester City,Ipswich Town,1x2,1,61,14,25,avg=4.25,2026-10-18T03:07:51Z
-forebet,2495609,Premier League,2026-10-17,17/10/2026 17:00,Manchester City,Ipswich Town,correct_score,3 - 2,,,,avg=4.25,2026-10-18T03:07:51Z
-forebet,2495609,Premier League,2026-10-17,17/10/2026 17:00,Manchester City,Ipswich Town,over_under,Over,15,85,,,2026-10-18T03:07:51Z
-forebet,2495609,Premier League,2026-10-17,17/10/2026 17:00,Manchester City,Ipswich Town,btts,Yes,11,89,,,2026-10-18T03:07:51Z
-forebet,2495611,Premier League,2026-10-17,17/10/2026 17:00,Fulham,Hull City,1x2,2,23,33,44,avg=3.09,2026-10-18T03:07:51Z
-forebet,2495611,Premier League,2026-10-17,17/10/2026 17:00,Fulham,Hull City,correct_score,2 - 3,,,,avg=3.09,2026-10-18T03:07:51Z
-forebet,2495611,Premier League,2026-10-17,17/10/2026 17:00,Fulham,Hull City,over_under,Over,38,62,,,2026-10-18T03:07:51Z
-forebet,2495611,Premier League,2026-10-17,17/10/2026 17:00,Fulham,Hull City,btts,Yes,31,69,,,2026-10-18T03:07:51Z
-forebet,2495614,Premier League,2026-10-17,17/10/2026 17:00,Brentford,Liverpool,1x2,X,28,39,33,avg=2.10,2026-10-18T03:07:51Z
-forebet,2495614,Premier League,2026-10-17,17/10/2026 17:00,Brentford,Liverpool,correct_score,1 - 1,,,,avg=2.10,2026-10-18T03:07:51Z
-forebet,2495614,Premier League,2026-10-17,17/10/2026 17:00,Brentford,Liverpool,over_under,Under,58,42,,,2026-10-18T03:07:51Z
-forebet,2495614,Premier League,2026-10-17,17/10/2026 17:00,Brentford,Liverpool,btts,Yes,35,65,,,2026-10-18T03:07:51Z
-forebet,2495608,Premier League,2026-10-17,17/10/2026 19:30,Newcastle United,Aston Villa,1x2,X,38,43,20,avg=2.00,2026-10-18T03:07:51Z
-forebet,2495608,Premier League,2026-10-17,17/10/2026 19:30,Newcastle United,Aston Villa,correct_score,1 - 1,,,,avg=2.00,2026-10-18T03:07:51Z
-forebet,2495608,Premier League,2026-10-17,17/10/2026 19:30,Newcastle United,Aston Villa,over_under,Under,60,40,,,2026-10-18T03:07:51Z
-forebet,2495608,Premier League,2026-10-17,17/10/2026 19:30,Newcastle United,Aston Villa,btts,Yes,39,61,,,2026-10-18T03:07:51Z
-forebet,2495610,Premier League,2026-10-18,18/10/2026 16:00,Leeds United,Manchester United,1x2,X,29,51,20,avg=2.40,2026-10-18T03:07:51Z
-forebet,2495610,Premier League,2026-10-18,18/10/2026 16:00,Leeds United,Manchester United,correct_score,1 - 1,,,,avg=2.40,2026-10-18T03:07:51Z
-forebet,2495610,Premier League,2026-10-18,18/10/2026 16:00,Leeds United,Manchester United,over_under,Under,52,48,,,2026-10-18T03:07:51Z
-forebet,2495610,Premier League,2026-10-18,18/10/2026 16:00,Leeds United,Manchester United,btts,Yes,34,66,,,2026-10-18T03:07:51Z
-forebet,2495613,Premier League,2026-10-18,18/10/2026 16:00,Brighton,Crystal Palace,1x2,1,44,32,23,avg=2.46,2026-10-18T03:07:51Z
-forebet,2495613,Premier League,2026-10-18,18/10/2026 16:00,Brighton,Crystal Palace,correct_score,2 - 0,,,,avg=2.46,2026-10-18T03:07:51Z
-forebet,2495613,Premier League,2026-10-18,18/10/2026 16:00,Brighton,Crystal Palace,over_under,Under,51,49,,,2026-10-18T03:07:51Z
-forebet,2495613,Premier League,2026-10-18,18/10/2026 16:00,Brighton,Crystal Palace,btts,No,51,49,,,2026-10-18T03:07:51Z
-forebet,2495615,Premier League,2026-10-18,18/10/2026 16:00,Bournemouth,Sunderland,1x2,X,35,44,21,avg=3.13,2026-10-18T03:07:51Z
-forebet,2495615,Premier League,2026-10-18,18/10/2026 16:00,Bournemouth,Sunderland,correct_score,2 - 2,,,,avg=3.13,2026-10-18T03:07:51Z
-forebet,2495615,Premier League,2026-10-18,18/10/2026 16:00,Bournemouth,Sunderland,over_under,Over,37,63,,,2026-10-18T03:07:51Z
-forebet,2495615,Premier League,2026-10-18,18/10/2026 16:00,Bournemouth,Sunderland,btts,Yes,35,65,,,2026-10-18T03:07:51Z
-forebet,2495607,Premier League,2026-10-18,18/10/2026 18:30,Nottingham Forest,Arsenal,1x2,2,18,20,62,avg=2.17,2026-10-18T03:07:51Z
-forebet,2495607,Premier League,2026-10-18,18/10/2026 18:30,Nottingham Forest,Arsenal,correct_score,0 - 1,,,,avg=2.17,2026-10-18T03:07:51Z
-forebet,2495607,Premier League,2026-10-18,18/10/2026 18:30,Nottingham Forest,Arsenal,over_under,Under,57,43,,,2026-10-18T03:07:51Z
-forebet,2495607,Premier League,2026-10-18,18/10/2026 18:30,Nottingham Forest,Arsenal,btts,No,57,43,,,2026-10-18T03:07:51Z
-forebet,2495606,Premier League,2026-10-19,19/10/2026 22:00,Tottenham,Coventry City,1x2,1,43,24,33,avg=2.38,2026-10-18T03:07:51Z
-forebet,2495606,Premier League,2026-10-19,19/10/2026 22:00,Tottenham,Coventry City,correct_score,2 - 0,,,,avg=2.38,2026-10-18T03:07:51Z
-forebet,2495606,Premier League,2026-10-19,19/10/2026 22:00,Tottenham,Coventry City,over_under,Under,52,48,,,2026-10-18T03:07:51Z
-forebet,2495606,Premier League,2026-10-19,19/10/2026 22:00,Tottenham,Coventry City,btts,No,56,44,,,2026-10-18T03:07:51Z
-forebet,2495605,Premier League,2026-10-10,10/10/2026 14:30,Arsenal,Leeds United,1x2,X,38,41,21,avg=2.87,2026-10-18T03:07:51Z
-forebet,2495605,Premier League,2026-10-10,10/10/2026 14:30,Arsenal,Leeds United,correct_score,2 - 2,,,,avg=2.87,2026-10-18T03:07:51Z
-forebet,2495605,Premier League,2026-10-10,10/10/2026 14:30,Arsenal,Leeds United,over_under,Over,43,57,,,2026-10-18T03:07:51Z
-forebet,2495605,Premier League,2026-10-10,10/10/2026 14:30,Arsenal,Leeds United,btts,Yes,26,74,,,2026-10-18T03:07:51Z
-forebet,2495596,Premier League,2026-10-10,10/10/2026 17:00,Sunderland,Brighton,1x2,2,20,23,57,avg=2.58,2026-10-18T03:07:51Z
-forebet,2495596,Premier League,2026-10-10,10/10/2026 17:00,Sunderland,Brighton,correct_score,0 - 3,,,,avg=2.58,2026-10-18T03:07:51Z
-forebet,2495596,Premier League,2026-10-10,10/10/2026 17:00,Sunderland,Brighton,over_under,Over,48,52,,,2026-10-18T03:07:51Z
-forebet,2495596,Premier League,2026-10-10,10/10/2026 17:00,Sunderland,Brighton,btts,No,51,49,,,2026-10-18T03:07:51Z
-forebet,2495599,Premier League,2026-10-10,10/10/2026 17:00,Ipswich Town,Fulham,1x2,1,44,37,19,avg=1.86,2026-10-18T03:07:51Z
-forebet,2495599,Premier League,2026-10-10,10/10/2026 17:00,Ipswich Town,Fulham,correct_score,1 - 0,,,,avg=1.86,2026-10-18T03:07:51Z
-forebet,2495599,Premier League,2026-10-10,10/10/2026 17:00,Ipswich Town,Fulham,over_under,Under,63,37,,,2026-10-18T03:07:51Z
-forebet,2495599,Premier League,2026-10-10,10/10/2026 17:00,Ipswich Town,Fulham,btts,No,50,50,,,2026-10-18T03:07:51Z
-forebet,2495603,Premier League,2026-10-10,10/10/2026 17:00,Chelsea,Bournemouth,1x2,X,43,45,12,avg=3.76,2026-10-18T03:07:51Z
-forebet,2495603,Premier League,2026-10-10,10/10/2026 17:00,Chelsea,Bournemouth,correct_score,2 - 2,,,,avg=3.76,2026-10-18T03:07:51Z
-forebet,2495603,Premier League,2026-10-10,10/10/2026 17:00,Chelsea,Bournemouth,over_under,Over,25,75,,,2026-10-18T03:07:51Z
-forebet,2495603,Premier League,2026-10-10,10/10/2026 17:00,Chelsea,Bournemouth,btts,Yes,18,82,,,2026-10-18T03:07:51Z
-forebet,2495604,Premier League,2026-10-10,10/10/2026 17:00,Aston Villa,Brentford,1x2,2,13,42,45,avg=2.49,2026-10-18T03:07:51Z
-forebet,2495604,Premier League,2026-10-10,10/10/2026 17:00,Aston Villa,Brentford,correct_score,0 - 2,,,,avg=2.49,2026-10-18T03:07:51Z
-forebet,2495604,Premier League,2026-10-10,10/10/2026 17:00,Aston Villa,Brentford,over_under,Under,50,50,,,2026-10-18T03:07:51Z
-forebet,2495604,Premier League,2026-10-10,10/10/2026 17:00,Aston Villa,Brentford,btts,No,51,49,,,2026-10-18T03:07:51Z
-forebet,2495597,Premier League,2026-10-10,10/10/2026 19:30,Manchester United,Tottenham,1x2,1,55,32,13,avg=2.71,2026-10-18T03:07:51Z
-forebet,2495597,Premier League,2026-10-10,10/10/2026 19:30,Manchester United,Tottenham,correct_score,3 - 0,,,,avg=2.71,2026-10-18T03:07:51Z
-forebet,2495597,Premier League,2026-10-10,10/10/2026 19:30,Manchester United,Tottenham,over_under,Over,46,54,,,2026-10-18T03:07:51Z
-forebet,2495597,Premier League,2026-10-10,10/10/2026 19:30,Manchester United,Tottenham,btts,No,51,49,,,2026-10-18T03:07:51Z
-forebet,2495600,Premier League,2026-10-11,11/10/2026 16:00,Hull City,Everton,1x2,X,15,61,25,avg=2.08,2026-10-18T03:07:51Z
-forebet,2495600,Premier League,2026-10-11,11/10/2026 16:00,Hull City,Everton,correct_score,1 - 1,,,,avg=2.08,2026-10-18T03:07:51Z
-forebet,2495600,Premier League,2026-10-11,11/10/2026 16:00,Hull City,Everton,over_under,Under,58,42,,,2026-10-18T03:07:51Z
-forebet,2495600,Premier League,2026-10-11,11/10/2026 16:00,Hull City,Everton,btts,Yes,47,53,,,2026-10-18T03:07:51Z
-forebet,2495601,Premier League,2026-10-11,11/10/2026 16:00,Crystal Palace,Nottingham Forest,1x2,X,18,44,38,avg=3.17,2026-10-18T03:07:51Z
-forebet,2495601,Premier League,2026-10-11,11/10/2026 16:00,Crystal Palace,Nottingham Forest,correct_score,2 - 2,,,,avg=3.17,2026-10-18T03:07:51Z
-forebet,2495601,Premier League,2026-10-11,11/10/2026 16:00,Crystal Palace,Nottingham Forest,over_under,Over,37,63,,,2026-10-18T03:07:51Z
-forebet,2495601,Premier League,2026-10-11,11/10/2026 16:00,Crystal Palace,Nottingham Forest,btts,Yes,35,65,,,2026-10-18T03:07:51Z
-forebet,2495598,Premier League,2026-10-11,11/10/2026 18:30,Liverpool,Manchester City,1x2,2,16,34,50,avg=2.71,2026-10-18T03:07:51Z
-forebet,2495598,Premier League,2026-10-11,11/10/2026 18:30,Liverpool,Manchester City,correct_score,1 - 2,,,,avg=2.71,2026-10-18T03:07:51Z
-forebet,2495598,Premier League,2026-10-11,11/10/2026 18:30,Liverpool,Manchester City,over_under,Over,46,54,,,2026-10-18T03:07:51Z
-forebet,2495598,Premier League,2026-10-11,11/10/2026 18:30,Liverpool,Manchester City,btts,Yes,27,73,,,2026-10-18T03:07:51Z
-forebet,2495602,Premier League,2026-10-12,12/10/2026 22:00,Coventry City,Newcastle United,1x2,2,15,22,64,avg=3.43,2026-10-18T03:07:51Z
-forebet,2495602,Premier League,2026-10-12,12/10/2026 22:00,Coventry City,Newcastle United,correct_score,0 - 3,,,,avg=3.43,2026-10-18T03:07:51Z
-forebet,2495602,Premier League,2026-10-12,12/10/2026 22:00,Coventry City,Newcastle United,over_under,Over,31,69,,,2026-10-18T03:07:51Z
-forebet,2495602,Premier League,2026-10-12,12/10/2026 22:00,Coventry City,Newcastle United,btts,No,51,49,,,2026-10-18T03:07:51Z
-forebet,2495253,La Liga,2026-10-16,16/10/2026 22:00,Deportivo La Coruña,Levante,1x2,1,45,42,13,avg=2.32,2026-10-18T03:07:51Z
-forebet,2495253,La Liga,2026-10-16,16/10/2026 22:00,Deportivo La Coruña,Levante,correct_score,2 - 0,,,,avg=2.32,2026-10-18T03:07:51Z
-forebet,2495253,La Liga,2026-10-16,16/10/2026 22:00,Deportivo La Coruña,Levante,over_under,Under,54,46,,,2026-10-18T03:07:51Z
-forebet,2495253,La Liga,2026-10-16,16/10/2026 22:00,Deportivo La Coruña,Levante,btts,No,51,49,,,2026-10-18T03:07:51Z
-forebet,2495252,La Liga,2026-10-17,17/10/2026 15:00,Espanyol,Atlético Madrid,1x2,2,21,20,59,avg=2.99,2026-10-18T03:07:51Z
-forebet,2495252,La Liga,2026-10-17,17/10/2026 15:00,Espanyol,Atlético Madrid,correct_score,1 - 2,,,,avg=2.99,2026-10-18T03:07:51Z
-forebet,2495252,La Liga,2026-10-17,17/10/2026 15:00,Espanyol,Atlético Madrid,over_under,Over,40,60,,,2026-10-18T03:07:51Z
-forebet,2495252,La Liga,2026-10-17,17/10/2026 15:00,Espanyol,Atlético Madrid,btts,Yes,31,69,,,2026-10-18T03:07:51Z
-forebet,2495246,La Liga,2026-10-17,17/10/2026 17:15,Villarreal,Elche,1x2,1,42,32,25,avg=3.00,2026-10-18T03:07:51Z
-forebet,2495246,La Liga,2026-10-17,17/10/2026 17:15,Villarreal,Elche,correct_score,2 - 1,,,,avg=3.00,2026-10-18T03:07:51Z
-forebet,2495246,La Liga,2026-10-17,17/10/2026 17:15,Villarreal,Elche,over_under,Over,40,60,,,2026-10-18T03:07:51Z
-forebet,2495246,La Liga,2026-10-17,17/10/2026 17:15,Villarreal,Elche,btts,Yes,35,65,,,2026-10-18T03:07:51Z
-forebet,2495255,La Liga,2026-10-17,17/10/2026 19:30,Real Betis,Barcelona,1x2,2,22,26,52,avg=4.36,2026-10-18T03:07:51Z
-forebet,2495255,La Liga,2026-10-17,17/10/2026 19:30,Real Betis,Barcelona,correct_score,2 - 3,,,,avg=4.36,2026-10-18T03:07:51Z
-forebet,2495255,La Liga,2026-10-17,17/10/2026 19:30,Real Betis,Barcelona,over_under,Over,13,87,,,2026-10-18T03:07:51Z
-forebet,2495255,La Liga,2026-10-17,17/10/2026 19:30,Real Betis,Barcelona,btts,Yes,7,93,,,2026-10-18T03:07:51Z
-forebet,2495247,La Liga,2026-10-17,17/10/2026 22:00,Valencia,Athletic Bilbao,1x2,2,18,39,43,avg=2.47,2026-10-18T03:07:51Z
-forebet,2495247,La Liga,2026-10-17,17/10/2026 22:00,Valencia,Athletic Bilbao,correct_score,0 - 2,,,,avg=2.47,2026-10-18T03:07:51Z
-forebet,2495247,La Liga,2026-10-17,17/10/2026 22:00,Valencia,Athletic Bilbao,over_under,Under,51,49,,,2026-10-18T03:07:51Z
-forebet,2495247,La Liga,2026-10-17,17/10/2026 22:00,Valencia,Athletic Bilbao,btts,No,60,40,,,2026-10-18T03:07:51Z
-forebet,2495249,La Liga,2026-10-18,18/10/2026 15:00,Osasuna,Racing Santander,1x2,1,42,33,25,avg=3.46,2026-10-18T03:07:51Z
-forebet,2495249,La Liga,2026-10-18,18/10/2026 15:00,Osasuna,Racing Santander,correct_score,3 - 2,,,,avg=3.46,2026-10-18T03:07:51Z
-forebet,2495249,La Liga,2026-10-18,18/10/2026 15:00,Osasuna,Racing Santander,over_under,Over,31,69,,,2026-10-18T03:07:51Z
-forebet,2495249,La Liga,2026-10-18,18/10/2026 15:00,Osasuna,Racing Santander,btts,Yes,29,71,,,2026-10-18T03:07:51Z
-forebet,2495254,La Liga,2026-10-18,18/10/2026 17:15,Celta Vigo,Deportivo Alavés,1x2,1,36,34,30,avg=2.53,2026-10-18T03:07:51Z
-forebet,2495254,La Liga,2026-10-18,18/10/2026 17:15,Celta Vigo,Deportivo Alavés,correct_score,2 - 1,,,,avg=2.53,2026-10-18T03:07:51Z
-forebet,2495254,La Liga,2026-10-18,18/10/2026 17:15,Celta Vigo,Deportivo Alavés,over_under,Over,49,51,,,2026-10-18T03:07:51Z
-forebet,2495254,La Liga,2026-10-18,18/10/2026 17:15,Celta Vigo,Deportivo Alavés,btts,Yes,46,54,,,2026-10-18T03:07:51Z
-forebet,2495250,La Liga,2026-10-18,18/10/2026 19:30,Málaga CF,Real Sociedad,1x2,2,24,22,54,avg=3.24,2026-10-18T03:07:51Z
-forebet,2495250,La Liga,2026-10-18,18/10/2026 19:30,Málaga CF,Real Sociedad,correct_score,1 - 2,,,,avg=3.24,2026-10-18T03:07:51Z
-forebet,2495250,La Liga,2026-10-18,18/10/2026 19:30,Málaga CF,Real Sociedad,over_under,Over,35,65,,,2026-10-18T03:07:51Z
-forebet,2495250,La Liga,2026-10-18,18/10/2026 19:30,Málaga CF,Real Sociedad,btts,Yes,47,53,,,2026-10-18T03:07:51Z
-forebet,2495248,La Liga,2026-10-18,18/10/2026 22:00,Real Madrid,Sevilla,1x2,1,43,35,23,avg=3.52,2026-10-18T03:07:51Z
-forebet,2495248,La Liga,2026-10-18,18/10/2026 22:00,Real Madrid,Sevilla,correct_score,3 - 1,,,,avg=3.52,2026-10-18T03:07:51Z
-forebet,2495248,La Liga,2026-10-18,18/10/2026 22:00,Real Madrid,Sevilla,over_under,Over,30,70,,,2026-10-18T03:07:51Z
-forebet,2495248,La Liga,2026-10-18,18/10/2026 22:00,Real Madrid,Sevilla,btts,Yes,20,80,,,2026-10-18T03:07:51Z
-forebet,2495251,La Liga,2026-10-19,19/10/2026 22:00,Getafe,Rayo Vallecano,1x2,X,35,38,27,avg=2.28,2026-10-18T03:07:51Z
-forebet,2495251,La Liga,2026-10-19,19/10/2026 22:00,Getafe,Rayo Vallecano,correct_score,1 - 1,,,,avg=2.28,2026-10-18T03:07:51Z
-forebet,2495251,La Liga,2026-10-19,19/10/2026 22:00,Getafe,Rayo Vallecano,over_under,Under,54,46,,,2026-10-18T03:07:51Z
-forebet,2495251,La Liga,2026-10-19,19/10/2026 22:00,Getafe,Rayo Vallecano,btts,Yes,48,52,,,2026-10-18T03:07:51Z
-forebet,2495240,La Liga,2026-10-09,09/10/2026 22:00,Málaga CF,Espanyol,1x2,1,35,32,33,avg=2.53,2026-10-18T03:07:51Z
-forebet,2495240,La Liga,2026-10-09,09/10/2026 22:00,Málaga CF,Espanyol,correct_score,2 - 1,,,,avg=2.53,2026-10-18T03:07:51Z
-forebet,2495240,La Liga,2026-10-09,09/10/2026 22:00,Málaga CF,Espanyol,over_under,Over,49,51,,,2026-10-18T03:07:51Z
-forebet,2495240,La Liga,2026-10-09,09/10/2026 22:00,Málaga CF,Espanyol,btts,Yes,49,51,,,2026-10-18T03:07:51Z
-forebet,2495238,La Liga,2026-10-10,10/10/2026 15:00,Rayo Vallecano,Athletic Bilbao,1x2,X,25,42,33,avg=2.78,2026-10-18T03:07:51Z
-forebet,2495238,La Liga,2026-10-10,10/10/2026 15:00,Rayo Vallecano,Athletic Bilbao,correct_score,2 - 2,,,,avg=2.78,2026-10-18T03:07:51Z
-forebet,2495238,La Liga,2026-10-10,10/10/2026 15:00,Rayo Vallecano,Athletic Bilbao,over_under,Over,44,56,,,2026-10-18T03:07:51Z
-forebet,2495238,La Liga,2026-10-10,10/10/2026 15:00,Rayo Vallecano,Athletic Bilbao,btts,Yes,36,64,,,2026-10-18T03:07:51Z
-forebet,2495245,La Liga,2026-10-10,10/10/2026 17:15,Deportivo Alavés,Atlético Madrid,1x2,2,29,25,46,avg=2.73,2026-10-18T03:07:51Z
-forebet,2495245,La Liga,2026-10-10,10/10/2026 17:15,Deportivo Alavés,Atlético Madrid,correct_score,1 - 2,,,,avg=2.73,2026-10-18T03:07:51Z
-forebet,2495245,La Liga,2026-10-10,10/10/2026 17:15,Deportivo Alavés,Atlético Madrid,over_under,Over,45,55,,,2026-10-18T03:07:51Z
-forebet,2495245,La Liga,2026-10-10,10/10/2026 17:15,Deportivo Alavés,Atlético Madrid,btts,Yes,30,70,,,2026-10-18T03:07:51Z
-forebet,2495242,La Liga,2026-10-10,10/10/2026 19:30,Barcelona,Getafe,1x2,1,68,23,10,avg=3.90,2026-10-18T03:07:51Z
-forebet,2495242,La Liga,2026-10-10,10/10/2026 19:30,Barcelona,Getafe,correct_score,3 - 0,,,,avg=3.90,2026-10-18T03:07:51Z
-forebet,2495242,La Liga,2026-10-10,10/10/2026 19:30,Barcelona,Getafe,over_under,Over,22,78,,,2026-10-18T03:07:51Z
-forebet,2495242,La Liga,2026-10-10,10/10/2026 19:30,Barcelona,Getafe,btts,No,51,49,,,2026-10-18T03:07:51Z
-forebet,2495237,La Liga,2026-10-10,10/10/2026 22:00,Real Madrid,Villarreal,1x2,1,54,28,18,avg=3.82,2026-10-18T03:07:51Z
-forebet,2495237,La Liga,2026-10-10,10/10/2026 22:00,Real Madrid,Villarreal,correct_score,3 - 1,,,,avg=3.82,2026-10-18T03:07:51Z
-forebet,2495237,La Liga,2026-10-10,10/10/2026 22:00,Real Madrid,Villarreal,over_under,Over,24,76,,,2026-10-18T03:07:51Z
-forebet,2495237,La Liga,2026-10-10,10/10/2026 22:00,Real Madrid,Villarreal,btts,Yes,16,84,,,2026-10-18T03:07:51Z
-forebet,2495243,La Liga,2026-10-11,11/10/2026 15:00,Elche,Celta Vigo,1x2,X,17,49,35,avg=3.17,2026-10-18T03:07:51Z
-forebet,2495243,La Liga,2026-10-11,11/10/2026 15:00,Elche,Celta Vigo,correct_score,2 - 2,,,,avg=3.17,2026-10-18T03:07:51Z
-forebet,2495243,La Liga,2026-10-11,11/10/2026 15:00,Elche,Celta Vigo,over_under,Over,37,63,,,2026-10-18T03:07:51Z
-forebet,2495243,La Liga,2026-10-11,11/10/2026 15:00,Elche,Celta Vigo,btts,Yes,35,65,,,2026-10-18T03:07:51Z
-forebet,2495236,La Liga,2026-10-11,11/10/2026 17:15,Real Sociedad,Deportivo La Coruña,1x2,X,19,50,31,avg=2.20,2026-10-18T03:07:51Z
-forebet,2495236,La Liga,2026-10-11,11/10/2026 17:15,Real Sociedad,Deportivo La Coruña,correct_score,1 - 1,,,,avg=2.20,2026-10-18T03:07:51Z
-forebet,2495236,La Liga,2026-10-11,11/10/2026 17:15,Real Sociedad,Deportivo La Coruña,over_under,Under,56,44,,,2026-10-18T03:07:51Z
-forebet,2495236,La Liga,2026-10-11,11/10/2026 17:15,Real Sociedad,Deportivo La Coruña,btts,Yes,45,55,,,2026-10-18T03:07:51Z
-forebet,2495244,La Liga,2026-10-11,11/10/2026 19:30,Real Betis,Osasuna,1x2,1,59,25,16,avg=2.91,2026-10-18T03:07:51Z
-forebet,2495244,La Liga,2026-10-11,11/10/2026 19:30,Real Betis,Osasuna,correct_score,3 - 0,,,,avg=2.91,2026-10-18T03:07:51Z
-forebet,2495244,La Liga,2026-10-11,11/10/2026 19:30,Real Betis,Osasuna,over_under,Over,42,58,,,2026-10-18T03:07:51Z
-forebet,2495244,La Liga,2026-10-11,11/10/2026 19:30,Real Betis,Osasuna,btts,No,50,50,,,2026-10-18T03:07:51Z
-forebet,2495239,La Liga,2026-10-11,11/10/2026 22:00,Racing Santander,Valencia,1x2,1,52,27,20,avg=2.02,2026-10-18T03:07:51Z
-forebet,2495239,La Liga,2026-10-11,11/10/2026 22:00,Racing Santander,Valencia,correct_score,1 - 0,,,,avg=2.02,2026-10-18T03:07:51Z
-forebet,2495239,La Liga,2026-10-11,11/10/2026 22:00,Racing Santander,Valencia,over_under,Under,60,40,,,2026-10-18T03:07:51Z
-forebet,2495239,La Liga,2026-10-11,11/10/2026 22:00,Racing Santander,Valencia,btts,No,62,38,,,2026-10-18T03:07:51Z
-forebet,2495241,La Liga,2026-10-12,12/10/2026 22:00,Levante,Sevilla,1x2,2,22,23,55,avg=2.68,2026-10-18T03:07:51Z
-forebet,2495241,La Liga,2026-10-12,12/10/2026 22:00,Levante,Sevilla,correct_score,1 - 2,,,,avg=2.68,2026-10-18T03:07:51Z
-forebet,2495241,La Liga,2026-10-12,12/10/2026 22:00,Levante,Sevilla,over_under,Over,46,54,,,2026-10-18T03:07:51Z
-forebet,2495241,La Liga,2026-10-12,12/10/2026 22:00,Levante,Sevilla,btts,Yes,41,59,,,2026-10-18T03:07:51Z
-forebet,2523599,Bundesliga,2026-10-16,16/10/2026 21:30,Eintracht Frankfurt,Köln,1x2,X,33,34,32,avg=3.73,2026-10-18T03:07:51Z
-forebet,2523599,Bundesliga,2026-10-16,16/10/2026 21:30,Eintracht Frankfurt,Köln,correct_score,2 - 2,,,,avg=3.73,2026-10-18T03:07:51Z
-forebet,2523599,Bundesliga,2026-10-16,16/10/2026 21:30,Eintracht Frankfurt,Köln,over_under,Over,25,75,,,2026-10-18T03:07:51Z
-forebet,2523599,Bundesliga,2026-10-16,16/10/2026 21:30,Eintracht Frankfurt,Köln,btts,Yes,19,81,,,2026-10-18T03:07:51Z
-forebet,2523337,Bundesliga,2026-10-17,17/10/2026 16:30,SV Elversberg,Augsburg,1x2,2,22,36,42,avg=3.33,2026-10-18T03:07:51Z
-forebet,2523337,Bundesliga,2026-10-17,17/10/2026 16:30,SV Elversberg,Augsburg,correct_score,1 - 2,,,,avg=3.33,2026-10-18T03:07:51Z
-forebet,2523337,Bundesliga,2026-10-17,17/10/2026 16:30,SV Elversberg,Augsburg,over_under,Over,33,67,,,2026-10-18T03:07:51Z
-forebet,2523337,Bundesliga,2026-10-17,17/10/2026 16:30,SV Elversberg,Augsburg,btts,Yes,22,78,,,2026-10-18T03:07:51Z
-forebet,2523338,Bundesliga,2026-10-17,17/10/2026 16:30,Schalke 04,Mainz,1x2,2,26,35,39,avg=2.65,2026-10-18T03:07:51Z
-forebet,2523338,Bundesliga,2026-10-17,17/10/2026 16:30,Schalke 04,Mainz,correct_score,1 - 2,,,,avg=2.65,2026-10-18T03:07:51Z
-forebet,2523338,Bundesliga,2026-10-17,17/10/2026 16:30,Schalke 04,Mainz,over_under,Over,47,53,,,2026-10-18T03:07:51Z
-forebet,2523338,Bundesliga,2026-10-17,17/10/2026 16:30,Schalke 04,Mainz,btts,Yes,35,65,,,2026-10-18T03:07:51Z
-forebet,2523339,Bundesliga,2026-10-17,17/10/2026 16:30,Werder Bremen,Paderborn,1x2,1,57,28,16,avg=4.00,2026-10-18T03:07:51Z
-forebet,2523339,Bundesliga,2026-10-17,17/10/2026 16:30,Werder Bremen,Paderborn,correct_score,3 - 0,,,,avg=4.00,2026-10-18T03:07:51Z
-forebet,2523339,Bundesliga,2026-10-17,17/10/2026 16:30,Werder Bremen,Paderborn,over_under,Over,20,80,,,2026-10-18T03:07:51Z
-forebet,2523339,Bundesliga,2026-10-17,17/10/2026 16:30,Werder Bremen,Paderborn,btts,No,51,49,,,2026-10-18T03:07:51Z
-forebet,2523340,Bundesliga,2026-10-17,17/10/2026 16:30,Hamburger SV,Stuttgart,1x2,1,39,25,36,avg=3.25,2026-10-18T03:07:51Z
-forebet,2523340,Bundesliga,2026-10-17,17/10/2026 16:30,Hamburger SV,Stuttgart,correct_score,2 - 1,,,,avg=3.25,2026-10-18T03:07:51Z
-forebet,2523340,Bundesliga,2026-10-17,17/10/2026 16:30,Hamburger SV,Stuttgart,over_under,Over,35,65,,,2026-10-18T03:07:51Z
-forebet,2523340,Bundesliga,2026-10-17,17/10/2026 16:30,Hamburger SV,Stuttgart,btts,Yes,30,70,,,2026-10-18T03:07:51Z
-forebet,2523598,Bundesliga,2026-10-17,17/10/2026 16:30,Union Berlin,Borussia Dortmund,1x2,2,15,19,67,avg=3.16,2026-10-18T03:07:51Z
-forebet,2523598,Bundesliga,2026-10-17,17/10/2026 16:30,Union Berlin,Borussia Dortmund,correct_score,1 - 3,,,,avg=3.16,2026-10-18T03:07:51Z
-forebet,2523598,Bundesliga,2026-10-17,17/10/2026 16:30,Union Berlin,Borussia Dortmund,over_under,Over,37,63,,,2026-10-18T03:07:51Z
-forebet,2523598,Bundesliga,2026-10-17,17/10/2026 16:30,Union Berlin,Borussia Dortmund,btts,Yes,22,78,,,2026-10-18T03:07:51Z
-forebet,2523601,Bundesliga,2026-10-17,17/10/2026 19:30,Bayern Munich,RB Leipzig,1x2,1,54,26,20,avg=4.01,2026-10-18T03:07:51Z
-forebet,2523601,Bundesliga,2026-10-17,17/10/2026 19:30,Bayern Munich,RB Leipzig,correct_score,3 - 1,,,,avg=4.01,2026-10-18T03:07:51Z
-forebet,2523601,Bundesliga,2026-10-17,17/10/2026 19:30,Bayern Munich,RB Leipzig,over_under,Over,20,80,,,2026-10-18T03:07:51Z
-forebet,2523601,Bundesliga,2026-10-17,17/10/2026 19:30,Bayern Munich,RB Leipzig,btts,Yes,11,89,,,2026-10-18T03:07:51Z
-forebet,2523600,Bundesliga,2026-10-18,18/10/2026 16:30,Bayer Leverkusen,Freiburg,1x2,X,32,35,33,avg=2.84,2026-10-18T03:07:51Z
-forebet,2523600,Bundesliga,2026-10-18,18/10/2026 16:30,Bayer Leverkusen,Freiburg,correct_score,2 - 2,,,,avg=2.84,2026-10-18T03:07:51Z
-forebet,2523600,Bundesliga,2026-10-18,18/10/2026 16:30,Bayer Leverkusen,Freiburg,over_under,Over,43,57,,,2026-10-18T03:07:51Z
-forebet,2523600,Bundesliga,2026-10-18,18/10/2026 16:30,Bayer Leverkusen,Freiburg,btts,Yes,17,83,,,2026-10-18T03:07:51Z
-forebet,2523341,Bundesliga,2026-10-18,18/10/2026 18:30,Borussia M'gladbach,Hoffenheim,1x2,1,41,29,30,avg=4.87,2026-10-18T03:07:51Z
-forebet,2523341,Bundesliga,2026-10-18,18/10/2026 18:30,Borussia M'gladbach,Hoffenheim,correct_score,2 - 1,,,,avg=4.87,2026-10-18T03:07:51Z
-forebet,2523341,Bundesliga,2026-10-18,18/10/2026 18:30,Borussia M'gladbach,Hoffenheim,over_under,Over,3,97,,,2026-10-18T03:07:51Z
-forebet,2523341,Bundesliga,2026-10-18,18/10/2026 18:30,Borussia M'gladbach,Hoffenheim,btts,Yes,18,82,,,2026-10-18T03:07:51Z
-forebet,2523336,Bundesliga,2026-10-09,09/10/2026 21:30,Borussia Dortmund,Werder Bremen,1x2,1,50,26,24,avg=2.99,2026-10-18T03:07:51Z
-forebet,2523336,Bundesliga,2026-10-09,09/10/2026 21:30,Borussia Dortmund,Werder Bremen,correct_score,2 - 1,,,,avg=2.99,2026-10-18T03:07:51Z
-forebet,2523336,Bundesliga,2026-10-09,09/10/2026 21:30,Borussia Dortmund,Werder Bremen,over_under,Over,40,60,,,2026-10-18T03:07:51Z
-forebet,2523336,Bundesliga,2026-10-09,09/10/2026 21:30,Borussia Dortmund,Werder Bremen,btts,Yes,22,78,,,2026-10-18T03:07:51Z
-forebet,2523328,Bundesliga,2026-10-10,10/10/2026 16:30,Paderborn,Stuttgart,1x2,2,33,30,37,avg=3.13,2026-10-18T03:07:51Z
-forebet,2523328,Bundesliga,2026-10-10,10/10/2026 16:30,Paderborn,Stuttgart,correct_score,1 - 2,,,,avg=3.13,2026-10-18T03:07:51Z
-forebet,2523328,Bundesliga,2026-10-10,10/10/2026 16:30,Paderborn,Stuttgart,over_under,Over,37,63,,,2026-10-18T03:07:51Z
-forebet,2523328,Bundesliga,2026-10-10,10/10/2026 16:30,Paderborn,Stuttgart,btts,Yes,29,71,,,2026-10-18T03:07:51Z
-forebet,2523330,Bundesliga,2026-10-10,10/10/2026 16:30,Union Berlin,SV Elversberg,1x2,2,28,32,40,avg=2.13,2026-10-18T03:07:51Z
-forebet,2523330,Bundesliga,2026-10-10,10/10/2026 16:30,Union Berlin,SV Elversberg,correct_score,0 - 2,,,,avg=2.13,2026-10-18T03:07:51Z
-forebet,2523330,Bundesliga,2026-10-10,10/10/2026 16:30,Union Berlin,SV Elversberg,over_under,Under,57,43,,,2026-10-18T03:07:51Z
-forebet,2523330,Bundesliga,2026-10-10,10/10/2026 16:30,Union Berlin,SV Elversberg,btts,No,51,49,,,2026-10-18T03:07:51Z
-forebet,2523331,Bundesliga,2026-10-10,10/10/2026 16:30,Mainz,Bayer Leverkusen,1x2,2,20,34,46,avg=3.13,2026-10-18T03:07:51Z
-forebet,2523331,Bundesliga,2026-10-10,10/10/2026 16:30,Mainz,Bayer Leverkusen,correct_score,1 - 2,,,,avg=3.13,2026-10-18T03:07:51Z
-forebet,2523331,Bundesliga,2026-10-10,10/10/2026 16:30,Mainz,Bayer Leverkusen,over_under,Over,37,63,,,2026-10-18T03:07:51Z
-forebet,2523331,Bundesliga,2026-10-10,10/10/2026 16:30,Mainz,Bayer Leverkusen,btts,Yes,20,80,,,2026-10-18T03:07:51Z
-forebet,2523332,Bundesliga,2026-10-10,10/10/2026 16:30,Augsburg,Bayern Munich,1x2,2,16,31,53,avg=2.99,2026-10-18T03:07:51Z
-forebet,2523332,Bundesliga,2026-10-10,10/10/2026 16:30,Augsburg,Bayern Munich,correct_score,2 - 3,,,,avg=2.99,2026-10-18T03:07:51Z
-forebet,2523332,Bundesliga,2026-10-10,10/10/2026 16:30,Augsburg,Bayern Munich,over_under,Over,40,60,,,2026-10-18T03:07:51Z
-forebet,2523332,Bundesliga,2026-10-10,10/10/2026 16:30,Augsburg,Bayern Munich,btts,Yes,12,88,,,2026-10-18T03:07:51Z
-forebet,2523334,Bundesliga,2026-10-10,10/10/2026 16:30,Hoffenheim,Hamburger SV,1x2,1,48,27,26,avg=3.35,2026-10-18T03:07:51Z
-forebet,2523334,Bundesliga,2026-10-10,10/10/2026 16:30,Hoffenheim,Hamburger SV,correct_score,3 - 1,,,,avg=3.35,2026-10-18T03:07:51Z
-forebet,2523334,Bundesliga,2026-10-10,10/10/2026 16:30,Hoffenheim,Hamburger SV,over_under,Over,33,67,,,2026-10-18T03:07:51Z
-forebet,2523334,Bundesliga,2026-10-10,10/10/2026 16:30,Hoffenheim,Hamburger SV,btts,Yes,31,69,,,2026-10-18T03:07:51Z
-forebet,2523335,Bundesliga,2026-10-10,10/10/2026 19:30,RB Leipzig,Eintracht Frankfurt,1x2,X,37,41,23,avg=3.64,2026-10-18T03:07:51Z
-forebet,2523335,Bundesliga,2026-10-10,10/10/2026 19:30,RB Leipzig,Eintracht Frankfurt,correct_score,3 - 3,,,,avg=3.64,2026-10-18T03:07:51Z
-forebet,2523335,Bundesliga,2026-10-10,10/10/2026 19:30,RB Leipzig,Eintracht Frankfurt,over_under,Over,27,73,,,2026-10-18T03:07:51Z
-forebet,2523335,Bundesliga,2026-10-10,10/10/2026 19:30,RB Leipzig,Eintracht Frankfurt,btts,Yes,6,94,,,2026-10-18T03:07:51Z
-forebet,2523329,Bundesliga,2026-10-11,11/10/2026 16:30,Köln,Borussia M'gladbach,1x2,1,48,27,25,avg=3.38,2026-10-18T03:07:51Z
-forebet,2523329,Bundesliga,2026-10-11,11/10/2026 16:30,Köln,Borussia M'gladbach,correct_score,2 - 1,,,,avg=3.38,2026-10-18T03:07:51Z
-forebet,2523329,Bundesliga,2026-10-11,11/10/2026 16:30,Köln,Borussia M'gladbach,over_under,Over,32,68,,,2026-10-18T03:07:51Z
-forebet,2523329,Bundesliga,2026-10-11,11/10/2026 16:30,Köln,Borussia M'gladbach,btts,Yes,25,75,,,2026-10-18T03:07:51Z
-forebet,2523333,Bundesliga,2026-10-11,11/10/2026 18:30,Freiburg,Schalke 04,1x2,1,45,35,20,avg=3.33,2026-10-18T03:07:51Z
-forebet,2523333,Bundesliga,2026-10-11,11/10/2026 18:30,Freiburg,Schalke 04,correct_score,3 - 2,,,,avg=3.33,2026-10-18T03:07:51Z
-forebet,2523333,Bundesliga,2026-10-11,11/10/2026 18:30,Freiburg,Schalke 04,over_under,Over,33,67,,,2026-10-18T03:07:51Z
-forebet,2523333,Bundesliga,2026-10-11,11/10/2026 18:30,Freiburg,Schalke 04,btts,Yes,24,76,,,2026-10-18T03:07:51Z
-forebet,2496555,Serie A,2026-10-16,16/10/2026 21:45,Frosinone,Sassuolo,1x2,X,33,38,29,avg=3.32,2026-10-18T03:07:51Z
-forebet,2496555,Serie A,2026-10-16,16/10/2026 21:45,Frosinone,Sassuolo,correct_score,2 - 2,,,,avg=3.32,2026-10-18T03:07:51Z
-forebet,2496555,Serie A,2026-10-16,16/10/2026 21:45,Frosinone,Sassuolo,over_under,Over,34,66,,,2026-10-18T03:07:51Z
-forebet,2496555,Serie A,2026-10-16,16/10/2026 21:45,Frosinone,Sassuolo,btts,Yes,24,76,,,2026-10-18T03:07:51Z
-forebet,2496548,Serie A,2026-10-17,17/10/2026 16:00,Venezia,Napoli,1x2,2,17,26,57,avg=2.63,2026-10-18T03:07:51Z
-forebet,2496548,Serie A,2026-10-17,17/10/2026 16:00,Venezia,Napoli,correct_score,0 - 3,,,,avg=2.63,2026-10-18T03:07:51Z
-forebet,2496548,Serie A,2026-10-17,17/10/2026 16:00,Venezia,Napoli,over_under,Over,47,53,,,2026-10-18T03:07:51Z
-forebet,2496548,Serie A,2026-10-17,17/10/2026 16:00,Venezia,Napoli,btts,No,50,50,,,2026-10-18T03:07:51Z
-forebet,2496557,Serie A,2026-10-17,17/10/2026 19:00,Bologna,Inter,1x2,2,10,31,59,avg=3.14,2026-10-18T03:07:51Z
-forebet,2496557,Serie A,2026-10-17,17/10/2026 19:00,Bologna,Inter,correct_score,1 - 2,,,,avg=3.14,2026-10-18T03:07:51Z
-forebet,2496557,Serie A,2026-10-17,17/10/2026 19:00,Bologna,Inter,over_under,Over,37,63,,,2026-10-18T03:07:51Z
-forebet,2496557,Serie A,2026-10-17,17/10/2026 19:00,Bologna,Inter,btts,Yes,35,65,,,2026-10-18T03:07:51Z
-forebet,2496550,Serie A,2026-10-17,17/10/2026 21:45,Roma,Genoa,1x2,1,69,19,13,avg=3.22,2026-10-18T03:07:51Z
-forebet,2496550,Serie A,2026-10-17,17/10/2026 21:45,Roma,Genoa,correct_score,4 - 0,,,,avg=3.22,2026-10-18T03:07:51Z
-forebet,2496550,Serie A,2026-10-17,17/10/2026 21:45,Roma,Genoa,over_under,Over,36,64,,,2026-10-18T03:07:51Z
-forebet,2496550,Serie A,2026-10-17,17/10/2026 21:45,Roma,Genoa,btts,No,51,49,,,2026-10-18T03:07:51Z
-forebet,2496549,Serie A,2026-10-18,18/10/2026 13:30,Udinese,Lecce,1x2,1,44,26,31,avg=2.30,2026-10-18T03:07:51Z
-forebet,2496549,Serie A,2026-10-18,18/10/2026 13:30,Udinese,Lecce,correct_score,1 - 0,,,,avg=2.30,2026-10-18T03:07:51Z
-forebet,2496549,Serie A,2026-10-18,18/10/2026 13:30,Udinese,Lecce,over_under,Under,54,46,,,2026-10-18T03:07:51Z
-forebet,2496549,Serie A,2026-10-18,18/10/2026 13:30,Udinese,Lecce,btts,No,58,42,,,2026-10-18T03:07:51Z
-forebet,2496556,Serie A,2026-10-18,18/10/2026 16:00,Fiorentina,Calcio Como,1x2,2,21,23,56,avg=2.83,2026-10-18T03:07:51Z
-forebet,2496556,Serie A,2026-10-18,18/10/2026 16:00,Fiorentina,Calcio Como,correct_score,1 - 2,,,,avg=2.83,2026-10-18T03:07:51Z
-forebet,2496556,Serie A,2026-10-18,18/10/2026 16:00,Fiorentina,Calcio Como,over_under,Over,43,57,,,2026-10-18T03:07:51Z
-forebet,2496556,Serie A,2026-10-18,18/10/2026 16:00,Fiorentina,Calcio Como,btts,Yes,30,70,,,2026-10-18T03:07:51Z
-forebet,2496553,Serie A,2026-10-18,18/10/2026 19:00,Milan,Atalanta,1x2,1,57,23,19,avg=2.65,2026-10-18T03:07:51Z
-forebet,2496553,Serie A,2026-10-18,18/10/2026 19:00,Milan,Atalanta,correct_score,2 - 1,,,,avg=2.65,2026-10-18T03:07:51Z
-forebet,2496553,Serie A,2026-10-18,18/10/2026 19:00,Milan,Atalanta,over_under,Over,47,53,,,2026-10-18T03:07:51Z
-forebet,2496553,Serie A,2026-10-18,18/10/2026 19:00,Milan,Atalanta,btts,Yes,41,59,,,2026-10-18T03:07:51Z
-forebet,2496554,Serie A,2026-10-18,18/10/2026 21:45,Juventus,Lazio,1x2,2,27,33,40,avg=2.37,2026-10-18T03:07:51Z
-forebet,2496554,Serie A,2026-10-18,18/10/2026 21:45,Juventus,Lazio,correct_score,0 - 2,,,,avg=2.37,2026-10-18T03:07:51Z
-forebet,2496554,Serie A,2026-10-18,18/10/2026 21:45,Juventus,Lazio,over_under,Under,53,47,,,2026-10-18T03:07:51Z
-forebet,2496554,Serie A,2026-10-18,18/10/2026 21:45,Juventus,Lazio,btts,No,51,49,,,2026-10-18T03:07:51Z
-forebet,2496552,Serie A,2026-10-19,19/10/2026 19:30,Monza,Cagliari,1x2,2,19,16,65,avg=2.25,2026-10-18T03:07:51Z
-forebet,2496552,Serie A,2026-10-19,19/10/2026 19:30,Monza,Cagliari,correct_score,0 - 2,,,,avg=2.25,2026-10-18T03:07:51Z
-forebet,2496552,Serie A,2026-10-19,19/10/2026 19:30,Monza,Cagliari,over_under,Under,55,45,,,2026-10-18T03:07:51Z
-forebet,2496552,Serie A,2026-10-19,19/10/2026 19:30,Monza,Cagliari,btts,No,53,47,,,2026-10-18T03:07:51Z
-forebet,2496551,Serie A,2026-10-19,19/10/2026 21:45,Parma,Torino,1x2,X,32,37,31,avg=2.00,2026-10-18T03:07:51Z
-forebet,2496551,Serie A,2026-10-19,19/10/2026 21:45,Parma,Torino,correct_score,1 - 1,,,,avg=2.00,2026-10-18T03:07:51Z
-forebet,2496551,Serie A,2026-10-19,19/10/2026 21:45,Parma,Torino,over_under,Under,60,40,,,2026-10-18T03:07:51Z
-forebet,2496551,Serie A,2026-10-19,19/10/2026 21:45,Parma,Torino,btts,Yes,49,51,,,2026-10-18T03:07:51Z
-forebet,2496544,Serie A,2026-10-10,10/10/2026 16:00,Genoa,Fiorentina,1x2,2,26,36,38,avg=3.42,2026-10-18T03:07:51Z
-forebet,2496544,Serie A,2026-10-10,10/10/2026 16:00,Genoa,Fiorentina,correct_score,2 - 3,,,,avg=3.42,2026-10-18T03:07:51Z
-forebet,2496544,Serie A,2026-10-10,10/10/2026 16:00,Genoa,Fiorentina,over_under,Over,32,68,,,2026-10-18T03:07:51Z
-forebet,2496544,Serie A,2026-10-10,10/10/2026 16:00,Genoa,Fiorentina,btts,Yes,25,75,,,2026-10-18T03:07:51Z
-forebet,2496543,Serie A,2026-10-10,10/10/2026 19:00,Inter,Parma,1x2,1,69,19,12,avg=3.57,2026-10-18T03:07:51Z
-forebet,2496543,Serie A,2026-10-10,10/10/2026 19:00,Inter,Parma,correct_score,3 - 0,,,,avg=3.57,2026-10-18T03:07:51Z
-forebet,2496543,Serie A,2026-10-10,10/10/2026 19:00,Inter,Parma,over_under,Over,29,71,,,2026-10-18T03:07:51Z
-forebet,2496543,Serie A,2026-10-10,10/10/2026 19:00,Inter,Parma,btts,No,51,49,,,2026-10-18T03:07:51Z
-forebet,2496540,Serie A,2026-10-10,10/10/2026 21:45,Napoli,Frosinone,1x2,X,31,36,34,avg=2.92,2026-10-18T03:07:51Z
-forebet,2496540,Serie A,2026-10-10,10/10/2026 21:45,Napoli,Frosinone,correct_score,2 - 2,,,,avg=2.92,2026-10-18T03:07:51Z
-forebet,2496540,Serie A,2026-10-10,10/10/2026 21:45,Napoli,Frosinone,over_under,Over,42,58,,,2026-10-18T03:07:51Z
-forebet,2496540,Serie A,2026-10-10,10/10/2026 21:45,Napoli,Frosinone,btts,Yes,31,69,,,2026-10-18T03:07:51Z
-forebet,2496545,Serie A,2026-10-11,11/10/2026 13:30,Calcio Como,Roma,1x2,2,24,21,55,avg=2.67,2026-10-18T03:07:51Z
-forebet,2496545,Serie A,2026-10-11,11/10/2026 13:30,Calcio Como,Roma,correct_score,2 - 3,,,,avg=2.67,2026-10-18T03:07:51Z
-forebet,2496545,Serie A,2026-10-11,11/10/2026 13:30,Calcio Como,Roma,over_under,Over,47,53,,,2026-10-18T03:07:51Z
-forebet,2496545,Serie A,2026-10-11,11/10/2026 13:30,Calcio Como,Roma,btts,Yes,13,87,,,2026-10-18T03:07:51Z
-forebet,2496541,Serie A,2026-10-11,11/10/2026 16:00,Lecce,Bologna,1x2,1,44,33,23,avg=2.54,2026-10-18T03:07:51Z
-forebet,2496541,Serie A,2026-10-11,11/10/2026 16:00,Lecce,Bologna,correct_score,2 - 1,,,,avg=2.54,2026-10-18T03:07:51Z
-forebet,2496541,Serie A,2026-10-11,11/10/2026 16:00,Lecce,Bologna,over_under,Over,49,51,,,2026-10-18T03:07:51Z
-forebet,2496541,Serie A,2026-10-11,11/10/2026 16:00,Lecce,Bologna,btts,Yes,49,51,,,2026-10-18T03:07:51Z
-forebet,2496542,Serie A,2026-10-11,11/10/2026 16:00,Lazio,Monza,1x2,1,60,30,10,avg=2.79,2026-10-18T03:07:51Z
-forebet,2496542,Serie A,2026-10-11,11/10/2026 16:00,Lazio,Monza,correct_score,2 - 1,,,,avg=2.79,2026-10-18T03:07:51Z
-forebet,2496542,Serie A,2026-10-11,11/10/2026 16:00,Lazio,Monza,over_under,Over,44,56,,,2026-10-18T03:07:51Z
-forebet,2496542,Serie A,2026-10-11,11/10/2026 16:00,Lazio,Monza,btts,Yes,37,63,,,2026-10-18T03:07:51Z
-forebet,2496539,Serie A,2026-10-11,11/10/2026 19:00,Sassuolo,Milan,1x2,2,24,37,39,avg=3.42,2026-10-18T03:07:51Z
-forebet,2496539,Serie A,2026-10-11,11/10/2026 19:00,Sassuolo,Milan,correct_score,2 - 3,,,,avg=3.42,2026-10-18T03:07:51Z
-forebet,2496539,Serie A,2026-10-11,11/10/2026 19:00,Sassuolo,Milan,over_under,Over,32,68,,,2026-10-18T03:07:51Z
-forebet,2496539,Serie A,2026-10-11,11/10/2026 19:00,Sassuolo,Milan,btts,Yes,19,81,,,2026-10-18T03:07:51Z
-forebet,2496546,Serie A,2026-10-11,11/10/2026 21:45,Cagliari,Juventus,1x2,2,24,31,45,avg=2.62,2026-10-18T03:07:51Z
-forebet,2496546,Serie A,2026-10-11,11/10/2026 21:45,Cagliari,Juventus,correct_score,1 - 2,,,,avg=2.62,2026-10-18T03:07:51Z
-forebet,2496546,Serie A,2026-10-11,11/10/2026 21:45,Cagliari,Juventus,over_under,Over,48,52,,,2026-10-18T03:07:51Z
-forebet,2496546,Serie A,2026-10-11,11/10/2026 21:45,Cagliari,Juventus,btts,Yes,37,63,,,2026-10-18T03:07:51Z
-forebet,2496547,Serie A,2026-10-12,12/10/2026 19:30,Atalanta,Venezia,1x2,1,70,19,11,avg=2.21,2026-10-18T03:07:51Z
-forebet,2496547,Serie A,2026-10-12,12/10/2026 19:30,Atalanta,Venezia,correct_score,2 - 0,,,,avg=2.21,2026-10-18T03:07:51Z
-forebet,2496547,Serie A,2026-10-12,12/10/2026 19:30,Atalanta,Venezia,over_under,Under,56,44,,,2026-10-18T03:07:51Z
-forebet,2496547,Serie A,2026-10-12,12/10/2026 19:30,Atalanta,Venezia,btts,No,61,39,,,2026-10-18T03:07:51Z
-forebet,2496538,Serie A,2026-10-12,12/10/2026 21:45,Torino,Udinese,1x2,2,31,25,43,avg=3.72,2026-10-18T03:07:51Z
-forebet,2496538,Serie A,2026-10-12,12/10/2026 21:45,Torino,Udinese,correct_score,1 - 2,,,,avg=3.72,2026-10-18T03:07:51Z
-forebet,2496538,Serie A,2026-10-12,12/10/2026 21:45,Torino,Udinese,over_under,Over,26,74,,,2026-10-18T03:07:51Z
-forebet,2496538,Serie A,2026-10-12,12/10/2026 21:45,Torino,Udinese,btts,Yes,39,61,,,2026-10-18T03:07:51Z
-forebet,2496242,Ligue 1,2026-10-16,16/10/2026 21:45,Le Mans FC,Toulouse,1x2,X,24,57,19,avg=3.02,2026-10-18T03:07:51Z
-forebet,2496242,Ligue 1,2026-10-16,16/10/2026 21:45,Le Mans FC,Toulouse,correct_score,2 - 2,,,,avg=3.02,2026-10-18T03:07:51Z
-forebet,2496242,Ligue 1,2026-10-16,16/10/2026 21:45,Le Mans FC,Toulouse,over_under,Over,40,60,,,2026-10-18T03:07:51Z
-forebet,2496242,Ligue 1,2026-10-16,16/10/2026 21:45,Le Mans FC,Toulouse,btts,Yes,29,71,,,2026-10-18T03:07:51Z
-forebet,2496237,Ligue 1,2026-10-17,17/10/2026 18:15,Strasbourg,PSG,1x2,2,18,36,46,avg=2.66,2026-10-18T03:07:51Z
-forebet,2496237,Ligue 1,2026-10-17,17/10/2026 18:15,Strasbourg,PSG,correct_score,1 - 2,,,,avg=2.66,2026-10-18T03:07:51Z
-forebet,2496237,Ligue 1,2026-10-17,17/10/2026 18:15,Strasbourg,PSG,over_under,Over,47,53,,,2026-10-18T03:07:51Z
-forebet,2496237,Ligue 1,2026-10-17,17/10/2026 18:15,Strasbourg,PSG,btts,Yes,25,75,,,2026-10-18T03:07:51Z
-forebet,2496236,Ligue 1,2026-10-17,17/10/2026 21:45,Troyes,Lens,1x2,2,29,31,41,avg=3.03,2026-10-18T03:07:51Z
-forebet,2496236,Ligue 1,2026-10-17,17/10/2026 21:45,Troyes,Lens,correct_score,1 - 3,,,,avg=3.03,2026-10-18T03:07:51Z
-forebet,2496236,Ligue 1,2026-10-17,17/10/2026 21:45,Troyes,Lens,over_under,Over,39,61,,,2026-10-18T03:07:51Z
-forebet,2496236,Ligue 1,2026-10-17,17/10/2026 21:45,Troyes,Lens,btts,Yes,36,64,,,2026-10-18T03:07:51Z
-forebet,2496241,Ligue 1,2026-10-17,17/10/2026 21:45,Lille,Brest,1x2,1,44,35,21,avg=2.36,2026-10-18T03:07:51Z
-forebet,2496241,Ligue 1,2026-10-17,17/10/2026 21:45,Lille,Brest,correct_score,2 - 0,,,,avg=2.36,2026-10-18T03:07:51Z
-forebet,2496241,Ligue 1,2026-10-17,17/10/2026 21:45,Lille,Brest,over_under,Under,53,47,,,2026-10-18T03:07:51Z
-forebet,2496241,Ligue 1,2026-10-17,17/10/2026 21:45,Lille,Brest,btts,No,51,49,,,2026-10-18T03:07:51Z
-forebet,2496244,Ligue 1,2026-10-18,18/10/2026 16:00,Angers,Olympique Marseille,1x2,1,37,32,31,avg=2.45,2026-10-18T03:07:51Z
-forebet,2496244,Ligue 1,2026-10-18,18/10/2026 16:00,Angers,Olympique Marseille,correct_score,2 - 0,,,,avg=2.45,2026-10-18T03:07:51Z
-forebet,2496244,Ligue 1,2026-10-18,18/10/2026 16:00,Angers,Olympique Marseille,over_under,Under,51,49,,,2026-10-18T03:07:51Z
-forebet,2496244,Ligue 1,2026-10-18,18/10/2026 16:00,Angers,Olympique Marseille,btts,No,53,47,,,2026-10-18T03:07:51Z
-forebet,2496238,Ligue 1,2026-10-18,18/10/2026 18:15,Paris FC,Rennes,1x2,2,30,24,46,avg=2.25,2026-10-18T03:07:51Z
-forebet,2496238,Ligue 1,2026-10-18,18/10/2026 18:15,Paris FC,Rennes,correct_score,0 - 2,,,,avg=2.25,2026-10-18T03:07:51Z
-forebet,2496238,Ligue 1,2026-10-18,18/10/2026 18:15,Paris FC,Rennes,over_under,Under,55,45,,,2026-10-18T03:07:51Z
-forebet,2496238,Ligue 1,2026-10-18,18/10/2026 18:15,Paris FC,Rennes,btts,No,51,49,,,2026-10-18T03:07:51Z
-forebet,2496240,Ligue 1,2026-10-18,18/10/2026 18:15,Lorient,Monaco,1x2,2,15,37,47,avg=2.66,2026-10-18T03:07:51Z
-forebet,2496240,Ligue 1,2026-10-18,18/10/2026 18:15,Lorient,Monaco,correct_score,1 - 2,,,,avg=2.66,2026-10-18T03:07:51Z
-forebet,2496240,Ligue 1,2026-10-18,18/10/2026 18:15,Lorient,Monaco,over_under,Over,47,53,,,2026-10-18T03:07:51Z
-forebet,2496240,Ligue 1,2026-10-18,18/10/2026 18:15,Lorient,Monaco,btts,Yes,37,63,,,2026-10-18T03:07:51Z
-forebet,2496243,Ligue 1,2026-10-18,18/10/2026 18:15,Le Havre,Auxerre,1x2,1,41,29,30,avg=2.71,2026-10-18T03:07:51Z
-forebet,2496243,Ligue 1,2026-10-18,18/10/2026 18:15,Le Havre,Auxerre,correct_score,2 - 1,,,,avg=2.71,2026-10-18T03:07:51Z
-forebet,2496243,Ligue 1,2026-10-18,18/10/2026 18:15,Le Havre,Auxerre,over_under,Over,46,54,,,2026-10-18T03:07:51Z
-forebet,2496243,Ligue 1,2026-10-18,18/10/2026 18:15,Le Havre,Auxerre,btts,Yes,49,51,,,2026-10-18T03:07:51Z
-forebet,2496239,Ligue 1,2026-10-18,18/10/2026 21:45,Lyon,Nice,1x2,1,53,28,18,avg=2.95,2026-10-18T03:07:51Z
-forebet,2496239,Ligue 1,2026-10-18,18/10/2026 21:45,Lyon,Nice,correct_score,3 - 0,,,,avg=2.95,2026-10-18T03:07:51Z
-forebet,2496239,Ligue 1,2026-10-18,18/10/2026 21:45,Lyon,Nice,over_under,Over,41,59,,,2026-10-18T03:07:51Z
-forebet,2496239,Ligue 1,2026-10-18,18/10/2026 21:45,Lyon,Nice,btts,No,51,49,,,2026-10-18T03:07:51Z
-forebet,2496234,Ligue 1,2026-10-09,09/10/2026 21:45,Lens,Lyon,1x2,2,19,27,53,avg=1.55,2026-10-18T03:07:51Z
-forebet,2496234,Ligue 1,2026-10-09,09/10/2026 21:45,Lens,Lyon,correct_score,0 - 1,,,,avg=1.55,2026-10-18T03:07:51Z
-forebet,2496234,Ligue 1,2026-10-09,09/10/2026 21:45,Lens,Lyon,over_under,Under,69,31,,,2026-10-18T03:07:51Z
-forebet,2496234,Ligue 1,2026-10-09,09/10/2026 21:45,Lens,Lyon,btts,No,51,49,,,2026-10-18T03:07:51Z
-forebet,2496233,Ligue 1,2026-10-10,10/10/2026 18:15,Lille,Le Havre,1x2,1,63,30,7,avg=2.63,2026-10-18T03:07:51Z
-forebet,2496233,Ligue 1,2026-10-10,10/10/2026 18:15,Lille,Le Havre,correct_score,3 - 0,,,,avg=2.63,2026-10-18T03:07:51Z
-forebet,2496233,Ligue 1,2026-10-10,10/10/2026 18:15,Lille,Le Havre,over_under,Over,47,53,,,2026-10-18T03:07:51Z
-forebet,2496233,Ligue 1,2026-10-10,10/10/2026 18:15,Lille,Le Havre,btts,No,50,50,,,2026-10-18T03:07:51Z
-forebet,2495973,Ligue 1,2026-10-10,10/10/2026 21:45,PSG,Le Mans FC,1x2,X,36,42,22,avg=2.30,2026-10-18T03:07:51Z
-forebet,2495973,Ligue 1,2026-10-10,10/10/2026 21:45,PSG,Le Mans FC,correct_score,1 - 1,,,,avg=2.30,2026-10-18T03:07:51Z
-forebet,2495973,Ligue 1,2026-10-10,10/10/2026 21:45,PSG,Le Mans FC,over_under,Under,54,46,,,2026-10-18T03:07:51Z
-forebet,2495973,Ligue 1,2026-10-10,10/10/2026 21:45,PSG,Le Mans FC,btts,Yes,30,70,,,2026-10-18T03:07:51Z
-forebet,2495975,Ligue 1,2026-10-10,10/10/2026 21:45,Monaco,Toulouse,1x2,1,54,34,12,avg=2.88,2026-10-18T03:07:51Z
-forebet,2495975,Ligue 1,2026-10-10,10/10/2026 21:45,Monaco,Toulouse,correct_score,2 - 1,,,,avg=2.88,2026-10-18T03:07:51Z
-forebet,2495975,Ligue 1,2026-10-10,10/10/2026 21:45,Monaco,Toulouse,over_under,Over,42,58,,,2026-10-18T03:07:51Z
-forebet,2495975,Ligue 1,2026-10-10,10/10/2026 21:45,Monaco,Toulouse,btts,Yes,31,69,,,2026-10-18T03:07:51Z
-forebet,2496232,Ligue 1,2026-10-10,10/10/2026 21:45,Lorient,Paris FC,1x2,2,18,37,45,avg=3.36,2026-10-18T03:07:51Z
-forebet,2496232,Ligue 1,2026-10-10,10/10/2026 21:45,Lorient,Paris FC,correct_score,1 - 2,,,,avg=3.36,2026-10-18T03:07:51Z
-forebet,2496232,Ligue 1,2026-10-10,10/10/2026 21:45,Lorient,Paris FC,over_under,Over,33,67,,,2026-10-18T03:07:51Z
-forebet,2496232,Ligue 1,2026-10-10,10/10/2026 21:45,Lorient,Paris FC,btts,Yes,39,61,,,2026-10-18T03:07:51Z
-forebet,2496235,Ligue 1,2026-10-10,10/10/2026 21:45,Brest,Angers,1x2,X,25,38,37,avg=2.11,2026-10-18T03:07:51Z
-forebet,2496235,Ligue 1,2026-10-10,10/10/2026 21:45,Brest,Angers,correct_score,1 - 1,,,,avg=2.11,2026-10-18T03:07:51Z
-forebet,2496235,Ligue 1,2026-10-10,10/10/2026 21:45,Brest,Angers,over_under,Under,58,42,,,2026-10-18T03:07:51Z
-forebet,2496235,Ligue 1,2026-10-10,10/10/2026 21:45,Brest,Angers,btts,Yes,46,54,,,2026-10-18T03:07:51Z
-forebet,2495974,Ligue 1,2026-10-11,11/10/2026 16:00,Nice,Strasbourg,1x2,1,35,34,30,avg=3.08,2026-10-18T03:07:51Z
-forebet,2495974,Ligue 1,2026-10-11,11/10/2026 16:00,Nice,Strasbourg,correct_score,2 - 1,,,,avg=3.08,2026-10-18T03:07:51Z
-forebet,2495974,Ligue 1,2026-10-11,11/10/2026 16:00,Nice,Strasbourg,over_under,Over,38,62,,,2026-10-18T03:07:51Z
-forebet,2495974,Ligue 1,2026-10-11,11/10/2026 16:00,Nice,Strasbourg,btts,Yes,41,59,,,2026-10-18T03:07:51Z
-forebet,2495972,Ligue 1,2026-10-11,11/10/2026 18:15,Rennes,Auxerre,1x2,1,53,25,22,avg=2.75,2026-10-18T03:07:51Z
-forebet,2495972,Ligue 1,2026-10-11,11/10/2026 18:15,Rennes,Auxerre,correct_score,2 - 1,,,,avg=2.75,2026-10-18T03:07:51Z
-forebet,2495972,Ligue 1,2026-10-11,11/10/2026 18:15,Rennes,Auxerre,over_under,Over,45,55,,,2026-10-18T03:07:51Z
-forebet,2495972,Ligue 1,2026-10-11,11/10/2026 18:15,Rennes,Auxerre,btts,Yes,40,60,,,2026-10-18T03:07:51Z
-forebet,2495971,Ligue 1,2026-10-11,11/10/2026 21:45,Troyes,Olympique Marseille,1x2,1,43,32,24,avg=3.01,2026-10-18T03:07:51Z
-forebet,2495971,Ligue 1,2026-10-11,11/10/2026 21:45,Troyes,Olympique Marseille,correct_score,2 - 1,,,,avg=3.01,2026-10-18T03:07:51Z
-forebet,2495971,Ligue 1,2026-10-11,11/10/2026 21:45,Troyes,Olympique Marseille,over_under,Over,40,60,,,2026-10-18T03:07:51Z
-forebet,2495971,Ligue 1,2026-10-11,11/10/2026 21:45,Troyes,Olympique Marseille,btts,Yes,46,54,,,2026-10-18T03:07:51Z
-forebet,2492073,Eredivisie,2026-10-16,16/10/2026 21:00,Heerenveen,Excelsior,1x2,X,28,37,34,avg=3.16,2026-10-18T03:07:51Z
-forebet,2492073,Eredivisie,2026-10-16,16/10/2026 21:00,Heerenveen,Excelsior,correct_score,2 - 2,,,,avg=3.16,2026-10-18T03:07:51Z
-forebet,2492073,Eredivisie,2026-10-16,16/10/2026 21:00,Heerenveen,Excelsior,over_under,Over,37,63,,,2026-10-18T03:07:51Z
-forebet,2492073,Eredivisie,2026-10-16,16/10/2026 21:00,Heerenveen,Excelsior,btts,Yes,27,73,,,2026-10-18T03:07:51Z
-forebet,2492074,Eredivisie,2026-10-17,17/10/2026 17:30,ADO Den Haag,PSV Eindhoven,1x2,2,11,12,77,avg=3.89,2026-10-18T03:07:51Z
-forebet,2492074,Eredivisie,2026-10-17,17/10/2026 17:30,ADO Den Haag,PSV Eindhoven,correct_score,1 - 3,,,,avg=3.89,2026-10-18T03:07:51Z
-forebet,2492074,Eredivisie,2026-10-17,17/10/2026 17:30,ADO Den Haag,PSV Eindhoven,over_under,Over,22,78,,,2026-10-18T03:07:51Z
-forebet,2492074,Eredivisie,2026-10-17,17/10/2026 17:30,ADO Den Haag,PSV Eindhoven,btts,Yes,23,77,,,2026-10-18T03:07:51Z
-forebet,2492076,Eredivisie,2026-10-17,17/10/2026 21:00,SC Telstar,Feyenoord,1x2,2,6,17,77,avg=3.88,2026-10-18T03:07:51Z
-forebet,2492076,Eredivisie,2026-10-17,17/10/2026 21:00,SC Telstar,Feyenoord,correct_score,1 - 3,,,,avg=3.88,2026-10-18T03:07:51Z
-forebet,2492076,Eredivisie,2026-10-17,17/10/2026 21:00,SC Telstar,Feyenoord,over_under,Over,22,78,,,2026-10-18T03:07:51Z
-forebet,2492076,Eredivisie,2026-10-17,17/10/2026 21:00,SC Telstar,Feyenoord,btts,Yes,26,74,,,2026-10-18T03:07:51Z
-forebet,2492077,Eredivisie,2026-10-17,17/10/2026 22:00,Sparta Rotterdam,Willem II Tilburg,1x2,1,43,36,21,avg=3.59,2026-10-18T03:07:51Z
-forebet,2492077,Eredivisie,2026-10-17,17/10/2026 22:00,Sparta Rotterdam,Willem II Tilburg,correct_score,3 - 1,,,,avg=3.59,2026-10-18T03:07:51Z
-forebet,2492077,Eredivisie,2026-10-17,17/10/2026 22:00,Sparta Rotterdam,Willem II Tilburg,over_under,Over,28,72,,,2026-10-18T03:07:51Z
-forebet,2492077,Eredivisie,2026-10-17,17/10/2026 22:00,Sparta Rotterdam,Willem II Tilburg,btts,Yes,34,66,,,2026-10-18T03:07:51Z
-forebet,2492078,Eredivisie,2026-10-18,18/10/2026 13:15,PEC Zwolle,Go Ahead Eagles,1x2,X,22,42,36,avg=3.35,2026-10-18T03:07:51Z
-forebet,2492078,Eredivisie,2026-10-18,18/10/2026 13:15,PEC Zwolle,Go Ahead Eagles,correct_score,2 - 2,,,,avg=3.35,2026-10-18T03:07:51Z
-forebet,2492078,Eredivisie,2026-10-18,18/10/2026 13:15,PEC Zwolle,Go Ahead Eagles,over_under,Over,33,67,,,2026-10-18T03:07:51Z
-forebet,2492078,Eredivisie,2026-10-18,18/10/2026 13:15,PEC Zwolle,Go Ahead Eagles,btts,Yes,30,70,,,2026-10-18T03:07:51Z
-forebet,2492079,Eredivisie,2026-10-18,18/10/2026 15:30,Cambuur,AZ Alkmaar,1x2,2,16,23,60,avg=2.67,2026-10-18T03:07:51Z
-forebet,2492079,Eredivisie,2026-10-18,18/10/2026 15:30,Cambuur,AZ Alkmaar,correct_score,1 - 2,,,,avg=2.67,2026-10-18T03:07:51Z
-forebet,2492079,Eredivisie,2026-10-18,18/10/2026 15:30,Cambuur,AZ Alkmaar,over_under,Over,47,53,,,2026-10-18T03:07:51Z
-forebet,2492079,Eredivisie,2026-10-18,18/10/2026 15:30,Cambuur,AZ Alkmaar,btts,Yes,34,66,,,2026-10-18T03:07:51Z
-forebet,2492081,Eredivisie,2026-10-18,18/10/2026 17:45,Groningen,Ajax,1x2,2,18,33,50,avg=3.77,2026-10-18T03:07:51Z
-forebet,2492081,Eredivisie,2026-10-18,18/10/2026 17:45,Groningen,Ajax,correct_score,2 - 3,,,,avg=3.77,2026-10-18T03:07:51Z
-forebet,2492081,Eredivisie,2026-10-18,18/10/2026 17:45,Groningen,Ajax,over_under,Over,25,75,,,2026-10-18T03:07:51Z
-forebet,2492081,Eredivisie,2026-10-18,18/10/2026 17:45,Groningen,Ajax,btts,Yes,8,92,,,2026-10-18T03:07:51Z
-forebet,2492075,Eredivisie,2026-10-18,18/10/2026 21:00,Nijmegen,Fortuna Sittard,1x2,2,22,37,41,avg=3.37,2026-10-18T03:07:51Z
-forebet,2492075,Eredivisie,2026-10-18,18/10/2026 21:00,Nijmegen,Fortuna Sittard,correct_score,1 - 2,,,,avg=3.37,2026-10-18T03:07:51Z
-forebet,2492075,Eredivisie,2026-10-18,18/10/2026 21:00,Nijmegen,Fortuna Sittard,over_under,Over,33,67,,,2026-10-18T03:07:51Z
-forebet,2492075,Eredivisie,2026-10-18,18/10/2026 21:00,Nijmegen,Fortuna Sittard,btts,Yes,35,65,,,2026-10-18T03:07:51Z
-forebet,2492080,Eredivisie,2026-10-18,18/10/2026 21:00,Twente,Utrecht,1x2,1,53,26,21,avg=2.97,2026-10-18T03:07:51Z
-forebet,2492080,Eredivisie,2026-10-18,18/10/2026 21:00,Twente,Utrecht,correct_score,2 - 1,,,,avg=2.97,2026-10-18T03:07:51Z
-forebet,2492080,Eredivisie,2026-10-18,18/10/2026 21:00,Twente,Utrecht,over_under,Over,41,59,,,2026-10-18T03:07:51Z
-forebet,2492080,Eredivisie,2026-10-18,18/10/2026 21:00,Twente,Utrecht,btts,Yes,27,73,,,2026-10-18T03:07:51Z
-forebet,2492064,Eredivisie,2026-10-09,09/10/2026 21:00,PSV Eindhoven,Heerenveen,1x2,1,45,41,14,avg=3.95,2026-10-18T03:07:51Z
-forebet,2492064,Eredivisie,2026-10-09,09/10/2026 21:00,PSV Eindhoven,Heerenveen,correct_score,3 - 2,,,,avg=3.95,2026-10-18T03:07:51Z
-forebet,2492064,Eredivisie,2026-10-09,09/10/2026 21:00,PSV Eindhoven,Heerenveen,over_under,Over,21,79,,,2026-10-18T03:07:51Z
-forebet,2492064,Eredivisie,2026-10-09,09/10/2026 21:00,PSV Eindhoven,Heerenveen,btts,Yes,14,86,,,2026-10-18T03:07:51Z
-forebet,2492065,Eredivisie,2026-10-10,10/10/2026 17:30,Go Ahead Eagles,Sparta Rotterdam,1x2,1,44,36,20,avg=3.20,2026-10-18T03:07:51Z
-forebet,2492065,Eredivisie,2026-10-10,10/10/2026 17:30,Go Ahead Eagles,Sparta Rotterdam,correct_score,3 - 2,,,,avg=3.20,2026-10-18T03:07:51Z
-forebet,2492065,Eredivisie,2026-10-10,10/10/2026 17:30,Go Ahead Eagles,Sparta Rotterdam,over_under,Over,36,64,,,2026-10-18T03:07:51Z
-forebet,2492065,Eredivisie,2026-10-10,10/10/2026 17:30,Go Ahead Eagles,Sparta Rotterdam,btts,Yes,20,80,,,2026-10-18T03:07:51Z
-forebet,2492066,Eredivisie,2026-10-10,10/10/2026 19:45,Feyenoord,AZ Alkmaar,1x2,2,24,36,40,avg=3.93,2026-10-18T03:07:51Z
-forebet,2492066,Eredivisie,2026-10-10,10/10/2026 19:45,Feyenoord,AZ Alkmaar,correct_score,2 - 3,,,,avg=3.93,2026-10-18T03:07:51Z
-forebet,2492066,Eredivisie,2026-10-10,10/10/2026 19:45,Feyenoord,AZ Alkmaar,over_under,Over,21,79,,,2026-10-18T03:07:51Z
-forebet,2492066,Eredivisie,2026-10-10,10/10/2026 19:45,Feyenoord,AZ Alkmaar,btts,Yes,7,93,,,2026-10-18T03:07:51Z
-forebet,2492067,Eredivisie,2026-10-10,10/10/2026 21:00,Fortuna Sittard,Twente,1x2,2,19,30,52,avg=3.92,2026-10-18T03:07:51Z
-forebet,2492067,Eredivisie,2026-10-10,10/10/2026 21:00,Fortuna Sittard,Twente,correct_score,1 - 3,,,,avg=3.92,2026-10-18T03:07:51Z
-forebet,2492067,Eredivisie,2026-10-10,10/10/2026 21:00,Fortuna Sittard,Twente,over_under,Over,22,78,,,2026-10-18T03:07:51Z
-forebet,2492067,Eredivisie,2026-10-10,10/10/2026 21:00,Fortuna Sittard,Twente,btts,Yes,14,86,,,2026-10-18T03:07:51Z
-forebet,2492068,Eredivisie,2026-10-10,10/10/2026 22:00,Ajax,Nijmegen,1x2,1,41,37,21,avg=3.60,2026-10-18T03:07:51Z
-forebet,2492068,Eredivisie,2026-10-10,10/10/2026 22:00,Ajax,Nijmegen,correct_score,3 - 1,,,,avg=3.60,2026-10-18T03:07:51Z
-forebet,2492068,Eredivisie,2026-10-10,10/10/2026 22:00,Ajax,Nijmegen,over_under,Over,28,72,,,2026-10-18T03:07:51Z
-forebet,2492068,Eredivisie,2026-10-10,10/10/2026 22:00,Ajax,Nijmegen,btts,Yes,25,75,,,2026-10-18T03:07:51Z
-forebet,2492069,Eredivisie,2026-10-11,11/10/2026 13:15,Utrecht,Willem II Tilburg,1x2,1,45,36,19,avg=4.22,2026-10-18T03:07:51Z
-forebet,2492069,Eredivisie,2026-10-11,11/10/2026 13:15,Utrecht,Willem II Tilburg,correct_score,4 - 2,,,,avg=4.22,2026-10-18T03:07:51Z
-forebet,2492069,Eredivisie,2026-10-11,11/10/2026 13:15,Utrecht,Willem II Tilburg,over_under,Over,16,84,,,2026-10-18T03:07:51Z
-forebet,2492069,Eredivisie,2026-10-11,11/10/2026 13:15,Utrecht,Willem II Tilburg,btts,Yes,24,76,,,2026-10-18T03:07:51Z
-forebet,2492070,Eredivisie,2026-10-11,11/10/2026 15:30,SC Telstar,ADO Den Haag,1x2,X,39,41,19,avg=2.30,2026-10-18T03:07:51Z
-forebet,2492070,Eredivisie,2026-10-11,11/10/2026 15:30,SC Telstar,ADO Den Haag,correct_score,1 - 1,,,,avg=2.30,2026-10-18T03:07:51Z
-forebet,2492070,Eredivisie,2026-10-11,11/10/2026 15:30,SC Telstar,ADO Den Haag,over_under,Under,54,46,,,2026-10-18T03:07:51Z
-forebet,2492070,Eredivisie,2026-10-11,11/10/2026 15:30,SC Telstar,ADO Den Haag,btts,Yes,49,51,,,2026-10-18T03:07:51Z
-forebet,2492071,Eredivisie,2026-10-11,11/10/2026 15:30,PEC Zwolle,Cambuur,1x2,X,28,40,33,avg=3.64,2026-10-18T03:07:51Z
-forebet,2492071,Eredivisie,2026-10-11,11/10/2026 15:30,PEC Zwolle,Cambuur,correct_score,2 - 2,,,,avg=3.64,2026-10-18T03:07:51Z
-forebet,2492071,Eredivisie,2026-10-11,11/10/2026 15:30,PEC Zwolle,Cambuur,over_under,Over,27,73,,,2026-10-18T03:07:51Z
-forebet,2492071,Eredivisie,2026-10-11,11/10/2026 15:30,PEC Zwolle,Cambuur,btts,Yes,36,64,,,2026-10-18T03:07:51Z
-forebet,2492072,Eredivisie,2026-10-11,11/10/2026 17:45,Excelsior,Groningen,1x2,X,28,37,35,avg=2.40,2026-10-18T03:07:51Z
-forebet,2492072,Eredivisie,2026-10-11,11/10/2026 17:45,Excelsior,Groningen,correct_score,1 - 1,,,,avg=2.40,2026-10-18T03:07:51Z
-forebet,2492072,Eredivisie,2026-10-11,11/10/2026 17:45,Excelsior,Groningen,over_under,Under,52,48,,,2026-10-18T03:07:51Z
-forebet,2492072,Eredivisie,2026-10-11,11/10/2026 17:45,Excelsior,Groningen,btts,Yes,26,74,,,2026-10-18T03:07:51Z
-forebet,2494265,Liga Portugal,2026-10-19,19/10/2026 22:15,Sporting Braga,Gil Vicente,1x2,X,37,39,24,avg=2.42,2026-10-18T03:07:51Z
-forebet,2494265,Liga Portugal,2026-10-19,19/10/2026 22:15,Sporting Braga,Gil Vicente,correct_score,1 - 1,,,,avg=2.42,2026-10-18T03:07:51Z
-forebet,2494265,Liga Portugal,2026-10-19,19/10/2026 22:15,Sporting Braga,Gil Vicente,over_under,Under,52,48,,,2026-10-18T03:07:51Z
-forebet,2494265,Liga Portugal,2026-10-19,19/10/2026 22:15,Sporting Braga,Gil Vicente,btts,No,50,50,,,2026-10-18T03:07:51Z
-forebet,2494320,Liga Portugal,2026-10-23,23/10/2026 22:45,Vitória,Marítimo,1x2,1,42,36,21,avg=2.00,2026-10-18T03:07:51Z
-forebet,2494320,Liga Portugal,2026-10-23,23/10/2026 22:45,Vitória,Marítimo,correct_score,1 - 0,,,,avg=2.00,2026-10-18T03:07:51Z
-forebet,2494320,Liga Portugal,2026-10-23,23/10/2026 22:45,Vitória,Marítimo,over_under,Under,60,40,,,2026-10-18T03:07:51Z
-forebet,2494320,Liga Portugal,2026-10-23,23/10/2026 22:45,Vitória,Marítimo,btts,No,67,33,,,2026-10-18T03:07:51Z
-forebet,2494327,Liga Portugal,2026-10-24,24/10/2026 17:30,Estrela Amadora,Casa Pia AC,1x2,1,48,29,23,avg=2.64,2026-10-18T03:07:51Z
-forebet,2494327,Liga Portugal,2026-10-24,24/10/2026 17:30,Estrela Amadora,Casa Pia AC,correct_score,2 - 1,,,,avg=2.64,2026-10-18T03:07:51Z
-forebet,2494327,Liga Portugal,2026-10-24,24/10/2026 17:30,Estrela Amadora,Casa Pia AC,over_under,Over,47,53,,,2026-10-18T03:07:51Z
-forebet,2494327,Liga Portugal,2026-10-24,24/10/2026 17:30,Estrela Amadora,Casa Pia AC,btts,Yes,47,53,,,2026-10-18T03:07:51Z
-forebet,2494328,Liga Portugal,2026-10-24,24/10/2026 20:00,FC Alverca,FC Arouca,1x2,X,29,39,33,avg=2.00,2026-10-18T03:07:51Z
-forebet,2494328,Liga Portugal,2026-10-24,24/10/2026 20:00,FC Alverca,FC Arouca,correct_score,0 - 0,,,,avg=2.00,2026-10-18T03:07:51Z
-forebet,2494328,Liga Portugal,2026-10-24,24/10/2026 20:00,FC Alverca,FC Arouca,over_under,Under,60,40,,,2026-10-18T03:07:51Z
-forebet,2494328,Liga Portugal,2026-10-24,24/10/2026 20:00,FC Alverca,FC Arouca,btts,No,55,45,,,2026-10-18T03:07:51Z
-forebet,2494326,Liga Portugal,2026-10-25,25/10/2026 18:30,GD Estoril,Moreirense FC,1x2,2,32,33,34,avg=2.20,2026-10-18T03:07:51Z
-forebet,2494326,Liga Portugal,2026-10-25,25/10/2026 18:30,GD Estoril,Moreirense FC,correct_score,0 - 2,,,,avg=2.20,2026-10-18T03:07:51Z
-forebet,2494326,Liga Portugal,2026-10-25,25/10/2026 18:30,GD Estoril,Moreirense FC,over_under,Under,56,44,,,2026-10-18T03:07:51Z
-forebet,2494326,Liga Portugal,2026-10-25,25/10/2026 18:30,GD Estoril,Moreirense FC,btts,No,67,33,,,2026-10-18T03:07:51Z
-forebet,2494323,Liga Portugal,2026-10-25,25/10/2026 21:00,Rio Ave,FC Famalicão,1x2,X,17,54,29,avg=3.26,2026-10-18T03:07:51Z
-forebet,2494323,Liga Portugal,2026-10-25,25/10/2026 21:00,Rio Ave,FC Famalicão,correct_score,2 - 2,,,,avg=3.26,2026-10-18T03:07:51Z
-forebet,2494323,Liga Portugal,2026-10-25,25/10/2026 21:00,Rio Ave,FC Famalicão,over_under,Over,35,65,,,2026-10-18T03:07:51Z
-forebet,2494323,Liga Portugal,2026-10-25,25/10/2026 21:00,Rio Ave,FC Famalicão,btts,Yes,39,61,,,2026-10-18T03:07:51Z
-forebet,2494321,Liga Portugal,2026-10-25,25/10/2026 23:30,Sporting CP,Académico Viseu,1x2,X,34,35,32,avg=1.13,2026-10-18T03:07:51Z
-forebet,2494321,Liga Portugal,2026-10-25,25/10/2026 23:30,Sporting CP,Académico Viseu,correct_score,1 - 1,,,,avg=1.13,2026-10-18T03:07:51Z
-forebet,2494321,Liga Portugal,2026-10-25,25/10/2026 23:30,Sporting CP,Académico Viseu,over_under,Under,77,23,,,2026-10-18T03:07:51Z
-forebet,2494321,Liga Portugal,2026-10-25,25/10/2026 23:30,Sporting CP,Académico Viseu,btts,Yes,41,59,,,2026-10-18T03:07:51Z
-forebet,2494322,Liga Portugal,2026-10-26,26/10/2026 21:45,Santa Clara,SL Benfica,1x2,2,19,30,51,avg=2.98,2026-10-18T03:07:51Z
-forebet,2494322,Liga Portugal,2026-10-26,26/10/2026 21:45,Santa Clara,SL Benfica,correct_score,1 - 2,,,,avg=2.98,2026-10-18T03:07:51Z
-forebet,2494322,Liga Portugal,2026-10-26,26/10/2026 21:45,Santa Clara,SL Benfica,over_under,Over,40,60,,,2026-10-18T03:07:51Z
-forebet,2494322,Liga Portugal,2026-10-26,26/10/2026 21:45,Santa Clara,SL Benfica,btts,Yes,28,72,,,2026-10-18T03:07:51Z
-forebet,2494313,Liga Portugal,2026-10-09,09/10/2026 20:45,Moreirense FC,Gil Vicente,1x2,X,34,42,24,avg=2.30,2026-10-18T03:07:51Z
-forebet,2494313,Liga Portugal,2026-10-09,09/10/2026 20:45,Moreirense FC,Gil Vicente,correct_score,1 - 1,,,,avg=2.30,2026-10-18T03:07:51Z
-forebet,2494313,Liga Portugal,2026-10-09,09/10/2026 20:45,Moreirense FC,Gil Vicente,over_under,Under,54,46,,,2026-10-18T03:07:51Z
-forebet,2494313,Liga Portugal,2026-10-09,09/10/2026 20:45,Moreirense FC,Gil Vicente,btts,Yes,49,51,,,2026-10-18T03:07:51Z
-forebet,2494317,Liga Portugal,2026-10-09,09/10/2026 22:15,Sporting Braga,Sporting CP,1x2,X,22,40,38,avg=2.20,2026-10-18T03:07:51Z
-forebet,2494317,Liga Portugal,2026-10-09,09/10/2026 22:15,Sporting Braga,Sporting CP,correct_score,1 - 1,,,,avg=2.20,2026-10-18T03:07:51Z
-forebet,2494317,Liga Portugal,2026-10-09,09/10/2026 22:15,Sporting Braga,Sporting CP,over_under,Under,56,44,,,2026-10-18T03:07:51Z
-forebet,2494317,Liga Portugal,2026-10-09,09/10/2026 22:15,Sporting Braga,Sporting CP,btts,Yes,36,64,,,2026-10-18T03:07:51Z
-forebet,2494314,Liga Portugal,2026-10-10,10/10/2026 20:00,Marítimo,Porto,1x2,2,10,17,73,avg=3.10,2026-10-18T03:07:51Z
-forebet,2494314,Liga Portugal,2026-10-10,10/10/2026 20:00,Marítimo,Porto,correct_score,1 - 3,,,,avg=3.10,2026-10-18T03:07:51Z
-forebet,2494314,Liga Portugal,2026-10-10,10/10/2026 20:00,Marítimo,Porto,over_under,Over,38,62,,,2026-10-18T03:07:51Z
-forebet,2494314,Liga Portugal,2026-10-10,10/10/2026 20:00,Marítimo,Porto,btts,Yes,27,73,,,2026-10-18T03:07:51Z
-forebet,2494316,Liga Portugal,2026-10-10,10/10/2026 22:30,Casa Pia AC,Santa Clara,1x2,2,10,25,65,avg=2.23,2026-10-18T03:07:51Z
-forebet,2494316,Liga Portugal,2026-10-10,10/10/2026 22:30,Casa Pia AC,Santa Clara,correct_score,0 - 1,,,,avg=2.23,2026-10-18T03:07:51Z
-forebet,2494316,Liga Portugal,2026-10-10,10/10/2026 22:30,Casa Pia AC,Santa Clara,over_under,Under,55,45,,,2026-10-18T03:07:51Z
-forebet,2494316,Liga Portugal,2026-10-10,10/10/2026 22:30,Casa Pia AC,Santa Clara,btts,No,63,37,,,2026-10-18T03:07:51Z
-forebet,2494319,Liga Portugal,2026-10-10,10/10/2026 22:30,Académico Viseu,GD Estoril,1x2,1,58,18,24,avg=3.00,2026-10-18T03:07:51Z
-forebet,2494319,Liga Portugal,2026-10-10,10/10/2026 22:30,Académico Viseu,GD Estoril,correct_score,2 - 1,,,,avg=3.00,2026-10-18T03:07:51Z
-forebet,2494319,Liga Portugal,2026-10-10,10/10/2026 22:30,Académico Viseu,GD Estoril,over_under,Over,40,60,,,2026-10-18T03:07:51Z
-forebet,2494319,Liga Portugal,2026-10-10,10/10/2026 22:30,Académico Viseu,GD Estoril,btts,No,50,50,,,2026-10-18T03:07:51Z
-forebet,2494312,Liga Portugal,2026-10-11,11/10/2026 17:30,Rio Ave,Nacional Madeira,1x2,1,41,36,22,avg=3.09,2026-10-18T03:07:51Z
-forebet,2494312,Liga Portugal,2026-10-11,11/10/2026 17:30,Rio Ave,Nacional Madeira,correct_score,2 - 1,,,,avg=3.09,2026-10-18T03:07:51Z
-forebet,2494312,Liga Portugal,2026-10-11,11/10/2026 17:30,Rio Ave,Nacional Madeira,over_under,Over,38,62,,,2026-10-18T03:07:51Z
-forebet,2494312,Liga Portugal,2026-10-11,11/10/2026 17:30,Rio Ave,Nacional Madeira,btts,No,50,50,,,2026-10-18T03:07:51Z
-forebet,2494311,Liga Portugal,2026-10-11,11/10/2026 20:00,SL Benfica,Vitória,1x2,1,69,23,8,avg=2.62,2026-10-18T03:07:51Z
-forebet,2494311,Liga Portugal,2026-10-11,11/10/2026 20:00,SL Benfica,Vitória,correct_score,3 - 0,,,,avg=2.62,2026-10-18T03:07:51Z
-forebet,2494311,Liga Portugal,2026-10-11,11/10/2026 20:00,SL Benfica,Vitória,over_under,Over,48,52,,,2026-10-18T03:07:51Z
-forebet,2494311,Liga Portugal,2026-10-11,11/10/2026 20:00,SL Benfica,Vitória,btts,No,51,49,,,2026-10-18T03:07:51Z
-forebet,2494318,Liga Portugal,2026-10-11,11/10/2026 22:30,FC Arouca,Estrela Amadora,1x2,X,34,38,29,avg=3.29,2026-10-18T03:07:51Z
-forebet,2494318,Liga Portugal,2026-10-11,11/10/2026 22:30,FC Arouca,Estrela Amadora,correct_score,2 - 2,,,,avg=3.29,2026-10-18T03:07:51Z
-forebet,2494318,Liga Portugal,2026-10-11,11/10/2026 22:30,FC Arouca,Estrela Amadora,over_under,Over,34,66,,,2026-10-18T03:07:51Z
-forebet,2494318,Liga Portugal,2026-10-11,11/10/2026 22:30,FC Arouca,Estrela Amadora,btts,Yes,25,75,,,2026-10-18T03:07:51Z
-forebet,2494315,Liga Portugal,2026-10-12,12/10/2026 22:15,FC Famalicão,FC Alverca,1x2,1,37,32,31,avg=1.83,2026-10-18T03:07:51Z
-forebet,2494315,Liga Portugal,2026-10-12,12/10/2026 22:15,FC Famalicão,FC Alverca,correct_score,2 - 0,,,,avg=1.83,2026-10-18T03:07:51Z
-forebet,2494315,Liga Portugal,2026-10-12,12/10/2026 22:15,FC Famalicão,FC Alverca,over_under,Under,63,37,,,2026-10-18T03:07:51Z
-forebet,2494315,Liga Portugal,2026-10-12,12/10/2026 22:15,FC Famalicão,FC Alverca,btts,No,56,44,,,2026-10-18T03:07:51Z
+forebet,2495612,Premier League,2026-10-17,17/10/2026 14:30,Everton,Chelsea,1x2,1,39,35,27,avg=2.61,2026-10-19T03:36:07Z
+forebet,2495612,Premier League,2026-10-17,17/10/2026 14:30,Everton,Chelsea,correct_score,2 - 1,,,,avg=2.61,2026-10-19T03:36:07Z
+forebet,2495612,Premier League,2026-10-17,17/10/2026 14:30,Everton,Chelsea,over_under,Over,48,52,,,2026-10-19T03:36:07Z
+forebet,2495612,Premier League,2026-10-17,17/10/2026 14:30,Everton,Chelsea,btts,Yes,28,72,,,2026-10-19T03:36:07Z
+forebet,2495609,Premier League,2026-10-17,17/10/2026 17:00,Manchester City,Ipswich Town,1x2,1,61,14,25,avg=4.25,2026-10-19T03:36:07Z
+forebet,2495609,Premier League,2026-10-17,17/10/2026 17:00,Manchester City,Ipswich Town,correct_score,3 - 2,,,,avg=4.25,2026-10-19T03:36:07Z
+forebet,2495609,Premier League,2026-10-17,17/10/2026 17:00,Manchester City,Ipswich Town,over_under,Over,15,85,,,2026-10-19T03:36:07Z
+forebet,2495609,Premier League,2026-10-17,17/10/2026 17:00,Manchester City,Ipswich Town,btts,Yes,11,89,,,2026-10-19T03:36:07Z
+forebet,2495611,Premier League,2026-10-17,17/10/2026 17:00,Fulham,Hull City,1x2,2,23,33,44,avg=3.09,2026-10-19T03:36:07Z
+forebet,2495611,Premier League,2026-10-17,17/10/2026 17:00,Fulham,Hull City,correct_score,2 - 3,,,,avg=3.09,2026-10-19T03:36:07Z
+forebet,2495611,Premier League,2026-10-17,17/10/2026 17:00,Fulham,Hull City,over_under,Over,38,62,,,2026-10-19T03:36:07Z
+forebet,2495611,Premier League,2026-10-17,17/10/2026 17:00,Fulham,Hull City,btts,Yes,31,69,,,2026-10-19T03:36:07Z
+forebet,2495614,Premier League,2026-10-17,17/10/2026 17:00,Brentford,Liverpool,1x2,X,28,39,33,avg=2.10,2026-10-19T03:36:07Z
+forebet,2495614,Premier League,2026-10-17,17/10/2026 17:00,Brentford,Liverpool,correct_score,1 - 1,,,,avg=2.10,2026-10-19T03:36:07Z
+forebet,2495614,Premier League,2026-10-17,17/10/2026 17:00,Brentford,Liverpool,over_under,Under,58,42,,,2026-10-19T03:36:07Z
+forebet,2495614,Premier League,2026-10-17,17/10/2026 17:00,Brentford,Liverpool,btts,Yes,35,65,,,2026-10-19T03:36:07Z
+forebet,2495608,Premier League,2026-10-17,17/10/2026 19:30,Newcastle United,Aston Villa,1x2,X,38,43,20,avg=2.00,2026-10-19T03:36:07Z
+forebet,2495608,Premier League,2026-10-17,17/10/2026 19:30,Newcastle United,Aston Villa,correct_score,1 - 1,,,,avg=2.00,2026-10-19T03:36:07Z
+forebet,2495608,Premier League,2026-10-17,17/10/2026 19:30,Newcastle United,Aston Villa,over_under,Under,60,40,,,2026-10-19T03:36:07Z
+forebet,2495608,Premier League,2026-10-17,17/10/2026 19:30,Newcastle United,Aston Villa,btts,Yes,39,61,,,2026-10-19T03:36:07Z
+forebet,2495610,Premier League,2026-10-18,18/10/2026 16:00,Leeds United,Manchester United,1x2,X,29,51,20,avg=2.40,2026-10-19T03:36:07Z
+forebet,2495610,Premier League,2026-10-18,18/10/2026 16:00,Leeds United,Manchester United,correct_score,1 - 1,,,,avg=2.40,2026-10-19T03:36:07Z
+forebet,2495610,Premier League,2026-10-18,18/10/2026 16:00,Leeds United,Manchester United,over_under,Under,52,48,,,2026-10-19T03:36:07Z
+forebet,2495610,Premier League,2026-10-18,18/10/2026 16:00,Leeds United,Manchester United,btts,Yes,34,66,,,2026-10-19T03:36:07Z
+forebet,2495613,Premier League,2026-10-18,18/10/2026 16:00,Brighton,Crystal Palace,1x2,1,44,32,23,avg=2.46,2026-10-19T03:36:07Z
+forebet,2495613,Premier League,2026-10-18,18/10/2026 16:00,Brighton,Crystal Palace,correct_score,2 - 0,,,,avg=2.46,2026-10-19T03:36:07Z
+forebet,2495613,Premier League,2026-10-18,18/10/2026 16:00,Brighton,Crystal Palace,over_under,Under,51,49,,,2026-10-19T03:36:07Z
+forebet,2495613,Premier League,2026-10-18,18/10/2026 16:00,Brighton,Crystal Palace,btts,No,51,49,,,2026-10-19T03:36:07Z
+forebet,2495615,Premier League,2026-10-18,18/10/2026 16:00,Bournemouth,Sunderland,1x2,X,35,44,21,avg=3.13,2026-10-19T03:36:07Z
+forebet,2495615,Premier League,2026-10-18,18/10/2026 16:00,Bournemouth,Sunderland,correct_score,2 - 2,,,,avg=3.13,2026-10-19T03:36:07Z
+forebet,2495615,Premier League,2026-10-18,18/10/2026 16:00,Bournemouth,Sunderland,over_under,Over,37,63,,,2026-10-19T03:36:07Z
+forebet,2495615,Premier League,2026-10-18,18/10/2026 16:00,Bournemouth,Sunderland,btts,Yes,35,65,,,2026-10-19T03:36:07Z
+forebet,2495607,Premier League,2026-10-18,18/10/2026 18:30,Nottingham Forest,Arsenal,1x2,2,18,20,62,avg=2.17,2026-10-19T03:36:07Z
+forebet,2495607,Premier League,2026-10-18,18/10/2026 18:30,Nottingham Forest,Arsenal,correct_score,0 - 1,,,,avg=2.17,2026-10-19T03:36:07Z
+forebet,2495607,Premier League,2026-10-18,18/10/2026 18:30,Nottingham Forest,Arsenal,over_under,Under,57,43,,,2026-10-19T03:36:07Z
+forebet,2495607,Premier League,2026-10-18,18/10/2026 18:30,Nottingham Forest,Arsenal,btts,No,57,43,,,2026-10-19T03:36:07Z
+forebet,2495606,Premier League,2026-10-19,19/10/2026 22:00,Tottenham,Coventry City,1x2,1,43,24,33,avg=2.38,2026-10-19T03:36:07Z
+forebet,2495606,Premier League,2026-10-19,19/10/2026 22:00,Tottenham,Coventry City,correct_score,2 - 0,,,,avg=2.38,2026-10-19T03:36:07Z
+forebet,2495606,Premier League,2026-10-19,19/10/2026 22:00,Tottenham,Coventry City,over_under,Under,52,48,,,2026-10-19T03:36:07Z
+forebet,2495606,Premier League,2026-10-19,19/10/2026 22:00,Tottenham,Coventry City,btts,No,56,44,,,2026-10-19T03:36:07Z
+forebet,2495605,Premier League,2026-10-10,10/10/2026 14:30,Arsenal,Leeds United,1x2,X,38,41,21,avg=2.87,2026-10-19T03:36:07Z
+forebet,2495605,Premier League,2026-10-10,10/10/2026 14:30,Arsenal,Leeds United,correct_score,2 - 2,,,,avg=2.87,2026-10-19T03:36:07Z
+forebet,2495605,Premier League,2026-10-10,10/10/2026 14:30,Arsenal,Leeds United,over_under,Over,43,57,,,2026-10-19T03:36:07Z
+forebet,2495605,Premier League,2026-10-10,10/10/2026 14:30,Arsenal,Leeds United,btts,Yes,26,74,,,2026-10-19T03:36:07Z
+forebet,2495596,Premier League,2026-10-10,10/10/2026 17:00,Sunderland,Brighton,1x2,2,20,23,57,avg=2.58,2026-10-19T03:36:07Z
+forebet,2495596,Premier League,2026-10-10,10/10/2026 17:00,Sunderland,Brighton,correct_score,0 - 3,,,,avg=2.58,2026-10-19T03:36:07Z
+forebet,2495596,Premier League,2026-10-10,10/10/2026 17:00,Sunderland,Brighton,over_under,Over,48,52,,,2026-10-19T03:36:07Z
+forebet,2495596,Premier League,2026-10-10,10/10/2026 17:00,Sunderland,Brighton,btts,No,51,49,,,2026-10-19T03:36:07Z
+forebet,2495599,Premier League,2026-10-10,10/10/2026 17:00,Ipswich Town,Fulham,1x2,1,44,37,19,avg=1.86,2026-10-19T03:36:07Z
+forebet,2495599,Premier League,2026-10-10,10/10/2026 17:00,Ipswich Town,Fulham,correct_score,1 - 0,,,,avg=1.86,2026-10-19T03:36:07Z
+forebet,2495599,Premier League,2026-10-10,10/10/2026 17:00,Ipswich Town,Fulham,over_under,Under,63,37,,,2026-10-19T03:36:07Z
+forebet,2495599,Premier League,2026-10-10,10/10/2026 17:00,Ipswich Town,Fulham,btts,No,50,50,,,2026-10-19T03:36:07Z
+forebet,2495603,Premier League,2026-10-10,10/10/2026 17:00,Chelsea,Bournemouth,1x2,X,43,45,12,avg=3.76,2026-10-19T03:36:07Z
+forebet,2495603,Premier League,2026-10-10,10/10/2026 17:00,Chelsea,Bournemouth,correct_score,2 - 2,,,,avg=3.76,2026-10-19T03:36:07Z
+forebet,2495603,Premier League,2026-10-10,10/10/2026 17:00,Chelsea,Bournemouth,over_under,Over,25,75,,,2026-10-19T03:36:07Z
+forebet,2495603,Premier League,2026-10-10,10/10/2026 17:00,Chelsea,Bournemouth,btts,Yes,18,82,,,2026-10-19T03:36:07Z
+forebet,2495604,Premier League,2026-10-10,10/10/2026 17:00,Aston Villa,Brentford,1x2,2,13,42,45,avg=2.49,2026-10-19T03:36:07Z
+forebet,2495604,Premier League,2026-10-10,10/10/2026 17:00,Aston Villa,Brentford,correct_score,0 - 2,,,,avg=2.49,2026-10-19T03:36:07Z
+forebet,2495604,Premier League,2026-10-10,10/10/2026 17:00,Aston Villa,Brentford,over_under,Under,50,50,,,2026-10-19T03:36:07Z
+forebet,2495604,Premier League,2026-10-10,10/10/2026 17:00,Aston Villa,Brentford,btts,No,51,49,,,2026-10-19T03:36:07Z
+forebet,2495597,Premier League,2026-10-10,10/10/2026 19:30,Manchester United,Tottenham,1x2,1,55,32,13,avg=2.71,2026-10-19T03:36:07Z
+forebet,2495597,Premier League,2026-10-10,10/10/2026 19:30,Manchester United,Tottenham,correct_score,3 - 0,,,,avg=2.71,2026-10-19T03:36:07Z
+forebet,2495597,Premier League,2026-10-10,10/10/2026 19:30,Manchester United,Tottenham,over_under,Over,46,54,,,2026-10-19T03:36:07Z
+forebet,2495597,Premier League,2026-10-10,10/10/2026 19:30,Manchester United,Tottenham,btts,No,51,49,,,2026-10-19T03:36:07Z
+forebet,2495600,Premier League,2026-10-11,11/10/2026 16:00,Hull City,Everton,1x2,X,15,61,25,avg=2.08,2026-10-19T03:36:07Z
+forebet,2495600,Premier League,2026-10-11,11/10/2026 16:00,Hull City,Everton,correct_score,1 - 1,,,,avg=2.08,2026-10-19T03:36:07Z
+forebet,2495600,Premier League,2026-10-11,11/10/2026 16:00,Hull City,Everton,over_under,Under,58,42,,,2026-10-19T03:36:07Z
+forebet,2495600,Premier League,2026-10-11,11/10/2026 16:00,Hull City,Everton,btts,Yes,47,53,,,2026-10-19T03:36:07Z
+forebet,2495601,Premier League,2026-10-11,11/10/2026 16:00,Crystal Palace,Nottingham Forest,1x2,X,18,44,38,avg=3.17,2026-10-19T03:36:07Z
+forebet,2495601,Premier League,2026-10-11,11/10/2026 16:00,Crystal Palace,Nottingham Forest,correct_score,2 - 2,,,,avg=3.17,2026-10-19T03:36:07Z
+forebet,2495601,Premier League,2026-10-11,11/10/2026 16:00,Crystal Palace,Nottingham Forest,over_under,Over,37,63,,,2026-10-19T03:36:07Z
+forebet,2495601,Premier League,2026-10-11,11/10/2026 16:00,Crystal Palace,Nottingham Forest,btts,Yes,35,65,,,2026-10-19T03:36:07Z
+forebet,2495598,Premier League,2026-10-11,11/10/2026 18:30,Liverpool,Manchester City,1x2,2,16,34,50,avg=2.71,2026-10-19T03:36:07Z
+forebet,2495598,Premier League,2026-10-11,11/10/2026 18:30,Liverpool,Manchester City,correct_score,1 - 2,,,,avg=2.71,2026-10-19T03:36:07Z
+forebet,2495598,Premier League,2026-10-11,11/10/2026 18:30,Liverpool,Manchester City,over_under,Over,46,54,,,2026-10-19T03:36:07Z
+forebet,2495598,Premier League,2026-10-11,11/10/2026 18:30,Liverpool,Manchester City,btts,Yes,27,73,,,2026-10-19T03:36:07Z
+forebet,2495602,Premier League,2026-10-12,12/10/2026 22:00,Coventry City,Newcastle United,1x2,2,15,22,64,avg=3.43,2026-10-19T03:36:07Z
+forebet,2495602,Premier League,2026-10-12,12/10/2026 22:00,Coventry City,Newcastle United,correct_score,0 - 3,,,,avg=3.43,2026-10-19T03:36:07Z
+forebet,2495602,Premier League,2026-10-12,12/10/2026 22:00,Coventry City,Newcastle United,over_under,Over,31,69,,,2026-10-19T03:36:07Z
+forebet,2495602,Premier League,2026-10-12,12/10/2026 22:00,Coventry City,Newcastle United,btts,No,51,49,,,2026-10-19T03:36:07Z
+forebet,2495253,La Liga,2026-10-16,16/10/2026 22:00,Deportivo La Coruña,Levante,1x2,1,45,42,13,avg=2.32,2026-10-19T03:36:07Z
+forebet,2495253,La Liga,2026-10-16,16/10/2026 22:00,Deportivo La Coruña,Levante,correct_score,2 - 0,,,,avg=2.32,2026-10-19T03:36:07Z
+forebet,2495253,La Liga,2026-10-16,16/10/2026 22:00,Deportivo La Coruña,Levante,over_under,Under,54,46,,,2026-10-19T03:36:07Z
+forebet,2495253,La Liga,2026-10-16,16/10/2026 22:00,Deportivo La Coruña,Levante,btts,No,51,49,,,2026-10-19T03:36:07Z
+forebet,2495252,La Liga,2026-10-17,17/10/2026 15:00,Espanyol,Atlético Madrid,1x2,2,21,20,59,avg=2.99,2026-10-19T03:36:07Z
+forebet,2495252,La Liga,2026-10-17,17/10/2026 15:00,Espanyol,Atlético Madrid,correct_score,1 - 2,,,,avg=2.99,2026-10-19T03:36:07Z
+forebet,2495252,La Liga,2026-10-17,17/10/2026 15:00,Espanyol,Atlético Madrid,over_under,Over,40,60,,,2026-10-19T03:36:07Z
+forebet,2495252,La Liga,2026-10-17,17/10/2026 15:00,Espanyol,Atlético Madrid,btts,Yes,31,69,,,2026-10-19T03:36:07Z
+forebet,2495246,La Liga,2026-10-17,17/10/2026 17:15,Villarreal,Elche,1x2,1,42,32,25,avg=3.00,2026-10-19T03:36:07Z
+forebet,2495246,La Liga,2026-10-17,17/10/2026 17:15,Villarreal,Elche,correct_score,2 - 1,,,,avg=3.00,2026-10-19T03:36:07Z
+forebet,2495246,La Liga,2026-10-17,17/10/2026 17:15,Villarreal,Elche,over_under,Over,40,60,,,2026-10-19T03:36:07Z
+forebet,2495246,La Liga,2026-10-17,17/10/2026 17:15,Villarreal,Elche,btts,Yes,35,65,,,2026-10-19T03:36:07Z
+forebet,2495255,La Liga,2026-10-17,17/10/2026 19:30,Real Betis,Barcelona,1x2,2,22,26,52,avg=4.36,2026-10-19T03:36:07Z
+forebet,2495255,La Liga,2026-10-17,17/10/2026 19:30,Real Betis,Barcelona,correct_score,2 - 3,,,,avg=4.36,2026-10-19T03:36:07Z
+forebet,2495255,La Liga,2026-10-17,17/10/2026 19:30,Real Betis,Barcelona,over_under,Over,13,87,,,2026-10-19T03:36:07Z
+forebet,2495255,La Liga,2026-10-17,17/10/2026 19:30,Real Betis,Barcelona,btts,Yes,7,93,,,2026-10-19T03:36:07Z
+forebet,2495247,La Liga,2026-10-17,17/10/2026 22:00,Valencia,Athletic Bilbao,1x2,2,18,39,43,avg=2.47,2026-10-19T03:36:07Z
+forebet,2495247,La Liga,2026-10-17,17/10/2026 22:00,Valencia,Athletic Bilbao,correct_score,0 - 2,,,,avg=2.47,2026-10-19T03:36:07Z
+forebet,2495247,La Liga,2026-10-17,17/10/2026 22:00,Valencia,Athletic Bilbao,over_under,Under,51,49,,,2026-10-19T03:36:07Z
+forebet,2495247,La Liga,2026-10-17,17/10/2026 22:00,Valencia,Athletic Bilbao,btts,No,60,40,,,2026-10-19T03:36:07Z
+forebet,2495249,La Liga,2026-10-18,18/10/2026 15:00,Osasuna,Racing Santander,1x2,1,42,33,25,avg=3.46,2026-10-19T03:36:07Z
+forebet,2495249,La Liga,2026-10-18,18/10/2026 15:00,Osasuna,Racing Santander,correct_score,3 - 2,,,,avg=3.46,2026-10-19T03:36:07Z
+forebet,2495249,La Liga,2026-10-18,18/10/2026 15:00,Osasuna,Racing Santander,over_under,Over,31,69,,,2026-10-19T03:36:07Z
+forebet,2495249,La Liga,2026-10-18,18/10/2026 15:00,Osasuna,Racing Santander,btts,Yes,29,71,,,2026-10-19T03:36:07Z
+forebet,2495254,La Liga,2026-10-18,18/10/2026 17:15,Celta Vigo,Deportivo Alavés,1x2,1,36,34,30,avg=2.53,2026-10-19T03:36:07Z
+forebet,2495254,La Liga,2026-10-18,18/10/2026 17:15,Celta Vigo,Deportivo Alavés,correct_score,2 - 1,,,,avg=2.53,2026-10-19T03:36:07Z
+forebet,2495254,La Liga,2026-10-18,18/10/2026 17:15,Celta Vigo,Deportivo Alavés,over_under,Over,49,51,,,2026-10-19T03:36:07Z
+forebet,2495254,La Liga,2026-10-18,18/10/2026 17:15,Celta Vigo,Deportivo Alavés,btts,Yes,46,54,,,2026-10-19T03:36:07Z
+forebet,2495250,La Liga,2026-10-18,18/10/2026 19:30,Málaga CF,Real Sociedad,1x2,2,24,22,54,avg=3.24,2026-10-19T03:36:07Z
+forebet,2495250,La Liga,2026-10-18,18/10/2026 19:30,Málaga CF,Real Sociedad,correct_score,1 - 2,,,,avg=3.24,2026-10-19T03:36:07Z
+forebet,2495250,La Liga,2026-10-18,18/10/2026 19:30,Málaga CF,Real Sociedad,over_under,Over,35,65,,,2026-10-19T03:36:07Z
+forebet,2495250,La Liga,2026-10-18,18/10/2026 19:30,Málaga CF,Real Sociedad,btts,Yes,47,53,,,2026-10-19T03:36:07Z
+forebet,2495248,La Liga,2026-10-18,18/10/2026 22:00,Real Madrid,Sevilla,1x2,1,43,35,23,avg=3.52,2026-10-19T03:36:07Z
+forebet,2495248,La Liga,2026-10-18,18/10/2026 22:00,Real Madrid,Sevilla,correct_score,3 - 1,,,,avg=3.52,2026-10-19T03:36:07Z
+forebet,2495248,La Liga,2026-10-18,18/10/2026 22:00,Real Madrid,Sevilla,over_under,Over,30,70,,,2026-10-19T03:36:07Z
+forebet,2495248,La Liga,2026-10-18,18/10/2026 22:00,Real Madrid,Sevilla,btts,Yes,20,80,,,2026-10-19T03:36:07Z
+forebet,2495251,La Liga,2026-10-19,19/10/2026 22:00,Getafe,Rayo Vallecano,1x2,X,35,38,27,avg=2.28,2026-10-19T03:36:07Z
+forebet,2495251,La Liga,2026-10-19,19/10/2026 22:00,Getafe,Rayo Vallecano,correct_score,1 - 1,,,,avg=2.28,2026-10-19T03:36:07Z
+forebet,2495251,La Liga,2026-10-19,19/10/2026 22:00,Getafe,Rayo Vallecano,over_under,Under,54,46,,,2026-10-19T03:36:07Z
+forebet,2495251,La Liga,2026-10-19,19/10/2026 22:00,Getafe,Rayo Vallecano,btts,Yes,48,52,,,2026-10-19T03:36:07Z
+forebet,2495240,La Liga,2026-10-09,09/10/2026 22:00,Málaga CF,Espanyol,1x2,1,35,32,33,avg=2.53,2026-10-19T03:36:07Z
+forebet,2495240,La Liga,2026-10-09,09/10/2026 22:00,Málaga CF,Espanyol,correct_score,2 - 1,,,,avg=2.53,2026-10-19T03:36:07Z
+forebet,2495240,La Liga,2026-10-09,09/10/2026 22:00,Málaga CF,Espanyol,over_under,Over,49,51,,,2026-10-19T03:36:07Z
+forebet,2495240,La Liga,2026-10-09,09/10/2026 22:00,Málaga CF,Espanyol,btts,Yes,49,51,,,2026-10-19T03:36:07Z
+forebet,2495238,La Liga,2026-10-10,10/10/2026 15:00,Rayo Vallecano,Athletic Bilbao,1x2,X,25,42,33,avg=2.78,2026-10-19T03:36:07Z
+forebet,2495238,La Liga,2026-10-10,10/10/2026 15:00,Rayo Vallecano,Athletic Bilbao,correct_score,2 - 2,,,,avg=2.78,2026-10-19T03:36:07Z
+forebet,2495238,La Liga,2026-10-10,10/10/2026 15:00,Rayo Vallecano,Athletic Bilbao,over_under,Over,44,56,,,2026-10-19T03:36:07Z
+forebet,2495238,La Liga,2026-10-10,10/10/2026 15:00,Rayo Vallecano,Athletic Bilbao,btts,Yes,36,64,,,2026-10-19T03:36:07Z
+forebet,2495245,La Liga,2026-10-10,10/10/2026 17:15,Deportivo Alavés,Atlético Madrid,1x2,2,29,25,46,avg=2.73,2026-10-19T03:36:07Z
+forebet,2495245,La Liga,2026-10-10,10/10/2026 17:15,Deportivo Alavés,Atlético Madrid,correct_score,1 - 2,,,,avg=2.73,2026-10-19T03:36:07Z
+forebet,2495245,La Liga,2026-10-10,10/10/2026 17:15,Deportivo Alavés,Atlético Madrid,over_under,Over,45,55,,,2026-10-19T03:36:07Z
+forebet,2495245,La Liga,2026-10-10,10/10/2026 17:15,Deportivo Alavés,Atlético Madrid,btts,Yes,30,70,,,2026-10-19T03:36:07Z
+forebet,2495242,La Liga,2026-10-10,10/10/2026 19:30,Barcelona,Getafe,1x2,1,68,23,10,avg=3.90,2026-10-19T03:36:07Z
+forebet,2495242,La Liga,2026-10-10,10/10/2026 19:30,Barcelona,Getafe,correct_score,3 - 0,,,,avg=3.90,2026-10-19T03:36:07Z
+forebet,2495242,La Liga,2026-10-10,10/10/2026 19:30,Barcelona,Getafe,over_under,Over,22,78,,,2026-10-19T03:36:07Z
+forebet,2495242,La Liga,2026-10-10,10/10/2026 19:30,Barcelona,Getafe,btts,No,51,49,,,2026-10-19T03:36:07Z
+forebet,2495237,La Liga,2026-10-10,10/10/2026 22:00,Real Madrid,Villarreal,1x2,1,54,28,18,avg=3.82,2026-10-19T03:36:07Z
+forebet,2495237,La Liga,2026-10-10,10/10/2026 22:00,Real Madrid,Villarreal,correct_score,3 - 1,,,,avg=3.82,2026-10-19T03:36:07Z
+forebet,2495237,La Liga,2026-10-10,10/10/2026 22:00,Real Madrid,Villarreal,over_under,Over,24,76,,,2026-10-19T03:36:07Z
+forebet,2495237,La Liga,2026-10-10,10/10/2026 22:00,Real Madrid,Villarreal,btts,Yes,16,84,,,2026-10-19T03:36:07Z
+forebet,2495243,La Liga,2026-10-11,11/10/2026 15:00,Elche,Celta Vigo,1x2,X,17,49,35,avg=3.17,2026-10-19T03:36:07Z
+forebet,2495243,La Liga,2026-10-11,11/10/2026 15:00,Elche,Celta Vigo,correct_score,2 - 2,,,,avg=3.17,2026-10-19T03:36:07Z
+forebet,2495243,La Liga,2026-10-11,11/10/2026 15:00,Elche,Celta Vigo,over_under,Over,37,63,,,2026-10-19T03:36:07Z
+forebet,2495243,La Liga,2026-10-11,11/10/2026 15:00,Elche,Celta Vigo,btts,Yes,35,65,,,2026-10-19T03:36:07Z
+forebet,2495236,La Liga,2026-10-11,11/10/2026 17:15,Real Sociedad,Deportivo La Coruña,1x2,X,19,50,31,avg=2.20,2026-10-19T03:36:07Z
+forebet,2495236,La Liga,2026-10-11,11/10/2026 17:15,Real Sociedad,Deportivo La Coruña,correct_score,1 - 1,,,,avg=2.20,2026-10-19T03:36:07Z
+forebet,2495236,La Liga,2026-10-11,11/10/2026 17:15,Real Sociedad,Deportivo La Coruña,over_under,Under,56,44,,,2026-10-19T03:36:07Z
+forebet,2495236,La Liga,2026-10-11,11/10/2026 17:15,Real Sociedad,Deportivo La Coruña,btts,Yes,45,55,,,2026-10-19T03:36:07Z
+forebet,2495244,La Liga,2026-10-11,11/10/2026 19:30,Real Betis,Osasuna,1x2,1,59,25,16,avg=2.91,2026-10-19T03:36:07Z
+forebet,2495244,La Liga,2026-10-11,11/10/2026 19:30,Real Betis,Osasuna,correct_score,3 - 0,,,,avg=2.91,2026-10-19T03:36:07Z
+forebet,2495244,La Liga,2026-10-11,11/10/2026 19:30,Real Betis,Osasuna,over_under,Over,42,58,,,2026-10-19T03:36:07Z
+forebet,2495244,La Liga,2026-10-11,11/10/2026 19:30,Real Betis,Osasuna,btts,No,50,50,,,2026-10-19T03:36:07Z
+forebet,2495239,La Liga,2026-10-11,11/10/2026 22:00,Racing Santander,Valencia,1x2,1,52,27,20,avg=2.02,2026-10-19T03:36:07Z
+forebet,2495239,La Liga,2026-10-11,11/10/2026 22:00,Racing Santander,Valencia,correct_score,1 - 0,,,,avg=2.02,2026-10-19T03:36:07Z
+forebet,2495239,La Liga,2026-10-11,11/10/2026 22:00,Racing Santander,Valencia,over_under,Under,60,40,,,2026-10-19T03:36:07Z
+forebet,2495239,La Liga,2026-10-11,11/10/2026 22:00,Racing Santander,Valencia,btts,No,62,38,,,2026-10-19T03:36:07Z
+forebet,2495241,La Liga,2026-10-12,12/10/2026 22:00,Levante,Sevilla,1x2,2,22,23,55,avg=2.68,2026-10-19T03:36:07Z
+forebet,2495241,La Liga,2026-10-12,12/10/2026 22:00,Levante,Sevilla,correct_score,1 - 2,,,,avg=2.68,2026-10-19T03:36:07Z
+forebet,2495241,La Liga,2026-10-12,12/10/2026 22:00,Levante,Sevilla,over_under,Over,46,54,,,2026-10-19T03:36:07Z
+forebet,2495241,La Liga,2026-10-12,12/10/2026 22:00,Levante,Sevilla,btts,Yes,41,59,,,2026-10-19T03:36:07Z
+forebet,2523608,Bundesliga,2026-10-23,23/10/2026 21:30,Stuttgart,Borussia M'gladbach,1x2,1,64,21,14,avg=2.83,2026-10-19T03:36:07Z
+forebet,2523608,Bundesliga,2026-10-23,23/10/2026 21:30,Stuttgart,Borussia M'gladbach,correct_score,2 - 1,,,,avg=2.83,2026-10-19T03:36:07Z
+forebet,2523608,Bundesliga,2026-10-23,23/10/2026 21:30,Stuttgart,Borussia M'gladbach,over_under,Over,43,57,,,2026-10-19T03:36:07Z
+forebet,2523608,Bundesliga,2026-10-23,23/10/2026 21:30,Stuttgart,Borussia M'gladbach,btts,Yes,27,73,,,2026-10-19T03:36:07Z
+forebet,2523602,Bundesliga,2026-10-24,24/10/2026 16:30,Paderborn,Hamburger SV,1x2,2,38,20,42,avg=3.71,2026-10-19T03:36:07Z
+forebet,2523602,Bundesliga,2026-10-24,24/10/2026 16:30,Paderborn,Hamburger SV,correct_score,1 - 2,,,,avg=3.71,2026-10-19T03:36:07Z
+forebet,2523602,Bundesliga,2026-10-24,24/10/2026 16:30,Paderborn,Hamburger SV,over_under,Over,26,74,,,2026-10-19T03:36:07Z
+forebet,2523602,Bundesliga,2026-10-24,24/10/2026 16:30,Paderborn,Hamburger SV,btts,Yes,37,63,,,2026-10-19T03:36:07Z
+forebet,2523603,Bundesliga,2026-10-24,24/10/2026 16:30,Köln,Schalke 04,1x2,1,42,36,22,avg=2.94,2026-10-19T03:36:07Z
+forebet,2523603,Bundesliga,2026-10-24,24/10/2026 16:30,Köln,Schalke 04,correct_score,2 - 1,,,,avg=2.94,2026-10-19T03:36:07Z
+forebet,2523603,Bundesliga,2026-10-24,24/10/2026 16:30,Köln,Schalke 04,over_under,Over,41,59,,,2026-10-19T03:36:07Z
+forebet,2523603,Bundesliga,2026-10-24,24/10/2026 16:30,Köln,Schalke 04,btts,Yes,44,56,,,2026-10-19T03:36:07Z
+forebet,2523604,Bundesliga,2026-10-24,24/10/2026 16:30,Mainz,Werder Bremen,1x2,X,20,46,34,avg=3.55,2026-10-19T03:36:07Z
+forebet,2523604,Bundesliga,2026-10-24,24/10/2026 16:30,Mainz,Werder Bremen,correct_score,2 - 2,,,,avg=3.55,2026-10-19T03:36:07Z
+forebet,2523604,Bundesliga,2026-10-24,24/10/2026 16:30,Mainz,Werder Bremen,over_under,Over,29,71,,,2026-10-19T03:36:07Z
+forebet,2523604,Bundesliga,2026-10-24,24/10/2026 16:30,Mainz,Werder Bremen,btts,Yes,15,85,,,2026-10-19T03:36:07Z
+forebet,2523605,Bundesliga,2026-10-24,24/10/2026 16:30,Augsburg,Union Berlin,1x2,1,51,35,13,avg=3.56,2026-10-19T03:36:07Z
+forebet,2523605,Bundesliga,2026-10-24,24/10/2026 16:30,Augsburg,Union Berlin,correct_score,3 - 1,,,,avg=3.56,2026-10-19T03:36:07Z
+forebet,2523605,Bundesliga,2026-10-24,24/10/2026 16:30,Augsburg,Union Berlin,over_under,Over,29,71,,,2026-10-19T03:36:07Z
+forebet,2523605,Bundesliga,2026-10-24,24/10/2026 16:30,Augsburg,Union Berlin,btts,Yes,24,76,,,2026-10-19T03:36:07Z
+forebet,2523609,Bundesliga,2026-10-24,24/10/2026 16:30,RB Leipzig,SV Elversberg,1x2,1,46,28,26,avg=2.25,2026-10-19T03:36:07Z
+forebet,2523609,Bundesliga,2026-10-24,24/10/2026 16:30,RB Leipzig,SV Elversberg,correct_score,2 - 0,,,,avg=2.25,2026-10-19T03:36:07Z
+forebet,2523609,Bundesliga,2026-10-24,24/10/2026 16:30,RB Leipzig,SV Elversberg,over_under,Under,55,45,,,2026-10-19T03:36:07Z
+forebet,2523609,Bundesliga,2026-10-24,24/10/2026 16:30,RB Leipzig,SV Elversberg,btts,No,51,49,,,2026-10-19T03:36:07Z
+forebet,2523610,Bundesliga,2026-10-24,24/10/2026 19:30,Borussia Dortmund,Eintracht Frankfurt,1x2,1,53,29,18,avg=3.75,2026-10-19T03:36:07Z
+forebet,2523610,Bundesliga,2026-10-24,24/10/2026 19:30,Borussia Dortmund,Eintracht Frankfurt,correct_score,3 - 1,,,,avg=3.75,2026-10-19T03:36:07Z
+forebet,2523610,Bundesliga,2026-10-24,24/10/2026 19:30,Borussia Dortmund,Eintracht Frankfurt,over_under,Over,25,75,,,2026-10-19T03:36:07Z
+forebet,2523610,Bundesliga,2026-10-24,24/10/2026 19:30,Borussia Dortmund,Eintracht Frankfurt,btts,Yes,12,88,,,2026-10-19T03:36:07Z
+forebet,2523607,Bundesliga,2026-10-25,25/10/2026 17:30,Hoffenheim,Bayer Leverkusen,1x2,2,20,22,58,avg=4.03,2026-10-19T03:36:07Z
+forebet,2523607,Bundesliga,2026-10-25,25/10/2026 17:30,Hoffenheim,Bayer Leverkusen,correct_score,1 - 2,,,,avg=4.03,2026-10-19T03:36:07Z
+forebet,2523607,Bundesliga,2026-10-25,25/10/2026 17:30,Hoffenheim,Bayer Leverkusen,over_under,Over,19,81,,,2026-10-19T03:36:07Z
+forebet,2523607,Bundesliga,2026-10-25,25/10/2026 17:30,Hoffenheim,Bayer Leverkusen,btts,Yes,17,83,,,2026-10-19T03:36:07Z
+forebet,2523606,Bundesliga,2026-10-25,25/10/2026 19:30,Freiburg,Bayern Munich,1x2,2,23,38,39,avg=3.50,2026-10-19T03:36:07Z
+forebet,2523606,Bundesliga,2026-10-25,25/10/2026 19:30,Freiburg,Bayern Munich,correct_score,2 - 3,,,,avg=3.50,2026-10-19T03:36:07Z
+forebet,2523606,Bundesliga,2026-10-25,25/10/2026 19:30,Freiburg,Bayern Munich,over_under,Over,30,70,,,2026-10-19T03:36:07Z
+forebet,2523606,Bundesliga,2026-10-25,25/10/2026 19:30,Freiburg,Bayern Munich,btts,Yes,9,91,,,2026-10-19T03:36:07Z
+forebet,2523599,Bundesliga,2026-10-16,16/10/2026 21:30,Eintracht Frankfurt,Köln,1x2,X,33,34,32,avg=3.73,2026-10-19T03:36:07Z
+forebet,2523599,Bundesliga,2026-10-16,16/10/2026 21:30,Eintracht Frankfurt,Köln,correct_score,2 - 2,,,,avg=3.73,2026-10-19T03:36:07Z
+forebet,2523599,Bundesliga,2026-10-16,16/10/2026 21:30,Eintracht Frankfurt,Köln,over_under,Over,25,75,,,2026-10-19T03:36:07Z
+forebet,2523599,Bundesliga,2026-10-16,16/10/2026 21:30,Eintracht Frankfurt,Köln,btts,Yes,19,81,,,2026-10-19T03:36:07Z
+forebet,2523337,Bundesliga,2026-10-17,17/10/2026 16:30,SV Elversberg,Augsburg,1x2,2,22,36,42,avg=3.33,2026-10-19T03:36:07Z
+forebet,2523337,Bundesliga,2026-10-17,17/10/2026 16:30,SV Elversberg,Augsburg,correct_score,1 - 2,,,,avg=3.33,2026-10-19T03:36:07Z
+forebet,2523337,Bundesliga,2026-10-17,17/10/2026 16:30,SV Elversberg,Augsburg,over_under,Over,33,67,,,2026-10-19T03:36:07Z
+forebet,2523337,Bundesliga,2026-10-17,17/10/2026 16:30,SV Elversberg,Augsburg,btts,Yes,22,78,,,2026-10-19T03:36:07Z
+forebet,2523338,Bundesliga,2026-10-17,17/10/2026 16:30,Schalke 04,Mainz,1x2,2,26,35,39,avg=2.65,2026-10-19T03:36:07Z
+forebet,2523338,Bundesliga,2026-10-17,17/10/2026 16:30,Schalke 04,Mainz,correct_score,1 - 2,,,,avg=2.65,2026-10-19T03:36:07Z
+forebet,2523338,Bundesliga,2026-10-17,17/10/2026 16:30,Schalke 04,Mainz,over_under,Over,47,53,,,2026-10-19T03:36:07Z
+forebet,2523338,Bundesliga,2026-10-17,17/10/2026 16:30,Schalke 04,Mainz,btts,Yes,35,65,,,2026-10-19T03:36:07Z
+forebet,2523339,Bundesliga,2026-10-17,17/10/2026 16:30,Werder Bremen,Paderborn,1x2,1,57,28,16,avg=4.00,2026-10-19T03:36:07Z
+forebet,2523339,Bundesliga,2026-10-17,17/10/2026 16:30,Werder Bremen,Paderborn,correct_score,3 - 0,,,,avg=4.00,2026-10-19T03:36:07Z
+forebet,2523339,Bundesliga,2026-10-17,17/10/2026 16:30,Werder Bremen,Paderborn,over_under,Over,20,80,,,2026-10-19T03:36:07Z
+forebet,2523339,Bundesliga,2026-10-17,17/10/2026 16:30,Werder Bremen,Paderborn,btts,No,51,49,,,2026-10-19T03:36:07Z
+forebet,2523340,Bundesliga,2026-10-17,17/10/2026 16:30,Hamburger SV,Stuttgart,1x2,1,39,25,36,avg=3.25,2026-10-19T03:36:07Z
+forebet,2523340,Bundesliga,2026-10-17,17/10/2026 16:30,Hamburger SV,Stuttgart,correct_score,2 - 1,,,,avg=3.25,2026-10-19T03:36:07Z
+forebet,2523340,Bundesliga,2026-10-17,17/10/2026 16:30,Hamburger SV,Stuttgart,over_under,Over,35,65,,,2026-10-19T03:36:07Z
+forebet,2523340,Bundesliga,2026-10-17,17/10/2026 16:30,Hamburger SV,Stuttgart,btts,Yes,30,70,,,2026-10-19T03:36:07Z
+forebet,2523598,Bundesliga,2026-10-17,17/10/2026 16:30,Union Berlin,Borussia Dortmund,1x2,2,15,19,67,avg=3.16,2026-10-19T03:36:07Z
+forebet,2523598,Bundesliga,2026-10-17,17/10/2026 16:30,Union Berlin,Borussia Dortmund,correct_score,1 - 3,,,,avg=3.16,2026-10-19T03:36:07Z
+forebet,2523598,Bundesliga,2026-10-17,17/10/2026 16:30,Union Berlin,Borussia Dortmund,over_under,Over,37,63,,,2026-10-19T03:36:07Z
+forebet,2523598,Bundesliga,2026-10-17,17/10/2026 16:30,Union Berlin,Borussia Dortmund,btts,Yes,22,78,,,2026-10-19T03:36:07Z
+forebet,2523601,Bundesliga,2026-10-17,17/10/2026 19:30,Bayern Munich,RB Leipzig,1x2,1,54,26,20,avg=4.01,2026-10-19T03:36:07Z
+forebet,2523601,Bundesliga,2026-10-17,17/10/2026 19:30,Bayern Munich,RB Leipzig,correct_score,3 - 1,,,,avg=4.01,2026-10-19T03:36:07Z
+forebet,2523601,Bundesliga,2026-10-17,17/10/2026 19:30,Bayern Munich,RB Leipzig,over_under,Over,20,80,,,2026-10-19T03:36:07Z
+forebet,2523601,Bundesliga,2026-10-17,17/10/2026 19:30,Bayern Munich,RB Leipzig,btts,Yes,11,89,,,2026-10-19T03:36:07Z
+forebet,2523600,Bundesliga,2026-10-18,18/10/2026 16:30,Bayer Leverkusen,Freiburg,1x2,X,32,35,33,avg=2.84,2026-10-19T03:36:07Z
+forebet,2523600,Bundesliga,2026-10-18,18/10/2026 16:30,Bayer Leverkusen,Freiburg,correct_score,2 - 2,,,,avg=2.84,2026-10-19T03:36:07Z
+forebet,2523600,Bundesliga,2026-10-18,18/10/2026 16:30,Bayer Leverkusen,Freiburg,over_under,Over,43,57,,,2026-10-19T03:36:07Z
+forebet,2523600,Bundesliga,2026-10-18,18/10/2026 16:30,Bayer Leverkusen,Freiburg,btts,Yes,17,83,,,2026-10-19T03:36:07Z
+forebet,2523341,Bundesliga,2026-10-18,18/10/2026 18:30,Borussia M'gladbach,Hoffenheim,1x2,1,41,29,30,avg=4.87,2026-10-19T03:36:07Z
+forebet,2523341,Bundesliga,2026-10-18,18/10/2026 18:30,Borussia M'gladbach,Hoffenheim,correct_score,2 - 1,,,,avg=4.87,2026-10-19T03:36:07Z
+forebet,2523341,Bundesliga,2026-10-18,18/10/2026 18:30,Borussia M'gladbach,Hoffenheim,over_under,Over,3,97,,,2026-10-19T03:36:07Z
+forebet,2523341,Bundesliga,2026-10-18,18/10/2026 18:30,Borussia M'gladbach,Hoffenheim,btts,Yes,18,82,,,2026-10-19T03:36:07Z
+forebet,2496555,Serie A,2026-10-16,16/10/2026 21:45,Frosinone,Sassuolo,1x2,X,33,38,29,avg=3.32,2026-10-19T03:36:07Z
+forebet,2496555,Serie A,2026-10-16,16/10/2026 21:45,Frosinone,Sassuolo,correct_score,2 - 2,,,,avg=3.32,2026-10-19T03:36:07Z
+forebet,2496555,Serie A,2026-10-16,16/10/2026 21:45,Frosinone,Sassuolo,over_under,Over,34,66,,,2026-10-19T03:36:07Z
+forebet,2496555,Serie A,2026-10-16,16/10/2026 21:45,Frosinone,Sassuolo,btts,Yes,24,76,,,2026-10-19T03:36:07Z
+forebet,2496548,Serie A,2026-10-17,17/10/2026 16:00,Venezia,Napoli,1x2,2,17,26,57,avg=2.63,2026-10-19T03:36:07Z
+forebet,2496548,Serie A,2026-10-17,17/10/2026 16:00,Venezia,Napoli,correct_score,0 - 3,,,,avg=2.63,2026-10-19T03:36:07Z
+forebet,2496548,Serie A,2026-10-17,17/10/2026 16:00,Venezia,Napoli,over_under,Over,47,53,,,2026-10-19T03:36:07Z
+forebet,2496548,Serie A,2026-10-17,17/10/2026 16:00,Venezia,Napoli,btts,No,50,50,,,2026-10-19T03:36:07Z
+forebet,2496557,Serie A,2026-10-17,17/10/2026 19:00,Bologna,Inter,1x2,2,10,31,59,avg=3.14,2026-10-19T03:36:07Z
+forebet,2496557,Serie A,2026-10-17,17/10/2026 19:00,Bologna,Inter,correct_score,1 - 2,,,,avg=3.14,2026-10-19T03:36:07Z
+forebet,2496557,Serie A,2026-10-17,17/10/2026 19:00,Bologna,Inter,over_under,Over,37,63,,,2026-10-19T03:36:07Z
+forebet,2496557,Serie A,2026-10-17,17/10/2026 19:00,Bologna,Inter,btts,Yes,35,65,,,2026-10-19T03:36:07Z
+forebet,2496550,Serie A,2026-10-17,17/10/2026 21:45,Roma,Genoa,1x2,1,69,19,13,avg=3.22,2026-10-19T03:36:07Z
+forebet,2496550,Serie A,2026-10-17,17/10/2026 21:45,Roma,Genoa,correct_score,4 - 0,,,,avg=3.22,2026-10-19T03:36:07Z
+forebet,2496550,Serie A,2026-10-17,17/10/2026 21:45,Roma,Genoa,over_under,Over,36,64,,,2026-10-19T03:36:07Z
+forebet,2496550,Serie A,2026-10-17,17/10/2026 21:45,Roma,Genoa,btts,No,51,49,,,2026-10-19T03:36:07Z
+forebet,2496549,Serie A,2026-10-18,18/10/2026 13:30,Udinese,Lecce,1x2,1,44,26,31,avg=2.30,2026-10-19T03:36:07Z
+forebet,2496549,Serie A,2026-10-18,18/10/2026 13:30,Udinese,Lecce,correct_score,1 - 0,,,,avg=2.30,2026-10-19T03:36:07Z
+forebet,2496549,Serie A,2026-10-18,18/10/2026 13:30,Udinese,Lecce,over_under,Under,54,46,,,2026-10-19T03:36:07Z
+forebet,2496549,Serie A,2026-10-18,18/10/2026 13:30,Udinese,Lecce,btts,No,58,42,,,2026-10-19T03:36:07Z
+forebet,2496556,Serie A,2026-10-18,18/10/2026 16:00,Fiorentina,Calcio Como,1x2,2,21,23,56,avg=2.83,2026-10-19T03:36:07Z
+forebet,2496556,Serie A,2026-10-18,18/10/2026 16:00,Fiorentina,Calcio Como,correct_score,1 - 2,,,,avg=2.83,2026-10-19T03:36:07Z
+forebet,2496556,Serie A,2026-10-18,18/10/2026 16:00,Fiorentina,Calcio Como,over_under,Over,43,57,,,2026-10-19T03:36:07Z
+forebet,2496556,Serie A,2026-10-18,18/10/2026 16:00,Fiorentina,Calcio Como,btts,Yes,30,70,,,2026-10-19T03:36:07Z
+forebet,2496553,Serie A,2026-10-18,18/10/2026 19:00,Milan,Atalanta,1x2,1,57,23,19,avg=2.65,2026-10-19T03:36:07Z
+forebet,2496553,Serie A,2026-10-18,18/10/2026 19:00,Milan,Atalanta,correct_score,2 - 1,,,,avg=2.65,2026-10-19T03:36:07Z
+forebet,2496553,Serie A,2026-10-18,18/10/2026 19:00,Milan,Atalanta,over_under,Over,47,53,,,2026-10-19T03:36:07Z
+forebet,2496553,Serie A,2026-10-18,18/10/2026 19:00,Milan,Atalanta,btts,Yes,41,59,,,2026-10-19T03:36:07Z
+forebet,2496554,Serie A,2026-10-18,18/10/2026 21:45,Juventus,Lazio,1x2,2,27,33,40,avg=2.37,2026-10-19T03:36:07Z
+forebet,2496554,Serie A,2026-10-18,18/10/2026 21:45,Juventus,Lazio,correct_score,0 - 2,,,,avg=2.37,2026-10-19T03:36:07Z
+forebet,2496554,Serie A,2026-10-18,18/10/2026 21:45,Juventus,Lazio,over_under,Under,53,47,,,2026-10-19T03:36:07Z
+forebet,2496554,Serie A,2026-10-18,18/10/2026 21:45,Juventus,Lazio,btts,No,51,49,,,2026-10-19T03:36:07Z
+forebet,2496552,Serie A,2026-10-19,19/10/2026 19:30,Monza,Cagliari,1x2,2,19,16,65,avg=2.25,2026-10-19T03:36:07Z
+forebet,2496552,Serie A,2026-10-19,19/10/2026 19:30,Monza,Cagliari,correct_score,0 - 2,,,,avg=2.25,2026-10-19T03:36:07Z
+forebet,2496552,Serie A,2026-10-19,19/10/2026 19:30,Monza,Cagliari,over_under,Under,55,45,,,2026-10-19T03:36:07Z
+forebet,2496552,Serie A,2026-10-19,19/10/2026 19:30,Monza,Cagliari,btts,No,53,47,,,2026-10-19T03:36:07Z
+forebet,2496551,Serie A,2026-10-19,19/10/2026 21:45,Parma,Torino,1x2,X,32,37,31,avg=2.00,2026-10-19T03:36:07Z
+forebet,2496551,Serie A,2026-10-19,19/10/2026 21:45,Parma,Torino,correct_score,1 - 1,,,,avg=2.00,2026-10-19T03:36:07Z
+forebet,2496551,Serie A,2026-10-19,19/10/2026 21:45,Parma,Torino,over_under,Under,60,40,,,2026-10-19T03:36:07Z
+forebet,2496551,Serie A,2026-10-19,19/10/2026 21:45,Parma,Torino,btts,Yes,49,51,,,2026-10-19T03:36:07Z
+forebet,2496544,Serie A,2026-10-10,10/10/2026 16:00,Genoa,Fiorentina,1x2,2,26,36,38,avg=3.42,2026-10-19T03:36:07Z
+forebet,2496544,Serie A,2026-10-10,10/10/2026 16:00,Genoa,Fiorentina,correct_score,2 - 3,,,,avg=3.42,2026-10-19T03:36:07Z
+forebet,2496544,Serie A,2026-10-10,10/10/2026 16:00,Genoa,Fiorentina,over_under,Over,32,68,,,2026-10-19T03:36:07Z
+forebet,2496544,Serie A,2026-10-10,10/10/2026 16:00,Genoa,Fiorentina,btts,Yes,25,75,,,2026-10-19T03:36:07Z
+forebet,2496543,Serie A,2026-10-10,10/10/2026 19:00,Inter,Parma,1x2,1,69,19,12,avg=3.57,2026-10-19T03:36:07Z
+forebet,2496543,Serie A,2026-10-10,10/10/2026 19:00,Inter,Parma,correct_score,3 - 0,,,,avg=3.57,2026-10-19T03:36:07Z
+forebet,2496543,Serie A,2026-10-10,10/10/2026 19:00,Inter,Parma,over_under,Over,29,71,,,2026-10-19T03:36:07Z
+forebet,2496543,Serie A,2026-10-10,10/10/2026 19:00,Inter,Parma,btts,No,51,49,,,2026-10-19T03:36:07Z
+forebet,2496540,Serie A,2026-10-10,10/10/2026 21:45,Napoli,Frosinone,1x2,X,31,36,34,avg=2.92,2026-10-19T03:36:07Z
+forebet,2496540,Serie A,2026-10-10,10/10/2026 21:45,Napoli,Frosinone,correct_score,2 - 2,,,,avg=2.92,2026-10-19T03:36:07Z
+forebet,2496540,Serie A,2026-10-10,10/10/2026 21:45,Napoli,Frosinone,over_under,Over,42,58,,,2026-10-19T03:36:07Z
+forebet,2496540,Serie A,2026-10-10,10/10/2026 21:45,Napoli,Frosinone,btts,Yes,31,69,,,2026-10-19T03:36:07Z
+forebet,2496545,Serie A,2026-10-11,11/10/2026 13:30,Calcio Como,Roma,1x2,2,24,21,55,avg=2.67,2026-10-19T03:36:07Z
+forebet,2496545,Serie A,2026-10-11,11/10/2026 13:30,Calcio Como,Roma,correct_score,2 - 3,,,,avg=2.67,2026-10-19T03:36:07Z
+forebet,2496545,Serie A,2026-10-11,11/10/2026 13:30,Calcio Como,Roma,over_under,Over,47,53,,,2026-10-19T03:36:07Z
+forebet,2496545,Serie A,2026-10-11,11/10/2026 13:30,Calcio Como,Roma,btts,Yes,13,87,,,2026-10-19T03:36:07Z
+forebet,2496541,Serie A,2026-10-11,11/10/2026 16:00,Lecce,Bologna,1x2,1,44,33,23,avg=2.54,2026-10-19T03:36:07Z
+forebet,2496541,Serie A,2026-10-11,11/10/2026 16:00,Lecce,Bologna,correct_score,2 - 1,,,,avg=2.54,2026-10-19T03:36:07Z
+forebet,2496541,Serie A,2026-10-11,11/10/2026 16:00,Lecce,Bologna,over_under,Over,49,51,,,2026-10-19T03:36:07Z
+forebet,2496541,Serie A,2026-10-11,11/10/2026 16:00,Lecce,Bologna,btts,Yes,49,51,,,2026-10-19T03:36:07Z
+forebet,2496542,Serie A,2026-10-11,11/10/2026 16:00,Lazio,Monza,1x2,1,60,30,10,avg=2.79,2026-10-19T03:36:07Z
+forebet,2496542,Serie A,2026-10-11,11/10/2026 16:00,Lazio,Monza,correct_score,2 - 1,,,,avg=2.79,2026-10-19T03:36:07Z
+forebet,2496542,Serie A,2026-10-11,11/10/2026 16:00,Lazio,Monza,over_under,Over,44,56,,,2026-10-19T03:36:07Z
+forebet,2496542,Serie A,2026-10-11,11/10/2026 16:00,Lazio,Monza,btts,Yes,37,63,,,2026-10-19T03:36:07Z
+forebet,2496539,Serie A,2026-10-11,11/10/2026 19:00,Sassuolo,Milan,1x2,2,24,37,39,avg=3.42,2026-10-19T03:36:07Z
+forebet,2496539,Serie A,2026-10-11,11/10/2026 19:00,Sassuolo,Milan,correct_score,2 - 3,,,,avg=3.42,2026-10-19T03:36:07Z
+forebet,2496539,Serie A,2026-10-11,11/10/2026 19:00,Sassuolo,Milan,over_under,Over,32,68,,,2026-10-19T03:36:07Z
+forebet,2496539,Serie A,2026-10-11,11/10/2026 19:00,Sassuolo,Milan,btts,Yes,19,81,,,2026-10-19T03:36:07Z
+forebet,2496546,Serie A,2026-10-11,11/10/2026 21:45,Cagliari,Juventus,1x2,2,24,31,45,avg=2.62,2026-10-19T03:36:07Z
+forebet,2496546,Serie A,2026-10-11,11/10/2026 21:45,Cagliari,Juventus,correct_score,1 - 2,,,,avg=2.62,2026-10-19T03:36:07Z
+forebet,2496546,Serie A,2026-10-11,11/10/2026 21:45,Cagliari,Juventus,over_under,Over,48,52,,,2026-10-19T03:36:07Z
+forebet,2496546,Serie A,2026-10-11,11/10/2026 21:45,Cagliari,Juventus,btts,Yes,37,63,,,2026-10-19T03:36:07Z
+forebet,2496547,Serie A,2026-10-12,12/10/2026 19:30,Atalanta,Venezia,1x2,1,70,19,11,avg=2.21,2026-10-19T03:36:07Z
+forebet,2496547,Serie A,2026-10-12,12/10/2026 19:30,Atalanta,Venezia,correct_score,2 - 0,,,,avg=2.21,2026-10-19T03:36:07Z
+forebet,2496547,Serie A,2026-10-12,12/10/2026 19:30,Atalanta,Venezia,over_under,Under,56,44,,,2026-10-19T03:36:07Z
+forebet,2496547,Serie A,2026-10-12,12/10/2026 19:30,Atalanta,Venezia,btts,No,61,39,,,2026-10-19T03:36:07Z
+forebet,2496538,Serie A,2026-10-12,12/10/2026 21:45,Torino,Udinese,1x2,2,31,25,43,avg=3.72,2026-10-19T03:36:07Z
+forebet,2496538,Serie A,2026-10-12,12/10/2026 21:45,Torino,Udinese,correct_score,1 - 2,,,,avg=3.72,2026-10-19T03:36:07Z
+forebet,2496538,Serie A,2026-10-12,12/10/2026 21:45,Torino,Udinese,over_under,Over,26,74,,,2026-10-19T03:36:07Z
+forebet,2496538,Serie A,2026-10-12,12/10/2026 21:45,Torino,Udinese,btts,Yes,39,61,,,2026-10-19T03:36:07Z
+forebet,2496250,Ligue 1,2026-10-23,23/10/2026 21:45,Brest,Nice,1x2,1,41,34,25,avg=2.63,2026-10-19T03:36:07Z
+forebet,2496250,Ligue 1,2026-10-23,23/10/2026 21:45,Brest,Nice,correct_score,2 - 1,,,,avg=2.63,2026-10-19T03:36:07Z
+forebet,2496250,Ligue 1,2026-10-23,23/10/2026 21:45,Brest,Nice,over_under,Over,47,53,,,2026-10-19T03:36:07Z
+forebet,2496250,Ligue 1,2026-10-23,23/10/2026 21:45,Brest,Nice,btts,Yes,41,59,,,2026-10-19T03:36:07Z
+forebet,2496245,Ligue 1,2026-10-24,24/10/2026 18:15,Toulouse,Troyes,1x2,1,53,26,21,avg=2.69,2026-10-19T03:36:07Z
+forebet,2496245,Ligue 1,2026-10-24,24/10/2026 18:15,Toulouse,Troyes,correct_score,2 - 1,,,,avg=2.69,2026-10-19T03:36:07Z
+forebet,2496245,Ligue 1,2026-10-24,24/10/2026 18:15,Toulouse,Troyes,over_under,Over,46,54,,,2026-10-19T03:36:07Z
+forebet,2496245,Ligue 1,2026-10-24,24/10/2026 18:15,Toulouse,Troyes,btts,Yes,44,56,,,2026-10-19T03:36:07Z
+forebet,2496249,Ligue 1,2026-10-24,24/10/2026 21:45,Lens,Paris FC,1x2,1,35,31,34,avg=2.04,2026-10-19T03:36:07Z
+forebet,2496249,Ligue 1,2026-10-24,24/10/2026 21:45,Lens,Paris FC,correct_score,1 - 0,,,,avg=2.04,2026-10-19T03:36:07Z
+forebet,2496249,Ligue 1,2026-10-24,24/10/2026 21:45,Lens,Paris FC,over_under,Under,59,41,,,2026-10-19T03:36:07Z
+forebet,2496249,Ligue 1,2026-10-24,24/10/2026 21:45,Lens,Paris FC,btts,No,51,49,,,2026-10-19T03:36:07Z
+forebet,2496247,Ligue 1,2026-10-25,25/10/2026 17:00,Monaco,Lille,1x2,X,30,36,34,avg=2.20,2026-10-19T03:36:07Z
+forebet,2496247,Ligue 1,2026-10-25,25/10/2026 17:00,Monaco,Lille,correct_score,1 - 1,,,,avg=2.20,2026-10-19T03:36:07Z
+forebet,2496247,Ligue 1,2026-10-25,25/10/2026 17:00,Monaco,Lille,over_under,Under,56,44,,,2026-10-19T03:36:07Z
+forebet,2496247,Ligue 1,2026-10-25,25/10/2026 17:00,Monaco,Lille,btts,Yes,38,62,,,2026-10-19T03:36:07Z
+forebet,2496246,Ligue 1,2026-10-25,25/10/2026 19:15,Rennes,Strasbourg,1x2,1,59,23,18,avg=2.88,2026-10-19T03:36:07Z
+forebet,2496246,Ligue 1,2026-10-25,25/10/2026 19:15,Rennes,Strasbourg,correct_score,2 - 1,,,,avg=2.88,2026-10-19T03:36:07Z
+forebet,2496246,Ligue 1,2026-10-25,25/10/2026 19:15,Rennes,Strasbourg,over_under,Over,42,58,,,2026-10-19T03:36:07Z
+forebet,2496246,Ligue 1,2026-10-25,25/10/2026 19:15,Rennes,Strasbourg,btts,Yes,30,70,,,2026-10-19T03:36:07Z
+forebet,2496248,Ligue 1,2026-10-25,25/10/2026 19:15,Olympique Marseille,Le Havre,1x2,1,67,20,13,avg=3.25,2026-10-19T03:36:07Z
+forebet,2496248,Ligue 1,2026-10-25,25/10/2026 19:15,Olympique Marseille,Le Havre,correct_score,3 - 0,,,,avg=3.25,2026-10-19T03:36:07Z
+forebet,2496248,Ligue 1,2026-10-25,25/10/2026 19:15,Olympique Marseille,Le Havre,over_under,Over,35,65,,,2026-10-19T03:36:07Z
+forebet,2496248,Ligue 1,2026-10-25,25/10/2026 19:15,Olympique Marseille,Le Havre,btts,No,51,49,,,2026-10-19T03:36:07Z
+forebet,2496251,Ligue 1,2026-10-25,25/10/2026 19:15,Auxerre,Le Mans FC,1x2,1,47,34,19,avg=2.58,2026-10-19T03:36:07Z
+forebet,2496251,Ligue 1,2026-10-25,25/10/2026 19:15,Auxerre,Le Mans FC,correct_score,2 - 1,,,,avg=2.58,2026-10-19T03:36:07Z
+forebet,2496251,Ligue 1,2026-10-25,25/10/2026 19:15,Auxerre,Le Mans FC,over_under,Over,48,52,,,2026-10-19T03:36:07Z
+forebet,2496251,Ligue 1,2026-10-25,25/10/2026 19:15,Auxerre,Le Mans FC,btts,Yes,38,62,,,2026-10-19T03:36:07Z
+forebet,2496252,Ligue 1,2026-10-25,25/10/2026 19:15,Angers,Lorient,1x2,2,23,28,49,avg=3.10,2026-10-19T03:36:07Z
+forebet,2496252,Ligue 1,2026-10-25,25/10/2026 19:15,Angers,Lorient,correct_score,1 - 2,,,,avg=3.10,2026-10-19T03:36:07Z
+forebet,2496252,Ligue 1,2026-10-25,25/10/2026 19:15,Angers,Lorient,over_under,Over,38,62,,,2026-10-19T03:36:07Z
+forebet,2496252,Ligue 1,2026-10-25,25/10/2026 19:15,Angers,Lorient,btts,Yes,43,57,,,2026-10-19T03:36:07Z
+forebet,2496253,Ligue 1,2026-10-25,25/10/2026 22:45,PSG,Lyon,1x2,X,32,35,33,avg=2.58,2026-10-19T03:36:07Z
+forebet,2496253,Ligue 1,2026-10-25,25/10/2026 22:45,PSG,Lyon,correct_score,2 - 2,,,,avg=2.58,2026-10-19T03:36:07Z
+forebet,2496253,Ligue 1,2026-10-25,25/10/2026 22:45,PSG,Lyon,over_under,Over,48,52,,,2026-10-19T03:36:07Z
+forebet,2496253,Ligue 1,2026-10-25,25/10/2026 22:45,PSG,Lyon,btts,Yes,23,77,,,2026-10-19T03:36:07Z
+forebet,2496242,Ligue 1,2026-10-16,16/10/2026 21:45,Le Mans FC,Toulouse,1x2,X,24,57,19,avg=3.02,2026-10-19T03:36:07Z
+forebet,2496242,Ligue 1,2026-10-16,16/10/2026 21:45,Le Mans FC,Toulouse,correct_score,2 - 2,,,,avg=3.02,2026-10-19T03:36:07Z
+forebet,2496242,Ligue 1,2026-10-16,16/10/2026 21:45,Le Mans FC,Toulouse,over_under,Over,40,60,,,2026-10-19T03:36:07Z
+forebet,2496242,Ligue 1,2026-10-16,16/10/2026 21:45,Le Mans FC,Toulouse,btts,Yes,29,71,,,2026-10-19T03:36:07Z
+forebet,2496237,Ligue 1,2026-10-17,17/10/2026 18:15,Strasbourg,PSG,1x2,2,18,36,46,avg=2.66,2026-10-19T03:36:07Z
+forebet,2496237,Ligue 1,2026-10-17,17/10/2026 18:15,Strasbourg,PSG,correct_score,1 - 2,,,,avg=2.66,2026-10-19T03:36:07Z
+forebet,2496237,Ligue 1,2026-10-17,17/10/2026 18:15,Strasbourg,PSG,over_under,Over,47,53,,,2026-10-19T03:36:07Z
+forebet,2496237,Ligue 1,2026-10-17,17/10/2026 18:15,Strasbourg,PSG,btts,Yes,25,75,,,2026-10-19T03:36:07Z
+forebet,2496236,Ligue 1,2026-10-17,17/10/2026 21:45,Troyes,Lens,1x2,2,29,31,41,avg=3.03,2026-10-19T03:36:07Z
+forebet,2496236,Ligue 1,2026-10-17,17/10/2026 21:45,Troyes,Lens,correct_score,1 - 3,,,,avg=3.03,2026-10-19T03:36:07Z
+forebet,2496236,Ligue 1,2026-10-17,17/10/2026 21:45,Troyes,Lens,over_under,Over,39,61,,,2026-10-19T03:36:07Z
+forebet,2496236,Ligue 1,2026-10-17,17/10/2026 21:45,Troyes,Lens,btts,Yes,36,64,,,2026-10-19T03:36:07Z
+forebet,2496241,Ligue 1,2026-10-17,17/10/2026 21:45,Lille,Brest,1x2,1,44,35,21,avg=2.36,2026-10-19T03:36:07Z
+forebet,2496241,Ligue 1,2026-10-17,17/10/2026 21:45,Lille,Brest,correct_score,2 - 0,,,,avg=2.36,2026-10-19T03:36:07Z
+forebet,2496241,Ligue 1,2026-10-17,17/10/2026 21:45,Lille,Brest,over_under,Under,53,47,,,2026-10-19T03:36:07Z
+forebet,2496241,Ligue 1,2026-10-17,17/10/2026 21:45,Lille,Brest,btts,No,51,49,,,2026-10-19T03:36:07Z
+forebet,2496244,Ligue 1,2026-10-18,18/10/2026 16:00,Angers,Olympique Marseille,1x2,1,37,32,31,avg=2.45,2026-10-19T03:36:07Z
+forebet,2496244,Ligue 1,2026-10-18,18/10/2026 16:00,Angers,Olympique Marseille,correct_score,2 - 0,,,,avg=2.45,2026-10-19T03:36:07Z
+forebet,2496244,Ligue 1,2026-10-18,18/10/2026 16:00,Angers,Olympique Marseille,over_under,Under,51,49,,,2026-10-19T03:36:07Z
+forebet,2496244,Ligue 1,2026-10-18,18/10/2026 16:00,Angers,Olympique Marseille,btts,No,53,47,,,2026-10-19T03:36:07Z
+forebet,2496238,Ligue 1,2026-10-18,18/10/2026 18:15,Paris FC,Rennes,1x2,2,30,24,46,avg=2.25,2026-10-19T03:36:07Z
+forebet,2496238,Ligue 1,2026-10-18,18/10/2026 18:15,Paris FC,Rennes,correct_score,0 - 2,,,,avg=2.25,2026-10-19T03:36:07Z
+forebet,2496238,Ligue 1,2026-10-18,18/10/2026 18:15,Paris FC,Rennes,over_under,Under,55,45,,,2026-10-19T03:36:07Z
+forebet,2496238,Ligue 1,2026-10-18,18/10/2026 18:15,Paris FC,Rennes,btts,No,51,49,,,2026-10-19T03:36:07Z
+forebet,2496240,Ligue 1,2026-10-18,18/10/2026 18:15,Lorient,Monaco,1x2,2,15,37,47,avg=2.66,2026-10-19T03:36:07Z
+forebet,2496240,Ligue 1,2026-10-18,18/10/2026 18:15,Lorient,Monaco,correct_score,1 - 2,,,,avg=2.66,2026-10-19T03:36:07Z
+forebet,2496240,Ligue 1,2026-10-18,18/10/2026 18:15,Lorient,Monaco,over_under,Over,47,53,,,2026-10-19T03:36:07Z
+forebet,2496240,Ligue 1,2026-10-18,18/10/2026 18:15,Lorient,Monaco,btts,Yes,37,63,,,2026-10-19T03:36:07Z
+forebet,2496243,Ligue 1,2026-10-18,18/10/2026 18:15,Le Havre,Auxerre,1x2,1,41,29,30,avg=2.71,2026-10-19T03:36:07Z
+forebet,2496243,Ligue 1,2026-10-18,18/10/2026 18:15,Le Havre,Auxerre,correct_score,2 - 1,,,,avg=2.71,2026-10-19T03:36:07Z
+forebet,2496243,Ligue 1,2026-10-18,18/10/2026 18:15,Le Havre,Auxerre,over_under,Over,46,54,,,2026-10-19T03:36:07Z
+forebet,2496243,Ligue 1,2026-10-18,18/10/2026 18:15,Le Havre,Auxerre,btts,Yes,49,51,,,2026-10-19T03:36:07Z
+forebet,2496239,Ligue 1,2026-10-18,18/10/2026 21:45,Lyon,Nice,1x2,1,53,28,18,avg=2.95,2026-10-19T03:36:07Z
+forebet,2496239,Ligue 1,2026-10-18,18/10/2026 21:45,Lyon,Nice,correct_score,3 - 0,,,,avg=2.95,2026-10-19T03:36:07Z
+forebet,2496239,Ligue 1,2026-10-18,18/10/2026 21:45,Lyon,Nice,over_under,Over,41,59,,,2026-10-19T03:36:07Z
+forebet,2496239,Ligue 1,2026-10-18,18/10/2026 21:45,Lyon,Nice,btts,No,51,49,,,2026-10-19T03:36:07Z
+forebet,2492082,Eredivisie,2026-10-23,23/10/2026 21:00,Go Ahead Eagles,SC Telstar,1x2,1,46,39,15,avg=2.55,2026-10-19T03:36:07Z
+forebet,2492082,Eredivisie,2026-10-23,23/10/2026 21:00,Go Ahead Eagles,SC Telstar,correct_score,2 - 1,,,,avg=2.55,2026-10-19T03:36:07Z
+forebet,2492082,Eredivisie,2026-10-23,23/10/2026 21:00,Go Ahead Eagles,SC Telstar,over_under,Over,49,51,,,2026-10-19T03:36:07Z
+forebet,2492082,Eredivisie,2026-10-23,23/10/2026 21:00,Go Ahead Eagles,SC Telstar,btts,Yes,36,64,,,2026-10-19T03:36:07Z
+forebet,2492083,Eredivisie,2026-10-24,24/10/2026 17:30,Utrecht,PEC Zwolle,1x2,1,42,35,23,avg=3.31,2026-10-19T03:36:07Z
+forebet,2492083,Eredivisie,2026-10-24,24/10/2026 17:30,Utrecht,PEC Zwolle,correct_score,3 - 1,,,,avg=3.31,2026-10-19T03:36:07Z
+forebet,2492083,Eredivisie,2026-10-24,24/10/2026 17:30,Utrecht,PEC Zwolle,over_under,Over,34,66,,,2026-10-19T03:36:07Z
+forebet,2492083,Eredivisie,2026-10-24,24/10/2026 17:30,Utrecht,PEC Zwolle,btts,Yes,31,69,,,2026-10-19T03:36:07Z
+forebet,2492084,Eredivisie,2026-10-24,24/10/2026 19:45,Willem II Tilburg,Cambuur,1x2,X,16,49,36,avg=1.75,2026-10-19T03:36:07Z
+forebet,2492084,Eredivisie,2026-10-24,24/10/2026 19:45,Willem II Tilburg,Cambuur,correct_score,1 - 1,,,,avg=1.75,2026-10-19T03:36:07Z
+forebet,2492084,Eredivisie,2026-10-24,24/10/2026 19:45,Willem II Tilburg,Cambuur,over_under,Under,65,35,,,2026-10-19T03:36:07Z
+forebet,2492084,Eredivisie,2026-10-24,24/10/2026 19:45,Willem II Tilburg,Cambuur,btts,No,50,50,,,2026-10-19T03:36:07Z
+forebet,2492085,Eredivisie,2026-10-24,24/10/2026 22:00,ADO Den Haag,Heerenveen,1x2,2,24,32,44,avg=2.62,2026-10-19T03:36:07Z
+forebet,2492085,Eredivisie,2026-10-24,24/10/2026 22:00,ADO Den Haag,Heerenveen,correct_score,1 - 2,,,,avg=2.62,2026-10-19T03:36:07Z
+forebet,2492085,Eredivisie,2026-10-24,24/10/2026 22:00,ADO Den Haag,Heerenveen,over_under,Over,48,52,,,2026-10-19T03:36:07Z
+forebet,2492085,Eredivisie,2026-10-24,24/10/2026 22:00,ADO Den Haag,Heerenveen,btts,Yes,40,60,,,2026-10-19T03:36:07Z
+forebet,2492086,Eredivisie,2026-10-25,25/10/2026 14:15,Fortuna Sittard,Excelsior,1x2,X,31,37,32,avg=3.59,2026-10-19T03:36:07Z
+forebet,2492086,Eredivisie,2026-10-25,25/10/2026 14:15,Fortuna Sittard,Excelsior,correct_score,2 - 2,,,,avg=3.59,2026-10-19T03:36:07Z
+forebet,2492086,Eredivisie,2026-10-25,25/10/2026 14:15,Fortuna Sittard,Excelsior,over_under,Over,28,72,,,2026-10-19T03:36:07Z
+forebet,2492086,Eredivisie,2026-10-25,25/10/2026 14:15,Fortuna Sittard,Excelsior,btts,Yes,22,78,,,2026-10-19T03:36:07Z
+forebet,2492087,Eredivisie,2026-10-25,25/10/2026 16:30,PSV Eindhoven,Feyenoord,1x2,2,27,26,47,avg=4.15,2026-10-19T03:36:07Z
+forebet,2492087,Eredivisie,2026-10-25,25/10/2026 16:30,PSV Eindhoven,Feyenoord,correct_score,2 - 3,,,,avg=4.15,2026-10-19T03:36:07Z
+forebet,2492087,Eredivisie,2026-10-25,25/10/2026 16:30,PSV Eindhoven,Feyenoord,over_under,Over,17,83,,,2026-10-19T03:36:07Z
+forebet,2492087,Eredivisie,2026-10-25,25/10/2026 16:30,PSV Eindhoven,Feyenoord,btts,Yes,5,95,,,2026-10-19T03:36:07Z
+forebet,2492088,Eredivisie,2026-10-25,25/10/2026 16:30,Nijmegen,Groningen,1x2,X,22,40,37,avg=3.41,2026-10-19T03:36:07Z
+forebet,2492088,Eredivisie,2026-10-25,25/10/2026 16:30,Nijmegen,Groningen,correct_score,2 - 2,,,,avg=3.41,2026-10-19T03:36:07Z
+forebet,2492088,Eredivisie,2026-10-25,25/10/2026 16:30,Nijmegen,Groningen,over_under,Over,32,68,,,2026-10-19T03:36:07Z
+forebet,2492088,Eredivisie,2026-10-25,25/10/2026 16:30,Nijmegen,Groningen,btts,Yes,24,76,,,2026-10-19T03:36:07Z
+forebet,2492089,Eredivisie,2026-10-25,25/10/2026 18:45,Sparta Rotterdam,Ajax,1x2,2,12,27,61,avg=4.72,2026-10-19T03:36:07Z
+forebet,2492089,Eredivisie,2026-10-25,25/10/2026 18:45,Sparta Rotterdam,Ajax,correct_score,1 - 3,,,,avg=4.72,2026-10-19T03:36:07Z
+forebet,2492089,Eredivisie,2026-10-25,25/10/2026 18:45,Sparta Rotterdam,Ajax,over_under,Over,6,94,,,2026-10-19T03:36:07Z
+forebet,2492089,Eredivisie,2026-10-25,25/10/2026 18:45,Sparta Rotterdam,Ajax,btts,Yes,11,89,,,2026-10-19T03:36:07Z
+forebet,2492090,Eredivisie,2026-10-25,25/10/2026 22:00,AZ Alkmaar,Twente,1x2,X,35,38,27,avg=2.28,2026-10-19T03:36:07Z
+forebet,2492090,Eredivisie,2026-10-25,25/10/2026 22:00,AZ Alkmaar,Twente,correct_score,1 - 1,,,,avg=2.28,2026-10-19T03:36:07Z
+forebet,2492090,Eredivisie,2026-10-25,25/10/2026 22:00,AZ Alkmaar,Twente,over_under,Under,54,46,,,2026-10-19T03:36:07Z
+forebet,2492090,Eredivisie,2026-10-25,25/10/2026 22:00,AZ Alkmaar,Twente,btts,Yes,29,71,,,2026-10-19T03:36:07Z
+forebet,2492073,Eredivisie,2026-10-16,16/10/2026 21:00,Heerenveen,Excelsior,1x2,X,28,37,34,avg=3.16,2026-10-19T03:36:07Z
+forebet,2492073,Eredivisie,2026-10-16,16/10/2026 21:00,Heerenveen,Excelsior,correct_score,2 - 2,,,,avg=3.16,2026-10-19T03:36:07Z
+forebet,2492073,Eredivisie,2026-10-16,16/10/2026 21:00,Heerenveen,Excelsior,over_under,Over,37,63,,,2026-10-19T03:36:07Z
+forebet,2492073,Eredivisie,2026-10-16,16/10/2026 21:00,Heerenveen,Excelsior,btts,Yes,27,73,,,2026-10-19T03:36:07Z
+forebet,2492074,Eredivisie,2026-10-17,17/10/2026 17:30,ADO Den Haag,PSV Eindhoven,1x2,2,11,12,77,avg=3.89,2026-10-19T03:36:07Z
+forebet,2492074,Eredivisie,2026-10-17,17/10/2026 17:30,ADO Den Haag,PSV Eindhoven,correct_score,1 - 3,,,,avg=3.89,2026-10-19T03:36:07Z
+forebet,2492074,Eredivisie,2026-10-17,17/10/2026 17:30,ADO Den Haag,PSV Eindhoven,over_under,Over,22,78,,,2026-10-19T03:36:07Z
+forebet,2492074,Eredivisie,2026-10-17,17/10/2026 17:30,ADO Den Haag,PSV Eindhoven,btts,Yes,23,77,,,2026-10-19T03:36:07Z
+forebet,2492076,Eredivisie,2026-10-17,17/10/2026 21:00,SC Telstar,Feyenoord,1x2,2,6,17,77,avg=3.88,2026-10-19T03:36:07Z
+forebet,2492076,Eredivisie,2026-10-17,17/10/2026 21:00,SC Telstar,Feyenoord,correct_score,1 - 3,,,,avg=3.88,2026-10-19T03:36:07Z
+forebet,2492076,Eredivisie,2026-10-17,17/10/2026 21:00,SC Telstar,Feyenoord,over_under,Over,22,78,,,2026-10-19T03:36:07Z
+forebet,2492076,Eredivisie,2026-10-17,17/10/2026 21:00,SC Telstar,Feyenoord,btts,Yes,26,74,,,2026-10-19T03:36:07Z
+forebet,2492077,Eredivisie,2026-10-17,17/10/2026 22:00,Sparta Rotterdam,Willem II Tilburg,1x2,1,43,36,21,avg=3.59,2026-10-19T03:36:07Z
+forebet,2492077,Eredivisie,2026-10-17,17/10/2026 22:00,Sparta Rotterdam,Willem II Tilburg,correct_score,3 - 1,,,,avg=3.59,2026-10-19T03:36:07Z
+forebet,2492077,Eredivisie,2026-10-17,17/10/2026 22:00,Sparta Rotterdam,Willem II Tilburg,over_under,Over,28,72,,,2026-10-19T03:36:07Z
+forebet,2492077,Eredivisie,2026-10-17,17/10/2026 22:00,Sparta Rotterdam,Willem II Tilburg,btts,Yes,34,66,,,2026-10-19T03:36:07Z
+forebet,2492078,Eredivisie,2026-10-18,18/10/2026 13:15,PEC Zwolle,Go Ahead Eagles,1x2,X,22,42,36,avg=3.35,2026-10-19T03:36:07Z
+forebet,2492078,Eredivisie,2026-10-18,18/10/2026 13:15,PEC Zwolle,Go Ahead Eagles,correct_score,2 - 2,,,,avg=3.35,2026-10-19T03:36:07Z
+forebet,2492078,Eredivisie,2026-10-18,18/10/2026 13:15,PEC Zwolle,Go Ahead Eagles,over_under,Over,33,67,,,2026-10-19T03:36:07Z
+forebet,2492078,Eredivisie,2026-10-18,18/10/2026 13:15,PEC Zwolle,Go Ahead Eagles,btts,Yes,30,70,,,2026-10-19T03:36:07Z
+forebet,2492079,Eredivisie,2026-10-18,18/10/2026 15:30,Cambuur,AZ Alkmaar,1x2,2,16,23,60,avg=2.67,2026-10-19T03:36:07Z
+forebet,2492079,Eredivisie,2026-10-18,18/10/2026 15:30,Cambuur,AZ Alkmaar,correct_score,1 - 2,,,,avg=2.67,2026-10-19T03:36:07Z
+forebet,2492079,Eredivisie,2026-10-18,18/10/2026 15:30,Cambuur,AZ Alkmaar,over_under,Over,47,53,,,2026-10-19T03:36:07Z
+forebet,2492079,Eredivisie,2026-10-18,18/10/2026 15:30,Cambuur,AZ Alkmaar,btts,Yes,34,66,,,2026-10-19T03:36:07Z
+forebet,2492081,Eredivisie,2026-10-18,18/10/2026 17:45,Groningen,Ajax,1x2,2,18,33,50,avg=3.77,2026-10-19T03:36:07Z
+forebet,2492081,Eredivisie,2026-10-18,18/10/2026 17:45,Groningen,Ajax,correct_score,2 - 3,,,,avg=3.77,2026-10-19T03:36:07Z
+forebet,2492081,Eredivisie,2026-10-18,18/10/2026 17:45,Groningen,Ajax,over_under,Over,25,75,,,2026-10-19T03:36:07Z
+forebet,2492081,Eredivisie,2026-10-18,18/10/2026 17:45,Groningen,Ajax,btts,Yes,8,92,,,2026-10-19T03:36:07Z
+forebet,2492075,Eredivisie,2026-10-18,18/10/2026 21:00,Nijmegen,Fortuna Sittard,1x2,2,22,37,41,avg=3.37,2026-10-19T03:36:07Z
+forebet,2492075,Eredivisie,2026-10-18,18/10/2026 21:00,Nijmegen,Fortuna Sittard,correct_score,1 - 2,,,,avg=3.37,2026-10-19T03:36:07Z
+forebet,2492075,Eredivisie,2026-10-18,18/10/2026 21:00,Nijmegen,Fortuna Sittard,over_under,Over,33,67,,,2026-10-19T03:36:07Z
+forebet,2492075,Eredivisie,2026-10-18,18/10/2026 21:00,Nijmegen,Fortuna Sittard,btts,Yes,35,65,,,2026-10-19T03:36:07Z
+forebet,2492080,Eredivisie,2026-10-18,18/10/2026 21:00,Twente,Utrecht,1x2,1,53,26,21,avg=2.97,2026-10-19T03:36:07Z
+forebet,2492080,Eredivisie,2026-10-18,18/10/2026 21:00,Twente,Utrecht,correct_score,2 - 1,,,,avg=2.97,2026-10-19T03:36:07Z
+forebet,2492080,Eredivisie,2026-10-18,18/10/2026 21:00,Twente,Utrecht,over_under,Over,41,59,,,2026-10-19T03:36:07Z
+forebet,2492080,Eredivisie,2026-10-18,18/10/2026 21:00,Twente,Utrecht,btts,Yes,27,73,,,2026-10-19T03:36:07Z
+forebet,2494265,Liga Portugal,2026-10-19,19/10/2026 22:15,Sporting Braga,Gil Vicente,1x2,X,37,39,24,avg=2.42,2026-10-19T03:36:07Z
+forebet,2494265,Liga Portugal,2026-10-19,19/10/2026 22:15,Sporting Braga,Gil Vicente,correct_score,1 - 1,,,,avg=2.42,2026-10-19T03:36:07Z
+forebet,2494265,Liga Portugal,2026-10-19,19/10/2026 22:15,Sporting Braga,Gil Vicente,over_under,Under,52,48,,,2026-10-19T03:36:07Z
+forebet,2494265,Liga Portugal,2026-10-19,19/10/2026 22:15,Sporting Braga,Gil Vicente,btts,No,50,50,,,2026-10-19T03:36:07Z
+forebet,2494320,Liga Portugal,2026-10-23,23/10/2026 22:45,Vitória,Marítimo,1x2,1,42,36,21,avg=2.00,2026-10-19T03:36:07Z
+forebet,2494320,Liga Portugal,2026-10-23,23/10/2026 22:45,Vitória,Marítimo,correct_score,1 - 0,,,,avg=2.00,2026-10-19T03:36:07Z
+forebet,2494320,Liga Portugal,2026-10-23,23/10/2026 22:45,Vitória,Marítimo,over_under,Under,60,40,,,2026-10-19T03:36:07Z
+forebet,2494320,Liga Portugal,2026-10-23,23/10/2026 22:45,Vitória,Marítimo,btts,No,67,33,,,2026-10-19T03:36:07Z
+forebet,2494327,Liga Portugal,2026-10-24,24/10/2026 17:30,Estrela Amadora,Casa Pia AC,1x2,1,48,29,23,avg=2.64,2026-10-19T03:36:07Z
+forebet,2494327,Liga Portugal,2026-10-24,24/10/2026 17:30,Estrela Amadora,Casa Pia AC,correct_score,2 - 1,,,,avg=2.64,2026-10-19T03:36:07Z
+forebet,2494327,Liga Portugal,2026-10-24,24/10/2026 17:30,Estrela Amadora,Casa Pia AC,over_under,Over,47,53,,,2026-10-19T03:36:07Z
+forebet,2494327,Liga Portugal,2026-10-24,24/10/2026 17:30,Estrela Amadora,Casa Pia AC,btts,Yes,47,53,,,2026-10-19T03:36:07Z
+forebet,2494328,Liga Portugal,2026-10-24,24/10/2026 20:00,FC Alverca,FC Arouca,1x2,X,29,39,33,avg=2.00,2026-10-19T03:36:07Z
+forebet,2494328,Liga Portugal,2026-10-24,24/10/2026 20:00,FC Alverca,FC Arouca,correct_score,0 - 0,,,,avg=2.00,2026-10-19T03:36:07Z
+forebet,2494328,Liga Portugal,2026-10-24,24/10/2026 20:00,FC Alverca,FC Arouca,over_under,Under,60,40,,,2026-10-19T03:36:07Z
+forebet,2494328,Liga Portugal,2026-10-24,24/10/2026 20:00,FC Alverca,FC Arouca,btts,No,55,45,,,2026-10-19T03:36:07Z
+forebet,2494326,Liga Portugal,2026-10-25,25/10/2026 18:30,GD Estoril,Moreirense FC,1x2,2,32,33,34,avg=2.20,2026-10-19T03:36:07Z
+forebet,2494326,Liga Portugal,2026-10-25,25/10/2026 18:30,GD Estoril,Moreirense FC,correct_score,0 - 2,,,,avg=2.20,2026-10-19T03:36:07Z
+forebet,2494326,Liga Portugal,2026-10-25,25/10/2026 18:30,GD Estoril,Moreirense FC,over_under,Under,56,44,,,2026-10-19T03:36:07Z
+forebet,2494326,Liga Portugal,2026-10-25,25/10/2026 18:30,GD Estoril,Moreirense FC,btts,No,67,33,,,2026-10-19T03:36:07Z
+forebet,2494323,Liga Portugal,2026-10-25,25/10/2026 21:00,Rio Ave,FC Famalicão,1x2,X,17,54,29,avg=3.26,2026-10-19T03:36:07Z
+forebet,2494323,Liga Portugal,2026-10-25,25/10/2026 21:00,Rio Ave,FC Famalicão,correct_score,2 - 2,,,,avg=3.26,2026-10-19T03:36:07Z
+forebet,2494323,Liga Portugal,2026-10-25,25/10/2026 21:00,Rio Ave,FC Famalicão,over_under,Over,35,65,,,2026-10-19T03:36:07Z
+forebet,2494323,Liga Portugal,2026-10-25,25/10/2026 21:00,Rio Ave,FC Famalicão,btts,Yes,39,61,,,2026-10-19T03:36:07Z
+forebet,2494321,Liga Portugal,2026-10-25,25/10/2026 23:30,Sporting CP,Académico Viseu,1x2,X,34,35,32,avg=1.13,2026-10-19T03:36:07Z
+forebet,2494321,Liga Portugal,2026-10-25,25/10/2026 23:30,Sporting CP,Académico Viseu,correct_score,1 - 1,,,,avg=1.13,2026-10-19T03:36:07Z
+forebet,2494321,Liga Portugal,2026-10-25,25/10/2026 23:30,Sporting CP,Académico Viseu,over_under,Under,77,23,,,2026-10-19T03:36:07Z
+forebet,2494321,Liga Portugal,2026-10-25,25/10/2026 23:30,Sporting CP,Académico Viseu,btts,Yes,41,59,,,2026-10-19T03:36:07Z
+forebet,2494322,Liga Portugal,2026-10-26,26/10/2026 21:45,Santa Clara,SL Benfica,1x2,2,19,30,51,avg=2.98,2026-10-19T03:36:07Z
+forebet,2494322,Liga Portugal,2026-10-26,26/10/2026 21:45,Santa Clara,SL Benfica,correct_score,1 - 2,,,,avg=2.98,2026-10-19T03:36:07Z
+forebet,2494322,Liga Portugal,2026-10-26,26/10/2026 21:45,Santa Clara,SL Benfica,over_under,Over,40,60,,,2026-10-19T03:36:07Z
+forebet,2494322,Liga Portugal,2026-10-26,26/10/2026 21:45,Santa Clara,SL Benfica,btts,Yes,28,72,,,2026-10-19T03:36:07Z
+forebet,2494313,Liga Portugal,2026-10-09,09/10/2026 20:45,Moreirense FC,Gil Vicente,1x2,X,34,42,24,avg=2.30,2026-10-19T03:36:07Z
+forebet,2494313,Liga Portugal,2026-10-09,09/10/2026 20:45,Moreirense FC,Gil Vicente,correct_score,1 - 1,,,,avg=2.30,2026-10-19T03:36:07Z
+forebet,2494313,Liga Portugal,2026-10-09,09/10/2026 20:45,Moreirense FC,Gil Vicente,over_under,Under,54,46,,,2026-10-19T03:36:07Z
+forebet,2494313,Liga Portugal,2026-10-09,09/10/2026 20:45,Moreirense FC,Gil Vicente,btts,Yes,49,51,,,2026-10-19T03:36:07Z
+forebet,2494317,Liga Portugal,2026-10-09,09/10/2026 22:15,Sporting Braga,Sporting CP,1x2,X,22,40,38,avg=2.20,2026-10-19T03:36:07Z
+forebet,2494317,Liga Portugal,2026-10-09,09/10/2026 22:15,Sporting Braga,Sporting CP,correct_score,1 - 1,,,,avg=2.20,2026-10-19T03:36:07Z
+forebet,2494317,Liga Portugal,2026-10-09,09/10/2026 22:15,Sporting Braga,Sporting CP,over_under,Under,56,44,,,2026-10-19T03:36:07Z
+forebet,2494317,Liga Portugal,2026-10-09,09/10/2026 22:15,Sporting Braga,Sporting CP,btts,Yes,36,64,,,2026-10-19T03:36:07Z
+forebet,2494314,Liga Portugal,2026-10-10,10/10/2026 20:00,Marítimo,Porto,1x2,2,10,17,73,avg=3.10,2026-10-19T03:36:07Z
+forebet,2494314,Liga Portugal,2026-10-10,10/10/2026 20:00,Marítimo,Porto,correct_score,1 - 3,,,,avg=3.10,2026-10-19T03:36:07Z
+forebet,2494314,Liga Portugal,2026-10-10,10/10/2026 20:00,Marítimo,Porto,over_under,Over,38,62,,,2026-10-19T03:36:07Z
+forebet,2494314,Liga Portugal,2026-10-10,10/10/2026 20:00,Marítimo,Porto,btts,Yes,27,73,,,2026-10-19T03:36:07Z
+forebet,2494316,Liga Portugal,2026-10-10,10/10/2026 22:30,Casa Pia AC,Santa Clara,1x2,2,10,25,65,avg=2.23,2026-10-19T03:36:07Z
+forebet,2494316,Liga Portugal,2026-10-10,10/10/2026 22:30,Casa Pia AC,Santa Clara,correct_score,0 - 1,,,,avg=2.23,2026-10-19T03:36:07Z
+forebet,2494316,Liga Portugal,2026-10-10,10/10/2026 22:30,Casa Pia AC,Santa Clara,over_under,Under,55,45,,,2026-10-19T03:36:07Z
+forebet,2494316,Liga Portugal,2026-10-10,10/10/2026 22:30,Casa Pia AC,Santa Clara,btts,No,63,37,,,2026-10-19T03:36:07Z
+forebet,2494319,Liga Portugal,2026-10-10,10/10/2026 22:30,Académico Viseu,GD Estoril,1x2,1,58,18,24,avg=3.00,2026-10-19T03:36:07Z
+forebet,2494319,Liga Portugal,2026-10-10,10/10/2026 22:30,Académico Viseu,GD Estoril,correct_score,2 - 1,,,,avg=3.00,2026-10-19T03:36:07Z
+forebet,2494319,Liga Portugal,2026-10-10,10/10/2026 22:30,Académico Viseu,GD Estoril,over_under,Over,40,60,,,2026-10-19T03:36:07Z
+forebet,2494319,Liga Portugal,2026-10-10,10/10/2026 22:30,Académico Viseu,GD Estoril,btts,No,50,50,,,2026-10-19T03:36:07Z
+forebet,2494312,Liga Portugal,2026-10-11,11/10/2026 17:30,Rio Ave,Nacional Madeira,1x2,1,41,36,22,avg=3.09,2026-10-19T03:36:07Z
+forebet,2494312,Liga Portugal,2026-10-11,11/10/2026 17:30,Rio Ave,Nacional Madeira,correct_score,2 - 1,,,,avg=3.09,2026-10-19T03:36:07Z
+forebet,2494312,Liga Portugal,2026-10-11,11/10/2026 17:30,Rio Ave,Nacional Madeira,over_under,Over,38,62,,,2026-10-19T03:36:07Z
+forebet,2494312,Liga Portugal,2026-10-11,11/10/2026 17:30,Rio Ave,Nacional Madeira,btts,No,50,50,,,2026-10-19T03:36:07Z
+forebet,2494311,Liga Portugal,2026-10-11,11/10/2026 20:00,SL Benfica,Vitória,1x2,1,69,23,8,avg=2.62,2026-10-19T03:36:07Z
+forebet,2494311,Liga Portugal,2026-10-11,11/10/2026 20:00,SL Benfica,Vitória,correct_score,3 - 0,,,,avg=2.62,2026-10-19T03:36:07Z
+forebet,2494311,Liga Portugal,2026-10-11,11/10/2026 20:00,SL Benfica,Vitória,over_under,Over,48,52,,,2026-10-19T03:36:07Z
+forebet,2494311,Liga Portugal,2026-10-11,11/10/2026 20:00,SL Benfica,Vitória,btts,No,51,49,,,2026-10-19T03:36:07Z
+forebet,2494318,Liga Portugal,2026-10-11,11/10/2026 22:30,FC Arouca,Estrela Amadora,1x2,X,34,38,29,avg=3.29,2026-10-19T03:36:07Z
+forebet,2494318,Liga Portugal,2026-10-11,11/10/2026 22:30,FC Arouca,Estrela Amadora,correct_score,2 - 2,,,,avg=3.29,2026-10-19T03:36:07Z
+forebet,2494318,Liga Portugal,2026-10-11,11/10/2026 22:30,FC Arouca,Estrela Amadora,over_under,Over,34,66,,,2026-10-19T03:36:07Z
+forebet,2494318,Liga Portugal,2026-10-11,11/10/2026 22:30,FC Arouca,Estrela Amadora,btts,Yes,25,75,,,2026-10-19T03:36:07Z
+forebet,2494315,Liga Portugal,2026-10-12,12/10/2026 22:15,FC Famalicão,FC Alverca,1x2,1,37,32,31,avg=1.83,2026-10-19T03:36:07Z
+forebet,2494315,Liga Portugal,2026-10-12,12/10/2026 22:15,FC Famalicão,FC Alverca,correct_score,2 - 0,,,,avg=1.83,2026-10-19T03:36:07Z
+forebet,2494315,Liga Portugal,2026-10-12,12/10/2026 22:15,FC Famalicão,FC Alverca,over_under,Under,63,37,,,2026-10-19T03:36:07Z
+forebet,2494315,Liga Portugal,2026-10-12,12/10/2026 22:15,FC Famalicão,FC Alverca,btts,No,56,44,,,2026-10-19T03:36:07Z

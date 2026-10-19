@@ -1,0 +1,7 @@
+site,source_id,league,date,kickoff,home_team,away_team,market,pick,p1,p2,p3,note,scraped_at
+sportytrader,tottenham-coventry-city-380159,Premier League,2026-10-19,22:00,Tottenham,Coventry City,over_under,Under,,,,Under 2.5 goals @ 2.32,2026-10-19T03:46:25Z
+sportytrader,monza-cagliari-380211,Serie A,2026-10-19,19:30,Monza,Cagliari,1x2,2,,,,Cagliari wins @ 3.00,2026-10-19T03:46:25Z
+sportytrader,parma-turin-380222,Serie A,2026-10-19,21:45,Parma,Torino FC,btts,Yes,,,,BTTS @ 2.00,2026-10-19T03:46:25Z
+sportytrader,getafe-rayo-vallecano-380224,LaLiga,2026-10-19,22:00,Getafe,Rayo Vallecano,1x2,1,,,,Getafe wins & under 2.5 goals @ 4.00,2026-10-19T03:46:25Z
+sportytrader,getafe-rayo-vallecano-380224,LaLiga,2026-10-19,22:00,Getafe,Rayo Vallecano,over_under,Under,,,,Getafe wins & under 2.5 goals @ 4.00,2026-10-19T03:46:25Z
+sportytrader,sporting-braga-gil-vicente-380103,Liga Portugal,2026-10-19,22:15,SC Braga,Gil Vicente,over_under,Under,,,,Under 2.5 goals @ 1.77,2026-10-19T03:46:25Z

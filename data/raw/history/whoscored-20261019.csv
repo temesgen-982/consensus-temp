@@ -1,0 +1,25 @@
+site,source_id,league,date,kickoff,home_team,away_team,market,pick,p1,p2,p3,note,scraped_at
+whoscored,1983615,Premier League,2026-10-19,20:00,Tottenham,Coventry,1x2,1,,,,1.45,2026-10-19T03:41:13Z
+whoscored,1983615,Premier League,2026-10-19,20:00,Tottenham,Coventry,over_under,Over,,,,1.57,2026-10-19T03:41:13Z
+whoscored,1983615,Premier League,2026-10-19,20:00,Tottenham,Coventry,btts,Yes,,,,,2026-10-19T03:41:13Z
+whoscored,1983615,Premier League,2026-10-19,20:00,Tottenham,Coventry,correct_score,3 - 1,,,,10,2026-10-19T03:41:13Z
+whoscored,1994185,LaLiga,2026-10-19,20:00,Getafe,Rayo Vallecano,1x2,X,,,,2.85,2026-10-19T03:41:13Z
+whoscored,1994185,LaLiga,2026-10-19,20:00,Getafe,Rayo Vallecano,over_under,Under,,,,1.47,2026-10-19T03:41:13Z
+whoscored,1994185,LaLiga,2026-10-19,20:00,Getafe,Rayo Vallecano,btts,Yes,,,,,2026-10-19T03:41:13Z
+whoscored,1994185,LaLiga,2026-10-19,20:00,Getafe,Rayo Vallecano,correct_score,1 - 1,,,,5.5,2026-10-19T03:41:13Z
+whoscored,1994183,LaLiga,2026-10-21,19:00,Levante,Athletic Club,1x2,2,,,,2.1,2026-10-19T03:41:13Z
+whoscored,1994183,LaLiga,2026-10-21,19:00,Levante,Athletic Club,over_under,Over,,,,1.9,2026-10-19T03:41:13Z
+whoscored,1994183,LaLiga,2026-10-21,19:00,Levante,Athletic Club,btts,Yes,,,,,2026-10-19T03:41:13Z
+whoscored,1994183,LaLiga,2026-10-21,19:00,Levante,Athletic Club,correct_score,1 - 2,,,,,2026-10-19T03:41:13Z
+whoscored,1981015,Serie A,2026-10-19,17:30,Monza,Cagliari,1x2,2,,,,2.9,2026-10-19T03:41:13Z
+whoscored,1981015,Serie A,2026-10-19,17:30,Monza,Cagliari,over_under,Under,,,,1.727,2026-10-19T03:41:13Z
+whoscored,1981015,Serie A,2026-10-19,17:30,Monza,Cagliari,btts,No,,,,,2026-10-19T03:41:13Z
+whoscored,1981015,Serie A,2026-10-19,17:30,Monza,Cagliari,correct_score,0 - 2,,,,,2026-10-19T03:41:13Z
+whoscored,1981017,Serie A,2026-10-19,19:45,Parma Calcio 1913,Torino,1x2,X,,,,2.9,2026-10-19T03:41:13Z
+whoscored,1981017,Serie A,2026-10-19,19:45,Parma Calcio 1913,Torino,over_under,Under,,,,1.57,2026-10-19T03:41:13Z
+whoscored,1981017,Serie A,2026-10-19,19:45,Parma Calcio 1913,Torino,btts,Yes,,,,,2026-10-19T03:41:13Z
+whoscored,1981017,Serie A,2026-10-19,19:45,Parma Calcio 1913,Torino,correct_score,1 - 1,,,,,2026-10-19T03:41:13Z
+whoscored,1997570,Liga Portugal,2026-10-19,20:15,Braga,Gil Vicente,1x2,2,,,,5.75,2026-10-19T03:41:13Z
+whoscored,1997570,Liga Portugal,2026-10-19,20:15,Braga,Gil Vicente,over_under,Over,,,,2,2026-10-19T03:41:13Z
+whoscored,1997570,Liga Portugal,2026-10-19,20:15,Braga,Gil Vicente,btts,Yes,,,,,2026-10-19T03:41:13Z
+whoscored,1997570,Liga Portugal,2026-10-19,20:15,Braga,Gil Vicente,correct_score,1 - 2,,,,,2026-10-19T03:41:13Z
