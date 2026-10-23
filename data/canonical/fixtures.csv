@@ -1,4 +1,14 @@
 fixture_id,league,date,kickoff,home_id,away_id
+2026-10-23|ipswich|vs|nottingham-forest,Premier League,2026-10-23,23/10/2026 22:00,ipswich,nottingham-forest
+2026-10-24|aston-villa|vs|manchester-city,Premier League,2026-10-24,24/10/2026 14:30,aston-villa,manchester-city
+2026-10-24|coventry|vs|fulham,Premier League,2026-10-24,24/10/2026 17:00,coventry,fulham
+2026-10-24|arsenal|vs|everton,Premier League,2026-10-24,24/10/2026 17:00,arsenal,everton
+2026-10-24|chelsea|vs|tottenham,Premier League,2026-10-24,24/10/2026 19:30,chelsea,tottenham
+2026-10-25|manchester-united|vs|bournemouth,Premier League,2026-10-25,25/10/2026 17:00,manchester-united,bournemouth
+2026-10-25|liverpool|vs|brighton,Premier League,2026-10-25,25/10/2026 17:00,liverpool,brighton
+2026-10-25|hull|vs|brentford,Premier League,2026-10-25,25/10/2026 17:00,hull,brentford
+2026-10-25|crystal-palace|vs|newcastle,Premier League,2026-10-25,25/10/2026 17:00,crystal-palace,newcastle
+2026-10-25|sunderland|vs|leeds-united,Premier League,2026-10-25,25/10/2026 19:30,sunderland,leeds-united
 2026-10-17|everton|vs|chelsea,Premier League,2026-10-17,17/10/2026 14:30,everton,chelsea
 2026-10-17|manchester-city|vs|ipswich,Premier League,2026-10-17,17/10/2026 17:00,manchester-city,ipswich
 2026-10-17|fulham|vs|hull,Premier League,2026-10-17,17/10/2026 17:00,fulham,hull
@@ -9,16 +19,16 @@ fixture_id,league,date,kickoff,home_id,away_id
 2026-10-18|bournemouth|vs|sunderland,Premier League,2026-10-18,18/10/2026 16:00,bournemouth,sunderland
 2026-10-18|nottingham-forest|vs|arsenal,Premier League,2026-10-18,18/10/2026 18:30,nottingham-forest,arsenal
 2026-10-19|tottenham|vs|coventry,Premier League,2026-10-19,19/10/2026 22:00,tottenham,coventry
-2026-10-10|arsenal|vs|leeds-united,Premier League,2026-10-10,10/10/2026 14:30,arsenal,leeds-united
-2026-10-10|sunderland|vs|brighton,Premier League,2026-10-10,10/10/2026 17:00,sunderland,brighton
-2026-10-10|ipswich|vs|fulham,Premier League,2026-10-10,10/10/2026 17:00,ipswich,fulham
-2026-10-10|chelsea|vs|bournemouth,Premier League,2026-10-10,10/10/2026 17:00,chelsea,bournemouth
-2026-10-10|aston-villa|vs|brentford,Premier League,2026-10-10,10/10/2026 17:00,aston-villa,brentford
-2026-10-10|manchester-united|vs|tottenham,Premier League,2026-10-10,10/10/2026 19:30,manchester-united,tottenham
-2026-10-11|hull|vs|everton,Premier League,2026-10-11,11/10/2026 16:00,hull,everton
-2026-10-11|crystal-palace|vs|nottingham-forest,Premier League,2026-10-11,11/10/2026 16:00,crystal-palace,nottingham-forest
-2026-10-11|liverpool|vs|manchester-city,Premier League,2026-10-11,11/10/2026 18:30,liverpool,manchester-city
-2026-10-12|coventry|vs|newcastle,Premier League,2026-10-12,12/10/2026 22:00,coventry,newcastle
+2026-10-23|deportivo-alav-s|vs|m-laga-cf,La Liga,2026-10-23,23/10/2026 22:00,deportivo-alav-s,m-laga-cf
+2026-10-24|rayo-vallecano|vs|elche,La Liga,2026-10-24,24/10/2026 15:00,rayo-vallecano,elche
+2026-10-24|racing-santander|vs|espanyol,La Liga,2026-10-24,24/10/2026 17:15,racing-santander,espanyol
+2026-10-24|valencia|vs|villarreal,La Liga,2026-10-24,24/10/2026 19:30,valencia,villarreal
+2026-10-24|atl-tico-madrid|vs|deportivo-la-coru-a,La Liga,2026-10-24,24/10/2026 22:00,atl-tico-madrid,deportivo-la-coru-a
+2026-10-25|athletic-bilbao|vs|getafe,La Liga,2026-10-25,25/10/2026 16:00,athletic-bilbao,getafe
+2026-10-25|celta-vigo|vs|real-betis,La Liga,2026-10-25,25/10/2026 18:15,celta-vigo,real-betis
+2026-10-25|real-sociedad|vs|levante,La Liga,2026-10-25,25/10/2026 20:30,real-sociedad,levante
+2026-10-25|barcelona|vs|real-madrid,La Liga,2026-10-25,25/10/2026 23:00,barcelona,real-madrid
+2026-10-26|sevilla|vs|osasuna,La Liga,2026-10-26,26/10/2026 23:00,sevilla,osasuna
 2026-10-16|deportivo-la-coru-a|vs|levante,La Liga,2026-10-16,16/10/2026 22:00,deportivo-la-coru-a,levante
 2026-10-17|espanyol|vs|atl-tico-madrid,La Liga,2026-10-17,17/10/2026 15:00,espanyol,atl-tico-madrid
 2026-10-17|villarreal|vs|elche,La Liga,2026-10-17,17/10/2026 17:15,villarreal,elche
@@ -29,16 +39,7 @@ fixture_id,league,date,kickoff,home_id,away_id
 2026-10-18|m-laga-cf|vs|real-sociedad,La Liga,2026-10-18,18/10/2026 19:30,m-laga-cf,real-sociedad
 2026-10-18|real-madrid|vs|sevilla,La Liga,2026-10-18,18/10/2026 22:00,real-madrid,sevilla
 2026-10-19|getafe|vs|rayo-vallecano,La Liga,2026-10-19,19/10/2026 22:00,getafe,rayo-vallecano
-2026-10-09|m-laga-cf|vs|espanyol,La Liga,2026-10-09,09/10/2026 22:00,m-laga-cf,espanyol
-2026-10-10|rayo-vallecano|vs|athletic-bilbao,La Liga,2026-10-10,10/10/2026 15:00,rayo-vallecano,athletic-bilbao
-2026-10-10|deportivo-alav-s|vs|atl-tico-madrid,La Liga,2026-10-10,10/10/2026 17:15,deportivo-alav-s,atl-tico-madrid
-2026-10-10|barcelona|vs|getafe,La Liga,2026-10-10,10/10/2026 19:30,barcelona,getafe
-2026-10-10|real-madrid|vs|villarreal,La Liga,2026-10-10,10/10/2026 22:00,real-madrid,villarreal
-2026-10-11|elche|vs|celta-vigo,La Liga,2026-10-11,11/10/2026 15:00,elche,celta-vigo
-2026-10-11|real-sociedad|vs|deportivo-la-coru-a,La Liga,2026-10-11,11/10/2026 17:15,real-sociedad,deportivo-la-coru-a
-2026-10-11|real-betis|vs|osasuna,La Liga,2026-10-11,11/10/2026 19:30,real-betis,osasuna
-2026-10-11|racing-santander|vs|valencia,La Liga,2026-10-11,11/10/2026 22:00,racing-santander,valencia
-2026-10-12|levante|vs|sevilla,La Liga,2026-10-12,12/10/2026 22:00,levante,sevilla
+2026-10-21|levante|vs|athletic-bilbao,La Liga,2026-10-21,21/10/2026 21:00,levante,athletic-bilbao
 2026-10-23|stuttgart|vs|borussia-m-gladbach,Bundesliga,2026-10-23,23/10/2026 21:30,stuttgart,borussia-m-gladbach
 2026-10-24|paderborn|vs|hamburger-sv,Bundesliga,2026-10-24,24/10/2026 16:30,paderborn,hamburger-sv
 2026-10-24|fc-koln|vs|schalke-04,Bundesliga,2026-10-24,24/10/2026 16:30,fc-koln,schalke-04
@@ -57,6 +58,16 @@ fixture_id,league,date,kickoff,home_id,away_id
 2026-10-17|bayern-munich|vs|rb-leipzig,Bundesliga,2026-10-17,17/10/2026 19:30,bayern-munich,rb-leipzig
 2026-10-18|bayer-leverkusen|vs|freiburg,Bundesliga,2026-10-18,18/10/2026 16:30,bayer-leverkusen,freiburg
 2026-10-18|borussia-m-gladbach|vs|hoffenheim,Bundesliga,2026-10-18,18/10/2026 18:30,borussia-m-gladbach,hoffenheim
+2026-10-23|torino|vs|monza,Serie A,2026-10-23,23/10/2026 21:45,torino,monza
+2026-10-24|como|vs|sassuolo,Serie A,2026-10-24,24/10/2026 16:00,como,sassuolo
+2026-10-24|cagliari|vs|bologna,Serie A,2026-10-24,24/10/2026 16:00,cagliari,bologna
+2026-10-24|napoli|vs|roma,Serie A,2026-10-24,24/10/2026 19:00,napoli,roma
+2026-10-24|lazio|vs|parma,Serie A,2026-10-24,24/10/2026 21:45,lazio,parma
+2026-10-25|inter|vs|fiorentina,Serie A,2026-10-25,25/10/2026 14:30,inter,fiorentina
+2026-10-25|genoa|vs|venezia,Serie A,2026-10-25,25/10/2026 17:00,genoa,venezia
+2026-10-25|atalanta|vs|frosinone,Serie A,2026-10-25,25/10/2026 17:00,atalanta,frosinone
+2026-10-25|lecce|vs|juventus,Serie A,2026-10-25,25/10/2026 20:00,lecce,juventus
+2026-10-25|udinese|vs|milan,Serie A,2026-10-25,25/10/2026 22:45,udinese,milan
 2026-10-16|frosinone|vs|sassuolo,Serie A,2026-10-16,16/10/2026 21:45,frosinone,sassuolo
 2026-10-17|venezia|vs|napoli,Serie A,2026-10-17,17/10/2026 16:00,venezia,napoli
 2026-10-17|bologna|vs|inter,Serie A,2026-10-17,17/10/2026 19:00,bologna,inter
@@ -67,20 +78,10 @@ fixture_id,league,date,kickoff,home_id,away_id
 2026-10-18|juventus|vs|lazio,Serie A,2026-10-18,18/10/2026 21:45,juventus,lazio
 2026-10-19|monza|vs|cagliari,Serie A,2026-10-19,19/10/2026 19:30,monza,cagliari
 2026-10-19|parma|vs|torino,Serie A,2026-10-19,19/10/2026 21:45,parma,torino
-2026-10-10|genoa|vs|fiorentina,Serie A,2026-10-10,10/10/2026 16:00,genoa,fiorentina
-2026-10-10|inter|vs|parma,Serie A,2026-10-10,10/10/2026 19:00,inter,parma
-2026-10-10|napoli|vs|frosinone,Serie A,2026-10-10,10/10/2026 21:45,napoli,frosinone
-2026-10-11|como|vs|roma,Serie A,2026-10-11,11/10/2026 13:30,como,roma
-2026-10-11|lecce|vs|bologna,Serie A,2026-10-11,11/10/2026 16:00,lecce,bologna
-2026-10-11|lazio|vs|monza,Serie A,2026-10-11,11/10/2026 16:00,lazio,monza
-2026-10-11|sassuolo|vs|milan,Serie A,2026-10-11,11/10/2026 19:00,sassuolo,milan
-2026-10-11|cagliari|vs|juventus,Serie A,2026-10-11,11/10/2026 21:45,cagliari,juventus
-2026-10-12|atalanta|vs|venezia,Serie A,2026-10-12,12/10/2026 19:30,atalanta,venezia
-2026-10-12|torino|vs|udinese,Serie A,2026-10-12,12/10/2026 21:45,torino,udinese
 2026-10-23|brest|vs|nice,Ligue 1,2026-10-23,23/10/2026 21:45,brest,nice
-2026-10-24|toulouse|vs|troyes,Ligue 1,2026-10-24,24/10/2026 18:15,toulouse,troyes
 2026-10-24|lens|vs|paris-fc,Ligue 1,2026-10-24,24/10/2026 21:45,lens,paris-fc
 2026-10-25|monaco|vs|lille,Ligue 1,2026-10-25,25/10/2026 17:00,monaco,lille
+2026-10-25|toulouse|vs|troyes,Ligue 1,2026-10-25,25/10/2026 19:15,toulouse,troyes
 2026-10-25|rennes|vs|strasbourg,Ligue 1,2026-10-25,25/10/2026 19:15,rennes,strasbourg
 2026-10-25|olympique-marseille|vs|le-havre,Ligue 1,2026-10-25,25/10/2026 19:15,olympique-marseille,le-havre
 2026-10-25|auxerre|vs|le-mans,Ligue 1,2026-10-25,25/10/2026 19:15,auxerre,le-mans
@@ -113,12 +114,13 @@ fixture_id,league,date,kickoff,home_id,away_id
 2026-10-18|groningen|vs|ajax,Eredivisie,2026-10-18,18/10/2026 17:45,groningen,ajax
 2026-10-18|nijmegen|vs|fortuna-sittard,Eredivisie,2026-10-18,18/10/2026 21:00,nijmegen,fortuna-sittard
 2026-10-18|twente|vs|utrecht,Eredivisie,2026-10-18,18/10/2026 21:00,twente,utrecht
-2026-10-19|sporting-braga|vs|gil-vicente,Liga Portugal,2026-10-19,19/10/2026 22:15,sporting-braga,gil-vicente
 2026-10-23|vit-ria|vs|mar-timo,Liga Portugal,2026-10-23,23/10/2026 22:45,vit-ria,mar-timo
 2026-10-24|estrela-amadora|vs|casa-pia-ac,Liga Portugal,2026-10-24,24/10/2026 17:30,estrela-amadora,casa-pia-ac
 2026-10-24|fc-alverca|vs|fc-arouca,Liga Portugal,2026-10-24,24/10/2026 20:00,fc-alverca,fc-arouca
+2026-10-24|gil-vicente|vs|porto,Liga Portugal,2026-10-24,24/10/2026 22:30,gil-vicente,porto
 2026-10-25|gd-estoril|vs|moreirense-fc,Liga Portugal,2026-10-25,25/10/2026 18:30,gd-estoril,moreirense-fc
 2026-10-25|rio-ave|vs|fc-famalic-o,Liga Portugal,2026-10-25,25/10/2026 21:00,rio-ave,fc-famalic-o
+2026-10-25|nacional-madeira|vs|sporting-braga,Liga Portugal,2026-10-25,25/10/2026 21:00,nacional-madeira,sporting-braga
 2026-10-25|sporting-cp|vs|acad-mico-viseu,Liga Portugal,2026-10-25,25/10/2026 23:30,sporting-cp,acad-mico-viseu
 2026-10-26|santa-clara|vs|sl-benfica,Liga Portugal,2026-10-26,26/10/2026 21:45,santa-clara,sl-benfica
 2026-10-09|moreirense-fc|vs|gil-vicente,Liga Portugal,2026-10-09,09/10/2026 20:45,moreirense-fc,gil-vicente
@@ -130,6 +132,7 @@ fixture_id,league,date,kickoff,home_id,away_id
 2026-10-11|sl-benfica|vs|vit-ria,Liga Portugal,2026-10-11,11/10/2026 20:00,sl-benfica,vit-ria
 2026-10-11|fc-arouca|vs|estrela-amadora,Liga Portugal,2026-10-11,11/10/2026 22:30,fc-arouca,estrela-amadora
 2026-10-12|fc-famalic-o|vs|fc-alverca,Liga Portugal,2026-10-12,12/10/2026 22:15,fc-famalic-o,fc-alverca
+2026-10-19|sporting-braga|vs|gil-vicente,Liga Portugal,2026-10-19,19/10/2026 22:15,sporting-braga,gil-vicente
 2026-08-21|arsenal|vs|coventry,Premier League,2026-08-21,21/08/2026 21:00,arsenal,coventry
 2026-08-22|hull|vs|manchester-united,Premier League,2026-08-22,22/08/2026 13:30,hull,manchester-united
 2026-08-22|nottingham-forest|vs|leeds-united,Premier League,2026-08-22,22/08/2026 16:00,nottingham-forest,leeds-united
@@ -393,7 +396,6 @@ fixture_id,league,date,kickoff,home_id,away_id
 2026-09-15|elche|vs|real-madrid,La Liga,2026-09-15,15/09/2026 22:30,elche,real-madrid
 2026-09-16|deportivo-la-coru-a|vs|sevilla,La Liga,2026-09-16,16/09/2026 20:00,deportivo-la-coru-a,sevilla
 2026-09-16|atl-tico-madrid|vs|osasuna,La Liga,2026-09-16,16/09/2026 20:00,atl-tico-madrid,osasuna
-2026-09-16|levante|vs|athletic-bilbao,La Liga,2026-09-16,16/09/2026,levante,athletic-bilbao
 2026-09-16|barcelona|vs|racing-santander,La Liga,2026-09-16,16/09/2026 22:30,barcelona,racing-santander
 2026-09-17|real-betis|vs|getafe,La Liga,2026-09-17,17/09/2026 20:00,real-betis,getafe
 2026-09-17|m-laga-cf|vs|villarreal,La Liga,2026-09-17,17/09/2026 22:30,m-laga-cf,villarreal
@@ -489,6 +491,26 @@ fixture_id,league,date,kickoff,home_id,away_id
 2026-09-14|rio-ave|vs|estrela-amadora,Liga Portugal,2026-09-14,14/09/2026 20:45,rio-ave,estrela-amadora
 2026-09-14|moreirense-fc|vs|mar-timo,Liga Portugal,2026-09-14,14/09/2026 22:15,moreirense-fc,mar-timo
 2026-09-14|sporting-braga|vs|gd-estoril,Liga Portugal,2026-09-14,14/09/2026 22:45,sporting-braga,gd-estoril
+2026-10-10|arsenal|vs|leeds-united,Premier League,2026-10-10,10/10/2026 14:30,arsenal,leeds-united
+2026-10-10|sunderland|vs|brighton,Premier League,2026-10-10,10/10/2026 17:00,sunderland,brighton
+2026-10-10|ipswich|vs|fulham,Premier League,2026-10-10,10/10/2026 17:00,ipswich,fulham
+2026-10-10|chelsea|vs|bournemouth,Premier League,2026-10-10,10/10/2026 17:00,chelsea,bournemouth
+2026-10-10|aston-villa|vs|brentford,Premier League,2026-10-10,10/10/2026 17:00,aston-villa,brentford
+2026-10-10|manchester-united|vs|tottenham,Premier League,2026-10-10,10/10/2026 19:30,manchester-united,tottenham
+2026-10-11|hull|vs|everton,Premier League,2026-10-11,11/10/2026 16:00,hull,everton
+2026-10-11|crystal-palace|vs|nottingham-forest,Premier League,2026-10-11,11/10/2026 16:00,crystal-palace,nottingham-forest
+2026-10-11|liverpool|vs|manchester-city,Premier League,2026-10-11,11/10/2026 18:30,liverpool,manchester-city
+2026-10-12|coventry|vs|newcastle,Premier League,2026-10-12,12/10/2026 22:00,coventry,newcastle
+2026-10-09|m-laga-cf|vs|espanyol,La Liga,2026-10-09,09/10/2026 22:00,m-laga-cf,espanyol
+2026-10-10|rayo-vallecano|vs|athletic-bilbao,La Liga,2026-10-10,10/10/2026 15:00,rayo-vallecano,athletic-bilbao
+2026-10-10|deportivo-alav-s|vs|atl-tico-madrid,La Liga,2026-10-10,10/10/2026 17:15,deportivo-alav-s,atl-tico-madrid
+2026-10-10|barcelona|vs|getafe,La Liga,2026-10-10,10/10/2026 19:30,barcelona,getafe
+2026-10-10|real-madrid|vs|villarreal,La Liga,2026-10-10,10/10/2026 22:00,real-madrid,villarreal
+2026-10-11|elche|vs|celta-vigo,La Liga,2026-10-11,11/10/2026 15:00,elche,celta-vigo
+2026-10-11|real-sociedad|vs|deportivo-la-coru-a,La Liga,2026-10-11,11/10/2026 17:15,real-sociedad,deportivo-la-coru-a
+2026-10-11|real-betis|vs|osasuna,La Liga,2026-10-11,11/10/2026 19:30,real-betis,osasuna
+2026-10-11|racing-santander|vs|valencia,La Liga,2026-10-11,11/10/2026 22:00,racing-santander,valencia
+2026-10-12|levante|vs|sevilla,La Liga,2026-10-12,12/10/2026 22:00,levante,sevilla
 2026-10-09|borussia-dortmund|vs|werder-bremen,Bundesliga,2026-10-09,09/10/2026 21:30,borussia-dortmund,werder-bremen
 2026-10-10|paderborn|vs|stuttgart,Bundesliga,2026-10-10,10/10/2026 16:30,paderborn,stuttgart
 2026-10-10|union-berlin|vs|elversberg,Bundesliga,2026-10-10,10/10/2026 16:30,union-berlin,elversberg
@@ -498,6 +520,16 @@ fixture_id,league,date,kickoff,home_id,away_id
 2026-10-10|rb-leipzig|vs|eintracht-frankfurt,Bundesliga,2026-10-10,10/10/2026 19:30,rb-leipzig,eintracht-frankfurt
 2026-10-11|fc-koln|vs|borussia-m-gladbach,Bundesliga,2026-10-11,11/10/2026 16:30,fc-koln,borussia-m-gladbach
 2026-10-11|freiburg|vs|schalke-04,Bundesliga,2026-10-11,11/10/2026 18:30,freiburg,schalke-04
+2026-10-10|genoa|vs|fiorentina,Serie A,2026-10-10,10/10/2026 16:00,genoa,fiorentina
+2026-10-10|inter|vs|parma,Serie A,2026-10-10,10/10/2026 19:00,inter,parma
+2026-10-10|napoli|vs|frosinone,Serie A,2026-10-10,10/10/2026 21:45,napoli,frosinone
+2026-10-11|como|vs|roma,Serie A,2026-10-11,11/10/2026 13:30,como,roma
+2026-10-11|lecce|vs|bologna,Serie A,2026-10-11,11/10/2026 16:00,lecce,bologna
+2026-10-11|lazio|vs|monza,Serie A,2026-10-11,11/10/2026 16:00,lazio,monza
+2026-10-11|sassuolo|vs|milan,Serie A,2026-10-11,11/10/2026 19:00,sassuolo,milan
+2026-10-11|cagliari|vs|juventus,Serie A,2026-10-11,11/10/2026 21:45,cagliari,juventus
+2026-10-12|atalanta|vs|venezia,Serie A,2026-10-12,12/10/2026 19:30,atalanta,venezia
+2026-10-12|torino|vs|udinese,Serie A,2026-10-12,12/10/2026 21:45,torino,udinese
 2026-10-09|lens|vs|lyon,Ligue 1,2026-10-09,09/10/2026 21:45,lens,lyon
 2026-10-10|lille|vs|le-havre,Ligue 1,2026-10-10,10/10/2026 18:15,lille,le-havre
 2026-10-10|psg|vs|le-mans,Ligue 1,2026-10-10,10/10/2026 21:45,psg,le-mans
@@ -516,7 +548,8 @@ fixture_id,league,date,kickoff,home_id,away_id
 2026-10-11|sc-telstar|vs|ado-den-haag,Eredivisie,2026-10-11,11/10/2026 15:30,sc-telstar,ado-den-haag
 2026-10-11|pec-zwolle|vs|cambuur,Eredivisie,2026-10-11,11/10/2026 15:30,pec-zwolle,cambuur
 2026-10-11|excelsior|vs|groningen,Eredivisie,2026-10-11,11/10/2026 17:45,excelsior,groningen
-2026-10-21|levante|vs|athletic-bilbao,La Liga,2026-10-21,21:00,levante,athletic-bilbao
+2026-10-25|freiburg|vs|bayern-m-nchen,Bundesliga,2026-10-25,19:30,freiburg,bayern-m-nchen
+2026-08-16|sporting-braga|vs|gil-vicente,Primeira Liga,2026-08-16,22:30,sporting-braga,gil-vicente
 2026-08-23|psg|vs|rennes,Ligue 1,2026-08-23,21:45,psg,rennes
 2026-08-28|bayern-m-nchen|vs|stuttgart,Bundesliga,2026-08-28,21:30,bayern-m-nchen,stuttgart
 2026-09-05|schalke-04|vs|bayern-m-nchen,Bundesliga,2026-09-05,19:30,schalke-04,bayern-m-nchen
@@ -534,6 +567,7 @@ fixture_id,league,date,kickoff,home_id,away_id
 2026-09-18|bayern-m-nchen|vs|union-berlin,Bundesliga,2026-09-18,21:30,bayern-m-nchen,union-berlin
 2026-10-10|augsburg|vs|bayern-m-nchen,Bundesliga,2026-10-10,16:30,augsburg,bayern-m-nchen
 2026-10-17|bayern-m-nchen|vs|rb-leipzig,Bundesliga,2026-10-17,19:30,bayern-m-nchen,rb-leipzig
+2026-10-23|vfb-stuttgart|vs|borussia-m-gladbach,Bundesliga,2026-10-23,19:30,vfb-stuttgart,borussia-m-gladbach
 2026-09-04|vfb-stuttgart|vs|fc-koln,Bundesliga,2026-09-04,19:30,vfb-stuttgart,fc-koln
 2026-09-12|hoffenheim|vs|vfb-stuttgart,Bundesliga,2026-09-12,14:30,hoffenheim,vfb-stuttgart
 2026-09-19|vfb-stuttgart|vs|borussia-dortmund,Bundesliga,2026-09-19,17:30,vfb-stuttgart,borussia-dortmund
@@ -541,6 +575,9 @@ fixture_id,league,date,kickoff,home_id,away_id
 2026-08-28|groningen|vs|sittard,Eredivisie,2026-08-28,2026-08-28 18:00,groningen,sittard
 2026-09-06|alaves|vs|osasuna,LaLiga,2026-09-06,2026-09-06 16:30,alaves,osasuna
 2026-10-18|celta-vigo|vs|alaves,LaLiga,2026-10-18,2026-10-18 14:15,celta-vigo,alaves
+2026-09-16|levante|vs|athletic-bilbao,LaLiga,2026-09-16,2026-09-16 19:29,levante,athletic-bilbao
+2026-10-23|alav-s|vs|m-laga-cf,LaLiga,2026-10-23,22:00 - Fri 23 Oct,alav-s,m-laga-cf
+2026-10-23|vit-ria|vs|maritimo,Liga Portugal,2026-10-23,22:45 - Fri 23 Oct,vit-ria,maritimo
 2026-08-28|alav-s|vs|villarreal,LaLiga,2026-08-28,22:30 - Fri 28 Aug,alav-s,villarreal
 2026-09-06|alav-s|vs|osasuna,LaLiga,2026-09-06,19:30 - Sun 06 Sep,alav-s,osasuna
 2026-09-05|maritimo|vs|sl-benfica,Liga Portugal,2026-09-05,20:00 - Sat 05 Sep,maritimo,sl-benfica
@@ -553,5 +590,5 @@ fixture_id,league,date,kickoff,home_id,away_id
 2026-10-10|maritimo|vs|porto,Liga Portugal,2026-10-10,20:00 - Sat 10 Oct,maritimo,porto
 2026-10-10|academico-viseu|vs|gd-estoril,Liga Portugal,2026-10-10,22:30 - Sat 10 Oct,academico-viseu,gd-estoril
 2026-10-18|celta-vigo|vs|alav-s,LaLiga,2026-10-18,17:15 - Sun 18 Oct,celta-vigo,alav-s
-2026-10-19|sc-braga|vs|gil-vicente,Liga Portugal,2026-10-19,22:15,sc-braga,gil-vicente
 2026-10-09|sc-braga|vs|sporting-lisbon,Liga Portugal,2026-10-09,22:15,sc-braga,sporting-lisbon
+2026-10-19|sc-braga|vs|gil-vicente,Liga Portugal,2026-10-19,22:15,sc-braga,gil-vicente
