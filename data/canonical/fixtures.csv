@@ -576,8 +576,7 @@ fixture_id,league,date,kickoff,home_id,away_id
 2026-09-06|alaves|vs|osasuna,LaLiga,2026-09-06,2026-09-06 16:30,alaves,osasuna
 2026-10-18|celta-vigo|vs|alaves,LaLiga,2026-10-18,2026-10-18 14:15,celta-vigo,alaves
 2026-09-16|levante|vs|athletic-bilbao,LaLiga,2026-09-16,2026-09-16 19:29,levante,athletic-bilbao
-2026-10-23|alav-s|vs|m-laga-cf,LaLiga,2026-10-23,22:00 - Fri 23 Oct,alav-s,m-laga-cf
-2026-10-23|vit-ria|vs|maritimo,Liga Portugal,2026-10-23,22:45 - Fri 23 Oct,vit-ria,maritimo
+2026-10-25|sporting-cp|vs|academico-viseu,Liga Portugal,2026-10-25,23:30 - Sun 25 Oct,sporting-cp,academico-viseu
 2026-08-28|alav-s|vs|villarreal,LaLiga,2026-08-28,22:30 - Fri 28 Aug,alav-s,villarreal
 2026-09-06|alav-s|vs|osasuna,LaLiga,2026-09-06,19:30 - Sun 06 Sep,alav-s,osasuna
 2026-09-05|maritimo|vs|sl-benfica,Liga Portugal,2026-09-05,20:00 - Sat 05 Sep,maritimo,sl-benfica
@@ -590,5 +589,7 @@ fixture_id,league,date,kickoff,home_id,away_id
 2026-10-10|maritimo|vs|porto,Liga Portugal,2026-10-10,20:00 - Sat 10 Oct,maritimo,porto
 2026-10-10|academico-viseu|vs|gd-estoril,Liga Portugal,2026-10-10,22:30 - Sat 10 Oct,academico-viseu,gd-estoril
 2026-10-18|celta-vigo|vs|alav-s,LaLiga,2026-10-18,17:15 - Sun 18 Oct,celta-vigo,alav-s
+2026-10-23|alav-s|vs|m-laga-cf,LaLiga,2026-10-23,22:00 - Fri 23 Oct,alav-s,m-laga-cf
+2026-10-23|vit-ria|vs|maritimo,Liga Portugal,2026-10-23,22:45 - Fri 23 Oct,vit-ria,maritimo
 2026-10-09|sc-braga|vs|sporting-lisbon,Liga Portugal,2026-10-09,22:15,sc-braga,sporting-lisbon
 2026-10-19|sc-braga|vs|gil-vicente,Liga Portugal,2026-10-19,22:15,sc-braga,gil-vicente

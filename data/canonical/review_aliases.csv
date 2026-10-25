@@ -57,7 +57,7 @@ fixture_id,date,home_id,away_id,sites
 2026-09-06|alaves|vs|osasuna,2026-09-06,alaves,osasuna,flashscore
 2026-10-18|celta-vigo|vs|alaves,2026-10-18,celta-vigo,alaves,flashscore
 2026-09-16|levante|vs|athletic-bilbao,2026-09-16,levante,athletic-bilbao,flashscore
-2026-10-23|vit-ria|vs|maritimo,2026-10-23,vit-ria,maritimo,sportsgambler
+2026-10-25|sporting-cp|vs|academico-viseu,2026-10-25,sporting-cp,academico-viseu,sportsgambler
 2026-09-06|alav-s|vs|osasuna,2026-09-06,alav-s,osasuna,sportsgambler
 2026-09-05|maritimo|vs|sl-benfica,2026-09-05,maritimo,sl-benfica,sportsgambler
 2026-09-06|gil-vicente|vs|academico-viseu,2026-09-06,gil-vicente,academico-viseu,sportsgambler
@@ -68,5 +68,6 @@ fixture_id,date,home_id,away_id,sites
 2026-10-10|alav-s|vs|atl-tico-madrid,2026-10-10,alav-s,atl-tico-madrid,sportsgambler
 2026-10-10|maritimo|vs|porto,2026-10-10,maritimo,porto,sportsgambler
 2026-10-10|academico-viseu|vs|gd-estoril,2026-10-10,academico-viseu,gd-estoril,sportsgambler
+2026-10-23|vit-ria|vs|maritimo,2026-10-23,vit-ria,maritimo,sportsgambler
 2026-10-09|sc-braga|vs|sporting-lisbon,2026-10-09,sc-braga,sporting-lisbon,sportytrader
 2026-10-19|sc-braga|vs|gil-vicente,2026-10-19,sc-braga,gil-vicente,sportytrader
