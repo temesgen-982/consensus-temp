@@ -1,8 +1,4 @@
 site,source_id,league,date,kickoff,home_team,away_team,market,pick,p1,p2,p3,note,scraped_at
-sportytrader,ipswich-town-nottingham-forest-381168,Premier League,2026-10-23,22:00,Ipswich Town,Nottingham Forest,btts,Yes,,,,BTTS @ 1.62,2026-10-23T13:51:22Z
-sportytrader,go-ahead-eagles-telstar-381177,Eredivisie,2026-10-23,21:00,Go Ahead Eagles,Telstar,over_under,Under,,,,Under 3.5 goals @ 1.91,2026-10-23T13:51:22Z
-sportytrader,stuttgart-monchengladbach-381191,Bundesliga,2026-10-23,21:30,Stuttgart,Mönchengladbach,over_under,Under,,,,Under 3.5 goals @ 2.15,2026-10-23T13:51:22Z
-sportytrader,turin-monza-381303,Serie A,2026-10-23,21:45,Torino FC,Monza,1x2,1,,,,Torino FC wins @ 2.10,2026-10-23T13:51:22Z
-sportytrader,brest-nice-381305,Ligue 1,2026-10-23,21:45,Brest,Nice,1x2,1,,,,Brest wins @ 2.20,2026-10-23T13:51:22Z
-sportytrader,alaves-malaga-381319,LaLiga,2026-10-23,22:00,Alavés,Málaga,btts,Yes,,,,Alaves to win & BTTS @ 4.00,2026-10-23T13:51:22Z
-sportytrader,vitoria-guimaraes-maritimo-381176,Liga Portugal,2026-10-23,22:45,Vitoria SC Guimaraes,Maritimo,over_under,Under,,,,Under 2.5 goals @ 1.95,2026-10-23T13:51:22Z
+sportytrader,roma-cagliari-382536,Serie A,2026-10-27,22:45,Roma,Cagliari,1x2,1,,,,Roma to win and over 2.5 goals @ 1.95,2026-10-27T09:18:41Z
+sportytrader,roma-cagliari-382536,Serie A,2026-10-27,22:45,Roma,Cagliari,over_under,Over,,,,Roma to win and over 2.5 goals @ 1.95,2026-10-27T09:18:41Z
+sportytrader,turin-como-calcio-382541,Serie A,2026-10-27,22:45,Torino FC,Como 1907,1x2,2,,,,Como 1907 wins @ 1.63,2026-10-27T09:18:41Z

@@ -1,0 +1,4 @@
+site,source_id,league,date,kickoff,home_team,away_team,market,pick,p1,p2,p3,note,scraped_at
+sportytrader,roma-cagliari-382536,Serie A,2026-10-27,22:45,Roma,Cagliari,1x2,1,,,,Roma to win and over 2.5 goals @ 1.95,2026-10-27T09:18:41Z
+sportytrader,roma-cagliari-382536,Serie A,2026-10-27,22:45,Roma,Cagliari,over_under,Over,,,,Roma to win and over 2.5 goals @ 1.95,2026-10-27T09:18:41Z
+sportytrader,turin-como-calcio-382541,Serie A,2026-10-27,22:45,Torino FC,Como 1907,1x2,2,,,,Como 1907 wins @ 1.63,2026-10-27T09:18:41Z

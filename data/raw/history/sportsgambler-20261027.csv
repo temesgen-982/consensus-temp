@@ -1,0 +1,33 @@
+site,source_id,league,date,kickoff,home_team,away_team,market,pick,p1,p2,p3,note,scraped_at
+sportsgambler,sassuolo-vs-lazio,Serie A,2026-10-27,20:30 - Tue 27 Oct,Sassuolo,Lazio,correct_score,1 - 2,,,,Lazio To Win @ 2.23,2026-10-27T09:17:53Z
+sportsgambler,sassuolo-vs-lazio,Serie A,2026-10-27,20:30 - Tue 27 Oct,Sassuolo,Lazio,1x2,2,,,,Lazio To Win @ 2.23,2026-10-27T09:17:53Z
+sportsgambler,sassuolo-vs-lazio,Serie A,2026-10-27,20:30 - Tue 27 Oct,Sassuolo,Lazio,btts,Yes,,,,Lazio To Win @ 2.23,2026-10-27T09:17:53Z
+sportsgambler,sassuolo-vs-lazio,Serie A,2026-10-27,20:30 - Tue 27 Oct,Sassuolo,Lazio,over_under,Over,,,,Lazio To Win @ 2.23,2026-10-27T09:17:53Z
+sportsgambler,torino-vs-como,Serie A,2026-10-27,22:45 - Tue 27 Oct,Torino,Como,correct_score,0 - 2,,,,Como To Win @ 1.74,2026-10-27T09:17:53Z
+sportsgambler,torino-vs-como,Serie A,2026-10-27,22:45 - Tue 27 Oct,Torino,Como,1x2,2,,,,Como To Win @ 1.74,2026-10-27T09:17:53Z
+sportsgambler,torino-vs-como,Serie A,2026-10-27,22:45 - Tue 27 Oct,Torino,Como,btts,No,,,,Como To Win @ 1.74,2026-10-27T09:17:53Z
+sportsgambler,torino-vs-como,Serie A,2026-10-27,22:45 - Tue 27 Oct,Torino,Como,over_under,Under,,,,Como To Win @ 1.74,2026-10-27T09:17:53Z
+sportsgambler,roma-vs-cagliari,Serie A,2026-10-27,22:45 - Tue 27 Oct,Roma,Cagliari,correct_score,2 - 0,,,,Roma Asian Hcp -1.5 @ 1.97,2026-10-27T09:17:53Z
+sportsgambler,roma-vs-cagliari,Serie A,2026-10-27,22:45 - Tue 27 Oct,Roma,Cagliari,1x2,1,,,,Roma Asian Hcp -1.5 @ 1.97,2026-10-27T09:17:53Z
+sportsgambler,roma-vs-cagliari,Serie A,2026-10-27,22:45 - Tue 27 Oct,Roma,Cagliari,btts,No,,,,Roma Asian Hcp -1.5 @ 1.97,2026-10-27T09:17:53Z
+sportsgambler,roma-vs-cagliari,Serie A,2026-10-27,22:45 - Tue 27 Oct,Roma,Cagliari,over_under,Under,,,,Roma Asian Hcp -1.5 @ 1.97,2026-10-27T09:17:53Z
+sportsgambler,parma-vs-udinese,Serie A,2026-10-28,20:30 - Wed 28 Oct,Parma,Udinese,correct_score,1 - 0,,,,Parma Asian Hcp +0.25 @ 1.71,2026-10-27T09:17:53Z
+sportsgambler,parma-vs-udinese,Serie A,2026-10-28,20:30 - Wed 28 Oct,Parma,Udinese,1x2,1,,,,Parma Asian Hcp +0.25 @ 1.71,2026-10-27T09:17:53Z
+sportsgambler,parma-vs-udinese,Serie A,2026-10-28,20:30 - Wed 28 Oct,Parma,Udinese,btts,No,,,,Parma Asian Hcp +0.25 @ 1.71,2026-10-27T09:17:53Z
+sportsgambler,parma-vs-udinese,Serie A,2026-10-28,20:30 - Wed 28 Oct,Parma,Udinese,over_under,Under,,,,Parma Asian Hcp +0.25 @ 1.71,2026-10-27T09:17:53Z
+sportsgambler,venezia-vs-inter-milan,Serie A,2026-10-28,20:30 - Wed 28 Oct,Venezia,Inter Milan,correct_score,1 - 2,,,,Venezia Asian Hcp +1.5 @ 1.95,2026-10-27T09:17:53Z
+sportsgambler,venezia-vs-inter-milan,Serie A,2026-10-28,20:30 - Wed 28 Oct,Venezia,Inter Milan,1x2,2,,,,Venezia Asian Hcp +1.5 @ 1.95,2026-10-27T09:17:53Z
+sportsgambler,venezia-vs-inter-milan,Serie A,2026-10-28,20:30 - Wed 28 Oct,Venezia,Inter Milan,btts,Yes,,,,Venezia Asian Hcp +1.5 @ 1.95,2026-10-27T09:17:53Z
+sportsgambler,venezia-vs-inter-milan,Serie A,2026-10-28,20:30 - Wed 28 Oct,Venezia,Inter Milan,over_under,Over,,,,Venezia Asian Hcp +1.5 @ 1.95,2026-10-27T09:17:53Z
+sportsgambler,ac-milan-vs-bologna,Serie A,2026-10-28,20:30 - Wed 28 Oct,AC Milan,Bologna,correct_score,2 - 0,,,,Milan To Win @ 1.57,2026-10-27T09:17:53Z
+sportsgambler,ac-milan-vs-bologna,Serie A,2026-10-28,20:30 - Wed 28 Oct,AC Milan,Bologna,1x2,1,,,,Milan To Win @ 1.57,2026-10-27T09:17:53Z
+sportsgambler,ac-milan-vs-bologna,Serie A,2026-10-28,20:30 - Wed 28 Oct,AC Milan,Bologna,btts,No,,,,Milan To Win @ 1.57,2026-10-27T09:17:53Z
+sportsgambler,ac-milan-vs-bologna,Serie A,2026-10-28,20:30 - Wed 28 Oct,AC Milan,Bologna,over_under,Under,,,,Milan To Win @ 1.57,2026-10-27T09:17:53Z
+sportsgambler,genoa-vs-juventus,Serie A,2026-10-28,22:45 - Wed 28 Oct,Genoa,Juventus,correct_score,0 - 2,,,,Juventus To Win @ 1.63,2026-10-27T09:17:53Z
+sportsgambler,genoa-vs-juventus,Serie A,2026-10-28,22:45 - Wed 28 Oct,Genoa,Juventus,1x2,2,,,,Juventus To Win @ 1.63,2026-10-27T09:17:53Z
+sportsgambler,genoa-vs-juventus,Serie A,2026-10-28,22:45 - Wed 28 Oct,Genoa,Juventus,btts,No,,,,Juventus To Win @ 1.63,2026-10-27T09:17:53Z
+sportsgambler,genoa-vs-juventus,Serie A,2026-10-28,22:45 - Wed 28 Oct,Genoa,Juventus,over_under,Under,,,,Juventus To Win @ 1.63,2026-10-27T09:17:53Z
+sportsgambler,monza-vs-napoli,Serie A,2026-10-28,22:45 - Wed 28 Oct,Monza,Napoli,correct_score,1 - 1,,,,Monza Asian Hcp +0.75 @ 1.83,2026-10-27T09:17:53Z
+sportsgambler,monza-vs-napoli,Serie A,2026-10-28,22:45 - Wed 28 Oct,Monza,Napoli,1x2,X,,,,Monza Asian Hcp +0.75 @ 1.83,2026-10-27T09:17:53Z
+sportsgambler,monza-vs-napoli,Serie A,2026-10-28,22:45 - Wed 28 Oct,Monza,Napoli,btts,Yes,,,,Monza Asian Hcp +0.75 @ 1.83,2026-10-27T09:17:53Z
+sportsgambler,monza-vs-napoli,Serie A,2026-10-28,22:45 - Wed 28 Oct,Monza,Napoli,over_under,Under,,,,Monza Asian Hcp +0.75 @ 1.83,2026-10-27T09:17:53Z
